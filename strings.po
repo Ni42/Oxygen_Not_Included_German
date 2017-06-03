@@ -5770,7 +5770,7 @@ msgstr "Geheilt von {0}"
 #. STRINGS.DUPLICANTS.DISEASES.CURES
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURES"
 msgid "Instantly cures <style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "Heilt sofort <style=\"disease\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION"
@@ -5905,12 +5905,12 @@ msgstr "{Symptoms}\n\nInfiziert von {InfectionSource}\nRestlaufzeit: {Duration}\
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE"
 msgid "May cause <style=\"disease\">{Diseases}</style>"
-msgstr ""
+msgstr "Kann <style=\"disease\">{Diseases}</style> verursachen"
 
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE"
 msgid "May cause {Diseases}"
-msgstr ""
+msgstr "Kann {Diseases} verursachen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
@@ -6490,7 +6490,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.TOOLTIP"
 msgid "Brr! This Duplicant showered or was doused in water that was much too cold"
-msgstr ""
+msgstr "Brr! Dieser Duplikant hat zu kalt geduscht oder kam mit viel zu kaltem Wasser in Berührung"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME"
@@ -6890,7 +6890,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC"
 msgid "This {0} is constantly challenging others to fight her, regardless of whether or not she can actually take them."
-msgstr ""
+msgstr "Diese {0} fordert dauernd andere zu einem Kampf heraus, unabhängig davon ob sie sie tatsächlich bezwingen kann."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
@@ -6900,7 +6900,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
 msgid "Every single {0} has perpetually damp hands. It must be genetic."
-msgstr ""
+msgstr "Jeder einzelne {0} hat ständig feuchte Hände. Es muss genetisch veranlagt sein."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
@@ -6920,7 +6920,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC"
 msgid "This {0} dreams of owning their own personal computer so they can start a blog full of pictures of toast."
-msgstr ""
+msgstr "Dieser {0} träumt davon, einen eigenen Computer zu besitzen, um einen Blog voller Bilder von Toast zu starten."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME"
@@ -6930,7 +6930,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC"
 msgid "Nothing makes an {0} happier than a big tin of glitter and a pack of unicorn stickers."
-msgstr ""
+msgstr "Nichts macht eine {0} glücklicher als eine große Dose mit Glitzer und eine Packung Einhorn-Sticker."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME"
@@ -6940,7 +6940,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC"
 msgid "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
-msgstr ""
+msgstr "Es gibt nichts auf das {0}s mehr stolz sind als auf ihre dicken, ehrfürchtigen Augenbrauen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME"
@@ -6950,7 +6950,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.DESC"
 msgid "{0}s are big goofballs who can make anyone laugh."
-msgstr ""
+msgstr "{0}s sind große Doofköpfe die jeden zum Lachen bringen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.NAME"
@@ -6970,7 +6970,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC"
 msgid "If someone says something nice to a {0} he'll think about it nonstop for no less than three weeks."
-msgstr ""
+msgstr "Wenn jemand etwas Nettes zu einem {0} sagt, denkt er ununterbrochen daran für nicht weniger als drei Wochen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME"
@@ -6980,7 +6980,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.J.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.J.DESC"
 msgid "0100111001001111010101000101001001001001010001110100100001010100010011100100111101010100010010000100010101010010"
-msgstr ""
+msgstr "0100111001001111010101000101001001001001010001110100100001010100010011100100111101010100010010000100010101010010"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.J.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.J.NAME"
@@ -7020,7 +7020,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC"
 msgid "There's nothing a {0} can't do if she sets her mind to it."
-msgstr ""
+msgstr "Es gibt nichts was eine {0} nicht schafft wenn sie es sich einbildet."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME"
@@ -7030,7 +7030,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC"
 msgid "This {0} is positively glowing! What's her secret? Radioactive isotopes, of course."
-msgstr ""
+msgstr "Diese {0} strahlt über das ganze Gesicht! Was ihr Geheimnis ist? Radioaktive Isotope, natürlich. "
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME"
@@ -7070,7 +7070,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
 msgid "People often expect a Duplicant named \"{0}\" to be tough, but they're all pretty huge wimps."
-msgstr ""
+msgstr "Leute erwarten von einem Duplikanten namens \"{0}\" oft Härte, doch sie sind alle ziemliche Warmduscher."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
@@ -7080,7 +7080,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
 msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one asked him to prove it."
-msgstr ""
+msgstr "Dieser {0} hat einmal behauptet, er könne einen so mächtigen Laser bauen, der die Kolonie in die Hälfte zerreiße. Niemand hat ihn aufgefordert, es zu beweisen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
@@ -7090,7 +7090,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
 msgid "This {0} likes to punch people to show her affection. Everyone's too afraid of her to tell her it hurts."
-msgstr ""
+msgstr "Diese {0} mag es, Leute zu boxen, um ihre Zuneigung auszudrücken. Jeder hat zu viel Angst vor ihr, um zu sagen, dass es weh tut."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
@@ -7100,7 +7100,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC"
 msgid "{0}s always insult people by accident and exist in a perpetual state of deep regret."
-msgstr ""
+msgstr "{0}s beleidigen andere immer unabsichtlich und leben in einem andauerenden Zustand tiefer Reue."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME"
@@ -7110,7 +7110,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.REN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.REN.DESC"
 msgid "Every {0} has this unshakable feeling that his life's already happened and he's just watching it unfold from a memory."
-msgstr ""
+msgstr "Jeder {0} hat dieses unerschütterliche Gefühl, dass sein Leben bereits geschehen ist und er bloß zusieht, wie es sich von einer Erinnerung entfaltet."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.REN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.REN.NAME"
@@ -7120,7 +7120,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC"
 msgid "{0}s have exceptionally large hearts and express their emotions most efficiently by yelling."
-msgstr ""
+msgstr "{0}s haben außergewöhnlich große Herzen und drücken ihre Gefühle am wirksamsten aus indem sie herumbrüllen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME"
@@ -7130,7 +7130,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC"
 msgid "This {0} asks the pressing questions, like \"Where can I get a leather jacket in space?\""
-msgstr ""
+msgstr "Diese {0} fragt die drängenden Fragen, wie \"Wo bekomme ich im Weltraum eine Lederjacke?\""
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME"
@@ -7140,7 +7140,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC"
 msgid "This {0} has never been invited to a party, which is a shame. His dance moves are incredible."
-msgstr ""
+msgstr "Dieser {0} wurde nie zu einer Party eingeladen, welch' eine Schande. Seine Tanz-Moves sind unglaublich."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME"
@@ -10200,7 +10200,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.DESC"
 msgid "Make sure your Duplicants can breathe easy, anytime, anywhere."
-msgstr ""
+msgstr "Stelle sicher, dass deine Duplikanten jederzeit überall mühelos atmen können."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT"
@@ -17915,22 +17915,22 @@ msgstr "SAUERSTOFF-OVERLAY"
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
 msgid "Oxygen concentration is high and allows Duplicants to breathe"
-msgstr ""
+msgstr "Sauerstoffkonzentration ist hoch und erlaubt es Duplikanten zu atmen"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
 msgid "Oxygen concentration is sufficient and allows Duplicants to breathe"
-msgstr ""
+msgstr "Sauerstoffkonzentration ist ausreichend und erlaubt es Duplikanten zu atmen"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
 msgid "Oxygen concentration is low and is difficult for Duplicants to breathe"
-msgstr ""
+msgstr "Sauerstoffkonzentration ist niedrig und Dupliaknten haben Probleme beim Atmen"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
 msgid "Oxygen is extremely low pressure or not present and will suffocate Duplicants"
-msgstr ""
+msgstr "Sauerstoff hat zu wenig Druck oder ist nicht verfügbar, wodurch Duplikanten ersticken werden"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5"
@@ -20915,4 +20915,3 @@ msgstr "Sand verstreuen..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Sand verstreuen..."
-
