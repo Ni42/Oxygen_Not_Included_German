@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.3\n"
+"X-Generator: Poedit 2.0.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -279,7 +279,7 @@ msgstr "Freigabe: Erlaubt"
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_CLOSED"
 msgid "Automated Checkpoint is Active, allowing Duplicants to pass"
-msgstr ""
+msgstr "Automatischer Checkpoint ist aktiv, erlaubt Duplikaten zu passieren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_DISCONNECTED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_DISCONNECTED"
@@ -289,7 +289,7 @@ msgstr "Dieses Gebäude ist nicht mit einem Automatisierungsnetz verbunden"
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_OPEN
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_OPEN"
 msgid "Automated Checkpoint is on Standby, preventing Duplicants from passing"
-msgstr ""
+msgstr "Automatischer Checkpoint ist auf Standby, Duplikaten dürfen nicht passieren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME"
@@ -1197,7 +1197,7 @@ msgstr "Dieses Objekt hat keinen Anschluss, um Flüssigkeit aufzunehmen"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr "Kein Flüssigkeitseingang"
+msgstr "Kein Flüssigkeitsausgang"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
@@ -5004,7 +5004,7 @@ msgstr "Starkstrom-Verbindungsplatte"
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC"
 msgid "Duplicants prefer the appearance of conductive wire to regular wire."
-msgstr ""
+msgstr "Duplikaten bevorzugen konduktive Leitungen gegenüber regulären Leitungen."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.EFFECT"
@@ -17362,10 +17362,10 @@ msgstr "{0} entwickelte eine Eigenschaft"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.TOOLTIP"
 msgid ""
 "{0} has developed the trait(s):\n"
-"	• {1}"
+"\t• {1}"
 msgstr ""
 "{0} entwickelte die Eigenschaft(en):\n"
-"	• {1}"
+"\t• {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME"
@@ -17454,12 +17454,12 @@ msgid ""
 "Eureka! <style=\"research\">{0} Technology</style> has been unlocked.\n"
 "\n"
 "New buildings have become available:\n"
-"	• <style=\"misc\">{1}</style>"
+"\t• <style=\"misc\">{1}</style>"
 msgstr ""
 "Eureka! Die Technologie <style=\"research\">{0}</style> wurde durch die Macht der Wissenschaft freigeschaltet!\n"
 "\n"
 "Neue Baupläne sind nun verfügbar:\n"
-"	• <style=\"misc\">{1}</style>"
+"\t• <style=\"misc\">{1}</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
@@ -22644,10 +22644,10 @@ msgstr "Demo-Zeit verbleibend"
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_DISEASED"
 msgid ""
 "\n"
-"	• {0}"
+"\t• {0}"
 msgstr ""
 "\n"
-"	• {0}"
+"\t• {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS"
@@ -22658,10 +22658,10 @@ msgstr "{0}: {1}"
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_ROTTABLE"
 msgid ""
 "\n"
-"	• {0}"
+"\t• {0}"
 msgstr ""
 "\n"
-"	• {0}"
+"\t• {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE"
