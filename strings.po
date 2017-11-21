@@ -5004,7 +5004,7 @@ msgstr "Starkstrom-Verbindungsplatte"
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC"
 msgid "Duplicants prefer the appearance of conductive wire to regular wire."
-msgstr "Duplikaten bevorzugen konduktive Leitungen gegenüber regulären Leitungen."
+msgstr "Duplikaten bevorzugen Leiterkabel gegenüber normalen Kabel"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.EFFECT"
