@@ -1245,7 +1245,7 @@ msgstr "Kein Ei ausgewählt"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP"
 msgid "Collect eggs from critters to incubate"
-msgstr "Sammle Eier von Vieh, um sie zu ausbrüten"
+msgstr "Sammle Eier von Tieren, um sie zu ausbrüten"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -2569,7 +2569,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME"
 msgid "<link=\"AIRBORNECREATURELURE\">Critter Lure</link>"
-msgstr "<link=\"AIRBORNECREATURELURE\">Vieh-Köder</link>"
+msgstr "<link=\"AIRBORNECREATURELURE\">Tier-Köder</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
@@ -2963,22 +2963,22 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME"
 msgid "<link=\"CREATUREDELIVERYPOINT\">Critter Drop-Off</link>"
-msgstr "<link=\"CREATUREDELIVERYPOINT\">Vieh-Aussetzer</link>"
+msgstr "<link=\"CREATUREDELIVERYPOINT\">Tier-Aussetzer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.DESC"
 msgid "Critters tend to stay close to their food source and will wander less when given a Feeder."
-msgstr "Vieh neigt dazu, in der Nähe ihrer Nahrungsquelle zu bleiben und wandern weniger umher, wenn sie von einem Viehfütterer versorgt werden."
+msgstr "Tiere neigt dazu, in der Nähe ihrer Nahrungsquelle zu bleiben und wandern weniger umher, wenn sie von einem Tierfütterer versorgt werden."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.EFFECT"
 msgid "Automatically dispenses food for hungry critters."
-msgstr "Verteilt automatisch Futter für hungriges Vieh."
+msgstr "Verteilt automatisch Futter für hungrige Tiere."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.NAME"
 msgid "<link=\"CREATUREFEEDER\">Critter Feeder</link>"
-msgstr "<link=\"CREATUREFEEDER\">Viehfütterer</link>"
+msgstr "<link=\"CREATUREFEEDER\">Tierfütterer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.DESC"
@@ -2999,7 +2999,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME"
 msgid "<link=\"CREATURETRAP\">Critter Trap</link>"
-msgstr "<link=\"CREATURETRAP\">Vieh-Falle</link>"
+msgstr "<link=\"CREATURETRAP\">Tier-Falle</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.DESC"
@@ -3166,7 +3166,7 @@ msgstr "rechts"
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC"
 msgid "Incubators can maintain the ideal internal conditions for several species of critter egg."
-msgstr "Brutschränke können die idealen inneren Bedingungen für verschiedene Arten von Vieheiern aufrechterhalten."
+msgstr "Brutschränke können die idealen inneren Bedingungen für verschiedene Arten von Tieren aufrechterhalten."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT"
@@ -3175,7 +3175,7 @@ msgid ""
 "\n"
 "Assigned Duplicants must possess the <link=\"RANCHER\">Critter Wrangling</link> trait."
 msgstr ""
-"Bebrütet die Eier von Vieh, bis diese schlüpfen können.\n"
+"Bebrütet die Eier von Tieren, bis diese schlüpfen können.\n"
 "\n"
 "Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Viehringen</link> besitzen."
 
@@ -5039,7 +5039,7 @@ msgstr "<link=\"PRESSURESWITCHLIQUID\">Wasserdruckschalter</link>"
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.DESC"
 msgid "Grooming critters make them look nice, smell pretty, feel happy, and produce more."
-msgstr "Gepflegtes Vieh sieht schön aus, duftet lieblich, fühlt sich glücklich fühlen und produziert mehr."
+msgstr "Gepflegte Tiere sehen schön aus, duften lieblich, fühlen sich glücklich und produziert mehr."
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT"
@@ -5396,7 +5396,7 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
-"Schmidet schützene Atemschutzanzug für deine Duplikanten.\n"
+"Schmidet schützene Atemschutzanzüge für deine Duplikanten.\n"
 "\n"
 "Duplikanten werden nichts herstellen, wenn kein Rezept in der Warteliste ist."
 
@@ -5417,7 +5417,7 @@ msgid ""
 "\n"
 "Build next to an Exosuit Checkpoint to make Duplicants change into suits when passing by."
 msgstr ""
-"Lagert und lädt Atemschutzanzug auf.\n"
+"Lagert und lädt Atemschutzanzüge auf.\n"
 "\n"
 "Neben einer Schutzanzug-Kontrollstelle bauen, damit Duplikanten beim vorbeigehen in den Anzug steigen."
 
@@ -6007,7 +6007,7 @@ msgstr ""
 #. STRINGS.CODEX.HATCH.SUBTITLE
 msgctxt "STRINGS.CODEX.HATCH.SUBTITLE"
 msgid "Critter"
-msgstr "Vieh"
+msgstr "Tier"
 
 #. STRINGS.CODEX.HATCH.TITLE
 #, fuzzy
@@ -6162,7 +6162,7 @@ msgstr ""
 #. STRINGS.CODEX.MORB.SUBTITLE
 msgctxt "STRINGS.CODEX.MORB.SUBTITLE"
 msgid "Critter"
-msgstr "Vieh"
+msgstr "Tier"
 
 #. STRINGS.CODEX.MORB.TITLE
 #, fuzzy
@@ -6255,7 +6255,7 @@ msgstr ""
 #. STRINGS.CODEX.PUFT.SUBTITLE
 msgctxt "STRINGS.CODEX.PUFT.SUBTITLE"
 msgid "Critter"
-msgstr "Vieh"
+msgstr "Tier"
 
 #. STRINGS.CODEX.PUFT.TITLE
 #, fuzzy
@@ -6278,7 +6278,7 @@ msgstr ""
 #. STRINGS.CODEX.SHINEBUG.SUBTITLE
 msgctxt "STRINGS.CODEX.SHINEBUG.SUBTITLE"
 msgid "Critter"
-msgstr "Vieh"
+msgstr "Tier"
 
 #. STRINGS.CODEX.SHINEBUG.TITLE
 #, fuzzy
@@ -6317,7 +6317,7 @@ msgstr ""
 #. STRINGS.CODEX.SLICKSTER.SUBTITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.SUBTITLE"
 msgid "Critter"
-msgstr "Vieh"
+msgstr "Tier"
 
 #. STRINGS.CODEX.SLICKSTER.TITLE
 #, fuzzy
@@ -6402,7 +6402,7 @@ msgstr "Hat genug Futter zum essen."
 #. STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.NAME
 msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.NAME"
 msgid "Critter Pen"
-msgstr "Vieh-Pferch"
+msgstr "Tier-Pferch"
 
 #. STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.TOOLTIP"
@@ -6427,7 +6427,7 @@ msgstr "Gut genährt"
 #. STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.TOOLTIP"
 msgid "This critter has recently dined on its favorite food."
-msgstr "Dieses Vieh hat vor kurzem auf sein Lieblingsfutter gefressen."
+msgstr "Dieses Tier hat vor kurzem auf sein Lieblingsfutter gefressen."
 
 #. STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.NAME
 msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.NAME"
@@ -6457,7 +6457,7 @@ msgstr "Erhöhte Fortpflanzung"
 #. STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.TOOLTIP"
 msgid "This critter will produce an egg soon if conditions remain favorable"
-msgstr "Dieses Vieh wird bald, wenn die Bedingungen günstig bleiben, ein Ei legen"
+msgstr "Dieses Tier wird bald, wenn die Bedingungen günstig bleiben, ein Ei legen"
 
 #. STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.NAME
 msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.NAME"
@@ -6517,7 +6517,7 @@ msgstr "Unproduktiv"
 #. STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.TOOLTIP"
 msgid "Without improved conditions, this critter will not provide any useful products"
-msgstr "Ohne verbesserte Bedingungen wird dieses Vieh keine brauchbaren Erzeugnisse liefern"
+msgstr "Ohne verbesserte Bedingungen wird dieses Tier keine brauchbaren Erzeugnisse liefern"
 
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.NAME
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.NAME"
@@ -6527,7 +6527,7 @@ msgstr "Zahm"
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.TOOLTIP"
 msgid "This critter is well taken care of and fully trusts its Duplicant caregivers"
-msgstr "Dieses Vieh ist gut versorgt und vertraut voll und ganz auf seine Duplikantenpfleger"
+msgstr "Dieses Tier ist gut versorgt und vertraut voll und ganz auf seine Duplikantenpfleger"
 
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.NAME
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.NAME"
@@ -6537,7 +6537,7 @@ msgstr "Scheu"
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.TOOLTIP"
 msgid "This critter's most basic needs are being met, but it's still wary of Duplicants"
-msgstr "Die Grundbedürfnisse dieses Viehs sind gedeckt, aber es ist immer noch misstrauisch gegenüber Duplikanten"
+msgstr "Die Grundbedürfnisse dieses Tiers sind gedeckt, aber es ist immer noch misstrauisch gegenüber Duplikanten"
 
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.NAME
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.NAME"
@@ -6547,7 +6547,7 @@ msgstr "Liebevoll"
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.TOOLTIP"
 msgid "This critter loves its Duplicant caregivers and is spoiled absolutely rotten"
-msgstr "Dieses Vieh liebt seinen Duplikantenpfleger und ist absolut verwöhnt und faul"
+msgstr "Dieses Tier liebt seinen Duplikantenpfleger und ist absolut verwöhnt und faul"
 
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.NAME
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.NAME"
@@ -6557,7 +6557,7 @@ msgstr "Wild"
 #. STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.TOOLTIP
 msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.TOOLTIP"
 msgid "This critter is fending for itself and does not trust Duplicants"
-msgstr "Dieses Vieh kann für sich selbst sorgen und traut Duplikanten nicht"
+msgstr "Dieses Tier kann für sich selbst sorgen und traut Duplikanten nicht"
 
 #. STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.NAME"
@@ -6567,7 +6567,7 @@ msgstr "Normale Fortpflanzung"
 #. STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.TOOLTIP"
 msgid "This is the base speed with which critters produce new eggs"
-msgstr "Das ist die Grundfrequenz, mit der das Vieh neue Eier legt"
+msgstr "Das ist die Grundfrequenz, mit der das Tier neue Eier legt"
 
 #. STRINGS.CREATURES.MODIFIERS.DOMESTICATION_DECREASING.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.DOMESTICATION_DECREASING.NAME"
@@ -6577,7 +6577,7 @@ msgstr "Abnehmende Zufriedenheit"
 #. STRINGS.CREATURES.MODIFIERS.DOMESTICATION_DECREASING.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.DOMESTICATION_DECREASING.TOOLTIP"
 msgid "Unfavorable conditions are making this critter unhappy"
-msgstr "Ungünstige Bedingungen machen dieses Vieh unzufrieden"
+msgstr "Ungünstige Bedingungen machen dieses Tier unzufrieden"
 
 #. STRINGS.CREATURES.MODIFIERS.DOMESTICATION_INCREASING.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.DOMESTICATION_INCREASING.NAME"
@@ -6601,7 +6601,7 @@ msgid ""
 "------------------\n"
 "It will produce more as a result"
 msgstr ""
-"Alle Bedürfnisse dieses Viehs wurden erfüllt und es fühlt sich sehr zufrieden\n"
+"Alle Bedürfnisse dieses Tiers wurden erfüllt und es fühlt sich sehr zufrieden\n"
 "------------------\n"
 "Es wird dadurch mehr erzeugen"
 
@@ -6623,7 +6623,7 @@ msgstr "Verhungert"
 #. STRINGS.CREATURES.MODIFIERS.OUT_OF_CALORIES.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.OUT_OF_CALORIES.TOOLTIP"
 msgid "Get this critter something to eat!"
-msgstr "Gib diesem Vieh etwas zu essen!"
+msgstr "Gib diesem Tier etwas zu essen!"
 
 #. STRINGS.CREATURES.MODIFIERS.OVERCROWDED.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.OVERCROWDED.NAME"
@@ -6643,7 +6643,7 @@ msgstr "Gepflegt"
 #. STRINGS.CREATURES.MODIFIERS.RANCHED.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.RANCHED.TOOLTIP"
 msgid "This critter has recently been attended to by a Rancher"
-msgstr "Dieses Vieh wurde kürzlich von einem Viehzüchter betreut"
+msgstr "Dieses Tier wurde kürzlich von einem Viehzüchter betreut"
 
 #. STRINGS.CREATURES.MODIFIERS.TAME.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.TAME.NAME"
@@ -7426,7 +7426,7 @@ msgstr ""
 "------------------\n"
 "Vollständig domestizierte Tiere erzeugen mehr Material als wilde Tiere und können deiner Kolonie sogar psychologische Vorteile bringen\n"
 "\n"
-"Dieses Vieh ist {0} domestiziert"
+"Dieses Tier ist {0} domestiziert"
 
 #. STRINGS.CREATURES.STATS.FERTILITY.NAME
 msgctxt "STRINGS.CREATURES.STATS.FERTILITY.NAME"
@@ -7481,7 +7481,7 @@ msgstr ""
 "------------------\n"
 "Hohe Zufriedenheit steigert die Produktivität eines Tieres und verbessert indirekt seine Legeleistung\n"
 "\n"
-"Es bietet auch Befriedigung, wenn man weiß, dass sie ein gutes Viehleben führen"
+"Es bietet auch Befriedigung, wenn man weiß, dass sie ein gutes Tierleben führen"
 
 #. STRINGS.CREATURES.STATS.HEALTH.NAME
 msgctxt "STRINGS.CREATURES.STATS.HEALTH.NAME"
@@ -7631,7 +7631,7 @@ msgid ""
 msgstr ""
 "Wildheit\n"
 "------------------\n"
-"Bei einer Wildheit von null ein Vieh Zufriedenheit erlangen, aber es benötigt zum überleben auch mehr Kalorien"
+"Bei einer Wildheit von null startet ein Tier Zufriedenheit zu erlangen, aber es benötigt zum überleben auch mehr Kalorien"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME"
@@ -7661,7 +7661,7 @@ msgstr "Kampf!"
 #. STRINGS.CREATURES.STATUSITEMS.ATTACK.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACK.TOOLTIP"
 msgid "This critter is on the attack!"
-msgstr "Diese Vieh greift an!"
+msgstr "Diese Tier greift an!"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATTACK_APPROACH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACK_APPROACH.NAME"
@@ -7671,7 +7671,7 @@ msgstr "Anpirschziel"
 #. STRINGS.CREATURES.STATUSITEMS.ATTACK_APPROACH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACK_APPROACH.TOOLTIP"
 msgid "This critter is hostile and readying to pounce!"
-msgstr "Diese Vieh ist feindselig und bereit zum zuschlagen!"
+msgstr "Diese Tier ist feindselig und bereit zum zuschlagen!"
 
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.NAME"
@@ -7829,7 +7829,7 @@ msgstr "Tot"
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP"
 msgid "This critter won't be getting back up..."
-msgstr "Diese Vieh wird nicht wieder aufstehen...."
+msgstr "Diese Tier wird nicht wieder aufstehen...."
 
 #. STRINGS.CREATURES.STATUSITEMS.DEBUGGOTO.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEBUGGOTO.NAME"
@@ -7869,7 +7869,7 @@ msgstr "Ertrinkt"
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP"
 msgid "This critter can't breathe in liquid!"
-msgstr "Dieses Vieh kann nicht in Flüssigkeit atmen!"
+msgstr "Dieses Tier kann nicht in Flüssigkeit atmen!"
 
 #. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME"
@@ -7924,7 +7924,7 @@ msgstr "Frisch gestriegelt"
 #. STRINGS.CREATURES.STATUSITEMS.EXCITED_TO_BE_RANCHED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXCITED_TO_BE_RANCHED.TOOLTIP"
 msgid "This critter just received some attention and feels great"
-msgstr "Dieses Vieh hat gerade etwas Aufmerksamkeit erhalten und fühlt sich großartig"
+msgstr "Dieses Tier hat gerade etwas Aufmerksamkeit erhalten und fühlt sich großartig"
 
 #. STRINGS.CREATURES.STATUSITEMS.EXCITED_TO_GET_RANCHED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXCITED_TO_GET_RANCHED.NAME"
@@ -7934,7 +7934,7 @@ msgstr "Aufgeregt"
 #. STRINGS.CREATURES.STATUSITEMS.EXCITED_TO_GET_RANCHED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXCITED_TO_GET_RANCHED.TOOLTIP"
 msgid "This critter heard a Rancher call for it and is very excited!"
-msgstr "Dieses Vieh hörte einen Viehzüchter nach ihm rufen und ist sehr aufgeregt!"
+msgstr "Dieses Tier hörte einen Viehzüchter nach ihm rufen und ist sehr aufgeregt!"
 
 #. STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME"
@@ -7958,7 +7958,7 @@ msgid ""
 "\n"
 "Yuck!"
 msgstr ""
-"Dieses Vieh stößt Gas aus.\n"
+"Dieses Tier stößt Gas aus.\n"
 "\n"
 "Igitt!"
 
@@ -8046,7 +8046,7 @@ msgstr "Wird gestriegelt"
 #. STRINGS.CREATURES.STATUSITEMS.GETTING_RANCHED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_RANCHED.TOOLTIP"
 msgid "This critter's going to look so good when they're done"
-msgstr "Dieses Vieh wird so gut aussehen, wenn es fertig ist"
+msgstr "Dieses Tier wird so gut aussehen, wenn es fertig ist"
 
 #. STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.NAME"
@@ -8056,7 +8056,7 @@ msgstr "Wurde getrieben"
 #. STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.TOOLTIP"
 msgid "Someone's trying to capture this critter!"
-msgstr "Jemand versucht, dieses Vieh zu fangen!"
+msgstr "Jemand versucht, dieses Tier zu fangen!"
 
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.NAME"
@@ -8141,7 +8141,7 @@ msgstr "Hungrig"
 #. STRINGS.CREATURES.STATUSITEMS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUNGRY.TOOLTIP"
 msgid "This critter's tummy is rumbling"
-msgstr "Der Bauch dieses Viehs rumort"
+msgstr "Der Bauch dieses Tiers rumort"
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME"
@@ -8443,7 +8443,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.STARVING.NOTIFICATION_NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STARVING.NOTIFICATION_NAME"
 msgid "Critter Starvation"
-msgstr "Viehhunger"
+msgstr "Tiere verhungern"
 
 #. STRINGS.CREATURES.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP"
@@ -8453,7 +8453,7 @@ msgstr "Diese Tiere verhungern und werden sterben wenn sie nicht bald gefüttert
 #. STRINGS.CREATURES.STATUSITEMS.STARVING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STARVING.TOOLTIP"
 msgid "This critter is starving and will die if it is not fed soon"
-msgstr "Dieses Vieh verhungert und wird sterben, wenn es nicht bald gefüttert wird"
+msgstr "Dieses Tier verhungert und wird sterben, wenn es nicht bald gefüttert wird"
 
 #. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME"
@@ -8518,7 +8518,7 @@ msgstr "Nahrung verdirbt schneller bei Temperaturen über {RotTemperature}"
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
 msgid "Growth Halted{Reasons}"
-msgstr "Wachstum gestoppt{Reasons}"
+msgstr "Wachstum gestoppt {Reasons}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
@@ -8528,7 +8528,7 @@ msgstr "Das Wachstum wird wieder aufnehmen, wenn sich die Bedingungen verbessern
 #. STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.NAME"
 msgid "Growth Halted{Reasons}"
-msgstr "Wachstum gestoppt{Reasons}"
+msgstr "Wachstum gestoppt {Reasons}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.TOOLTIP"
@@ -8538,7 +8538,7 @@ msgstr "Das Wachstum wird sich wieder fortsetzen, wenn sich die Bedingungen verb
 #. STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.NAME"
 msgid "Growth Halted{Reasons}"
-msgstr "Wachstum gestoppt{Reasons}"
+msgstr "Wachstum gestoppt {Reasons}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.TOOLTIP"
@@ -8756,7 +8756,7 @@ msgstr "Kalorienverbrennungsrate"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.DESC"
 msgid "Determines medical skill and how well a Duplicant works with peers and critters."
-msgstr "Bestimmt medizinische Kenntnisse und wie gut ein Duplikant mit seinesgleichen und Vieh zusammenarbeitet."
+msgstr "Bestimmt medizinische Kenntnisse und wie gut ein Duplikant mit seinesgleichen und Tieren zusammenarbeitet."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER"
@@ -8836,7 +8836,7 @@ msgstr "Dekorationserwartung"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC"
 msgid "The influence range of an object's <link=\"DECOR\">Decor</link> value."
-msgstr "Der Einflussbereich des <link=\"DECOR\">Dekorationswertes</link>eines Gegenstandes."
+msgstr "Der Einflussbereich des <link=\"DECOR\">Dekorationswertes</link> eines Gegenstandes."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
@@ -8892,7 +8892,7 @@ msgstr "<link=\"MEDICINE\">erhaltenen Hilfe Effekt</link>"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOMESTICATIONDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DOMESTICATIONDELTA.DESC"
 msgid "Determines how easily a critter gains or loses Domestication."
-msgstr "Bestimmt, wie leicht ein Vieh Zähmung gewinnt oder verliert."
+msgstr "Bestimmt, wie leicht ein Tier Zähmung gewinnt oder verliert."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOMESTICATIONDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DOMESTICATIONDELTA.NAME"
@@ -8912,7 +8912,7 @@ msgstr "Schmelztemperatur"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FERTILITYDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FERTILITYDELTA.DESC"
 msgid "Determines the amount of time needed for a critter to lay new eggs."
-msgstr "Bestimmt die Zeit, die ein Vieh benötigt, um neue Eier zu legen."
+msgstr "Bestimmt die Zeit, die ein Tier benötigt, um neue Eier zu legen."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FERTILITYDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FERTILITYDELTA.NAME"
@@ -9117,7 +9117,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.RANCHING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.RANCHING.DESC"
 msgid "Determines how quickly and efficiently a Duplicant raises critters."
-msgstr "Bestimmt, wie schnell und effizient ein Duplikant Vieh aufzieht."
+msgstr "Bestimmt, wie schnell und effizient ein Duplikant Tier aufzieht."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.RANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.RANCHING.NAME"
@@ -9298,7 +9298,7 @@ msgstr "Bauen"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC"
 msgid "Fight wild critters."
-msgstr "Bekämpfe wildes Vieh."
+msgstr "Bekämpfe ein wildes Tier."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME"
@@ -9338,7 +9338,7 @@ msgstr "Landwirtschaft"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC"
 msgid "Run resources to critical buildings and urgent storage."
-msgstr "Leite Ressourcen zu kritischen Gebäuden und wichtige Speicher."
+msgstr "Leite Ressourcen zu kritischen Gebäuden und wichtigen Speichern."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.NAME"
@@ -9389,7 +9389,7 @@ msgstr "Betreuung"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.DESC"
 msgid "Tend to domesticated critters."
-msgstr "Kümmert sich um domestiziertes Vieh."
+msgstr "Kümmert sich um domestizierte Tiere."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.NAME"
@@ -9554,7 +9554,7 @@ msgstr "Ringen"
 #. STRINGS.DUPLICANTS.CHORES.CAPTURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.CAPTURE.TOOLTIP"
 msgid "Duplicants employed as Ranchers can wrangle most critters without traps"
-msgstr "Duplikanten, die als Viehzüchter eingesetzt werden, können die meisten Viecher ohne Fallen fangen"
+msgstr "Duplikanten, die als Viehzüchter eingesetzt werden, können die meisten Tiere ohne Fallen fangen"
 
 #. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME"
@@ -9919,17 +9919,17 @@ msgstr "Dieser Duplikant liefert Materialien dorthin, wo sie gebraucht werden"
 #. STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.NAME"
 msgid "Relocate Critter"
-msgstr "Vieh umsiedeln"
+msgstr "Tier umsiedeln"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.STATUS"
 msgid "Relocating Critter"
-msgstr "Siedelt Vieh um"
+msgstr "Siedelt ein Tier um"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.TOOLTIP"
 msgid "This Rancher Duplicant is moving a critter"
-msgstr "Dieser Viehzüchter versetzt ein Vieh"
+msgstr "Dieser Viehzüchter zieht ein Tier um"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.NAME"
@@ -10009,17 +10009,17 @@ msgstr "Dieser Duplikant erntet verwertbare Materialien von einer reifen Pflanze
 #. STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.NAME"
 msgid "Assist Newborn Critter"
-msgstr "Steht einem neugebohren Vieh bei"
+msgstr "Steht einem neugebohren Tier bei"
 
 #. STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.STATUS"
 msgid "Assisting Newborn Critter"
-msgstr "Steht einem neugebohren Vieh bei"
+msgstr "Steht einem neugebohren Tier bei"
 
 #. STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.TOOLTIP"
 msgid "This Rancher Duplicant is welcoming a newborn critter into the colony"
-msgstr "Dieser Viehzüchter begrüßt ein neugeborenes Vieh in der Kolonie"
+msgstr "Dieser Viehzüchter begrüßt ein neugeborenes Tier in der Kolonie"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
@@ -10282,7 +10282,7 @@ msgstr "Verboten durch Konsumberechtigungen"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CREATURE_AVAILABLE_FOR_RANCHING
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CREATURE_AVAILABLE_FOR_RANCHING"
 msgid "No Critters Available"
-msgstr "Kein Vieh verfügbar"
+msgstr "Kein Tier verfügbar"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FETCH_TARGET_AVAILABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FETCH_TARGET_AVAILABLE"
@@ -10432,7 +10432,7 @@ msgstr "Liefere zu {0}"
 #. STRINGS.DUPLICANTS.CHORES.RANCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.STATUS"
 msgid "Ranching"
-msgstr "Pflegen von Vieh"
+msgstr "Pflegen von Tieren"
 
 #. STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP"
@@ -14446,7 +14446,7 @@ msgstr "Diese Duplikanten haben eine Kreatur in einen Kampf verwickelt:"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP"
 msgid "This Duplicant is attacking a critter!"
-msgstr "Dieser Duplikant greift ein Vieh an!"
+msgstr "Dieser Duplikant greift ein Tier an!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME"
@@ -19084,7 +19084,7 @@ msgid ""
 "\n"
 "It has a delightful smoky aftertaste."
 msgstr ""
-"Das gekochte Fleisch einer besiegten Vieh.\n"
+"Das gekochte Fleisch eines besiegten Tiers.\n"
 "\n"
 "Es hat einen herrlich rauchigen Nachgeschmack."
 
