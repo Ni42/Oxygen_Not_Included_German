@@ -3166,7 +3166,7 @@ msgstr "rechts"
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC"
 msgid "Incubators can maintain the ideal internal conditions for several species of critter egg."
-msgstr "Brutschränke können die idealen inneren Bedingungen für verschiedene Arten von Tieren aufrechterhalten."
+msgstr "Brutschränke können die idealen inneren Bedingungen für verschiedene Arten von Tier-Eiern aufrechterhalten."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT"
@@ -3177,7 +3177,7 @@ msgid ""
 msgstr ""
 "Bebrütet die Eier von Tieren, bis diese schlüpfen können.\n"
 "\n"
-"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tiere-Einfangen</link> besitzen."
+"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tier-Einfangen</link> besitzen."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
