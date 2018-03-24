@@ -3177,7 +3177,7 @@ msgid ""
 msgstr ""
 "Bebrütet die Eier von Tieren, bis diese schlüpfen können.\n"
 "\n"
-"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Viehringen</link> besitzen."
+"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tiere-Einfangen</link> besitzen."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
@@ -5052,7 +5052,7 @@ msgid ""
 msgstr ""
 "Erlaubt dem zugewiesenen Viehzüchter, sich um die Tiere zu kümmern.\n"
 "\n"
-"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tier-Niederingen</link> haben.\n"
+"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tier-Einfangen</link> haben.\n"
 "\n"
 "Diese Station ist ein notwendiger Bestandteil des Stalls."
 
@@ -8051,7 +8051,7 @@ msgstr "Dieses Tier wird so gut aussehen, wenn es fertig ist"
 #. STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.NAME"
 msgid "Being Wrangled"
-msgstr "Wurde getrieben"
+msgstr "Wurde eingefangen"
 
 #. STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_WRANGLED.TOOLTIP"
@@ -9544,17 +9544,17 @@ msgstr "Diese Lieferung wird Material für eine geplante Baustelle bereitstellen
 #. STRINGS.DUPLICANTS.CHORES.CAPTURE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CAPTURE.NAME"
 msgid "Wrangle"
-msgstr "Treiben"
+msgstr "Einfangen"
 
 #. STRINGS.DUPLICANTS.CHORES.CAPTURE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CAPTURE.STATUS"
 msgid "Wrangling"
-msgstr "Ringen"
+msgstr "Fängt ein"
 
 #. STRINGS.DUPLICANTS.CHORES.CAPTURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.CAPTURE.TOOLTIP"
 msgid "Duplicants employed as Ranchers can wrangle most critters without traps"
-msgstr "Duplikanten, die als Viehzüchter eingesetzt werden, können die meisten Tiere ohne Fallen fangen"
+msgstr "Duplikanten, die als Viehzüchter eingesetzt werden, können die meisten Tiere ohne Fallen einfangen"
 
 #. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME"
@@ -21156,7 +21156,7 @@ msgstr "Wartet auf einen Duplikant um diese unbewaffnete Vieh zu ermorden"
 #. STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.NAME"
 msgid "Pending Wrangle"
-msgstr "Austehnde Treibung"
+msgstr "Einfangen austehend"
 
 #. STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP"
@@ -21571,7 +21571,7 @@ msgstr "Essbar"
 #. STRINGS.MISC.TAGS.EGG
 msgctxt "STRINGS.MISC.TAGS.EGG"
 msgid "Critter Egg"
-msgstr "Vieh-Ei"
+msgstr "Tier-Ei"
 
 #. STRINGS.MISC.TAGS.EMITSLIGHT
 msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
@@ -24933,7 +24933,7 @@ msgstr "Fangmethode: Fallen"
 #. STRINGS.UI.BUILDINGEFFECTS.CAPTURE_METHOD_WRANGLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.CAPTURE_METHOD_WRANGLE"
 msgid "Capture Method: Wrangling"
-msgstr "Fangmethode: Ringen"
+msgstr "Fangmethode: Einfangen"
 
 #. STRINGS.UI.BUILDINGEFFECTS.CONSUMESANYELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.CONSUMESANYELEMENT"
@@ -25332,7 +25332,7 @@ msgid ""
 msgstr ""
 "Diese Kreatur kann von einem Viehzüchter gefangen werden.\n"
 "------------------\n"
-"Markiere eine Kreatur die mit einem Treibwerkzeug gefangen werden soll <color=#F44A47>(N)</color>"
+"Markiere eine Kreatur die mit einem Fangwerkzeug gefangen werden soll <color=#F44A47>(N)</color>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT"
@@ -31625,7 +31625,7 @@ msgstr "Merkmal: Pflegestationstraining"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION"
 msgid "Trait: Critter Wrangling"
-msgstr "Merkmal: Tier treiben"
+msgstr "Merkmal: Tiere einfangen"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
@@ -32108,22 +32108,22 @@ msgstr "Abbrechen-Werkzeug"
 #. STRINGS.UI.TOOLS.CAPTURE.NAME
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NAME"
 msgid "Wrangle"
-msgstr "Treiben"
+msgstr "Einfangen"
 
 #. STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE"
 msgid "Cannot Wrangle"
-msgstr "Kann nicht getrieben werden"
+msgstr "Kann nicht eingefangen werden"
 
 #. STRINGS.UI.TOOLS.CAPTURE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.TOOLACTION"
 msgid "DRAG TO WRANGLE CRITTERS"
-msgstr "ZIEHEN UM KREATUREN ZU TREIBEN"
+msgstr "ZIEHEN UM KREATUREN EINZUFANGEN"
 
 #. STRINGS.UI.TOOLS.CAPTURE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.TOOLNAME"
 msgid "Wrangle tool"
-msgstr "Treibwerkzeug"
+msgstr "Fangwerkzeug"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
@@ -33311,7 +33311,7 @@ msgstr "AUSWÄHLEN"
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE"
 msgid "Critter Eggs"
-msgstr "Vieh-Ei"
+msgstr "Tier-Ei"
 
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON"
@@ -34437,12 +34437,12 @@ msgstr "Angriffsbefehl abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.CANCELCAPTURE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCAPTURE.NAME"
 msgid "Cancel Wrangle"
-msgstr "Treiben abbrechen"
+msgstr "Einfangen abbrechen"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELCAPTURE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCAPTURE.TOOLTIP"
 msgid "Cancel this wrangle order"
-msgstr "Diesen Treibauftrag abbrechen"
+msgstr "Diesen Einfangauftrag abbrechen"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.NAME"
@@ -34507,7 +34507,7 @@ msgstr "Entwurzeln abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.CAPTURE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CAPTURE.NAME"
 msgid "Wrangle"
-msgstr "Treiben"
+msgstr "Einfangen"
 
 #. STRINGS.UI.USERMENUACTIONS.CAPTURE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CAPTURE.TOOLTIP"
