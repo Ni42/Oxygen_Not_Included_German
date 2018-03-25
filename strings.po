@@ -3166,7 +3166,7 @@ msgstr "rechts"
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC"
 msgid "Incubators can maintain the ideal internal conditions for several species of critter egg."
-msgstr "Brutschränke können die idealen inneren Bedingungen für verschiedene Arten von Tier-Eiern aufrechterhalten."
+msgstr "Brutschränke können die idealen inneren Bedingungen für verschiedene Arten von Tiereiern aufrechterhalten."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT"
@@ -3177,7 +3177,7 @@ msgid ""
 msgstr ""
 "Bebrütet die Eier von Tieren, bis diese schlüpfen können.\n"
 "\n"
-"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tier-Einfangen</link> besitzen."
+"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tierfänger</link> besitzen."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
@@ -5052,7 +5052,7 @@ msgid ""
 msgstr ""
 "Erlaubt dem zugewiesenen Viehzüchter, sich um die Tiere zu kümmern.\n"
 "\n"
-"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tier-Einfangen</link> haben.\n"
+"Zugewiesene Duplikanten müssen die Eigenschaft <link=\"RANCHER\">Tierfänger</link> haben.\n"
 "\n"
 "Diese Station ist ein notwendiger Bestandteil des Stalls."
 
@@ -9258,7 +9258,7 @@ msgstr "{0}: {1}"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.WILDNESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.WILDNESSDELTA.DESC"
 msgid "Wild creatures can survive on fewer calories than domesticated ones."
-msgstr ""
+msgstr "Wilde Tiere können mit weniger Kalorien als Gezähmte überleben."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.WILDNESSDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.WILDNESSDELTA.NAME"
@@ -9419,7 +9419,7 @@ msgstr "Forschung"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC"
 msgid "Fill non-critical storage buildings with resources."
-msgstr ""
+msgstr "Füllt unkritische Lagergebäude mit Ressourcen auf."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.NAME"
@@ -9429,7 +9429,7 @@ msgstr "Lager"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
 msgid "Tune machinery and set or flip switches and sensors."
-msgstr ""
+msgstr "Stimmt Maschinen ab und stellt Schalter und Sensoren ein oder aus."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
@@ -21571,7 +21571,7 @@ msgstr "Essbar"
 #. STRINGS.MISC.TAGS.EGG
 msgctxt "STRINGS.MISC.TAGS.EGG"
 msgid "Critter Egg"
-msgstr "Tier-Ei"
+msgstr "Tierei"
 
 #. STRINGS.MISC.TAGS.EMITSLIGHT
 msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
@@ -33311,7 +33311,7 @@ msgstr "AUSWÄHLEN"
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE"
 msgid "Critter Eggs"
-msgstr "Tier-Ei"
+msgstr "Tiereier"
 
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON"
