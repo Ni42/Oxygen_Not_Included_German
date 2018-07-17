@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Shrotter\n"
+"Last-Translator: Xandras\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.0.9\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -1342,7 +1342,7 @@ msgstr "Dieses Objekt hat keinen Anschluss, um Flüssigkeit aufzunehmen"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr "Kein Flüssigkeitseingang"
+msgstr "Kein Flüssigkeitsausgang"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
@@ -7909,7 +7909,7 @@ msgstr "<link=\"DRECKOPLASTIC\">Glanz-Drecklet-Ei</link>"
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.NAME"
 msgid "<link=\"DRECKOPLASTIC\">Glossy Drecko</link>"
-msgstr "<link=\"DRECKOPLASTIC\">Glanz-Drecklet</link>"
+msgstr "<link=\"DRECKOPLASTIC\">Glanz-Drecko</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.BIG_VOLCANO.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.BIG_VOLCANO.DESC"
@@ -8171,7 +8171,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.NAME"
 msgid "<link=\"HATCHHARD\">Stone Hatchling</link>"
-msgstr "<link=\"HATCHHARD\">Stein-Hatch</link>"
+msgstr "<link=\"HATCHHARD\">Stein-Hatchling</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.DESC"
@@ -8233,7 +8233,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.NAME"
 msgid "<link=\"HATCHVEGGIE\">Sage Hatchling</link>"
-msgstr "<link=\"HATCHVEGGIE\">Salbei-Hatch</link>"
+msgstr "<link=\"HATCHVEGGIE\">Salbei-Hatchling</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.DESC"
@@ -8451,12 +8451,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.EGG_NAME"
 msgid "<link=\"LIGHTBUGORANGE\">Sunny Shine Nymph Egg</link>"
-msgstr "<link=\"LIGHTBUGORANGE\">sonnige Leuchtnymphen-Ei</link>"
+msgstr "<link=\"LIGHTBUGORANGE\">Sonnige Leuchtnymphen-Ei</link>"
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.NAME"
 msgid "<link=\"LIGHTBUGORANGE\">Sunny Shine Bug</link>"
-msgstr "<link=\"LIGHTBUGORANGE\">sonniger Leuchtkäfer</link>"
+msgstr "<link=\"LIGHTBUGORANGE\">Sonniger Leuchtkäfer</link>"
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.DESC"
@@ -8752,7 +8752,7 @@ msgstr "<link=\"CLEANERPACUEGG\">Schluckfisch-Ei</link>"
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME"
 msgid "<link=\"PACUCLEANER\">Gulp Fish</link>"
-msgstr "<link=\"PACUCLEANER\">Gulp Fish</link>"
+msgstr "<link=\"PACUCLEANER\">Schluckfisch</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC"
@@ -8917,7 +8917,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.NAME"
 msgid "<link=\"PUFTBLEACHSTONE\">Squeaky Puftlet</link>"
-msgstr "<link=\"PUFTBLEACHSTONE\">Blitzsauber-Puftei</link>"
+msgstr "<link=\"PUFTBLEACHSTONE\">Blitzsauber-Puftlet</link>"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.DESC"
