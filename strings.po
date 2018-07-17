@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Xandras\n"
+"Last-Translator: Shrotter\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -7909,7 +7909,7 @@ msgstr "<link=\"DRECKOPLASTIC\">Glanz-Drecklet-Ei</link>"
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.NAME"
 msgid "<link=\"DRECKOPLASTIC\">Glossy Drecko</link>"
-msgstr "<link=\"DRECKOPLASTIC\">Glanz-Drecko</link>"
+msgstr "<link=\"DRECKOPLASTIC\">Glanz-Drecklet</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.BIG_VOLCANO.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.BIG_VOLCANO.DESC"
@@ -8202,7 +8202,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.NAME"
 msgid "<link=\"HATCHMETAL\">Smooth Hatchling</link>"
-msgstr "<link=\"HATCHMETAL\">Metall-Hatch</link>"
+msgstr "<link=\"HATCHMETAL\">Metall-Hatchling</link>"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.DESC"
@@ -8451,12 +8451,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.EGG_NAME"
 msgid "<link=\"LIGHTBUGORANGE\">Sunny Shine Nymph Egg</link>"
-msgstr "<link=\"LIGHTBUGORANGE\">Sonnige Leuchtnymphen-Ei</link>"
+msgstr "<link=\"LIGHTBUGORANGE\">sonnige Leuchtnymphen-Ei</link>"
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.NAME"
 msgid "<link=\"LIGHTBUGORANGE\">Sunny Shine Bug</link>"
-msgstr "<link=\"LIGHTBUGORANGE\">Sonniger Leuchtkäfer</link>"
+msgstr "<link=\"LIGHTBUGORANGE\">sonniger Leuchtkäfer</link>"
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.DESC"
@@ -8752,7 +8752,7 @@ msgstr "<link=\"CLEANERPACUEGG\">Schluckfisch-Ei</link>"
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME"
 msgid "<link=\"PACUCLEANER\">Gulp Fish</link>"
-msgstr "<link=\"PACUCLEANER\">Schluckfisch</link>"
+msgstr "<link=\"PACUCLEANER\">Gulp Fish</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC"
@@ -8917,7 +8917,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.NAME"
 msgid "<link=\"PUFTBLEACHSTONE\">Squeaky Puftlet</link>"
-msgstr "<link=\"PUFTBLEACHSTONE\">Blitzsauber-Puftlet</link>"
+msgstr "<link=\"PUFTBLEACHSTONE\">Blitzsauber-Puftei</link>"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.DESC"
@@ -13535,7 +13535,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Medizinische Versorgung erforderlich"
+"Medizinische Versorgung erforderlichNICHT"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DOCTORED
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DOCTORED"
