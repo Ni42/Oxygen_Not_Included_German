@@ -9255,6 +9255,11 @@ msgid ""
 "\n"
 "I believe they are seeking a way to exert temporary control over implanted subjects, and I fear this avenue of research may be ethically unsound.</indent>"
 msgstr ""
+"<indent=5%>Direktor,\n"
+"\n"
+"Die Konstruktion hat Gehirnatlanten aller Blaupausensubjekte für die Entwicklung einer Software für den Biodrucker angefordert, und ich zögere, dem nachzukommen.\n"
+"\n"
+"Ich glaube, sie suchen einen Weg, um eine vorübergehende Kontrolle über implantierte Subjekte auszuüben, und ich fürchte, dieser Forschungsweg kann ethisch unsolide ist.</indent>"
 
 #. STRINGS.CODEX.AICONTROL.BODY.CONTAINER3
 #, fuzzy
@@ -9780,7 +9785,6 @@ msgstr "Persönliches Protokoll: B835"
 
 #. STRINGS.CODEX.B835.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B835.BODY.CONTAINER1"
-<<<<<<< HEAD
 msgid ""
 "I started work at a new company called the \"Gravitas Facility\" today! I was nervous I wouldn't get the job at first because I was fresh out of school, and I was so so so pushy in the interview, but the Director apparently liked my thesis on the physiological thermal regulation of arctic lizards. I'll be working with some brilliant geneticists, bioengineering organisms for space travel in harsh environments! It's like a dream come true. I get to work on exciting new research in a place where no one knows me!\n"
 "------------------\n"
@@ -9814,25 +9818,6 @@ msgid ""
 msgstr ""
 "Ich habe die letzten Tage in meiner Arbeit vergraben, und ich fühle mich tatsächlich viel besser. Wir haben schließlich eine Genmanipulation perfektioniert, die die Hitzeempfindlichkeit von Ratten kontrolliert. Unsere Testsubjekte zittern jetzt bei Minusgraden kaum noch. Wir werden wahrscheinlich morgen einen Testlauf mit Robotik machen, um zu sehen, wie es den Ratten in den Prototyp-Shuttles, die wir entwickeln, geht.\n"
 "------------------\n"
-=======
-msgid "I started work at a new company called the \"Gravitas Facility\" today! I was nervous I wouldn't get the job at first because I was fresh out of school, and I was so so so pushy in the interview, but the Director apparently liked my thesis on the physiological thermal regulation of arctic lizards. I'll be working with some brilliant geneticists, bioengineering organisms for space travel in harsh environments! It's like a dream come true. I get to work on exciting new research in a place where no one knows me!"
-msgstr ""
-
-#. STRINGS.CODEX.B835.BODY.CONTAINER2
-msgctxt "STRINGS.CODEX.B835.BODY.CONTAINER2"
-msgid "No no no no no! It can't be! BANHI ANSARI is here, working on space shuttle thrusters in the robotics lab! As soon as she saw me she called me \"Bubbles\" and told everyone about the time I accidentally inhaled a bunch of fungal spores during lab, blew a big snot bubble out my nose and then sneezed all over Professor Avery! I can't believe that story followed me here! BANHI RUINS EVERYTHING!"
-msgstr ""
-
-#. STRINGS.CODEX.B835.BODY.CONTAINER3
-msgctxt "STRINGS.CODEX.B835.BODY.CONTAINER3"
-msgid "Everyone's calling me \"Bubbles\" instead of \"Doctor\" at work now! Some of them don't even know it's a nickname, but I don't want to correct them and seem rude or anything. Ugh! Why couldn't that story have just stayed back at Atoma U?"
-msgstr ""
-
-#. STRINGS.CODEX.B835.BODY.CONTAINER4
-msgctxt "STRINGS.CODEX.B835.BODY.CONTAINER4"
-msgid "I've spent the last few days buried in my work, and I'm actually feeling a lot better. We finally perfected a gene manipulation that controls heat sensitivity in rats. Our test subjects barely even shiver in subzero temperatures now. We'll probably do a testrun tomorrow with Robotics to see how the rats fare in the prototype shuttles we're developing."
-msgstr ""
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 
 #. STRINGS.CODEX.B835.BODY.CONTAINER5
 msgctxt "STRINGS.CODEX.B835.BODY.CONTAINER5"
@@ -10759,22 +10744,18 @@ msgid "Gas Grass"
 msgstr "Gasgrass"
 
 #. STRINGS.CODEX.GASSYMOO.BODY.CONTAINER1
-<<<<<<< HEAD
 #, fuzzy
 #| msgctxt "STRINGS.CODEX.GASSYMOO.BODY.CONTAINER1"
 #| msgid ""
 #| "Little is currently known of the Gassy Moo due to its alien nature and origin.\n"
 #| "\n"
 #| "It is capable of surviving in zero gravity and atmosphere, and is dependent of a second alien species, <link=\"GASGRASS\">Gas Grass</link>, for its survival."
-=======
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 msgctxt "STRINGS.CODEX.GASSYMOO.BODY.CONTAINER1"
 msgid ""
 "Little is currently known of the Gassy Moo due to its alien nature and origin.\n"
 "\n"
 "It is capable of surviving in zero gravity conditions and no atmosphere, and is dependent on a second alien species, <link=\"GASGRASS\">Gas Grass</link>, for its sustenance and survival."
 msgstr ""
-<<<<<<< HEAD
 "Von der Gassy Moo ist derzeit wenig bekannt, da sie von fremder Natur und Herkunft ist.\n"
 "\n"
 "Es ist in der Lage, in Schwerelosigkeit und ohne Atmosphäre zu überleben und sein Überleben ist abhängig von einer zweiten fremden Spezies, <link=\"GASGRASS\">Gasgrass</link>."
@@ -10783,8 +10764,6 @@ msgstr ""
 msgctxt "STRINGS.CODEX.GASSYMOO.BODY.CONTAINER2"
 msgid "The Moo has an even temperament and can be farmed for Natural Gas, though their method of reproduction has been as of yet undiscovered."
 msgstr ""
-=======
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 
 #. STRINGS.CODEX.GASSYMOO.SUBTITLE
 msgctxt "STRINGS.CODEX.GASSYMOO.SUBTITLE"
@@ -10794,7 +10773,7 @@ msgstr "Domestizierbares Tier"
 #. STRINGS.CODEX.GASSYMOO.TITLE
 msgctxt "STRINGS.CODEX.GASSYMOO.TITLE"
 msgid "Gassy Moo"
-msgstr ""
+msgstr "Gassy Moo"
 
 #. STRINGS.CODEX.GENETICOOZE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.GENETICOOZE.BODY.CONTAINER1"
@@ -10931,13 +10910,8 @@ msgstr "Unentdeckt"
 #| msgctxt "STRINGS.CODEX.HEADERS.CONTENTLOCKED_SUBTITLE"
 #| msgid "More research or exploration may be required"
 msgctxt "STRINGS.CODEX.HEADERS.CONTENTLOCKED_SUBTITLE"
-<<<<<<< HEAD
 msgid "More research or exploration is required"
 msgstr "Weitere Forschung oder Erkundungen können erforderlich sein"
-=======
-msgid "More research or exploration may be required"
-msgstr ""
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 
 #. STRINGS.CODEX.HEADERS.DIET
 msgctxt "STRINGS.CODEX.HEADERS.DIET"
@@ -11112,6 +11086,21 @@ msgid ""
 "\n"
 "Conclusion: Printed subject retains no memory from donor."
 msgstr ""
+"Hypothese: Von Hibiscus geklonte Subjekte bedienen bei der Einführung korrekt einen Hebelmechanismus und zeigen die Erhaltung der konditionierten Erinnerungen des ursprünglichen Spenders.\n"
+"\n"
+"Spender-Subjekt #650, \"Hibiscus\", konditioniert, um einen Hebel nach rechts für eine Belohnung (Mandeln) zu ziehen. Die Konditionierung erfolgte über einen Zeitraum von zwei Wochen.\n"
+"\n"
+"Hibiscus erkannte schnell, dass das Ziehen des Hebels nach links zu keinen Ergebnissen führte und zeigte bis zum Ende der ersten Woche zuverlässig das gewünschte Verhalten.\n"
+"\n"
+"Das Training wurde für eine weitere Woche fortgesetzt, um neuronale Signalwege zu stärken und sicherzustellen, dass die beabsichtigte Verhaltenskonditionierung dem Langzeit- und Muskelgedächtnis zugute kommt.\n"
+"\n"
+"Das Klon-Subjekt #762, \"Hibiscus-3 \", wurde in die Hebelmechanismus herangeführt, um die Gedächtnisleistung und den Erinnerungswert zu ermitteln.\n"
+"\n"
+"Hibiscus-3 zeigte keine Anzeichen von Wiedererkennung und zeigte nicht das gewünschte Verhalten. Das Subjekt konnte zunächst auf keiner Ebene mit dem Gerät interagieren.\n"
+"\n"
+"Bei der zweiten Einführung zog Hibiscus-3 den Hebel nach links.\n"
+"\n"
+"Fazit: Das gedruckte Subjekt behält keine Erinnerung vom Spender."
 
 #. STRINGS.CODEX.HIBISCUS3.SUBTITLE
 msgctxt "STRINGS.CODEX.HIBISCUS3.SUBTITLE"
@@ -11123,13 +11112,8 @@ msgstr "VERSCHLÜSSELUNGSEBENE: ZWEI"
 #| msgctxt "STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.EXPERIMENTS"
 #| msgid "Experimental"
 msgctxt "STRINGS.CODEX.HIBISCUS3.TITLE"
-<<<<<<< HEAD
 msgid "Experiment 7D"
 msgstr "Experimentell"
-=======
-msgid "Hibiscus-3"
-msgstr ""
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 
 #. STRINGS.CODEX.HOLLANDSDOG.BODY.CONTAINER1
 #, fuzzy
@@ -11621,6 +11605,16 @@ msgid ""
 "\n"
 "[LOG ENDS]"
 msgstr ""
+"\n"
+"Erinnerungen <i>müssen</i> in die physischen Gehirnatlanten unserer Probanden eingebettet sein. Die einzige Frage bleibt, wie man sie aktiviert. Hormone? Chemische Zusätze? Situative Auslöser?\n"
+"\n"
+"Der Direktor scheint begierig darauf zu sein, dieses Problem zu überwinden, und ich bin besorgt über seine Bereitschaft, wesentliche Phasen des Forschungsentwicklungsprozesses zu umgehen.\n"
+"\n"
+"Wir können nicht zum Feinschliff von Drucksystemen übergehen, bis die Kernprozesse perfektioniert sind - was sie nicht sind.\n"
+"\n"
+"gezeichnet, Dr. McClintock.\"\n"
+"\n"
+"[LOG ENDE]"
 
 #. STRINGS.CODEX.MEMORYIMPLANTATION.SUBTITLE
 msgctxt "STRINGS.CODEX.MEMORYIMPLANTATION.SUBTITLE"
@@ -11630,7 +11624,7 @@ msgstr "VERSCHLÜSSELUNGSEBENE: ZWEI"
 #. STRINGS.CODEX.MEMORYIMPLANTATION.TITLE
 msgctxt "STRINGS.CODEX.MEMORYIMPLANTATION.TITLE"
 msgid "Memory Dysfunction Log"
-msgstr ""
+msgstr "Protokoll der Speicherfehlfunktion"
 
 #. STRINGS.CODEX.MIRTHLEAF.BODY.CONTAINER1
 #, fuzzy
@@ -11841,55 +11835,6 @@ msgctxt "STRINGS.CODEX.MUCKROOT.TITLE"
 msgid "Muckroot"
 msgstr "Schmutzwurzel"
 
-<<<<<<< HEAD
-=======
-#. STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY
-msgctxt "STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY"
-msgid ""
-msgstr ""
-
-#. STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.TITLE
-msgctxt "STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.TITLE"
-msgid "CYCLE {0}"
-msgstr "ZYKLUS {0}"
-
-#. STRINGS.CODEX.MYLOG.BODY.LOG1.BODY
-msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG1.BODY"
-msgid ""
-"The colony has no life support systems set up, but luckily we find ourselves in a small airpocket in the asteroid filled with oxygen.\n"
-"\n"
-"Between the ambient oxygen and our meager food stores, I'd estimate we have 3 days to set up food and oxygen production before my Duplicants are endangered.\n"
-msgstr ""
-
-#. STRINGS.CODEX.MYLOG.BODY.LOG1.TITLE
-msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG1.TITLE"
-msgid "CYCLE 1"
-msgstr "ZYKLUS 1"
-
-#. STRINGS.CODEX.MYLOG.BODY.LOG2.BODY
-msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG2.BODY"
-msgid ""
-"I've synthesized enough Ooze to print a new Duplicant; all I have to do is choose the blueprint.\n"
-"\n"
-"It would be helpful to have another set of hands around the colony, but it would mean another mouth to feed and a pair of lungs to fill.\n"
-msgstr ""
-
-#. STRINGS.CODEX.MYLOG.BODY.LOG2.TITLE
-msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG2.TITLE"
-msgid "CYCLE 3"
-msgstr "ZYKLUS 3"
-
-#. STRINGS.CODEX.MYLOG.BODY.LOG3.BODY
-msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3.BODY"
-msgid ""
-msgstr ""
-
-#. STRINGS.CODEX.MYLOG.BODY.LOG3.TITLE
-msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3.TITLE"
-msgid "CYCLE 20"
-msgstr "ZYKLUS 20"
-
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 #. STRINGS.CODEX.MYLOG.SUBTITLE
 #, fuzzy
 #| msgctxt "STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP"
@@ -12102,7 +12047,6 @@ msgid ""
 "-Admin\n"
 "The Gravitas Facility</indent>"
 msgstr ""
-<<<<<<< HEAD
 "<smallcaps><b>Thema: Neues Sicherheitsprotokoll</b>\n"
 "Von: <b>Admin</b> <alpha=#AA><admin@gravitas.nova></color>\n"
 "An: <b>Alle</b></smallcaps>\n"
@@ -12121,8 +12065,6 @@ msgstr ""
 "\n"
 "-Die Administration\n"
 "The Gravitas Facility</indent>"
-=======
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 
 #. STRINGS.CODEX.NEWSECURITY.SUBTITLE
 msgctxt "STRINGS.CODEX.NEWSECURITY.SUBTITLE"
@@ -12132,7 +12074,7 @@ msgstr "VERSCHLÜSSELUNGSEBENE: KEINE"
 #. STRINGS.CODEX.NEWSECURITY.TITLE
 msgctxt "STRINGS.CODEX.NEWSECURITY.TITLE"
 msgid "NEW SECURITY PROTOCOL"
-msgstr ""
+msgstr "NEUES SICHERHEITSPROTOKOLL"
 
 #. STRINGS.CODEX.NEWSECURITY2.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.NEWSECURITY2.BODY.CONTAINER2"
@@ -12143,6 +12085,11 @@ msgid ""
 "\n"
 "All I know is, I've never willingly submitted my DNA or fingerprints to the company, and they've certainly never asked.</indent>"
 msgstr ""
+"<indent=5%>Die Einrichtung führt also ein neues Sicherheitssystem ein, das die Türen öffnet, wenn sie meine Hand scannen. Meine Frage ist, was genau scannen sie?\n"
+"\n"
+"Die Leute aus der Technik sagen, dass das Türgerät nicht wie ein Fingerabdruckscanner aussieht, aber das Duo, das in der Biotechnik arbeitet, will überhaupt nichts dazu sagen.\n"
+"\n"
+"Alles, was ich weiß, ist, dass ich noch nie freiwillig meine DNA oder Fingerabdrücke an das Unternehmen geschickt habe, und sie haben sicherlich nie gefragt.</indent>"
 
 #. STRINGS.CODEX.NEWSECURITY2.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.NEWSECURITY2.BODY.EMAILHEADER1"
@@ -12151,6 +12098,9 @@ msgid ""
 "From: <b>[REDACTED]</b></color></smallcaps>\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>An: <b>[ENTFERNT]</b>\n"
+"Von: <b>[ENTFERNT]</b></color></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.NEWSECURITY2.BODY.SIGNATURE1
 msgctxt "STRINGS.CODEX.NEWSECURITY2.BODY.SIGNATURE1"
@@ -12186,6 +12136,13 @@ msgid ""
 "\n"
 "I can't risk losing my job.</indent>"
 msgstr ""
+"<indent=5%>Ich bin mir fast sicher, dass die Einrichtung unsere genetischen Informationen gestohlen hat.\n"
+"\n"
+"Ungefähr vierzig Mitarbeiter wurden zu sehr praktischen Laborratten gemacht, und selbst wenn wir herausfinden würden, was Gravitas tat, hätten wir nicht viele rechtliche Möglichkeiten dagegen vor zu gehen. Wir können aufgrund der Art unserer Arbeit nicht wirklich an die Öffentlichkeit gehen.\n"
+"\n"
+"Ich schaudere, wenn ich darüber nachdenke, welche Art von Experimenten sie an meiner DNA durchführen könnten, aber ich muss meinen Mund halten.\n"
+"\n"
+"Ich kann nicht riskieren, meinen Job zu verlieren.</indent>"
 
 #. STRINGS.CODEX.NEWSECURITY3.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.NEWSECURITY3.BODY.EMAILHEADER1"
@@ -12320,6 +12277,13 @@ msgid ""
 "\n"
 "[LOG ENDS]"
 msgstr ""
+"[LOG START]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"[LOG ENDE]"
 
 #. STRINGS.CODEX.PIPEDREAM.SUBTITLE
 msgctxt "STRINGS.CODEX.PIPEDREAM.SUBTITLE"
@@ -12505,6 +12469,15 @@ msgid ""
 "\n"
 "Dinnertime has never been easier!"
 msgstr ""
+"Wir präsentieren die neueste 3D-Drucktechnologie, den Heim-Biodrucker!\n"
+"\n"
+"Innovatives neues Systeme zum 3D-Druck von biologischem Material, entwickelt von der Gravitas Facility.\n"
+"\n"
+"Was bedeutet das für den durchschnittlichen Haushalt?\n"
+"\n"
+"Frustrationen beim Abendessen gehören der Vergangenheit an! Wählen Sie einfach eines der 5398 vorprogrammierten Rezepte des Druckers aus und voila! Köstlicher Schmorbraten in nur 0,87 Sekunden.\n"
+"\n"
+"Bevorzugen Sie selbst zu kochen? Programmieren Sie Ihre eigenen Rezepte oder drucken Sie frische Zutaten für Ihre eigene hausgemachte Mahlzeit. Ausflüge in den Lebensmittelgeschäft gehören der Vergangenheit an!"
 
 #. STRINGS.CODEX.PROPFACILITYDISPLAY1.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY1.BODY.CONTAINER2"
@@ -12513,6 +12486,9 @@ msgid ""
 "Projected for commercial availability early next year.\n"
 "Brought to you by the Gravitas Facility."
 msgstr ""
+"\n"
+"Voraussichtlich Anfang nächsten Jahres kommerziell verfügbar.\n"
+"Präsentiert von der Gravitas Facility."
 
 #. STRINGS.CODEX.PROPFACILITYDISPLAY1.SUBTITLE
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY1.SUBTITLE"
@@ -12522,7 +12498,7 @@ msgstr "ÖFFENTLICHE VERÖFFENTLICHUNG"
 #. STRINGS.CODEX.PROPFACILITYDISPLAY1.TITLE
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY1.TITLE"
 msgid "Printing Pod Promo"
-msgstr ""
+msgstr "Werbung für den Biodrucker"
 
 #. STRINGS.CODEX.PROPFACILITYDISPLAY2.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY2.BODY.CONTAINER1"
@@ -12537,7 +12513,7 @@ msgstr ""
 #. STRINGS.CODEX.PROPFACILITYDISPLAY2.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY2.BODY.CONTAINER2"
 msgid "Brought to you by the Gravitas Facility."
-msgstr ""
+msgstr "Präsentiert von der Gravitas Facility."
 
 #. STRINGS.CODEX.PROPFACILITYDISPLAY2.SUBTITLE
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY2.SUBTITLE"
@@ -12547,7 +12523,7 @@ msgstr "ÖFFENTLICHE VERÖFFENTLICHUNG"
 #. STRINGS.CODEX.PROPFACILITYDISPLAY2.TITLE
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY2.TITLE"
 msgid "Mining Gun Promo"
-msgstr ""
+msgstr "Werbung für die Bergbaupistole"
 
 #. STRINGS.CODEX.PROPFACILITYDISPLAY3.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY3.BODY.CONTAINER1"
@@ -12560,6 +12536,8 @@ msgid ""
 "Brought to you by the Gravitas Facility.\n"
 "<smallcaps>Patent Pending</smallcaps>"
 msgstr ""
+"Präsentiert von der Gravitas Facility.\n"
+"<smallcaps>patentiert</smallcaps>"
 
 #. STRINGS.CODEX.PROPFACILITYDISPLAY3.SUBTITLE
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY3.SUBTITLE"
@@ -12569,7 +12547,7 @@ msgstr "ÖFFENTLICHE VERÖFFENTLICHUNG"
 #. STRINGS.CODEX.PROPFACILITYDISPLAY3.TITLE
 msgctxt "STRINGS.CODEX.PROPFACILITYDISPLAY3.TITLE"
 msgid "Thermo-Nullifier Promo"
-msgstr ""
+msgstr "Werbung für den Thermo-Annullierer"
 
 #. STRINGS.CODEX.PUFT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PUFT.BODY.CONTAINER1"
@@ -12603,6 +12581,11 @@ msgid ""
 "\n"
 "We thank-you for your restraint.</indent>"
 msgstr ""
+"<indent=5%>Wir möchten die Mitarbeiter daran erinnern, die \"CC: Alle\"-Funktion für innerbetriebliche Angelegenheiten nicht zu nutzen.\n"
+"\n"
+"Im Falle von Streitigkeiten oder störendem Arbeitsverhalten innerhalb der Einrichtung wenden Sie sich bitte direkt an die Personalabteilung.\n"
+"\n"
+"Danke für Ihre Zurückhaltung.</indent>"
 
 #. STRINGS.CODEX.REMYPENS.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.REMYPENS.BODY.EMAILHEADER1"
@@ -12611,6 +12594,9 @@ msgid ""
 "From: <b>Admin</b><size=12><alpha=#AA> <admin@gravitas.nova></color></size></smallcaps>\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>An: <b>Alle</b>\n"
+"Von: <b>Admin</b><size=12><alpha=#AA> <admin@gravitas.nova></color></size></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.REMYPENS.BODY.SIGNATURE1
 msgctxt "STRINGS.CODEX.REMYPENS.BODY.SIGNATURE1"
@@ -12620,13 +12606,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
-<<<<<<< HEAD
 "\n"
 "-Die Administration\n"
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
-=======
->>>>>>> parent of 2a90e8d... Übersetzungen eMails usw
 
 #. STRINGS.CODEX.REMYPENS.SUBTITLE
 msgctxt "STRINGS.CODEX.REMYPENS.SUBTITLE"
@@ -12636,22 +12619,22 @@ msgstr "UNVERSCHLÜSSELT"
 #. STRINGS.CODEX.REMYPENS.TITLE
 msgctxt "STRINGS.CODEX.REMYPENS.TITLE"
 msgid "Re: MY PENS"
-msgstr ""
+msgstr "AW: MEINE STIFTE"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.CONTAINER2"
 msgid "<indent=5%>Please pay it no mind. If any of these journals reach out to you, deny comment.</indent>"
-msgstr ""
+msgstr "<indent=5%>Bitte beachten Sie es nicht. Wenn eines dieser Journale Sie kontaktiert, verweigern Sie den Kommentar.</indent>"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.CONTAINER3"
 msgid "<indent=5%>Director, are you aware of the articles that have been cropping up about us lately?</indent>"
-msgstr ""
+msgstr "<indent=5%>Direktor, kennen Sie die Artikel, die in letzter Zeit über uns aufgetaucht sind?</indent>"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.CONTAINER4
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.CONTAINER4"
 msgid "<indent=10%><color=#F44A47>>[BROKEN LINK]</color> <alpha=#AA><smallcaps>the gravitas facility: questionable rise of a research giant</smallcaps></indent></color>"
-msgstr ""
+msgstr "<indent=10%><color=#F44A47>>>[DEFEKTER LINK]</color> <alpha=#AA><smallcaps>the gravitas facility: Fragwürdiger Aufstieg eines Forschungsriesen</smallcaps></color></indent>"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.EMAILHEADER1"
@@ -12660,6 +12643,9 @@ msgid ""
 "From: <b>[REDACTED]</b></smallcaps>\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>An: <b>Direktor Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\n"
+"Von: <b>[ENTFERNT]</b></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.EMAILHEADER2
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.EMAILHEADER2"
@@ -12668,6 +12654,9 @@ msgid ""
 "From: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
 "------------------\n"
 msgstr ""
+"<smallcaps>An: <b>[ENTFERNT]</b>\n"
+"Von: <b>Direktor Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.SIGNATURE1
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.SIGNATURE1"
@@ -12678,6 +12667,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"[ENTFERNT]\n"
+"<size=11>Mitarbeiterkoordinator\n"
+"The Gravitas Facility</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.BODY.SIGNATURE2"
@@ -12687,6 +12681,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-Direktor Stern\n"
+"<size=11>The Gravitas Facility</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.SUBTITLE
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.SUBTITLE"
@@ -12696,12 +12694,12 @@ msgstr "VERSCHLÜSSELUNGSEBENE: EINS"
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.TITLE
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.TITLE"
 msgid "Re: Have you seen this?"
-msgstr ""
+msgstr "AW: Haben Sie das gesehen?"
 
 #. STRINGS.CODEX.RESEARCHGIANTARTICLE.TITLE2
 msgctxt "STRINGS.CODEX.RESEARCHGIANTARTICLE.TITLE2"
 msgid "SUBJECT: Have you seen this?"
-msgstr ""
+msgstr "THEMA: Haben Sie das gesehen?"
 
 #. STRINGS.CODEX.RETEMPORALBOWUPDATE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.RETEMPORALBOWUPDATE.BODY.CONTAINER1"
@@ -12832,6 +12830,26 @@ msgid ""
 "\n"
 "[LOG ENDS]"
 msgstr ""
+"[SPRACHERKENNUNG INITIALISIERT]\n"
+"[PERSONEN IDENTIFIZIERT: A001, B111]\n"
+"\n"
+"[LOG START]\n"
+"\n"
+"Direktor: Inakzeptabel.\n"
+"\n"
+"Jones: Ich sage Ihnen nur die Zahlen, Direktor, ich habe sie nicht gemacht.\n"
+"\n"
+"Direktor: In Ihrer früheren E-Mail haben Sie behauptet, dass das Problem durch den Biodrucker gelöst würde.\n"
+"\n"
+"Jones: Ja, die Gewichtsproblematik. Und es wurde gelöst. Das Problem ist jetzt die wahnsinnige Menge an Energie, die das große Ding jedes Mal frisst, wenn es einen Kolonisten druckt.\n"
+"\n"
+"Direktor: Also, wie sollen wir diese Zielwerte erreichen? Fossile Brennstoffe sind erschöpft, Atomkraft ist geächtet, Solar ist mit diesem Smog fast unmöglich.\n"
+"\n"
+"Jones: Ich weiß nicht. Deshalb haben Sie Wissenschaftler, ich berechne nur Zahlen. Allerdings sollten Sie auf fossile Brennstoffe und Kernenergie verzichten. Wenn Sie die Rakete mit ein paar Tonnen Treibstoff aufladen müssen, dann sind wir wieder ganz am Anfang des Gewichtsproblems. Es muss etwas Raffiniertes sein.\n"
+"\n"
+"Direktor: Danke, Dr. Jones. Sie können gehen.\n"
+"\n"
+"[LOG ENDE]"
 
 #. STRINGS.CODEX.REVISITEDNUMBERS.SUBTITLE
 msgctxt "STRINGS.CODEX.REVISITEDNUMBERS.SUBTITLE"
@@ -12841,7 +12859,7 @@ msgstr "VERSCHLÜSSELUNGSEBENE: EINS"
 #. STRINGS.CODEX.REVISITEDNUMBERS.TITLE
 msgctxt "STRINGS.CODEX.REVISITEDNUMBERS.TITLE"
 msgid "Revisited Numbers"
-msgstr ""
+msgstr "Wieder mal Zahlen"
 
 #. STRINGS.CODEX.ROYAL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ROYAL.BODY.CONTAINER1"
