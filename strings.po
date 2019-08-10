@@ -2283,7 +2283,7 @@ msgid ""
 "Only Duplicants with one of the following <style=\"KKeyword\">Skills</style> can operate this building:\n"
 "{Skills}"
 msgstr ""
-"Nur Duplikanten mit einer der folgenden <style=\"KKeyword\">Fertigkeiten</style>können dieses Gebäude betreiben:\n"
+"Nur Duplikanten mit einer der folgenden <style=\"KKeyword\">Fertigkeiten</style> können dieses Gebäude betreiben:\n"
 "{Skills}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
@@ -15469,7 +15469,7 @@ msgstr "Fleischfresser"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EAT_MEAT_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EAT_MEAT_DESCRIPTION"
 msgid "Have Duplicants eat 400,000kcal of critter meat before the 100th cycle."
-msgstr "Lasse vor dem 100. Zyklus Duplikanten 400.000kcal Fleisch von Tieren essen."
+msgstr "Lasse vor dem 100. Zyklus Duplikanten 400.000 kcal Fleisch von Tieren essen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EQUIP_N_DUPES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EQUIP_N_DUPES"
@@ -15569,7 +15569,7 @@ msgstr "Locavore"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX_DESCRIPTION"
 msgid "Have Duplicants consume 400,000kcal of food without planting any seeds in Planter Boxes, Farm Tiles, or Hydroponic Farms."
-msgstr "Lasse deine Duplikanten 400.000kcal Nahrung konsumieren, ohne Samen in Pflanzkisten, Äckern oder Hydroponischen Farmen zu pflanzen."
+msgstr "Lasse deine Duplikanten 400.000 kcal Nahrung konsumieren, ohne Samen in Pflanzkisten, Äckern oder Hydroponischen Farmen zu pflanzen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS"
@@ -40393,7 +40393,7 @@ msgstr "Gespeicherte <link=\"HEAT\">Temperatur</link>: {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.KCAL_PER_CYCLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.KCAL_PER_CYCLE"
 msgid "<link=\"FOOD\">KCal</link> per cycle: {0}"
-msgstr "<link=\"FOOD\">KCal</link> pro Zyklus: {0}"
+msgstr "<link=\"FOOD\">kcal</link> pro Zyklus: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.LIQUIDCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.LIQUIDCOOLING"
