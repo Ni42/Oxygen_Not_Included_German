@@ -8227,7 +8227,7 @@ msgstr "<link=\"RANCHSTATION\">Pflege-Station</link>"
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
 msgid "Ration boxes keep food safe from hungry critters, but don't slow food spoilage."
-msgstr "Rationsboxen beschützen Lebensmittel von hungrigen Kreaturen. Aber nicht vor langsam Verderben."
+msgstr "Rationsboxen beschützen Lebensmittel von hungrigen Kreaturen. Aber nicht vor langsamen Verderben."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
@@ -8829,7 +8829,7 @@ msgid ""
 "\n"
 "Outputs <link=\"WATER\">Water</link>."
 msgstr ""
-"Zieht <link=\"STEAM\">Dampf</link> aus den Fliesen direkt unter dem Fundament der Maschine ein und erzeugt daraus elektrische <link=\"POWER\">Power</link>.\n"
+"Zieht <link=\"STEAM\">Dampf</link> aus den Fliesen direkt unter dem Fundament der Maschine ein und erzeugt daraus elektrische <link=\"POWER\">Energie</link>.\n"
 "\n"
 "Gibt <link=\"WATER\">Wasser</link> aus."
 
@@ -15324,7 +15324,7 @@ msgstr "Die große Flucht"
 #. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION"
 msgid "Breach the {0}"
-msgstr "Durchbreche die {0}"
+msgstr "Durchbreche den {0}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.REQUIREMENTS.REACHED_SPACE_DESTINATION_DESCRIPTION"
@@ -15449,7 +15449,7 @@ msgstr "Es ist nicht roh"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD_DESCRIPTION"
 msgid "Have a Duplicant eat any cooked meal prepared at an Electric Grill or Gas Range."
-msgstr "Laß einen Duplikanten jede gekochte Mahlzeit essen, die an einem elektrischen Grill oder Gasherd zubereitet werden kann."
+msgstr "Laß einen Duplikanten eine gekochte Mahlzeit essen, die an einem elektrischen Grill oder Gasherd zubereitet wurde."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CURED_DISEASE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CURED_DISEASE"
@@ -15634,7 +15634,7 @@ msgstr "Finde und zähme von jeder Tierart der Welt einen. Nur Standardgestalten
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO"
 msgid "Moovin' On Up"
-msgstr ""
+msgstr "Muhend aufwärts"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_GASSYMOO_DESCRIPTION"
@@ -15654,7 +15654,7 @@ msgstr "Duplikanten müssen mindestens 10.000 m mit Transitröhren zurücklegt h
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES"
 msgid "No Place Like Clone"
-msgstr ""
+msgstr "Nichts ist besser als Klonen"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TWENTY_DUPES_DESCRIPTION"
@@ -32096,7 +32096,7 @@ msgstr "AlternativeAnsicht"
 #. STRINGS.INPUT_BINDINGS.ROOT.ATTACK
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ATTACK"
 msgid "Attack"
-msgstr "Angriff"
+msgstr "Angreifen"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL"
@@ -32111,7 +32111,7 @@ msgstr "GebäudeZerlegen"
 #. STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME"
 msgid "CameraHome"
-msgstr "KameraStartpunkt"
+msgstr "Zum Biodrucker springen"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.CAPTURE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CAPTURE"
@@ -32126,12 +32126,12 @@ msgstr "Löschen"
 #. STRINGS.INPUT_BINDINGS.ROOT.COPYBUILDING
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.COPYBUILDING"
 msgid "CopyBuilding"
-msgstr "CopyBuilding"
+msgstr "Gebäude kopieren"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.CYCLESPEED
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CYCLESPEED"
 msgid "CycleSpeed"
-msgstr "ZyklusGeschwindigkeit"
+msgstr "Geschwindigkeit des Zyklus ändern"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.DIG
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.DIG"
@@ -32146,7 +32146,7 @@ msgstr "Desinfizieren"
 #. STRINGS.INPUT_BINDINGS.ROOT.EMPTYPIPE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.EMPTYPIPE"
 msgid "EmptyPipe"
-msgstr "EmptyPipe"
+msgstr "Rohr entleeren"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.HARVEST
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.HARVEST"
@@ -32161,22 +32161,22 @@ msgstr "Wischen"
 #. STRINGS.INPUT_BINDINGS.ROOT.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.NAME"
 msgid "Global"
-msgstr ""
+msgstr "Global"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY1
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY1"
 msgid "Overlay1"
-msgstr "Overlay1"
+msgstr "Sauerstoff-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY10
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY10"
 msgid "Overlay10"
-msgstr "Overlay10"
+msgstr "Landwirtschafts-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY11
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY11"
 msgid "Overlay11"
-msgstr "Overlay11"
+msgstr "Raum-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY12
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY12"
@@ -32201,67 +32201,67 @@ msgstr "Overlay15"
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY2
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY2"
 msgid "Overlay2"
-msgstr "Overlay2"
+msgstr "Stromnetz-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY3
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY3"
 msgid "Overlay3"
-msgstr "Overlay3"
+msgstr "Temperatur-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY4
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY4"
 msgid "Overlay4"
-msgstr "Overlay4"
+msgstr "Materialien-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY5
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY5"
 msgid "Overlay5"
-msgstr "Overlay5"
+msgstr "Licht-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6"
 msgid "Overlay6"
-msgstr "Overlay6"
+msgstr "Flüssigkeits-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7"
 msgid "Overlay7"
-msgstr "Overlay7"
+msgstr "Belüftungs-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY8
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY8"
 msgid "Overlay8"
-msgstr "Overlay8"
+msgstr "Dekorations-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY9
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY9"
 msgid "Overlay9"
-msgstr "Overlay9"
+msgstr "Keim-Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PANDOWN
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANDOWN"
 msgid "PanDown"
-msgstr "SchwenkenUnten"
+msgstr "Nach unten Schwenken"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PANLEFT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANLEFT"
 msgid "PanLeft"
-msgstr "SchwenkenLinks"
+msgstr "Nach links Schwenken"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PANRIGHT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANRIGHT"
 msgid "PanRight"
-msgstr "SchwenkenRechts"
+msgstr "Nach rechts Schwenken"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PANUP
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANUP"
 msgid "PanUp"
-msgstr "SchwenkenOben"
+msgstr "Nach oben Schwenken"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN1
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN1"
 msgid "Plan1"
-msgstr "Plan1"
+msgstr "Basis-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN10
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN10"
@@ -32281,42 +32281,42 @@ msgstr "Plan12"
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN2
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN2"
 msgid "Plan2"
-msgstr "Plan2"
+msgstr "Sauerstoff-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN3
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN3"
 msgid "Plan3"
-msgstr "Plan3"
+msgstr "Strom-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN4
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN4"
 msgid "Plan4"
-msgstr "Plan4"
+msgstr "Nahrungs-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN5
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN5"
 msgid "Plan5"
-msgstr "Plan5"
+msgstr "Sanitär-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN6
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN6"
 msgid "Plan6"
-msgstr "Plan6"
+msgstr "Lüftungs-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN7
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN7"
 msgid "Plan7"
-msgstr "Plan7"
+msgstr "Veredeln-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN8
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN8"
 msgid "Plan8"
-msgstr "Plan8"
+msgstr "Medizin-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN9
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN9"
 msgid "Plan9"
-msgstr "Plan9"
+msgstr "Möbel-Tab"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE"
@@ -32336,12 +32336,12 @@ msgstr "Schneller"
 #. STRINGS.INPUT_BINDINGS.ROOT.TOGGLEPAUSE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.TOGGLEPAUSE"
 msgid "TogglePause"
-msgstr "PauseUmschalten"
+msgstr "Pause ein/ausschalten"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.TOGGLESCREENSHOTMODE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.TOGGLESCREENSHOTMODE"
 msgid "ToggleScreenshotMode"
-msgstr "ScreenshotModusUmschalten"
+msgstr "Screenshotmodus ein/ausschalten"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.ZOOMIN
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ZOOMIN"
@@ -43645,6 +43645,12 @@ msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION"
 msgid "Note: These values are configured per save file"
 msgstr "Hinweis: Diese Werte sind pro Speicherstand definiert"
 
+# TODO: Hier steht bewusst nicht "Objekt", damit es platztechnisch passt.
+#. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION
+msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION"
+msgid "Disabled"
+msgstr "Deaktiviert"
+
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_RESOLUTION"
 msgid "Timelapse resolution:"
@@ -45453,6 +45459,17 @@ msgstr ""
 "Beim Versuch, auf die Festplatte zu schreiben, trat ein unbefugter Zugriffsfehler auf.\n"
 "Bitte überprüfe, ob du über Schreibrechte verfügst:\n"
 "{0}"
+
+#. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.PLAYER_PREFS_CORRUPTED
+msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.PLAYER_PREFS_CORRUPTED"
+msgid ""
+"A problem occurred while loading your game options.\n"
+"They have been reset to their default settings.\n"
+"\n"
+msgstr ""
+"Beim laden der Spieleinstellungen ist ein Problem aufgetreten.\n"
+"Die Einstellungen wurden auf die Standardwerte zurückgesetzt.\n"
+"\n"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_INSUFFICIENT_SPACE
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_INSUFFICIENT_SPACE"
@@ -50397,7 +50414,7 @@ msgstr "{0} Zugewiesen"
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DROPDOWN_BLANK
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DROPDOWN_BLANK"
 msgid "<i>Move Duplicant...</i>"
-msgstr "<i>Verschiebe Duplikant...</i>"
+msgstr "<i>Duplikant versetzen...</i>"
 
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE_EDITOR
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_EDITOR"
@@ -52875,7 +52892,7 @@ msgid ""
 msgstr ""
 "Verwalte die Prioritäten meiner Duplikanten {Hotkey}.\n"
 "------------------\n"
-"<style=\"KKeyword\">Duplikanten-Prioritäten</style> werden <i>vor</i> dem <style=\"KKeyword\">Gebäude-Prioritäten</style> berechnet, die mit dem <b>Prioritätswerkzeug</b> <color><color=#F44A4A>[P]</b></color> gesetzt wurden"
+"<style=\"KKeyword\">Duplikanten-Prioritäten</style> werden <i>vor</i> dem <style=\"KKeyword\">Gebäude-Prioritäten</style> berechnet, die mit dem <b>Prioritätswerkzeug</b> <color=#F44A4A>[P]</b></color> gesetzt wurden"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_PAUSEMENU
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_PAUSEMENU"
