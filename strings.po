@@ -2200,7 +2200,7 @@ msgstr "Hohes Schmelzrisiko"
 #. STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.TOOLTIP"
 msgid "This pipe is in danger of melting at the current <style=\"KKeyword\">Temperature</style>"
-msgstr "Dieses Rohr steht aufgrund seiner aktuellen <style=\"KKeyword\">Temperatur</style>kurz vor der Schmelze"
+msgstr "Dieses Rohr steht aufgrund seiner aktuellen <style=\"KKeyword\">Temperatur</style> kurz vor der Schmelze"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME"
@@ -2424,7 +2424,7 @@ msgid ""
 "\n"
 "It consumes <style=\"consumed\">{2}</style> per use"
 msgstr ""
-"Dieses Gebäude hat <b>{0}</b> <style=\"KKeyword\">Energie</style>gespeichert\n"
+"Dieses Gebäude hat <b>{0}</b> <style=\"KKeyword\">Energie</style> gespeichert\n"
 "\n"
 "Es verbraucht <style=\"consumed\">{2}</style> pro Benutzung"
 
@@ -4253,7 +4253,7 @@ msgid ""
 "\n"
 "Duplicants will not crack eggs unless tasks are queued."
 msgstr ""
-"Verwandelt lebensfähig <link=\"CRITTERS\">Tiereier</link> in Kochzutaten.\n"
+"Verwandelt lebensfähige <link=\"CRITTERS\">Tiereier</link> in Kochzutaten.\n"
 "\n"
 "Zerbrochene Eier können nicht schlüpfen.\n"
 "\n"
@@ -8667,7 +8667,7 @@ msgstr "Automatisierte Systeme sparen Zeit und Energie, indem sie keine Duplikan
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.EFFECT"
 msgid "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn <link=\"ELEMENTSSOLID\">Solid Material</link> transport on or off."
-msgstr "Wird an ein <link=\"LOGIC\">Automatisierungsnetz</link> angeschlossen, um den Druchfluss von <link=\"ELEMENTSSOLID\">festen Materialien</link> automatisch ein- oder auszuschalten."
+msgstr "Wird an ein <link=\"LOGIC\">Automatisierungsnetz</link> angeschlossen, um den Durchfluss von <link=\"ELEMENTSSOLID\">festen Materialien</link> automatisch ein- oder auszuschalten."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT"
@@ -9641,7 +9641,7 @@ msgstr ""
 "\n"
 "Was bedeutet das für den durchschnittlichen Haushalt?\n"
 "\n"
-"Frustrationen beim Abendessen gehören der Vergangenheit an! Wählen Sie einfach eines der 5398 vorprogrammierten Rezepte des Druckers aus und voila! Köstlicher Schmorbraten in nur 0,87 Sekunden.\n"
+"Frustrationen beim Abendessen gehören der Vergangenheit an! Wählen Sie einfach eines der 5398 vorprogrammierten Rezepte des Druckers aus und voilà! Köstlicher Schmorbraten in nur 0,87 Sekunden.\n"
 "\n"
 "Bevorzugen Sie selbst zu kochen? Programmieren Sie Ihre eigenen Rezepte oder drucken Sie frische Zutaten für Ihre eigene hausgemachte Mahlzeit. Ausflüge in den Lebensmittelgeschäft gehören der Vergangenheit an!\n"
 "\n"
@@ -10792,7 +10792,7 @@ msgid ""
 "From: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></smallcaps>\n"
 "------------------\n"
 msgstr ""
-"<smallcaps>An: <b>Director Stern</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\n"
+"<smallcaps>An: <b>Direktor Stern</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\n"
 "Von: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></smallcaps>\n"
 "------------------\n"
 
@@ -11724,7 +11724,7 @@ msgstr ""
 "\n"
 "Eine <link=\"LIQUIDPUMP\">Flüssigkeitspumpe</link> könnte nur dann aktiviert werden, wenn ein <link=\"LOGICELEMENTSENSORLIQUID\">Flüssigkeitselementsensor</link> Wasser detektiert.\n"
 "\n"
-"Ein <link=\"AIRCONDITIONER\">Klimagerät</link> könnte nur dann aktiviert werden, wenn der <link=\"LOGICTEMPERATURESENSOR\">Thermosensor</link> eine zu hohe Temerpatur misst.\n"
+"Ein <link=\"AIRCONDITIONER\">Klimagerät</link> könnte nur dann aktiviert werden, wenn der <link=\"LOGICTEMPERATURESENSOR\">Thermosensor</link> eine zu hohe Temperatur misst.\n"
 "\n"
 
 #. STRINGS.CODEX.AUTOMATION.PARAGRAPH_2
@@ -12852,7 +12852,7 @@ msgstr "Nucleoid-Artikel"
 #. STRINGS.CODEX.B8_POLITEREQUEST.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B8_POLITEREQUEST.BODY.CONTAINER1"
 msgid "<indent=5%>To whoever is entering Director Stern's office to move objects on her desk one inch to the left, please desist as she finds it quite unnerving.</indent>"
-msgstr "<indent=5%>Wer auch immer das Büro von Director Stern betritt, um seine wissenschaftlichen Trophäen einen Zentimeter nach links zu verschieben, bitte unterlassen Sie es, da er es ziemlich beunruhigend findet.</indent>"
+msgstr "<indent=5%>Wer auch immer das Büro von Direktor Stern betritt, um seine wissenschaftlichen Trophäen einen Zentimeter nach links zu verschieben, bitte unterlassen Sie es, da er es ziemlich beunruhigend findet.</indent>"
 
 #. STRINGS.CODEX.B8_POLITEREQUEST.BODY.EMAILHEADER
 msgctxt "STRINGS.CODEX.B8_POLITEREQUEST.BODY.EMAILHEADER"
@@ -13064,7 +13064,7 @@ msgid ""
 "Low Decor can increase Duplicant <link=\"STRESS\">Stress</link>. Thankfully, pretty things tend to increase the Decor value of an area. Each Duplicant has a different idea of what is a high enough Decor value. If the average Decor that a Duplicant experiences in a cycle is below their expectations, they will suffer a stress penalty.\n"
 "\n"
 msgstr ""
-"Niedrige Dekoration kann den <link=\"STRESS\">Stress</link> von Duplikanten erhöhen. Glücklicherweise neigen hübsche Dinge dazu, den Dekorationswert eines Bereichs zu erhöhen. Jeder Duplikant hat eine andere Vorstellung davon, was ein ausreichend hoher Dekorationswert ist. Wenn die durchschnittliche Dekoration, die ein Duplikant in einem Zyklus erfährt, unter seinen Erwartungen liegt, wird er eine Nachteil duch Stress erleiden.\n"
+"Niedrige Dekoration kann den <link=\"STRESS\">Stress</link> von Duplikanten erhöhen. Glücklicherweise neigen hübsche Dinge dazu, den Dekorationswert eines Bereichs zu erhöhen. Jeder Duplikant hat eine andere Vorstellung davon, was ein ausreichend hoher Dekorationswert ist. Wenn die durchschnittliche Dekoration, die ein Duplikant in einem Zyklus erfährt, unter seinen Erwartungen liegt, wird er eine Nachteil durch Stress erleiden.\n"
 "\n"
 "\n"
 
@@ -13872,7 +13872,7 @@ msgid ""
 msgstr ""
 "Ich habe genug Ooze synthetisiert, um einen neuen Duplikanten zu drucken; alles, was ich tun muss, ist, die Blaupause auszuwählen.\n"
 "\n"
-"Ein weiteres Paar arbeitende Hände wäre hilfreich in der Kolonie hilfreich, aber es würde einen weiteren Mund zum Füttern und ein Paar Lungen zum Füllen bedeuten.\n"
+"Ein weiteres Paar arbeitende Hände wären in der Kolonie hilfreich, aber es würde einen weiteren Mund zum Füttern und ein Paar Lungen zum Füllen bedeuten.\n"
 "\n"
 "Natürlich konnte ich jederzeit Hilfsgüter drucken, um meinen derzeitigen Duplikaten zu helfen. Ich bin sicher, sie würden es zu schätzen wissen.\n"
 "\n"
@@ -15746,7 +15746,7 @@ msgstr "Trautes Heim"
 #. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT"
 msgid "Build a Great Monument"
-msgstr "Baue eine großartiges Monument"
+msgstr "Baue ein großartiges Monument"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.REQUIREMENTS.BUILT_MONUMENT_DESCRIPTION"
@@ -15996,7 +15996,7 @@ msgstr "Normale Fortpflanzung"
 #. STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.TOOLTIP"
 msgid "This is the base speed with which critters produce new <style=\"KKeyword\">Eggs</style>"
-msgstr "Das ist die Grundfrequenz, mit der das Tier neue <style=\"KKeyword\">Eier</style>legt"
+msgstr "Das ist die Grundfrequenz, mit der das Tier neue <style=\"KKeyword\">Eier</style> legt"
 
 #. STRINGS.CREATURES.MODIFIERS.BASE_INCUBATION_RATE.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.BASE_INCUBATION_RATE.NAME"
@@ -19282,7 +19282,7 @@ msgstr "Verbrühende <style=\"KKeyword\">Temperaturen</style> fügen diesen Dupl
 #. STRINGS.CREATURES.STATUSITEMS.SCALDING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.TOOLTIP"
 msgid "Current external <style=\"KKeyword\">Temperature</style> is perilously high [<b>{ExternalTemperature}</b> / <b>{TargetTemperature}</b>]"
-msgstr "Die aktuelle <style=\"KKeyword\">Außentemperaturen</style>ist gefährlich hoch [<b>{ExternalTemperature}</b> / <b>{TargetTemperature}</b>]"
+msgstr "Die aktuelle <style=\"KKeyword\">Außentemperaturen</style> ist gefährlich hoch [<b>{ExternalTemperature}</b> / <b>{TargetTemperature}</b>]"
 
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME"
@@ -22314,7 +22314,7 @@ msgstr "Erbricht sich aus Stress"
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.TOOLTIP"
 msgid "Some people deal with <style=\"KKeyword\">Stress</style> better than others"
-msgstr "Manche Leute können mit <style=\"KKeyword\">Stress</style>besser umgehen als andere"
+msgstr "Manche Leute können mit <style=\"KKeyword\">Stress</style> besser umgehen als andere"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
@@ -22805,7 +22805,7 @@ msgstr "Gehemmt durch:"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_ON_TOOLTIP"
 msgid "Contact with these substances will slowly reduce <style=\"KKeyword\">Germ</style> numbers"
-msgstr "Der Kontakt mit diesen Substanzen reduziert die <style=\"KKeyword\">Keimzahlen</style>langsam"
+msgstr "Der Kontakt mit diesen Substanzen reduziert die <style=\"KKeyword\">Keimzahlen</style> langsam"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_TOOLTIP"
@@ -22991,7 +22991,7 @@ msgstr "Übergeben"
 #. STRINGS.DUPLICANTS.DISEASES.FOODSICKNESS.VOMIT_SYMPTOM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODSICKNESS.VOMIT_SYMPTOM_TOOLTIP"
 msgid "Duplicants periodically vomit throughout the day, producing additional <style=\"KKeyword\">Germs</style> and losing <style=\"KKeyword\">Calories</style>"
-msgstr "Duplikanten werden sich den ganzen Tag regelmäßig übergeben, wodurch sie zusätzliche <style=\"KKeyword\">Keime</style> produzieren und <style=\"KKeyword\">Kalorien</style>verlieren"
+msgstr "Duplikanten werden sich den ganzen Tag regelmäßig übergeben, wodurch sie zusätzliche <style=\"KKeyword\">Keime</style> produzieren und <style=\"KKeyword\">Kalorien</style> verlieren"
 
 #. STRINGS.DUPLICANTS.DISEASES.GERMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.GERMS"
@@ -23737,7 +23737,7 @@ msgstr "Dekor des letzten Zyklus: Schlecht"
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR0.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR0.TOOLTIP"
 msgid "This Duplicant thought the overall <style=\"KKeyword\">Decor</style> yesterday was quite poor"
-msgstr "Dieser Duplikant fand die <style=\"KKeyword\">Dekoration</style>gestern ziemlich schlecht"
+msgstr "Dieser Duplikant fand die <style=\"KKeyword\">Dekoration</style> gestern ziemlich schlecht"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR1.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR1.NAME"
@@ -25188,7 +25188,7 @@ msgstr "Nasse Füße"
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.TOOLTIP"
 msgid "This Duplicant recently stepped in <style=\"KKeyword\">Liquid</style>"
-msgstr "Dieser Duplikant ist in <style=\"KKeyword\">Flüssigkeit</style>getreten"
+msgstr "Dieser Duplikant ist in <style=\"KKeyword\">Flüssigkeit</style> getreten"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKENCOURAGED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKENCOURAGED.NAME"
@@ -25345,7 +25345,7 @@ msgid ""
 "This Duplicant is content to eat <style=\"KKeyword\">Food</style> with a <style=\"KKeyword\">Food Quality</style> of <b>{0}</b> or higher"
 msgstr ""
 "\n"
-"Dieser Duplikant ist zufrieden mit <style=\"KKeyword\">Nahrung</style> mit einer <style=\"KKeyword\">Nahrungsqualität</style>von <b>{0}</b> oder höher"
+"Dieser Duplikant ist zufrieden mit <style=\"KKeyword\">Nahrung</style> mit einer <style=\"KKeyword\">Nahrungsqualität</style> von <b>{0}</b> oder höher"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD"
@@ -26294,9 +26294,9 @@ msgid ""
 "\n"
 "When critters reach zero <style=\"KKeyword\">Health</style>, they will die immediately"
 msgstr ""
-"Wenn Duplikanten eine <style=\"KKeyword\">Gesundheit</style>von Null erreichen werden sie handlungsunfähig und müssen gerettet werden.\n"
+"Wenn Duplikanten eine <style=\"KKeyword\">Gesundheit</style> von Null erreichen werden sie handlungsunfähig und müssen gerettet werden.\n"
 "\n"
-"Wenn Tiere eine <style=\"KKeyword\">Gesundheit</style>von Null erreichen werden sie sofort sterben"
+"Wenn Tiere eine <style=\"KKeyword\">Gesundheit</style> von Null erreichen werden sie sofort sterben"
 
 #. STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME"
@@ -27107,7 +27107,7 @@ msgstr "Beleuchteter Arbeitsplatz"
 #. STRINGS.DUPLICANTS.STATUSITEMS.LIGHTWORKEFFICIENCYBONUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LIGHTWORKEFFICIENCYBONUS.TOOLTIP"
 msgid "Better visibility from the <style=\"KKeyword\">Light</style> is allowing this Duplicant to work 15% faster"
-msgstr "Das helle natürliche <style=\"KKeyword\">Licht</style>erlaubt diesem Duplikanten, 15% schneller zu arbeiten"
+msgstr "Das helle natürliche <style=\"KKeyword\">Licht</style> erlaubt diesem Duplikanten, 15% schneller zu arbeiten"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWIMMUNITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWIMMUNITY.NAME"
@@ -27237,7 +27237,7 @@ msgstr "Diese Duplikanten sind unter <style=\"KKeyword\">Stress</style> zusammen
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP"
 msgid "<style=\"KKeyword\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr "<style=\"KKeyword\">Stress</style>hat diesen Duplikanten völlig lebensunfähig gemacht"
+msgstr "<style=\"KKeyword\">Stress</style> hat diesen Duplikanten völlig lebensunfähig gemacht"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME"
@@ -27419,7 +27419,7 @@ msgstr "Trostlose Umgebung"
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
 msgid "This Duplicant is depressed by the lack of <style=\"KKeyword\">Decor</style> in this area"
-msgstr "Dieser Duplikant ist deprimiert über die <style=\"KKeyword\">Dekorationsmängel</style>in diesem Bereich"
+msgstr "Dieser Duplikant ist deprimiert über die <style=\"KKeyword\">Dekorationsmängel</style> in diesem Bereich"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORQUALITYOFLIFE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORQUALITYOFLIFE.NAME"
@@ -27878,7 +27878,7 @@ msgid ""
 msgstr ""
 "Dieser Duplikant wird von Hunger verzehrt\n"
 "------------------\n"
-"Verbessere die <style=\"KKeyword\">Moral</style>dieses Duplikanten, bevor er alle gelagerten <style=\"KKeyword\">Lebensmittel</style>der Kolonie isst"
+"Verbessere die <style=\"KKeyword\">Moral</style> dieses Duplikanten, bevor er alle gelagerten <style=\"KKeyword\">Lebensmittel</style> der Kolonie isst"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_UGLY_CRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_UGLY_CRIER.NAME"
@@ -28906,7 +28906,7 @@ msgstr "Leichtfüßig"
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
 msgid "If this Duplicant gets too <style=\"KKeyword\">Stressed</style> it won't be pretty"
-msgstr "Es wird wirklich unangenehm, wenn dieser Duplikant zu stark <style=\"KKeyword\">gestresst</style>wird"
+msgstr "Es wird wirklich unangenehm, wenn dieser Duplikant zu stark <style=\"KKeyword\">gestresst</style> wird"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
@@ -28973,7 +28973,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ALUMINUM.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUM.NAME"
 msgid "<link=\"ALUMINUM\">Aluminum</link>"
-msgstr "<link=\"ALUMINUM\">Aluminum</link>"
+msgstr "<link=\"ALUMINUM\">Aluminium</link>"
 
 #. STRINGS.ELEMENTS.ALUMINUMGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ALUMINUMGAS.DESC"
@@ -28983,7 +28983,7 @@ msgstr "(Al) Aluminium ist ein <link=\"REFINEDMETAL\">Metall</link> geringer Dic
 #. STRINGS.ELEMENTS.ALUMINUMGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUMGAS.NAME"
 msgid "<link=\"ALUMINUMGAS\">Aluminum</link>"
-msgstr "<link=\"ALUMINUMGAS\">Aluminum</link>"
+msgstr "<link=\"ALUMINUMGAS\">Aluminium</link>"
 
 #. STRINGS.ELEMENTS.ALUMINUMORE.DESC
 msgctxt "STRINGS.ELEMENTS.ALUMINUMORE.DESC"
@@ -28999,7 +28999,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ALUMINUMORE.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUMORE.NAME"
 msgid "<link=\"ALUMINUMORE\">Aluminum Ore</link>"
-msgstr "<link=\"ALUMINUMORE\">Aluminumerz</link>"
+msgstr "<link=\"ALUMINUMORE\">Aluminiumerz</link>"
 
 #. STRINGS.ELEMENTS.BITUMEN.DESC
 msgctxt "STRINGS.ELEMENTS.BITUMEN.DESC"
@@ -29967,7 +29967,7 @@ msgstr "<link=\"HEAT\">Überhitzungstemperatur</link>: {0}"
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR"
 msgid "This material will add <b>{0}</b> to the finished building's <style=\"KKeyword\">Decor</style>"
-msgstr "Dieses Material wird <b>{0}</b> zum fertigen <style=\"KKeyword\">Dekor</style>des Gebäudes hinzufügen"
+msgstr "Dieses Material wird <b>{0}</b> zum fertigen <style=\"KKeyword\">Dekor</style> des Gebäudes hinzufügen"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER"
@@ -29981,7 +29981,7 @@ msgid ""
 "\n"
 "Specific Heat Capacity: {1} DTU to raise 1g by 1K"
 msgstr ""
-"<style=\"KKeyword\">Langsam aufheizende</style>Materialien benötigen viel Energie für eine Änderung der <style=\"KKeyword\">Temperatur</style>, erwärmen und kühlen sich also langsam ab\n"
+"<style=\"KKeyword\">Langsam aufheizende</style> Materialien benötigen viel Energie für eine Änderung der <style=\"KKeyword\">Temperatur</style>, erwärmen und kühlen sich also langsam ab\n"
 "\n"
 "Spezifische Wärmekapazität: {1} DTU um 1g um 1K zu erwärmen"
 
@@ -30075,7 +30075,7 @@ msgstr "(Al) Aluminium ist ein <link=\"REFINEDMETAL\">Metall</link> geringer Dic
 #. STRINGS.ELEMENTS.MOLTENALUMINUM.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENALUMINUM.NAME"
 msgid "<link=\"MOLTENALUMINUM\">Molten Aluminum</link>"
-msgstr "<link=\"MOLTENALUMINUM\">Geschmolzenes Aluminum</link>"
+msgstr "<link=\"MOLTENALUMINUM\">Geschmolzenes Aluminium</link>"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
@@ -35428,7 +35428,7 @@ msgstr "Hohe Priorität"
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
 msgid "This <style=\"KKeyword\">Errand</style> has been marked as important and will be preferred over other pending <style=\"KKeyword\">Errands</style>"
-msgstr "Dieser <style=\"KKeyword\">Auftrag</style> wurde als wichtig eingestuft und wird gegenüber anderen anstehenden <style=\"KKeyword\">Aufträgen</style>bevorzugt"
+msgstr "Dieser <style=\"KKeyword\">Auftrag</style> wurde als wichtig eingestuft und wird gegenüber anderen anstehenden <style=\"KKeyword\">Aufträgen</style> bevorzugt"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME"
@@ -35448,7 +35448,7 @@ msgstr "Weltraum-Einwirkung"
 #. STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP"
 msgid "This region is exposed to the vacuum of space and will result in the loss of <style=\"KKeyword\">Gas</style> and <style=\"KKeyword\">Liquid</style> resources"
-msgstr "Diese Region ist dem Vakuum des Weltalls ausgesetzt, was im fortwährenden Verlust von <style=\"KKeyword\">Gas</style>und <style=\"KKeyword\">Flüssigkeit</style>resultiert"
+msgstr "Diese Region ist dem Vakuum des Weltalls ausgesetzt, was im fortwährenden Verlust von <style=\"KKeyword\">Gas</style> und <style=\"KKeyword\">Flüssigkeit</style>resultiert"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME"
@@ -48121,7 +48121,7 @@ msgid ""
 "This port is not connected to an automation grid"
 msgstr ""
 "<b>Getrennt</b>\n"
-"Dieser Anschluss ist nicht mit einem Automatisierungnetz verbunden"
+"Dieser Anschluss ist nicht mit einem Automatisierungsnetz verbunden"
 
 #. STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.INPUT
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.INPUT"
@@ -48650,7 +48650,7 @@ msgstr "Hochenergetische Zustandsänderung"
 #. STRINGS.UI.OVERLAYS.STATECHANGE.LOWPOINT
 msgctxt "STRINGS.UI.OVERLAYS.STATECHANGE.LOWPOINT"
 msgid "Low energy state change"
-msgstr "Niedrigenergetische Zustandsänderung"
+msgstr "Niederenergetische Zustandsänderung"
 
 #. STRINGS.UI.OVERLAYS.STATECHANGE.STABLE
 msgctxt "STRINGS.UI.OVERLAYS.STATECHANGE.STABLE"
@@ -50311,7 +50311,7 @@ msgid ""
 "\n"
 "It's important when scheduling to maintain a good work-life balance for my Duplicants to maintain their health and prevent Morale loss."
 msgstr ""
-"Während der Arbeitszeit müssen Duplikanten die Aufagben erledigen, die ich für sie in der Kolonie vorgesehen habe.\n"
+"Während der Arbeitszeit müssen Duplikanten die Aufgaben erledigen, die ich für sie in der Kolonie vorgesehen habe.\n"
 "\n"
 "Bei der Zeitplanung ist eine gute Work-Life-Balance ausschlaggebend für die Gesundheit und Moral meiner Duplikanten."
 
