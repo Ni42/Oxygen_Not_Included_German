@@ -3159,7 +3159,7 @@ msgstr "<link=\"ADVANCEDDOCTORSTATION\">Krankenhaus</link>"
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
 msgid "Super computers unlock higher technology tiers than research stations alone."
-msgstr "Supercomputer schalten höhere Technologiestufen als Forschungsstationen frei."
+msgstr "Super-Computer schalten höhere Technologiestufen als Forschungsstationen frei."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
@@ -3175,9 +3175,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
 msgid "<link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>"
-msgstr ""
-"<link=\"ADVANCEDRESEARCHCENTER\">Super-\n"
-"computer</link>"
+msgstr "<link=\"ADVANCEDRESEARCHCENTER\">Super-Computer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC"
@@ -3808,9 +3806,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.NAME"
 msgid "<link=\"COMETDETECTOR\">Space Scanner</link>"
-msgstr ""
-"<link=\"COMETDETECTOR\">Weltraum-\n"
-"scanner</link>"
+msgstr "<link=\"COMETDETECTOR\">Weltraum­scanner</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.DESC"
@@ -3861,9 +3857,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.NAME"
 msgid "<link=\"COMMANDMODULE\">Command Capsule</link>"
-msgstr ""
-"<link=\"COMMANDMODULE\">Kommando-\n"
-"modul</link>"
+msgstr "<link=\"COMMANDMODULE\">Kommando­modul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
@@ -4432,7 +4426,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FARMSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMSTATION.NAME"
 msgid "<link=\"FARMSTATION\">Farm Station</link>"
-msgstr "<link=\"FARMSTATION\">Landwirtschafts-Station</link>"
+msgstr "<link=\"FARMSTATION\">Landwirt­schafts-Station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
@@ -4468,9 +4462,7 @@ msgstr "Verbraucht <link=\"DIRTYWATER\">verschmutztes Wasser</link> um <link=\"F
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
 msgid "<link=\"FERTILIZERMAKER\">Fertilizer Synthesizer</link>"
-msgstr ""
-"<link=\"FERTILIZERMAKER\">Dünger-\n"
-"Fabrikator</link>"
+msgstr "<link=\"FERTILIZERMAKER\">Dünger-Fabrikator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FIREPOLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FIREPOLE.DESC"
@@ -4769,9 +4761,7 @@ msgstr "Fährt die <b>Rampe ein</b>, wenn das <b><color=#f44a47>Rote Signal</b><
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.NAME"
 msgid "<link=\"GANTRY\">Gantry</link>"
-msgstr ""
-"<link=\"GANTRY\">Abschuss-\n"
-"rampe</link>"
+msgstr "<link=\"GANTRY\">Abschuss­rampe</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASBOTTLER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASBOTTLER.DESC"
@@ -4880,9 +4870,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.NAME"
 msgid "<link=\"GASCONDUITDISEASESENSOR\">Gas Pipe Germ Sensor</link>"
-msgstr ""
-"<link=\"LOGICDISEASESENSOR\">Rohrgas-\n"
-"keimsensor</link>"
+msgstr "<link=\"LOGICDISEASESENSOR\">Rohrgas­keimsensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.DESC"
@@ -4912,9 +4900,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.NAME"
 msgid "<link=\"GASCONDUITELEMENTSENSOR\">Gas Pipe Element Sensor</link>"
-msgstr ""
-"<link=\"GASCONDUITELEMENTSENSOR\">Rohrgas-\n"
-"detektor</link>"
+msgstr "<link=\"GASCONDUITELEMENTSENSOR\">Rohrgas­detektor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.DESC"
@@ -4965,9 +4951,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME"
 msgid "<link=\"GASCONDUITRADIANT\">Radiant Gas Pipe</link>"
-msgstr ""
-"<link=\"GASCONDUITRADIANT\">Radiatorgas-\n"
-"leitung</link>"
+msgstr "<link=\"GASCONDUITRADIANT\">Radiatorgas­leitung</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC"
@@ -4997,9 +4981,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.NAME"
 msgid "<link=\"GASCONDUITTEMPERATURESENSOR\">Gas Pipe Thermo Sensor</link>"
-msgstr ""
-"<link=\"GASCONDUITTEMPERATURESENSOR\">Rohrgastem-\n"
-"peratursensor</link>"
+msgstr "<link=\"GASCONDUITTEMPERATURESENSOR\">Rohrgastem­peratursensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
@@ -5080,7 +5062,7 @@ msgstr "<link=\"GASMINIPUMP\">Mini-Gaspumpe</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
 msgid "Building with airflow tile promotes better gas circulation within a colony."
-msgstr "Das Bauen mit luftdurchlässigen Fliesen fördert eine Gaszirkulation innerhalb einer Kolonie."
+msgstr "Das Bauen mit luftdurchlässigen Ziegel fördert eine Gaszirkulation innerhalb einer Kolonie."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
@@ -5096,7 +5078,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "<link=\"GASPERMEABLEMEMBRANE\">Airflow Tile</link>"
-msgstr "<link=\"GASPERMEABLEMEMBRANE\">Luftdurchlässige Ziegel</link>"
+msgstr "<link=\"GASPERMEABLEMEMBRANE\">Luftdurchläs­sige Ziegel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
@@ -5182,7 +5164,7 @@ msgstr "<link=\"GASVENTHIGHPRESSURE\">Hochdruck-Gasabzug</link>"
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
 msgid "Burning coal produces more energy than manual power, but emits heat and exhaust."
-msgstr "Kohlegeneratoren produzieren mehr Energie als Hamsterräder, aber erzeugen zusätzlich Wärme und Abgase."
+msgstr "Kohle-Generatoren produzieren mehr Energie als Hamsterräder, aber erzeugen zusätzlich Wärme und Abgase."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
@@ -5327,7 +5309,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
 msgid "<link=\"GRAVE\">Tasteful Memorial</link>"
-msgstr "<link=\"GRAVE\">Geschmackvolle Gedenkstätte</link>"
+msgstr "<link=\"GRAVE\">Stilvolle Gedenkstätte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC"
@@ -5416,14 +5398,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME"
 msgid "<link=\"HYDROGENENGINE\">Hydrogen Engine</link>"
-msgstr ""
-"<link=\"HYDROGENENGINE\">Wasserstoff-\n"
-"Triebwerk</link>"
+msgstr "<link=\"HYDROGENENGINE\">Wasserstoff-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
 msgid "Hydrogen generators are extremely efficient, emitting next to no waste."
-msgstr "Wasserstoffgeneratoren sind außergewöhnlich effiziente Stromquellen und erzeugen keine Nebenprodukte."
+msgstr "Wasserstoff-Generatoren sind außergewöhnlich effiziente Stromquellen und erzeugen keine Nebenprodukte."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT"
@@ -5701,9 +5681,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.NAME"
 msgid "<link=\"KEROSENEENGINE\">Petroleum Engine</link>"
-msgstr ""
-"<link=\"KEROSENEENGINE\">Petroleum-\n"
-"Triebwerk</link>"
+msgstr "<link=\"KEROSENEENGINE\">Petroleum-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.KILN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.DESC"
@@ -5775,9 +5753,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.NAME"
 msgid "<link=\"LIQUIDCARGOBAY\">Liquid Cargo Tank</link>"
-msgstr ""
-"<link=\"LIQUIDCARGOBAY\">Flüssigkeits-\n"
-"frachtraum</link>"
+msgstr "<link=\"LIQUIDCARGOBAY\">Flüssigkeits­frachtraum</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.DESC"
@@ -5864,10 +5840,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITDISEASESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITDISEASESENSOR.NAME"
 msgid "<link=\"LIQUIDCONDUITDISEASESENSOR\">Liquid Pipe Germ Sensor</link>"
-msgstr ""
-"<link=\"LIQUIDCONDUITDISEASESENSOR\">Rohrflüssig-\n"
-"keitskeim-\n"
-"sensor</link>"
+msgstr "<link=\"LIQUIDCONDUITDISEASESENSOR\">Rohrflüssig­keitskeim­sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.DESC"
@@ -5897,9 +5870,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITELEMENTSENSOR.NAME"
 msgid "<link=\"LIQUIDCONDUITELEMENTSENSOR\">Liquid Pipe Element Sensor</link>"
-msgstr ""
-"<link=\"LIQUIDCONDUITELEMENTSENSOR\">Rohrflüssig-\n"
-"keitssensor</link>"
+msgstr "<link=\"LIQUIDCONDUITELEMENTSENSOR\">Rohrflüssig­keitssensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITOVERFLOW.DESC"
@@ -5980,10 +5951,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITTEMPERATURESENSOR.NAME"
 msgid "<link=\"LIQUIDCONDUITTEMPERATURESENSOR\">Liquid Pipe Thermo Sensor</link>"
-msgstr ""
-"<link=\"LIQUIDCONDUITTEMPERATURESENSOR\">Rohrflüssig-\n"
-"keitstempe-\n"
-"ratursensor</link>"
+msgstr "<link=\"LIQUIDCONDUITTEMPERATURESENSOR\">Rohrflüssig­keitstempe­ratursensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
@@ -6019,9 +5987,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME"
 msgid "<link=\"LIQUIDFILTER\">Liquid Filter</link>"
-msgstr ""
-"<link=\"LIQUIDFILTER\">Flüssigkeits-\n"
-"filter</link>"
+msgstr "<link=\"LIQUIDFILTER\">Flüssigkeits­filter</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFUELTANK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFUELTANK.DESC"
@@ -6042,9 +6008,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFUELTANK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFUELTANK.NAME"
 msgid "<link=\"LIQUIDFUELTANK\">Liquid Fuel Tank</link>"
-msgstr ""
-"<link=\"LIQUIDFUELTANK\">Flüssig-\n"
-"treibstofftank</link>"
+msgstr "<link=\"LIQUIDFUELTANK\">Flüssig­treibstofftank</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.DESC"
@@ -6065,9 +6029,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME"
 msgid "<link=\"LIQUIDHEATER\">Liquid Tepidizer</link>"
-msgstr ""
-"<link=\"LIQUIDHEATER\">Flüssigkeits-\n"
-"wärmer</link>"
+msgstr "<link=\"LIQUIDHEATER\">Flüssigkeits­wärmer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.DESC"
@@ -6097,9 +6059,7 @@ msgstr "<b><color=#f44a47>Rotes Signal</b></color>: Flüssigkeitsdurchfluss verh
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.NAME"
 msgid "<link=\"LIQUIDLOGICVALVE\">Liquid Shutoff</link>"
-msgstr ""
-"<link=\"LIQUIDLOGICVALVE\">Flüssigkeits-\n"
-"ventil</link>"
+msgstr "<link=\"LIQUIDLOGICVALVE\">Flüssigkeits­ventil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.DESC"
@@ -6120,9 +6080,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.NAME"
 msgid "<link=\"LIQUIDMINIPUMP\">Mini Liquid Pump</link>"
-msgstr ""
-"<link=\"LIQUIDMINIPUMP\">Mini-Flüssigkeits-\n"
-"pumpe</link>"
+msgstr "<link=\"LIQUIDMINIPUMP\">Mini-Flüssigkeits­pumpe</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC"
@@ -6143,9 +6101,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME"
 msgid "<link=\"LIQUIDPUMP\">Liquid Pump</link>"
-msgstr ""
-"<link=\"LIQUIDPUMP\">Flüssigkeits-\n"
-"pumpe</link>"
+msgstr "<link=\"LIQUIDPUMP\">Flüssigkeits­pumpe</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.DESC"
@@ -6181,9 +6137,7 @@ msgstr "Speichert jede eingeleitete <link=\"ELEMENTSLIQUID\">Flüssigkeit</link>
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME"
 msgid "<link=\"LIQUIDRESERVOIR\">Liquid Reservoir</link>"
-msgstr ""
-"<link=\"LIQUIDRESERVOIR\">Flüssigkeits-\n"
-"tank</link>"
+msgstr "<link=\"LIQUIDRESERVOIR\">Flüssigkeits­tank</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC"
@@ -6198,9 +6152,7 @@ msgstr "Steuert das <link=\"ELEMENTSLIQUID\">Flüssigkeitsvolumen</link> in <lin
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME"
 msgid "<link=\"LIQUIDVALVE\">Liquid Valve</link>"
-msgstr ""
-"<link=\"LIQUIDVALVE\">Flüssigkeits-\n"
-"regler</link>"
+msgstr "<link=\"LIQUIDVALVE\">Flüssigkeits­regler</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC"
@@ -6305,7 +6257,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.LOGICDUPLICANTSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICDUPLICANTSENSOR.NAME"
 msgid "<link=\"DUPLICANTSENSOR\">Duplicant Motion Sensor</link>"
-msgstr "<link=\"DUPLICANTSENSOR\">Duplikanten-Bewegungssensor</link>"
+msgstr "<link=\"DUPLICANTSENSOR\">Duplikanten-Bewegungs­sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.DESC"
@@ -6341,9 +6293,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.NAME"
 msgid "<link=\"LOGICELEMENTSENSORGAS\">Gas Element Sensor</link>"
-msgstr ""
-"<link=\"LOGICELEMENTSENSORGAS\">Gaselement-\n"
-"sensor</link>"
+msgstr "<link=\"LOGICELEMENTSENSORGAS\">Gaselement­sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORLIQUID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORLIQUID.DESC"
@@ -6379,7 +6329,7 @@ msgstr "Andernfalls wird ein <b><color=#f44a47>Rotes Signal</b></color> gesendet
 #. STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORLIQUID.NAME"
 msgid "<link=\"LOGICELEMENTSENSORLIQUID\">Liquid Element Sensor</link>"
-msgstr "<link=\"LOGICELEMENTSENSORLIQUID\">Flüssigkeitselementsensor</link>"
+msgstr "<link=\"LOGICELEMENTSENSORLIQUID\">Flüssigkeits­elementsensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.DESC"
@@ -6709,9 +6659,7 @@ msgstr "<b><color=#f44a47>Rotes Signal</b></color>: Verhindert den <style=\"KKey
 #. STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.NAME"
 msgid "<link=\"LOGICPOWERRELAY\">Power Shutoff</link>"
-msgstr ""
-"<link=\"LOGICPOWERRELAY\">Strom-\n"
-"abschaltung</link>"
+msgstr "<link=\"LOGICPOWERRELAY\">Strom­abschaltung</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.DESC"
@@ -6894,9 +6842,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIRE.NAME"
 msgid "<link=\"LOGICWIRE\">Automation Wire</link>"
-msgstr ""
-"<link=\"LOGICWIRE\">Automatisier-\n"
-"ungskabel</link>"
+msgstr "<link=\"LOGICWIRE\">Automatisier­ungskabel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.DESC"
@@ -6932,9 +6878,7 @@ msgstr "<b><color=#f44a47>Rotes Signal</b></color>: Passieren des <b><color=#f44
 #. STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.NAME"
 msgid "<link=\"LOGICWIREBRIDGE\">Automation Wire Bridge</link>"
-msgstr ""
-"<link=\"LOGICWIREBRIDGE\">Automatisier-\n"
-"ungs-Kabelbrücke</link>"
+msgstr "<link=\"LOGICWIREBRIDGE\">Automatisier­ungs-Kabelbrücke</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.DESC"
@@ -7171,9 +7115,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.NAME"
 msgid "<link=\"METALREFINERY\">Metal Refinery</link>"
-msgstr ""
-"<link=\"METALREFINERY\">Metall-\n"
-"raffinerie</link>"
+msgstr "<link=\"METALREFINERY\">Metall­raffinerie</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.RECIPE_DESCRIPTION"
@@ -7277,7 +7219,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "<link=\"MICROBEMUSHER\">Microbe Musher</link>"
-msgstr "<link=\"MICROBEMUSHER\">Mikrobenmatscher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Mikroben­matscher</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
@@ -7298,9 +7240,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "<link=\"MINERALDEOXIDIZER\">Oxygen Diffuser</link>"
-msgstr ""
-"<link=\"MINERALDEOXIDIZER\">Sauerstoff-\n"
-"Diffusor</link>"
+msgstr "<link=\"MINERALDEOXIDIZER\">Sauerstoff-Diffusor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.DESC"
@@ -7533,14 +7473,12 @@ msgstr "Feste Oxidationsmittel ermöglichen es, Raketentreibstoff effizient im V
 #. STRINGS.BUILDINGS.PREFABS.OXIDIZERTANK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXIDIZERTANK.EFFECT"
 msgid "Stores <link=\"OXYROCK\">Oxylite</link> for burning rocket fuels."
-msgstr "Speichert <link=\"OXYROCK\">Oxylit</link> zur Verbrennung von Raketentreibstoffen."
+msgstr "Speichert <link=\"OXYROCK\">Oxilit</link> zur Verbrennung von Raketentreibstoffen."
 
 #. STRINGS.BUILDINGS.PREFABS.OXIDIZERTANK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXIDIZERTANK.NAME"
 msgid "<link=\"OXIDIZERTANK\">Solid Oxidizer Tank</link>"
-msgstr ""
-"<link=\"OXIDIZERTANK\">Feststoff-\n"
-"oxidatortank</link>"
+msgstr "<link=\"OXIDIZERTANK\">Feststoff­oxidatortank</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUID.DESC"
@@ -7555,9 +7493,7 @@ msgstr "Speichert <link=\"LIQUIDOXYGEN\">flüssigen Sauerstoff</link> zur Verbre
 #. STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUID.NAME"
 msgid "<link=\"LIQUIDOXIDIZERTANK\">Liquid Oxidizer Tank</link>"
-msgstr ""
-"<link=\"OXIDIZERTANK\">Flüssig-\n"
-"oxidatortank</link>"
+msgstr "<link=\"OXIDIZERTANK\">Flüssig­oxidatortank</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OXYLITEREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYLITEREFINERY.DESC"
@@ -7592,7 +7528,7 @@ msgstr "<link=\"PARKSIGN\">Parkschild</link>"
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.DESC"
 msgid "Petroleum generators have a high energy output but produce a great deal of waste."
-msgstr "Petroleumgeneratoren haben einen hohen Energieertrag, produzieren aber viel Abfall."
+msgstr "Petroleum-Generatoren haben einen hohen Energieertrag, produzieren aber viel Abfall."
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.EFFECT"
@@ -7750,9 +7686,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.NAME"
 msgid "<link=\"POWERCONTROLSTATION\">Power Control Station</link>"
-msgstr ""
-"<link=\"POWERCONTROLSTATION\">Stromregulier-\n"
-"ungsstation</link>"
+msgstr "<link=\"POWERCONTROLSTATION\">Stromregel­station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC"
@@ -8288,9 +8222,7 @@ msgstr "Führt <link=\"RESEARCH\">Novizenforschungen</link> aus und schaltet neu
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "<link=\"RESEARCHCENTER\">Research Station</link>"
-msgstr ""
-"<link=\"RESEARCHCENTER\">Forschungs-\n"
-"station</link>"
+msgstr "<link=\"RESEARCHCENTER\">Forschungs­station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.DESC"
@@ -8315,9 +8247,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.NAME"
 msgid "<link=\"RESEARCHMODULE\">Research Module</link>"
-msgstr ""
-"<link=\"RESEARCHMODULE\">Forschungs-\n"
-"modul</link>"
+msgstr "<link=\"RESEARCHMODULE\">Forschungs­modul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.DESC"
@@ -8338,9 +8268,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME"
 msgid "<link=\"RESETSKILLSSTATION\">Skill Scrubber</link>"
-msgstr ""
-"<link=\"RESETSKILLSSTATION\">Fertigkeiten-\n"
-"Schrubber</link>"
+msgstr "<link=\"RESETSKILLSSTATION\">Fertigkeiten-Schrubber</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC"
@@ -8568,14 +8496,12 @@ msgstr "Zusätzliche Schubdüsen ermöglichen es Raketen, weit entfernte Weltrau
 #. STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.EFFECT"
 msgid "Burns <link=\"IRON\">Refined Iron</link> and <link=\"OXYROCK\">Oxylite</link> to increase rocket exploration distance."
-msgstr "Verbrennt <link=\"IRON\">veredeltes Eisen</link> und <link=\"OXYROCK\">Oxylit</link> zur Erhöhung der Erkundungsdistanz der Rakete."
+msgstr "Verbrennt <link=\"IRON\">veredeltes Eisen</link> und <link=\"OXYROCK\">Oxilit</link> zur Erhöhung der Erkundungsdistanz der Rakete."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.NAME"
 msgid "<link=\"SOLIDBOOSTER\">Solid Fuel Thruster</link>"
-msgstr ""
-"<link=\"SOLIDBOOSTER\">Feststoff-\n"
-"Triebwerk</link>"
+msgstr "<link=\"SOLIDBOOSTER\">Feststoff-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC"
@@ -8617,9 +8543,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME"
 msgid "<link=\"SOLIDCONDUITBRIDGE\">Conveyor Bridge</link>"
-msgstr ""
-"<link=\"SOLIDCONDUITBRIDGE\">Förderschie-\n"
-"nen-Brücke</link>"
+msgstr "<link=\"SOLIDCONDUITBRIDGE\">Förderschie­nen-Brücke</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC"
@@ -8640,9 +8564,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME"
 msgid "<link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link>"
-msgstr ""
-"<link=\"SOLIDCONDUITINBOX\">Förderschie-\n"
-"nen-Belader</link>"
+msgstr "<link=\"SOLIDCONDUITINBOX\">Förderschie­nen-Belader</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC"
@@ -8687,9 +8609,7 @@ msgstr "<b><color=#f44a47>Rotes Signal</b></color>: Materialtransport verhindern
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.NAME"
 msgid "<link=\"SOLIDLOGICVALVE\">Conveyor Shutoff</link>"
-msgstr ""
-"<link=\"SOLIDLOGICVALVE\">Förderschie-\n"
-"en-Sperre</link>"
+msgstr "<link=\"SOLIDLOGICVALVE\">Förderschie­en-Sperre</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC"
@@ -8725,9 +8645,7 @@ msgstr "Entlädt <link=\"ELEMENTSSOLID\">feste Materialien</link> von einer <lin
 #. STRINGS.BUILDINGS.PREFABS.SOLIDVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDVENT.NAME"
 msgid "<link=\"SOLIDVENT\">Conveyor Chute</link>"
-msgstr ""
-"<link=\"SOLIDVENT\">Förderschie-\n"
-"nen-Schütte</link>"
+msgstr "<link=\"SOLIDVENT\">Förderschie­nen-Schütte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC"
@@ -8784,9 +8702,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.NAME"
 msgid "<link=\"STEAMENGINE\">Steam Engine</link>"
-msgstr ""
-"<link=\"STEAMENGINE\">Dampf-\n"
-"Triebwerk</link>"
+msgstr "<link=\"STEAMENGINE\">Dampf-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC"
@@ -8984,9 +8900,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.NAME"
 msgid "<link=\"SUPERMATERIALREFINERY\">Molecular Forge</link>"
-msgstr ""
-"<link=\"SUPERMATERIALREFINERY\">Molekular-\n"
-"schmiede</link>"
+msgstr "<link=\"SUPERMATERIALREFINERY\">Molekular­schmiede</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.SUPERCOOLANT_RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.SUPERCOOLANT_RECIPE_DESCRIPTION"
@@ -9124,9 +9038,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.NAME"
 msgid "<link=\"THERMALBLOCK\">Tempshift Plate</link>"
-msgstr ""
-"<link=\"THERMALBLOCK\">Wärmetausch-\n"
-"platte</link>"
+msgstr "<link=\"THERMALBLOCK\">Wärmetausch­platte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
@@ -9183,9 +9095,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TOURISTMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TOURISTMODULE.NAME"
 msgid "<link=\"TOURISTMODULE\">Sight-Seeing Module</link>"
-msgstr ""
-"<link=\"TOURISTMODULE\">Touristen-\n"
-"modul</link>"
+msgstr "<link=\"TOURISTMODULE\">Touristen­modul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.DESC"
@@ -9363,9 +9273,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME"
 msgid "<link=\"WATERPURIFIER\">Water Sieve</link>"
-msgstr ""
-"<link=\"WATERPURIFIER\">Flüssigkeits-\n"
-"filter</link>"
+msgstr "<link=\"WATERPURIFIER\">Flüssigkeits­filter</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.DESC"
@@ -9428,9 +9336,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.NAME"
 msgid "<link=\"WIREBRIDGEHIGHWATTAGE\">Heavi-Watt Joint Plate</link>"
-msgstr ""
-"<link=\"WIREBRIDGEHIGHWATTAGE\">Starkstrom-Verbindungs-\n"
-"platte</link>"
+msgstr "<link=\"WIREBRIDGEHIGHWATTAGE\">Starkstrom-Verbindungs­platte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC"
@@ -9476,9 +9382,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME"
 msgid "<link=\"WIREREFINEDBRIDGE\">Conductive Wire Bridge</link>"
-msgstr ""
-"<link=\"WIREREFINEDBRIDGE\">Leiterkabel-\n"
-"brücke</link>"
+msgstr "<link=\"WIREREFINEDBRIDGE\">Leiterkabel­brücke</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.DESC"
@@ -9499,9 +9403,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.NAME"
 msgid "<link=\"WIREREFINEDBRIDGEHIGHWATTAGE\">Heavi-Watt Conductive Joint Plate</link>"
-msgstr ""
-"<link=\"WIREREFINEDBRIDGEHIGHWATTAGE\">Starke Leiter-Verbindungs-\n"
-"platte</link>"
+msgstr "<link=\"WIREREFINEDBRIDGEHIGHWATTAGE\">Starke Leiter-Verbindungs­­platte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.DESC"
@@ -30263,7 +30165,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
 msgid "<link=\"OXYROCK\">Oxylite</link>"
-msgstr "<link=\"OXYROCK\">Oxylit</link>"
+msgstr "<link=\"OXYROCK\">Oxilit</link>"
 
 #. STRINGS.ELEMENTS.PETROLEUM.DESC
 msgctxt "STRINGS.ELEMENTS.PETROLEUM.DESC"
@@ -34546,9 +34448,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME"
 msgid "No <link=\"MINERALDEOXIDIZER\">Oxygen Diffuser</link> built"
-msgstr ""
-"Kein <link=\"MINERALDEOXIDIZER\">Sauerstoff-\n"
-"Diffusor</link> gebaut"
+msgstr "Kein <link=\"MINERALDEOXIDIZER\">Sauerstoff-Diffusor</link> gebaut"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP"
@@ -39535,7 +39435,7 @@ msgstr "Erholungsgebäude"
 #. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION"
 msgid "Requires one or more Research Stations or Super Computers"
-msgstr "Benötigt eine oder mehrere Forschungsstationen oder Supercomputer"
+msgstr "Benötigt eine oder mehrere Forschungsstationen oder Super-Computer"
 
 #. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.NAME"
@@ -53630,9 +53530,7 @@ msgstr "Duplikant"
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.TITLE"
 msgid "Space Scanner"
-msgstr ""
-"Weltraum-\n"
-"scanner"
+msgstr "Weltraumscanner"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.UNASSIGN_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.UNASSIGN_TOOLTIP"
