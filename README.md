@@ -7,9 +7,10 @@ Dieses Repository enthält die deutsche Community-Übersetzung für [Oxygen Not 
 Abonniere im Steam Workshop [dieses Objekt](http://steamcommunity.com/sharedfiles/filedetails/?id=929139073), und du hast immer die aktuellste Version.
 
 ### Manuelle Installation
-1. Lade die Datei "strings.po" herunter. Die einfachste Möglichkeit, ist über den grünen Button "Clone or Download" oben rechts eine ZIP-Datei herunterzuladen, und die PO-Datei zu extrahieren.
-2. Platziere die Datei im Ordner `OxygenNotIncluded_Data\StreamingAssets\strings` im Spielverzeichnis. Das Spielverzeichnis kann über Steam gefunden werden: Rechtsklick auf Oxygen Not Included, Eigenschaften, Lokale Dateien, und dann auf die Schaltfläche "Lokale Dateien durchsuchen".
-3. Das Spiel lädt nun alle Texte aus der heruntergeladenen Datei.
+1. Lade dieses Repository herunter. Die einfachste Möglichkeit, ist über den grünen Button "Clone or Download" oben rechts eine ZIP-Datei herunterzuladen.
+2. Entpacke diese ZIP-Datei im Ordner `%userprofile%\Documents\Klei\OxygenNotIncluded\mods\Local`. Falls die entsprechenden Unterordner nicht existieren, lege Sie an.
+3. Verifiziere, dass jetzt die Datei `...\mods\Local\OxygenNotIncluded_German\strings\strings.po` existiert. 
+4. Starte das Spiel. Wähle im Hauptmenü Mods aus und aktiviere den nun dort befindlichen lokalen Mod "OxygenNotIncluded_German". Nach einem Neustart des Spiels sind alle übersetzten Texte auf deutsch.
 
 ## Mithelfen
 Zum Mithelfen oder Melden von Fehler erstelle einfach ein neues Issue oder einen pull request mit deinen Änderungen.
