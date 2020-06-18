@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -27165,7 +27165,7 @@ msgstr "{0} ist ein süße, zarte Blume. Sie muss behutsam und mit großer Rück
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME"
 msgid "Abe"
-msgstr ""
+msgstr "Abe"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
@@ -27175,7 +27175,7 @@ msgstr "{0} schreibt gerne Gedichte in seiner Freizeit. Dunkle Poesie."
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARI.DESC"
@@ -27185,7 +27185,7 @@ msgstr "{0} tendiert dazu, sich von Zeit zu Zeit zurückzuziehen, aber wenn es d
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARI.NAME"
 msgid "Ari"
-msgstr ""
+msgstr "Ari"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ASHKAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ASHKAN.DESC"
@@ -27195,7 +27195,7 @@ msgstr "{0} hat, was nur als \"ernsthaft ansteckendes Kichern\" beschrieben werd
 #. STRINGS.DUPLICANTS.PERSONALITIES.ASHKAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ASHKAN.NAME"
 msgid "Ashkan"
-msgstr ""
+msgstr "Ashkan"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BANHI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BANHI.DESC"
@@ -27205,7 +27205,7 @@ msgstr "Die kühle Ausstrahlung des Einzelgängers, die {0} ausstrahlt, lassen d
 #. STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME"
 msgid "Banhi"
-msgstr ""
+msgstr "Bahni"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC"
@@ -27215,7 +27215,7 @@ msgstr "Diese {0} fordert dauernd andere zu einem Kampf heraus, unabhängig davo
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
 msgid "Bubbles"
-msgstr ""
+msgstr "Bubbles"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
@@ -27225,7 +27225,7 @@ msgstr "Dieser {0} fühlt sich nach einem Schaumbad und einem guten langen Schre
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
 msgid "Burt"
-msgstr ""
+msgstr "Burt"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.DESC"
@@ -27235,7 +27235,7 @@ msgstr "Diese {0} liebt alles, was sie nostalgisch macht, auch Dinge, die nicht 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.NAME"
 msgid "Camille"
-msgstr ""
+msgstr "Camille"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.DESC"
@@ -27245,7 +27245,7 @@ msgstr "{0} wird von allen für ihre scheinbar unermüdliche Arbeitsethik bewund
 #. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME"
 msgid "Catalina"
-msgstr ""
+msgstr "Catalina"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC"
@@ -27255,7 +27255,7 @@ msgstr "Dieser {0} träumt davon, einen eigenen Computer zu besitzen, um einen B
 #. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME"
 msgid "Devon"
-msgstr ""
+msgstr "Devon"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC"
@@ -27265,7 +27265,7 @@ msgstr "Nichts macht eine {0} glücklicher als eine große Dose mit Glitzer und 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME"
 msgid "Ellie"
-msgstr ""
+msgstr "Ellie"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC"
@@ -27275,7 +27275,7 @@ msgstr "Es gibt nichts auf das {0}s mehr stolz sind als auf ihre dicken, ehrfür
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME"
 msgid "Frankie"
-msgstr ""
+msgstr "Frankie"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.DESC"
@@ -27285,7 +27285,7 @@ msgstr "{0}s sind große Doofköpfe die jeden zum Lachen bringen."
 #. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.NAME"
 msgid "Gossmann"
-msgstr ""
+msgstr "Gossmann"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC"
@@ -27295,7 +27295,7 @@ msgstr "Wenn du einen Haufen {0}s in einem Raum zusammenbringst, hast du.... ein
 #. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME"
 msgid "Harold"
-msgstr ""
+msgstr "Harold"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC"
@@ -27305,7 +27305,7 @@ msgstr "Wenn jemand etwas Nettes zu einem {0} sagt, denkt er ununterbrochen dara
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME"
 msgid "Hassan"
-msgstr ""
+msgstr "Hassan"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JEAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JEAN.DESC"
@@ -27315,7 +27315,7 @@ msgstr "Nur weil {0} ein wenig langsam ist, heißt das nicht, dass sie nicht an 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JEAN.NAME"
 msgid "Jean"
-msgstr ""
+msgstr "Jean"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC"
@@ -27325,7 +27325,7 @@ msgstr "{0} ist ein wertvoller Trottel. Andere Duplikanten sind seltsamerweise u
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME"
 msgid "Joshua"
-msgstr ""
+msgstr "Joshua"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.DESC"
@@ -27335,7 +27335,7 @@ msgstr "{0}s wollen einfach, dass jeder glücklich ist."
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME"
 msgid "Leira"
-msgstr ""
+msgstr "Leira"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LIAM.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LIAM.DESC"
@@ -27345,7 +27345,7 @@ msgstr "Egal wie sehr sich {0} auch schrubbt, er kann sich nie wirklich sauber f
 #. STRINGS.DUPLICANTS.PERSONALITIES.LIAM.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LIAM.NAME"
 msgid "Liam"
-msgstr ""
+msgstr "Liam"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC"
@@ -27355,7 +27355,7 @@ msgstr "{0} ist eine charmante Frau, es sei denn, man macht den Fehler, sich mit
 #. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME"
 msgid "Lindsay"
-msgstr ""
+msgstr "Lindsay"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC"
@@ -27365,7 +27365,7 @@ msgstr "Es gibt nichts was eine {0} nicht schafft wenn sie es sich einbildet."
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME"
 msgid "Mae"
-msgstr ""
+msgstr "Mae"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC"
@@ -27375,7 +27375,7 @@ msgstr "Diese {0} strahlt über das ganze Gesicht! Was ihr Geheimnis ist? Radioa
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME"
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC"
@@ -27385,7 +27385,7 @@ msgstr "Zu jedem gegebenen Zeitpunkt erlebt {0} eindringlich zehn verschiedene d
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME"
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
@@ -27395,7 +27395,7 @@ msgstr "{0} hat ein Gesicht, das nur zwei Tonnen Farbeimer lieben könnte."
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
 msgid "Meep"
-msgstr ""
+msgstr "Meep"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC"
@@ -27405,7 +27405,7 @@ msgstr "Der Alte {0} kann nicht den Anblick von die Knien anderer Leute ertragen
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME"
 msgid "Mi-Ma"
-msgstr ""
+msgstr "Mi-Ma"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
@@ -27415,7 +27415,7 @@ msgstr "Leute erwarten von einem Duplikanten namens \"{0}\" oft Härte, doch sie
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
 msgid "Nails"
-msgstr ""
+msgstr "Nails"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
@@ -27425,7 +27425,7 @@ msgstr "Dieser {0} hat einmal behauptet, er könne einen so mächtigen Laser bau
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
 msgid "Nikola"
-msgstr ""
+msgstr "Nikola"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
@@ -27435,7 +27435,7 @@ msgstr "Diese {0} mag es, Leute zu boxen, um ihre Zuneigung auszudrücken. Jeder
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
 msgid "Nisbet"
-msgstr ""
+msgstr "Nisbet"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC"
@@ -27445,7 +27445,7 @@ msgstr "{0}s beleidigen andere immer unabsichtlich und leben in einem andauernde
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME"
 msgid "Otto"
-msgstr ""
+msgstr "Otto"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.REN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.REN.DESC"
@@ -27455,7 +27455,7 @@ msgstr "Jeder {0} hat dieses unerschütterliche Gefühl, dass sein Leben bereits
 #. STRINGS.DUPLICANTS.PERSONALITIES.REN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.REN.NAME"
 msgid "Ren"
-msgstr ""
+msgstr "Ren"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC"
@@ -27465,7 +27465,7 @@ msgstr "{0}s haben außergewöhnlich große Herzen und drücken ihre Gefühle am
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME"
 msgid "Rowan"
-msgstr ""
+msgstr "Rowan"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC"
@@ -27475,7 +27475,7 @@ msgstr "Diese {0} fragt die drängenden Fragen, wie \"Wo bekomme ich im Weltraum
 #. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME"
 msgid "Ruby"
-msgstr ""
+msgstr "Ruby"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC"
@@ -27485,7 +27485,7 @@ msgstr "Dieser {0} wurde nie zu einer Party eingeladen, welch' eine Schande. Sei
 #. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME"
 msgid "Stinky"
-msgstr ""
+msgstr "Stinky"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC"
@@ -27495,7 +27495,7 @@ msgstr "{0}s eintönige Stimme und der fehlende Gesichtsausdruck machen es ander
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME"
 msgid "Travaldo"
-msgstr ""
+msgstr "Travaldo"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TURNER.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TURNER.DESC"
@@ -27505,7 +27505,7 @@ msgstr "{0} ist durch die Erkenntnis gelähmt, dass andere Erinnerungen und Wahr
 #. STRINGS.DUPLICANTS.PERSONALITIES.TURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TURNER.NAME"
 msgid "Turner"
-msgstr ""
+msgstr "Turner"
 
 #. STRINGS.DUPLICANTS.RACE
 msgctxt "STRINGS.DUPLICANTS.RACE"
@@ -30599,7 +30599,7 @@ msgstr "Dieser Duplikant versprüht Glücksfunken, wenn er <style=\"KKeyword\">b
 #. STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.NAME"
 msgid "Sparkle Streaker"
-msgstr ""
+msgstr "Glitzersprüher"
 
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC"
@@ -30609,7 +30609,7 @@ msgstr "Dieser Duplikant wird spontan einen Raum neu dekorieren, wenn er <style=
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME"
 msgid "Sticker Bomber"
-msgstr ""
+msgstr "Aufkleber Bomber"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
@@ -37764,477 +37764,477 @@ msgstr "Nicht wieder anzeigen"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC"
 msgid "Acidic"
-msgstr ""
+msgstr "Sauer"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY"
 msgid "Antigravity"
-msgstr ""
+msgstr "Anti Schwerkraft"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL"
 msgid "Beautiful"
-msgstr ""
+msgstr "Wunderschön"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED"
 msgid "Besieged"
-msgstr ""
+msgstr "Bedrängt"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS"
 msgid "Breathless"
-msgstr ""
+msgstr "Atemlos"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING"
 msgid "Burgeoning"
-msgstr ""
+msgstr "ufkeimend"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING"
 msgid "Bustling"
-msgstr ""
+msgstr "Treiben"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC"
 msgid "Chaotic"
-msgstr ""
+msgstr "Chaotisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE"
 msgid "Clone"
-msgstr ""
+msgstr "Klonen"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS"
 msgid "Contagious"
-msgstr ""
+msgstr "Ansteckend"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL"
 msgid "Cool"
-msgstr ""
+msgstr "Cool"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING"
 msgid "Coughing"
-msgstr ""
+msgstr "Husten"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE"
 msgid "Cute"
-msgstr ""
+msgstr "Niedlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS"
 msgid "Dangerous"
-msgstr ""
+msgstr "Gefährlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST"
 msgid "Darkest"
-msgstr ""
+msgstr "Dunkelsten"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DATA
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DATA"
 msgid "Data"
-msgstr ""
+msgstr "Daten"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY"
 msgid "Deadly"
-msgstr ""
+msgstr "Tödlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH"
 msgid "Death"
-msgstr ""
+msgstr "Tod"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE"
 msgid "Delicate"
-msgstr ""
+msgstr "Delikat"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED"
 msgid "Diseased"
-msgstr ""
+msgstr "Krank"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED"
 msgid "Doomed"
-msgstr ""
+msgstr "Verurteilt"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY"
 msgid "Dorky"
-msgstr ""
+msgstr "Bekloppt"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DUPLICANT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DUPLICANT"
 msgid "Duplicant"
-msgstr ""
+msgstr "Duplikant"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING"
 msgid "Festering"
-msgstr ""
+msgstr "Eiterig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE"
 msgid "Future"
-msgstr ""
+msgstr "Zukunft"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC"
 msgid "Galactic"
-msgstr ""
+msgstr "Galaktisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN"
 msgid "Golden"
-msgstr ""
+msgstr "Golden"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT"
 msgid "Great"
-msgstr ""
+msgstr "Großartig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY"
 msgid "Grimy"
-msgstr ""
+msgstr "Schmutzig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS"
 msgid "Hapless"
-msgstr ""
+msgstr "Glücklos"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY"
 msgid "Happy"
-msgstr ""
+msgstr "Glücklich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY"
 msgid "Hardy"
-msgstr ""
+msgstr "Winterhart"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP"
 msgid "Hip"
-msgstr ""
+msgstr "Hip"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL"
 msgid "Hopeful"
-msgstr ""
+msgstr "Hoffnungsvoll"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC"
 msgid "Idyllic"
-msgstr ""
+msgstr "Idylisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL"
 msgid "Ill"
-msgstr ""
+msgstr "Krank"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE"
 msgid "Immune"
-msgstr ""
+msgstr "Immun"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE"
 msgid "Impenetrable"
-msgstr ""
+msgstr "Undurchdringlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE"
 msgid "Incredible"
-msgstr ""
+msgstr "Unglaublich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE"
 msgid "Inescapable"
-msgstr ""
+msgstr "Unausweichlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING"
 msgid "Inspiring"
-msgstr ""
+msgstr "Inspirierend"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC"
 msgid "Intergalactic"
-msgstr ""
+msgstr "Intergalaktisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE"
 msgid "Invisible"
-msgstr ""
+msgstr "Unsichtbar"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC"
 msgid "Ironic"
-msgstr ""
+msgstr "Ironisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE"
 msgid "Lamentable"
-msgstr ""
+msgstr "Bedauerlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY"
 msgid "Leaky"
-msgstr ""
+msgstr "Undicht"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST"
 msgid "Loveliest"
-msgstr ""
+msgstr "Am schönsten"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS"
 msgid "Luckless"
-msgstr ""
+msgstr "Glücklos"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY"
 msgid "Lucky"
-msgstr ""
+msgstr "Glücklich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR"
 msgid "Lunar"
-msgstr ""
+msgstr "Mond"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY"
 msgid "Luxury"
-msgstr ""
+msgstr "Luxus"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY"
 msgid "Merry"
-msgstr ""
+msgstr "Fröhlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY"
 msgid "Messy"
-msgstr ""
+msgstr "Unordentlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY"
 msgid "Needy"
-msgstr ""
+msgstr "Bedürftige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC"
 msgid "Optimistic"
-msgstr ""
+msgstr "Optimistisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS"
 msgid "Outrageous"
-msgstr ""
+msgstr "Empörend"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT"
 msgid "Perfect"
-msgstr ""
+msgstr "Perfekt"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED"
 msgid "Phlegm-Coated"
-msgstr ""
+msgstr "Schleimbeschichtet"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED"
 msgid "Plagued"
-msgstr ""
+msgstr "Geplagt"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY"
 msgid "Plucky"
-msgstr ""
+msgstr "Mutig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS"
 msgid "Prosperous"
-msgstr ""
+msgstr "Wohlhabend"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED"
 msgid "Quarantined"
-msgstr ""
+msgstr "In Quarantäne"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL"
 msgid "Radical"
-msgstr ""
+msgstr "Radikal"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE"
 msgid "Radioactive"
-msgstr ""
+msgstr "Radioaktiv"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE"
 msgid "Ramshackle"
-msgstr ""
+msgstr "Baufällig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE"
 msgid "Regrettable"
-msgstr ""
+msgstr "Bedauerlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY"
 msgid "Rocky"
-msgstr ""
+msgstr "Steinig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY"
 msgid "Rosy"
-msgstr ""
+msgstr "Rosig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC"
 msgid "Rustic"
-msgstr ""
+msgstr "Rostig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC"
 msgid "Scientific"
-msgstr ""
+msgstr "Wissenschaft"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE"
 msgid "Serene"
-msgstr ""
+msgstr "Heiter"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING"
 msgid "Sneezing"
-msgstr ""
+msgstr "Niesen"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE"
 msgid "Space"
-msgstr ""
+msgstr "Weltraum"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING"
 msgid "Spacefaring"
-msgstr ""
+msgstr "Raumfahrt"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARCROSSED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARCROSSED"
 msgid "Star-crossed"
-msgstr ""
+msgstr "Stern gekreuzt"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING"
 msgid "Starving"
-msgstr ""
+msgstr "Verhungernd"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY"
 msgid "Sticky"
-msgstr ""
+msgstr "Klebrig"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE"
 msgid "Suave"
-msgstr ""
+msgstr "Höflich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN"
 msgid "Subterranean"
-msgstr ""
+msgstr "Unterirdisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER"
 msgid "Super"
-msgstr ""
+msgstr "Super"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER"
 msgid "Super Duper"
-msgstr ""
+msgstr "Super Duper"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY"
 msgid "Swanky"
-msgstr ""
+msgstr "Mondän"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC"
 msgid "Systematic"
-msgstr ""
+msgstr "Systematisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL"
 msgid "Temporal"
-msgstr ""
+msgstr "Zeitlich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC"
 msgid "Tragic"
-msgstr ""
+msgstr "Tragisch"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL"
 msgid "Transdimensional"
-msgstr ""
+msgstr "Transdimensional"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA"
 msgid "Ultra"
-msgstr ""
+msgstr "Ultra"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE"
 msgid "Uncomfortable"
-msgstr ""
+msgstr "Unbequem"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND"
 msgid "Underground"
-msgstr ""
+msgstr "Unter Tage"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE"
 msgid "Unfortunate"
-msgstr ""
+msgstr "Unglücklich"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE"
 msgid "Unstoppable"
-msgstr ""
+msgstr "Unaufhaltbar"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL"
 msgid "Viral"
-msgstr ""
+msgstr "Viral"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY"
 msgid "Yucky"
-msgstr ""
+msgstr "Ecklig"
 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.ADJECTIVE_NOUN"
 msgid "{adjective} {noun}"
-msgstr ""
+msgstr "{adjective} {noun}"
 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.NOUN"
 msgid "{noun}"
-msgstr ""
+msgstr "{noun}"
 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN"
@@ -38244,1092 +38244,1092 @@ msgstr ""
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABODE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABODE"
 msgid "Abode"
-msgstr ""
+msgstr "Aufenthalt"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABYSS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABYSS"
 msgid "Abyss"
-msgstr ""
+msgstr "Abgrund"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS"
 msgid "Acropolis"
-msgstr ""
+msgstr "Akropolis"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM"
 msgid "Antfarm"
-msgstr ""
+msgstr "Ameisenfarm"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID"
 msgid "Asteroid"
-msgstr ""
+msgstr "Asteroid"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BASE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BASE"
 msgid "Base"
-msgstr ""
+msgstr "Basis"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BEYOND
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BEYOND"
 msgid "Beyond"
-msgstr ""
+msgstr "Zwischen"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE"
 msgid "Brigade"
-msgstr ""
+msgstr "Brigade"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BUNKER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BUNKER"
 msgid "Bunker"
-msgstr ""
+msgstr "Bunker"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BURROW
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BURROW"
 msgid "Burrow"
-msgstr ""
+msgstr "Bau"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CANTALOUPE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CANTALOUPE"
 msgid "Cantaloupe"
-msgstr ""
+msgstr "Melone"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CESSPOOL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CESSPOOL"
 msgid "Cesspool"
-msgstr ""
+msgstr "Senkgrube"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CITADEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CITADEL"
 msgid "Citadel"
-msgstr ""
+msgstr "Zitadele"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.COLONY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COLONY"
 msgid "Colony"
-msgstr ""
+msgstr "Kolonie"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.COMET
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COMET"
 msgid "Comet"
-msgstr ""
+msgstr "Komet"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE"
 msgid "Committee"
-msgstr ""
+msgstr "Ausschuss"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.COSMOS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COSMOS"
 msgid "Cosmos"
-msgstr ""
+msgstr "Kosmos"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD"
 msgid "Crashpad"
-msgstr ""
+msgstr "Crashpad"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CRATER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRATER"
 msgid "Crater"
-msgstr ""
+msgstr "Krater"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CREW
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CREW"
 msgid "Crew"
-msgstr ""
+msgstr "Crew"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION"
 msgid "Dimension"
-msgstr ""
+msgstr "Dimension"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND"
 msgid "Dreamland"
-msgstr ""
+msgstr "Traumland"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DUMP
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DUMP"
 msgid "Dump"
-msgstr ""
+msgstr "Müllhalde"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DWELLING
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DWELLING"
 msgid "Dwelling"
-msgstr ""
+msgstr "Wohnung"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DYSTOPIA
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DYSTOPIA"
 msgid "Dystopia"
-msgstr ""
+msgstr "Dystopie"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.FACILITY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FACILITY"
 msgid "Facility"
-msgstr ""
+msgstr "Einrichtung"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.FACTORY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FACTORY"
 msgid "Factory"
-msgstr ""
+msgstr "Fabrik"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.FORTRESS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FORTRESS"
 msgid "Fortress"
-msgstr ""
+msgstr "Festung"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.FRIENDS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FRIENDS"
 msgid "Friends"
-msgstr ""
+msgstr "Freunde"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.GALAXY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.GALAXY"
 msgid "Galaxy"
-msgstr ""
+msgstr "Galaxy"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.GANG
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.GANG"
 msgid "Gang"
-msgstr ""
+msgstr "Gang"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.HOME
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOME"
 msgid "Home"
-msgstr ""
+msgstr "Zuhause"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.HOMESTEAD
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOMESTEAD"
 msgid "Homestead"
-msgstr ""
+msgstr "Heimstätte"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.HOSPITAL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOSPITAL"
 msgid "Hospital"
-msgstr ""
+msgstr "Krankenhaus"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.HOVEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOVEL"
 msgid "Hovel"
-msgstr ""
+msgstr "Bruchbude"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.LAB
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LAB"
 msgid "Lab"
-msgstr ""
+msgstr "Labor"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.LABORATORY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LABORATORY"
 msgid "Laboratory"
-msgstr ""
+msgstr "Laboratorium"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.LEAGUE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LEAGUE"
 msgid "League"
-msgstr ""
+msgstr "Liga"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.MOONBASE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.MOONBASE"
 msgid "Moonbase"
-msgstr ""
+msgstr "Mondbasis"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PANOPTICON
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PANOPTICON"
 msgid "Panopticon"
-msgstr ""
+msgstr "Panoptikum"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PARADISE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PARADISE"
 msgid "Paradise"
-msgstr ""
+msgstr "Paradies"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PIGPEN
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PIGPEN"
 msgid "Pigpen"
-msgstr ""
+msgstr "Schweinestall"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PIT
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PIT"
 msgid "Pit"
-msgstr ""
+msgstr "Grube"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PLANET
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PLANET"
 msgid "Planet"
-msgstr ""
+msgstr "Planet"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST"
 msgid "Rat's Nest"
-msgstr ""
+msgstr "Rattennest"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT"
 msgid "Settlement"
-msgstr ""
+msgstr "Siedlung"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SEWER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SEWER"
 msgid "Sewer"
-msgstr ""
+msgstr "Kanal"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SHACK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SHACK"
 msgid "Shack"
-msgstr ""
+msgstr "Hütte"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SHELTER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SHELTER"
 msgid "Shelter"
-msgstr ""
+msgstr "Zuflucht"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACE_HUT
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACE_HUT"
 msgid "Space Hut"
-msgstr ""
+msgstr "Weltraum Hütte"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACECAMP
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACECAMP"
 msgid "Spacecamp"
-msgstr ""
+msgstr "Spacecamp"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEJUNK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEJUNK"
 msgid "Spacejunk"
-msgstr ""
+msgstr "Weltraumschrott"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEPAD
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEPAD"
 msgid "Spacepad"
-msgstr ""
+msgstr "Spacepad"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEPRISON
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEPRISON"
 msgid "Spaceprison"
-msgstr ""
+msgstr "Weltraumgefängnis"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEROCK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEROCK"
 msgid "Spacerock"
-msgstr ""
+msgstr "Weltraumfelsen"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACESTATION
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACESTATION"
 msgid "Spacestation"
-msgstr ""
+msgstr "Raumstation"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SUPERNOVA
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SUPERNOVA"
 msgid "Supernova"
-msgstr ""
+msgstr "Supernova"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SYSTEM
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SYSTEM"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.TIMELINE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TIMELINE"
 msgid "Timeline"
-msgstr ""
+msgstr "Zeitleiste"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.TRAINWRECK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TRAINWRECK"
 msgid "Trainwreck"
-msgstr ""
+msgstr "Zugwrack"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL"
 msgid "Tunnel"
-msgstr ""
+msgstr "Tunnel"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA"
 msgid "Utopia"
-msgstr ""
+msgstr "Utopie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL"
 msgid "Abigail"
-msgstr ""
+msgstr "Abigail"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANDREA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANDREA"
 msgid "Andrea"
-msgstr ""
+msgstr "Andrea"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANITA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANITA"
 msgid "Anita"
-msgstr ""
+msgstr "Anita"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANNEMARIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANNEMARIE"
 msgid "Anne-Marie"
-msgstr ""
+msgstr "Anne-Marie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ARIODNE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ARIODNE"
 msgid "Ariodne"
-msgstr ""
+msgstr "Ariodne"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ASHLEY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ASHLEY"
 msgid "Ashley"
-msgstr ""
+msgstr "Ashley"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CATIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CATIE"
 msgid "Catie"
-msgstr ""
+msgstr "Catie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHARLIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHARLIE"
 msgid "Charlie"
-msgstr ""
+msgstr "Charlie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CRANDICE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CRANDICE"
 msgid "Crandice"
-msgstr ""
+msgstr "Crandice"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.DANA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.DANA"
 msgid "Dana"
-msgstr ""
+msgstr "Dana"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELAINE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELAINE"
 msgid "Elaine"
-msgstr ""
+msgstr "Elaine"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELASEBETE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELASEBETE"
 msgid "Elasebete"
-msgstr ""
+msgstr "Elasebete"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMILY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMILY"
 msgid "Emily"
-msgstr ""
+msgstr "Emily"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMMA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMMA"
 msgid "Emma"
-msgstr ""
+msgstr "Emma"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ERICA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ERICA"
 msgid "Erica"
-msgstr ""
+msgstr "Erica"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GENEVA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GENEVA"
 msgid "Geneva"
-msgstr ""
+msgstr "Geneva"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GISELDA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GISELDA"
 msgid "Giselda"
-msgstr ""
+msgstr "Giselda"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GRUNKTILDA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GRUNKTILDA"
 msgid "Grunktilda"
-msgstr ""
+msgstr "Grunktilda"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JADE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JADE"
 msgid "Jade"
-msgstr ""
+msgstr "Jade"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNA"
 msgid "Jenna"
-msgstr ""
+msgstr "Jenna"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNY"
 msgid "Jenny"
-msgstr ""
+msgstr "Jenny"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELLY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELLY"
 msgid "Kelly"
-msgstr ""
+msgstr "Kelly"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELSEY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELSEY"
 msgid "Kelsey"
-msgstr ""
+msgstr "Kelsey"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KENDRA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KENDRA"
 msgid "Kendra"
-msgstr ""
+msgstr "Kendra"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KIERSTEN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KIERSTEN"
 msgid "Kiersten"
-msgstr ""
+msgstr "Kiersten"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LANNIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LANNIE"
 msgid "Lannie"
-msgstr ""
+msgstr "Lannie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LAURA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LAURA"
 msgid "Laura"
-msgstr ""
+msgstr "Laura"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA"
 msgid "Leira"
-msgstr ""
+msgstr "Leira"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LILAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LILAH"
 msgid "Lilah"
-msgstr ""
+msgstr "Lilah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LORNA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LORNA"
 msgid "Lorna"
-msgstr ""
+msgstr "Lorna"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LUCY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LUCY"
 msgid "Lucy"
-msgstr ""
+msgstr "Lucy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MAHA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MAHA"
 msgid "Maha"
-msgstr ""
+msgstr "Maha"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MARGARET
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MARGARET"
 msgid "Margaret"
-msgstr ""
+msgstr "Margaret"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MOZZARELLA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MOZZARELLA"
 msgid "Mozzarella"
-msgstr ""
+msgstr "Mozzarella"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NABIEAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NABIEAH"
 msgid "Nabie-Ah"
-msgstr ""
+msgstr "Nabie-Ah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NANA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NANA"
 msgid "Nana"
-msgstr ""
+msgstr "Nana"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NASIM
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NASIM"
 msgid "Nasim"
-msgstr ""
+msgstr "Nasim"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NICOLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NICOLE"
 msgid "Nicole"
-msgstr ""
+msgstr "Nicole"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PRISCILLA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PRISCILLA"
 msgid "Priscilla"
-msgstr ""
+msgstr "Priscilla"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RACHEL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RACHEL"
 msgid "Rachel"
-msgstr ""
+msgstr "Rachel"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RINALDINE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RINALDINE"
 msgid "Rinaldine"
-msgstr ""
+msgstr "Rinaldine"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SARAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SARAH"
 msgid "Sarah"
-msgstr ""
+msgstr "Sarah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SIMONE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SIMONE"
 msgid "Simone"
-msgstr ""
+msgstr "Simone"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.STEPH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.STEPH"
 msgid "Steph"
-msgstr ""
+msgstr "Steph"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SUN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SUN"
 msgid "Sun"
-msgstr ""
+msgstr "Sun"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.TONI
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.TONI"
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.VIVIAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.VIVIAN"
 msgid "Vivian"
-msgstr ""
+msgstr "Vivian"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WALANI
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WALANI"
 msgid "Walani"
-msgstr ""
+msgstr "Walani"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WENDY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WENDY"
 msgid "Wendy"
-msgstr ""
+msgstr "Wendy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WICKERBOTTOM
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WICKERBOTTOM"
 msgid "Wickerbottom"
-msgstr ""
+msgstr "Wickerbottom"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WIGFRID
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WIGFRID"
 msgid "Wigfrid"
-msgstr ""
+msgstr "Wigfrid"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW"
 msgid "Willow"
-msgstr ""
+msgstr "Willow"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX"
 msgid "Alex"
-msgstr ""
+msgstr "Alex"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALIA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALIA"
 msgid "Alia"
-msgstr ""
+msgstr "Alia"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BEARDOO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BEARDOO"
 msgid "Beardoo"
-msgstr ""
+msgstr "Beardoo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BROOK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BROOK"
 msgid "Brook"
-msgstr ""
+msgstr "Brook"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BRYCE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.BRYCE"
 msgid "Bryce"
-msgstr ""
+msgstr "Bryce"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHARLIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHARLIE"
 msgid "Charlie"
-msgstr ""
+msgstr "Charlie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHRIS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHRIS"
 msgid "Chris"
-msgstr ""
+msgstr "Chris"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.COREY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.COREY"
 msgid "Corey"
-msgstr ""
+msgstr "Corey"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.DANY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.DANY"
 msgid "Dany"
-msgstr ""
+msgstr "Dany"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.EUGENE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.EUGENE"
 msgid "Eugene"
-msgstr ""
+msgstr "Eugene"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GEOFF
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GEOFF"
 msgid "Geoff"
-msgstr ""
+msgstr "Geoff"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GRAHAM
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GRAHAM"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HINK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HINK"
 msgid "Hink"
-msgstr ""
+msgstr "Hink"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HUGO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HUGO"
 msgid "Hugo"
-msgstr ""
+msgstr "Hugo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.IAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.IAN"
 msgid "Ian"
-msgstr ""
+msgstr "Ian"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMBELL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMBELL"
 msgid "Jambell"
-msgstr ""
+msgstr "Jambell"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMIE"
 msgid "Jamie"
-msgstr ""
+msgstr "Jamie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAN"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JARRETT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JARRETT"
 msgid "Jarrett"
-msgstr ""
+msgstr "Jarrett"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JASON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JASON"
 msgid "Jason"
-msgstr ""
+msgstr "Jason"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JEFF
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JEFF"
 msgid "Jeff"
-msgstr ""
+msgstr "Jeff"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JOE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JOE"
 msgid "Joe"
-msgstr ""
+msgstr "Joe"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN"
 msgid "Ju-Lian"
-msgstr ""
+msgstr "Ju-Lian"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE"
 msgid "Kernle"
-msgstr ""
+msgstr "Kernle"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KEVIN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KEVIN"
 msgid "Kevin"
-msgstr ""
+msgstr "Kevin"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LAWRY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LAWRY"
 msgid "Lawry"
-msgstr ""
+msgstr "Lawry"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LOU
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LOU"
 msgid "Lou"
-msgstr ""
+msgstr "Lou"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LUCA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LUCA"
 msgid "Luca"
-msgstr ""
+msgstr "Luca"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARK"
 msgid "Mark"
-msgstr ""
+msgstr "Mark"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARTY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARTY"
 msgid "Marty"
-msgstr ""
+msgstr "Marty"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MATT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MATT"
 msgid "Matt"
-msgstr ""
+msgstr "Matt"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAXWELL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAXWELL"
 msgid "Maxwell"
-msgstr ""
+msgstr "Maxwell"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAY"
 msgid "May"
-msgstr ""
+msgstr "May"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MIKE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MIKE"
 msgid "Mike"
-msgstr ""
+msgstr "Mike"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PETER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PETER"
 msgid "Peter"
-msgstr ""
+msgstr "Peter"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RAGNAR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RAGNAR"
 msgid "Ragnar"
-msgstr ""
+msgstr "Ragnar"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REDWARD
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REDWARD"
 msgid "Redward"
-msgstr ""
+msgstr "Redward"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RICARDO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.RICARDO"
 msgid "Ricardo"
-msgstr ""
+msgstr "Ricardo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SCOTT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SCOTT"
 msgid "Scott"
-msgstr ""
+msgstr "Scott"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SLOTH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SLOTH"
 msgid "Sloth"
-msgstr ""
+msgstr "Sloth"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.STENLAY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.STENLAY"
 msgid "Stenlay"
-msgstr ""
+msgstr "Stenlay"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TRAVALDO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TRAVALDO"
 msgid "Travaldo"
-msgstr ""
+msgstr "Travaldo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VINCE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VINCE"
 msgid "Vince"
-msgstr ""
+msgstr "Vince"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VITO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VITO"
 msgid "Vito"
-msgstr ""
+msgstr "Vito"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WARLY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WARLY"
 msgid "Warly"
-msgstr ""
+msgstr "Warly"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WEBBER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WEBBER"
 msgid "Webber"
-msgstr ""
+msgstr "Webber"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WES
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WES"
 msgid "Wes"
-msgstr ""
+msgstr "Wes"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WILSON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WILSON"
 msgid "Wilson"
-msgstr ""
+msgstr "Wilson"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOLFGANG
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOLFGANG"
 msgid "Wolfgang"
-msgstr ""
+msgstr "Wolfgang"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOODIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOODIE"
 msgid "Woodie"
-msgstr ""
+msgstr "Woodie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.YOG
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.YOG"
 msgid "Yog"
-msgstr ""
+msgstr "Yog"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ACE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ACE"
 msgid "Ace"
-msgstr ""
+msgstr "Ace"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ANDERSON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ANDERSON"
 msgid "Anderson"
-msgstr ""
+msgstr "Anderson"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AVERY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AVERY"
 msgid "Avery"
-msgstr ""
+msgstr "Avery"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AXEL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AXEL"
 msgid "Axel"
-msgstr ""
+msgstr "Axel"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AZPAF
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AZPAF"
 msgid "Azpaf"
-msgstr ""
+msgstr "Azpaf"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BABYFACE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BABYFACE"
 msgid "Babyface"
-msgstr ""
+msgstr "Babyface"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAILEY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAILEY"
 msgid "Bailey"
-msgstr ""
+msgstr "Bailey"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAO"
 msgid "Bao"
-msgstr ""
+msgstr "Bao"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLUMP
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLUMP"
 msgid "Blump"
-msgstr ""
+msgstr "Blump"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BOBBIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BOBBIE"
 msgid "Bobbie"
-msgstr ""
+msgstr "Bobbie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BROOK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BROOK"
 msgid "Brook"
-msgstr ""
+msgstr "Brook"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMBLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMBLE"
 msgid "Brumble"
-msgstr ""
+msgstr "Brumble"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMPO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMPO"
 msgid "Brumpo"
-msgstr ""
+msgstr "Brumpo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY"
 msgid "Buddy"
-msgstr ""
+msgstr "Buddy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL"
 msgid "Campbell"
-msgstr ""
+msgstr "Campbell"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHAN"
 msgid "Chan"
-msgstr ""
+msgstr "Chan"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CROMULUS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CROMULUS"
 msgid "Cromulus"
-msgstr ""
+msgstr "Cromulus"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUDMUFFIN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUDMUFFIN"
 msgid "Crudmuffin"
-msgstr ""
+msgstr "Crudmuffin"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUMB
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUMB"
 msgid "Crumb"
-msgstr ""
+msgstr "Crumb"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DANCER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DANCER"
 msgid "Dancer"
-msgstr ""
+msgstr "Dancer"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DAR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DAR"
 msgid "Dar"
-msgstr ""
+msgstr "Dar"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DUMPLING
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DUMPLING"
 msgid "Dumpling"
-msgstr ""
+msgstr "Dumpling"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FARAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FARAH"
 msgid "Farah"
-msgstr ""
+msgstr "Farah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FRIMBLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FRIMBLE"
 msgid "Frimble"
-msgstr ""
+msgstr "Frimble"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GEORGIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GEORGIE"
 msgid "Georgie"
-msgstr ""
+msgstr "Georgie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GREASY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GREASY"
 msgid "Greasy"
-msgstr ""
+msgstr "Greasy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUDE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUDE"
 msgid "Jude"
-msgstr ""
+msgstr "Jude"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUPITER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUPITER"
 msgid "Jupiter"
-msgstr ""
+msgstr "Jupiter"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KERRY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KERRY"
 msgid "Kerry"
-msgstr ""
+msgstr "Kerry"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KRIS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KRIS"
 msgid "Kris"
-msgstr ""
+msgstr "Kris"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LEE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LEE"
 msgid "Lee"
-msgstr ""
+msgstr "Lee"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOGAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOGAN"
 msgid "Logan"
-msgstr ""
+msgstr "Logan"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOVELACE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOVELACE"
 msgid "Lovelace"
-msgstr ""
+msgstr "Lovelace"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LUNK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LUNK"
 msgid "Lunk"
-msgstr ""
+msgstr "Lunk"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MASON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MASON"
 msgid "Mason"
-msgstr ""
+msgstr "Mason"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MUSCLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MUSCLE"
 msgid "Muscle"
-msgstr ""
+msgstr "Muscle"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ORION
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ORION"
 msgid "Orion"
-msgstr ""
+msgstr "Orion"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PARIS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PARIS"
 msgid "Paris"
-msgstr ""
+msgstr "Paris"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PAT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PAT"
 msgid "Pat"
-msgstr ""
+msgstr "Pat"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PEARSON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PEARSON"
 msgid "Pearson"
-msgstr ""
+msgstr "Pearson"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.REESE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.REESE"
 msgid "Reese"
-msgstr ""
+msgstr "Reese"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SADSACK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SADSACK"
 msgid "Sadsack"
-msgstr ""
+msgstr "Sadsack"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCOUT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCOUT"
 msgid "Scout"
-msgstr ""
+msgstr "Scout"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCRUNGO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCRUNGO"
 msgid "Scrungo"
-msgstr ""
+msgstr "Scrungo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER"
 msgid "Seldemer"
-msgstr ""
+msgstr "Seldemer"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SKIDOOSH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SKIDOOSH"
 msgid "Skidoosh"
-msgstr ""
+msgstr "Skidoosh"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SLAB
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SLAB"
 msgid "Slab"
-msgstr ""
+msgstr "Slab"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SNORT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SNORT"
 msgid "Snort"
-msgstr ""
+msgstr "Snort"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STAR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STAR"
 msgid "Star"
-msgstr ""
+msgstr "Star"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SUNSHINE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SUNSHINE"
 msgid "Sunshine"
-msgstr ""
+msgstr "Sunshine"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TRUCK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TRUCK"
 msgid "Truck"
-msgstr ""
+msgstr "Truck"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TUCKER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TUCKER"
 msgid "Tucker"
-msgstr ""
+msgstr "Tucker"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP"
 msgid "Wemp"
-msgstr ""
+msgstr "Wemp"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.MS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.MS"
@@ -39444,7 +39444,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_DUDE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_DUDE"
 msgid "\"The Dude\""
-msgstr ""
+msgstr "\"Der Typ\""
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.JR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.JR"
@@ -39584,7 +39584,7 @@ msgstr "Sie war das beste Mädchen."
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ADAPTABLE
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ADAPTABLE"
 msgid "Adaptable"
-msgstr ""
+msgstr "Anpassungsfähig"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ARDENT
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ARDENT"
@@ -39594,7 +39594,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.BRAVE
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.BRAVE"
 msgid "Brave"
-msgstr ""
+msgstr "Mutig"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.CURIOUS
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.CURIOUS"
@@ -39614,7 +39614,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DEFENSIVE
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.DEFENSIVE"
 msgid "Defensive"
-msgstr ""
+msgstr "Defensive"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EJECTED
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EJECTED"
@@ -39624,7 +39624,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPERIMENTAL
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPERIMENTAL"
 msgid "Experimental"
-msgstr ""
+msgstr "Experimentell"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPLORATORY
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.EXPLORATORY"
@@ -39639,47 +39639,47 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INSPIRING
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INSPIRING"
 msgid "Inspiring"
-msgstr ""
+msgstr "Inspirierend"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERGALACTIC
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERGALACTIC"
 msgid "Intergalactic"
-msgstr ""
+msgstr "Intergalaktisch"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERSTELLAR
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.INTERSTELLAR"
 msgid "Interstellar"
-msgstr ""
+msgstr "Interstellar"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.LOGISTICAL
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.LOGISTICAL"
 msgid "Logistical"
-msgstr ""
+msgstr "Logistisch"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.NEON
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.NEON"
 msgid "Neon"
-msgstr ""
+msgstr "Neon"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.OPERATIONAL
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.OPERATIONAL"
 msgid "Operational"
-msgstr ""
+msgstr "Betriebsbereit"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ORBITAL
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ORBITAL"
 msgid "Orbital"
-msgstr ""
+msgstr "Orbital"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PEACE
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PEACE"
 msgid "Peace"
-msgstr ""
+msgstr "Frieden"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PROGRESS
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.PROGRESS"
 msgid "Progress"
-msgstr ""
+msgstr "Fortschritt"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.RECON
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.RECON"
@@ -39704,42 +39704,42 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.FMT_ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_ADJECTIVE_NOUN"
 msgid "{Adjective} {Noun}"
-msgstr ""
+msgstr "{Adjective} {Noun}"
 
 #. STRINGS.NAMEGEN.ROCKET.FMT_ADJECTIVE_NOUN_SUFFIX
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_ADJECTIVE_NOUN_SUFFIX"
 msgid "{Adjective} {Noun} {Suffix}"
-msgstr ""
+msgstr "{Adjective} {Noun} {Suffix}"
 
 #. STRINGS.NAMEGEN.ROCKET.FMT_NOUN
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_NOUN"
 msgid "{Noun}"
-msgstr ""
+msgstr "{Noun}"
 
 #. STRINGS.NAMEGEN.ROCKET.FMT_NOUN_SUFFIX
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_NOUN_SUFFIX"
 msgid "{Noun} {Suffix}"
-msgstr ""
+msgstr "{Noun} {Suffix}"
 
 #. STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_ADJECTIVE_NOUN"
 msgid "{Prefix} {Adjective} {Noun}"
-msgstr ""
+msgstr "{Prefix} {Adjective} {Noun}"
 
 #. STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_ADJECTIVE_NOUN_SUFFIX
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_ADJECTIVE_NOUN_SUFFIX"
 msgid "{Prefix} {Adjective} {Noun} {Suffix}"
-msgstr ""
+msgstr "{Prefix} {Adjective} {Noun} {Suffix}"
 
 #. STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_NOUN
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_NOUN"
 msgid "{Prefix} {Noun}"
-msgstr ""
+msgstr "{Prefix} {Noun}"
 
 #. STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_NOUN_SUFFIX
 msgctxt "STRINGS.NAMEGEN.ROCKET.FMT_PREFIX_NOUN_SUFFIX"
 msgid "{Prefix} {Noun} {Suffix}"
-msgstr ""
+msgstr "{Prefix} {Noun} {Suffix}"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.ADEOS
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ADEOS"
@@ -39749,7 +39749,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.APOLLO
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.APOLLO"
 msgid "Apollo"
-msgstr ""
+msgstr "Apollo"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.ARTEMIS
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ARTEMIS"
@@ -39789,7 +39789,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.HELIOS
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.HELIOS"
 msgid "Helios"
-msgstr ""
+msgstr "Helios"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.HOPE
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.HOPE"
@@ -39799,7 +39799,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.JUPITER
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.JUPITER"
 msgid "Jupiter"
-msgstr ""
+msgstr "Jupiter"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.KNOWLEDGE
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.KNOWLEDGE"
@@ -39809,7 +39809,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.MARS
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.MARS"
 msgid "Mars"
-msgstr ""
+msgstr "Mars"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.MIR
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.MIR"
@@ -39819,22 +39819,22 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.NEPTUNE
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.NEPTUNE"
 msgid "Neptune"
-msgstr ""
+msgstr "Neptune"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.PLUTO
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.PLUTO"
 msgid "Pluto"
-msgstr ""
+msgstr "Pluto"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.PROTOTYPE
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.PROTOTYPE"
 msgid "Prototype"
-msgstr ""
+msgstr "Prototyp"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.ROCKET
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ROCKET"
 msgid "Rocket"
-msgstr ""
+msgstr "Rakete"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.ROVER
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.ROVER"
@@ -39849,7 +39849,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.SATURN
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SATURN"
 msgid "Saturn"
-msgstr ""
+msgstr "Saturn"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.SELENE
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SELENE"
@@ -39864,7 +39864,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.SOL
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SOL"
 msgid "Sol"
-msgstr ""
+msgstr "Sol"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.SPACESHIP
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SPACESHIP"
@@ -39879,12 +39879,12 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.SPUTNIK
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.SPUTNIK"
 msgid "Sputnik"
-msgstr ""
+msgstr "Sputnik"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.URANUS
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.URANUS"
 msgid "Uranus"
-msgstr ""
+msgstr "Uranus"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.VENESAT
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VENESAT"
@@ -39894,7 +39894,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.NOUN.VENUS
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VENUS"
 msgid "Venus"
-msgstr ""
+msgstr "Venus"
 
 #. STRINGS.NAMEGEN.ROCKET.NOUN.VESSEL
 msgctxt "STRINGS.NAMEGEN.ROCKET.NOUN.VESSEL"
@@ -39939,97 +39939,97 @@ msgstr ""
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.I
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.I"
 msgid "I"
-msgstr ""
+msgstr "I"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.II
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.II"
 msgid "II"
-msgstr ""
+msgstr "II"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.III
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.III"
 msgid "III"
-msgstr ""
+msgstr "III"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.IV
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.IV"
 msgid "IV"
-msgstr ""
+msgstr "IV"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.IX
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.IX"
 msgid "IX"
-msgstr ""
+msgstr "IX"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.L
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.L"
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.LI
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.LI"
 msgid "LI"
-msgstr ""
+msgstr "LI"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.LV
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.LV"
 msgid "LV"
-msgstr ""
+msgstr "LV"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.V
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.V"
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.VI
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.VI"
 msgid "VI"
-msgstr ""
+msgstr "VI"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.VII
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.VII"
 msgid "VII"
-msgstr ""
+msgstr "VII"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.X
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.X"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XC
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XC"
 msgid "XC"
-msgstr ""
+msgstr "XC"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XI
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XI"
 msgid "XI"
-msgstr ""
+msgstr "XI"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XIV
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XIV"
 msgid "XIV"
-msgstr ""
+msgstr "XIV"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XL
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XL"
 msgid "XL"
-msgstr ""
+msgstr "XL"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XLI
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XLI"
 msgid "XLI"
-msgstr ""
+msgstr "XLI"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XV
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XV"
 msgid "XV"
-msgstr ""
+msgstr "XV"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.XVI
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.XVI"
 msgid "XVI"
-msgstr ""
+msgstr "XVI"
 
 #. STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION
 msgctxt "STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION"
@@ -52586,7 +52586,7 @@ msgstr "Bürstengeräusch auf A stellen"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.NAME"
 msgid "Size"
-msgstr ""
+msgstr "Größe"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.TOOLTIP"
@@ -55108,7 +55108,7 @@ msgstr "Prioritäts-Werkzeug"
 #. STRINGS.UI.TOOLS.SANDBOX.BRUSH.HOVERACTION
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.BRUSH.HOVERACTION"
 msgid "PAINT SIM"
-msgstr ""
+msgstr "PAINT SIM"
 
 #. STRINGS.UI.TOOLS.SANDBOX.BRUSH.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.BRUSH.NAME"
@@ -56912,12 +56912,12 @@ msgstr "Tooltip"
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.BAD
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.BAD"
 msgid "\"Boing boing!\""
-msgstr ""
+msgstr "\"Boing Boing!\""
 
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.DUPLICANT_THREATENING
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.DUPLICANT_THREATENING"
 msgid "AHH!"
-msgstr ""
+msgstr "AHH!"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NAME
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NAME"
@@ -56927,7 +56927,7 @@ msgstr "Benachrichtigungstext auswählen"
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NEUTRAL
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NEUTRAL"
 msgid "\"Pop!\""
-msgstr ""
+msgstr "\"Pop!\""
 
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.PAUSE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.PAUSE"
