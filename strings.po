@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -2289,12 +2289,12 @@ msgstr "Dieses Rohr steht aufgrund seiner aktuellen <style=\"KKeyword\">Temperat
 #. STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.NAME"
 msgid "Pending Toggle on Unpause"
-msgstr "Ausstehend: Umschalten auf Pause"
+msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PLAYERCONTROLLEDTOGGLESIDESCREEN.TOOLTIP"
 msgid "This will be toggled when time is unpaused"
-msgstr "Dies wird umgeschaltet, wenn die Zeit nicht angehalten wird"
+msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME"
@@ -2305,7 +2305,7 @@ msgstr "Funktion ausgesetzt"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP"
 msgid ""
 "This building has been toggled off\n"
-"Press <style=\"KKeyword\">Enable Building</style> <b><color=#F44A4A>[ENTER]</b></color>to resume its use"
+"Press <style=\"KKeyword\">Enable Building</style> <b><color=#F44A4A>[ENTER]</b></color> to resume its use"
 msgstr ""
 "Diese Einrichtung ist ausgeschaltet\n"
 "Drücke <style=\"KKeyword\">Aktivieren</style> <b><color=#F44A4A>[ENTER]</b></color> um es weiter zu verwenden"
@@ -3065,22 +3065,6 @@ msgstr "Gegendruck: {0}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP"
 msgid "Well pressure increases with each use and must be periodically relieved to prevent shutdown"
 msgstr "Der Druck in der Ölquelle steigt mit jedem Gebrauch und muss regelmäßig entlastet werden, um ein Abschalten zu verhindern"
-
-#. STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.NAME
-msgctxt "STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.NAME"
-msgid "Intake Requires Gas"
-msgstr "Eingang erfordert Gas"
-
-#. STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP
-msgctxt "STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP"
-msgid ""
-"A wind tunnel requires Gas at the top and bottom intakes in order to operate.\n"
-"\n"
-"The intakes for this wind tunnel don't have enough gas to operate."
-msgstr ""
-"Ein Windkanal benötigt zum Betrieb Gas am oberen und unteren Einlass.\n"
-"\n"
-"Die Einlässe für diesen Windkanal haben nicht genug Gas, um zu funktionieren."
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
@@ -5148,7 +5132,7 @@ msgid ""
 "\n"
 "Can be run through wall and floor tile."
 msgstr ""
-"Transportiert <link=\"ELEMENTSGAS\">Gas</link>, ermöglicht einen sehr starken <link=\"HEAT\">Temperaturaustausch</link> mit der Umgebung.\n"
+"Transportiert <link=\"ELEMENTSGAS\">Gas</link>, ermöglicht einen sehr starken <link=\"HEAT\">Temperaturaustausch</link> mit der Umgebung hat.\n"
 "\n"
 "Kann in Wand- und Bodenziegeln verlegt werden."
 
@@ -6189,7 +6173,7 @@ msgid ""
 "\n"
 "Can be run through wall and floor tile."
 msgstr ""
-"Transportiert <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link>und ermöglicht so einen extremen <link=\"HEAT\">Temperaturausgleich</link> mit der Umgebung.\n"
+"Transportiert <link=\"ELEMENTSGAS\">Gas</link>, das sehr starken <link=\"HEAT\">Temperaturausgleich</link> mit der Umgebung hat.\n"
 "\n"
 "Kann in Wand- und Bodenziegeln verlegt werden."
 
@@ -10285,11 +10269,11 @@ msgstr "Dieses Gebäude verschiebt {amount} Gas bei Verwendung."
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT"
 msgid ""
-"Must be placed above an open space and be connected to a <link=\"POWER\">Power Source</link>.\n"
+"Must be connected to <link=\"GASPIPING\">Gas Pipes</link> and a <link=\"POWER\">Power Source</link>.\n"
 "\n"
 "Increases Duplicants <link=\"MORALE\">Morale</link>."
 msgstr ""
-"Muss über einem offenen Raum platziert und mit einer <link=\"POWER\">Stromquelle</link> verbunden werden.\n"
+"Muss mit <link=\"GASPIPING\">Gasleitungen</link> und einer <link=\"POWER\">Stromquelle</link> verbunden werden.\n"
 "\n"
 "Erhöht die <link=\"MORALE\">Moral</link> von Duplikaten."
 
@@ -19043,8 +19027,8 @@ msgstr "<link=\"PUFTALPHA\">Puftlet-Prinz</link>"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.DESC"
-msgid "The Puft Prince is a lazy critter that excretes little <link=\"SOLID\">Solid</link> lumps of whatever it has been breathing."
-msgstr "Der Puft Prinz ist ein fauler Lebewesen, der kleine <link=\"SOLID\">feste</link>Klumpen von allem ausscheidet, was er geatmet hat."
+msgid "The Puft Prince is a lazy critter that excretes little lumps of <link=\"SLIMEMOLD\">Slime</link> with each breath."
+msgstr "Der Puft Prinz ein faules Tier, das mit jedem Atemzug kleine Klumpen an <link=\"SLIMEMOLD\">Schleim</link> ausscheidet."
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.EGG_NAME"
@@ -22705,21 +22689,6 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.TOOLTIP"
 msgid "This Duplicant is delivering materials required to perform <style=\"KKeyword\">Life Support</style> Errands"
 msgstr "Dieser Duplikant liefert Materialien, die zur Durchführung von <style=\"KKeyword\">Lebenserhaltungs</style>-Aufträgen erforderlich sind"
 
-#. STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.NAME"
-msgid "Ranching Supply"
-msgstr "Landwirtschaftsversorgung"
-
-#. STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.STATUS"
-msgid "Supplying ranching materials"
-msgstr "Liefert landwirtschaftlichen Materialien"
-
-#. STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.TOOLTIP"
-msgid "This Duplicant is delivering materials for ranching activities"
-msgstr "Dieser Duplikant liefert Materialien für Landwirtschaftliche aktivitäten"
-
 #. STRINGS.DUPLICANTS.CHORES.FLEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.NAME"
 msgid "Flee"
@@ -23921,21 +23890,6 @@ msgstr "Geht Ausrüstung ablegen"
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.TOOLTIP"
 msgid "This Duplicant is removing a piece of their equipment"
 msgstr "Dieser Duplikant entfernt ein Teil seiner Ausrüstung"
-
-#. STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.NAME"
-msgid "Unlearn Skills"
-msgstr "Fertigkeit verlernen"
-
-#. STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.STATUS"
-msgid "Unlearning skills"
-msgstr "Verlernen von Fähigkeiten"
-
-#. STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.TOOLTIP"
-msgid "This Duplicant is unlearning <style=\"KKeyword\">Skills</style>"
-msgstr "Dieser Duplikant verlernt eine <style=\"KKeyword\">Fertigkeit</style>"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
@@ -28162,26 +28116,6 @@ msgstr "Dekoriert"
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP"
 msgid "This Duplicant is hard at work on their art"
 msgstr "Dieser Duplikant arbeitet hart an seinem Kunstwerk"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTHANDINGOUT.NAME
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTHANDINGOUT.NAME"
-msgid "Balloon Artist"
-msgstr "Ballonkünstler"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTHANDINGOUT.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTHANDINGOUT.TOOLTIP"
-msgid "This Duplicant is handing out balloons to other Duplicants"
-msgstr "Dieser Duplikant verteilt Luftballons an andere Duplikanten"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTPLANNING.NAME
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTPLANNING.NAME"
-msgid "Balloon Artist"
-msgstr "Ballonkünstler"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTPLANNING.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BALLOONARTISTPLANNING.TOOLTIP"
-msgid "This Duplicant is planning to hand out balloons in their downtime"
-msgstr "Dieser Duplikant verteilt Luftballons an andere Duplikanten"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME"
@@ -34852,16 +34786,6 @@ msgstr "<link=\"TOFU\">Tofu</link>"
 msgctxt "STRINGS.ITEMS.FOOD.TOFU.RECIPEDESC"
 msgid "A bland curd made from <link=\"BEAN\">Nosh Beans</link>."
 msgstr "Eine fade Masse aus <link=\"BEAN\">Happsbohnen</link>."
-
-#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.DESC
-msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.DESC"
-msgid "Can be crushed to produce <link=\"LIME\">Lime</link>."
-msgstr "Kann gebrochen werden, um <link=\"LIME\">Kalk</link> zu erhalten."
-
-#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.NAME
-msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.NAME"
-msgid "Small Pokeshell Molt"
-msgstr "Kleine Pokepanzer-Hülle"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
@@ -45035,38 +44959,6 @@ msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION"
 msgid "Previous Version"
 msgstr "Vorherige Version"
 
-#. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MESSAGE
-msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MESSAGE"
-msgid ""
-"This game is running a Test version of Oxygen Not Included. This means that some features may be in development or buggier than normal, and not quite ready to go to the Release version of the game.\n"
-"\n"
-"If you encounter any bugs or strange behavior, we'd appreciate if you took the time to add a report to the bug forums."
-msgstr ""
-"In diesem Spiel wird eine Testversion von Oxygen Not Included ausgeführt. Dies bedeutet, dass einige Funktionen möglicherweise in der Entwicklung oder fehlerhafter als normal sind und nicht ganz bereit sind, zur Release-Version des Spiels zu wechseln.\n"
-"\n"
-"Wenn Sie auf Fehler oder seltsames Verhalten stoßen, würden wir uns freuen, wenn Sie sich die Zeit nehmen, einen Bericht zu den Fehlerforen hinzuzufügen."
-
-#. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MESSAGE_TITLE
-msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MESSAGE_TITLE"
-msgid "TESTING BUILD"
-msgstr "TESTING BUILD"
-
-#. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MORE_INFO
-msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_MORE_INFO"
-msgid "BUG FORUMS"
-msgstr "BUG FORUMS"
-
-#. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_TOOLTIP
-msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_TOOLTIP"
-msgid ""
-"The game is currently running a Test version\n"
-"\n"
-"Click for more info."
-msgstr ""
-"Das Spiel läuft derzeit eine Testversion\n"
-"\n"
-"Klicke hier für weitere Informationen."
-
 #. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK"
 msgid "TESTING BUILD: {0}"
@@ -47431,8 +47323,8 @@ msgstr "STEAM WORKSHOP"
 
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
-msgid "DLC ROADMAP!"
-msgstr "DLC ROADMAP!"
+msgid "AUTOMATION PACK!"
+msgstr "AUTOMATISIERUNGSPAKET!"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -47447,21 +47339,23 @@ msgstr "DISKUTIERE MIT"
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid ""
-"<b>New Bugfix Patch for July 2020</b>\n"
+"<b>Welcome to Banhi's Automation Innovation Pack!</b>\n"
 "\n"
-" • Fixed multiple simulation heat creation/destruction bugs\n"
-" • Fixed Duplicants getting stuck digging forever\n"
-" • Continued work on alternate color sets\n"
-" • Dozens of other fixes and improvements\n"
+"<b>Update Features:</b>\n"
 "\n"
-"Please check out the full patch notes for more details!"
+"• New and Improved automation sensors and outputs for work and for play\n"
+"• New 'Sweepy' robot helps keep your colony tidy and stylish\n"
+"• Bunches of optimizations, bug fixes, and improvements across the game\n"
+"\n"
+"Please view the full patch notes for further details!"
 msgstr ""
-"<b> Neuer Bugfix Patch für Juli 2020 </ b>\n"
+"<b>Willkommen bei Banhis Automation Innovation Pack!</b>\n"
 "\n"
-"  • Mehrere Fehler bei der Erzeugung / Zerstörung von Simulationswärme wurden behoben\n"
-"  • Behoben, dass Duplikanten für immer stecken bleiben\n"
-"  • Fortsetzung der Arbeit an alternativen Farbsätzen\n"
-"  • Dutzende anderer Korrekturen und Verbesserungen\n"
+"<b>Aktualisierungsfunktionen:</b>\n"
+"\n"
+"• Neue und verbesserte Automatisierungssensoren und -ausgänge für Arbeit und Freizeit\n"
+"• Der neue 'Sweepy'-Roboter sorgt dafür, dass Ihre Kolonie sauber und stilvoll bleibt\n"
+"• Eine Reihe von Optimierungen, Fehlerkorrekturen und Verbesserungen im gesamten Spiel\n"
 "\n"
 "Bitte lesen Sie die vollständigen Patchnotizen für weitere Details!"
 
@@ -47704,16 +47598,6 @@ msgstr ""
 "{1} - Der Weltseed\n"
 "\n"
 "{2} - Schwierigkeitsgrad und benutzerdefinierte Einstellungen"
-
-#. STRINGS.UI.FRONTEND.RAILFORCEQUIT.SAVE_EXIT
-msgctxt "STRINGS.UI.FRONTEND.RAILFORCEQUIT.SAVE_EXIT"
-msgid "Play time has expired and the game is exiting. Would you like to overwrite {0}?"
-msgstr "Die Spielzeit ist abgelaufen und das Spiel wird beendet. Möchten Sie {0} überschreiben?"
-
-#. STRINGS.UI.FRONTEND.RAILFORCEQUIT.WARN_EXIT
-msgctxt "STRINGS.UI.FRONTEND.RAILFORCEQUIT.WARN_EXIT"
-msgid "Play time has expired and the game will now exit."
-msgstr "Die Spielzeit ist abgelaufen und das Spiel wird nun beendet."
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME"
@@ -52702,7 +52586,7 @@ msgstr "Bürstengeräusch auf A stellen"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.NAME"
 msgid "Size"
-msgstr "Größe"
+msgstr ""
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SIZE.TOOLTIP"
@@ -54389,11 +54273,6 @@ msgstr ""
 "Ein Zielort muss immer so viel Masse übrig haben, um ihn nicht vollständig aufzubrauchen und die Regeneration der Ressourcen zu ermöglichen.\n"
 "\n"
 "Duplikanten werden die Mindestmasse immer einhalten, was aber dazu führen kann, dass sie weniger Fracht zurückbringen, als ihre Rakete transportieren könnte."
-
-#. STRINGS.UI.STARMAP.MISSION_STATUS.DESTROYED
-msgctxt "STRINGS.UI.STARMAP.MISSION_STATUS.DESTROYED"
-msgid "Destroyed"
-msgstr "Zerstört"
 
 #. STRINGS.UI.STARMAP.MISSION_STATUS.GO
 msgctxt "STRINGS.UI.STARMAP.MISSION_STATUS.GO"
@@ -57033,12 +56912,12 @@ msgstr "Tooltip"
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.BAD
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.BAD"
 msgid "\"Boing boing!\""
-msgstr "\"Boing boing!\""
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.DUPLICANT_THREATENING
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.DUPLICANT_THREATENING"
 msgid "AHH!"
-msgstr "AHH!"
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NAME
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NAME"
@@ -57048,7 +56927,7 @@ msgstr "Benachrichtigungstext auswählen"
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NEUTRAL
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.NEUTRAL"
 msgid "\"Pop!\""
-msgstr "\"Pop!\""
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.PAUSE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICALARMSIDESCREEN.TOOLTIPS.PAUSE"
@@ -60565,32 +60444,6 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.VOLCANIC.NAME"
 msgid "Volcanea"
 msgstr "Volcanea"
-
-#~ msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
-#~ msgid "AUTOMATION PACK!"
-#~ msgstr "AUTOMATISIERUNGSPAKET!"
-
-#~ msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
-#~ msgid ""
-#~ "<b>Welcome to Banhi's Automation Innovation Pack!</b>\n"
-#~ "\n"
-#~ "<b>Update Features:</b>\n"
-#~ "\n"
-#~ "• New and Improved automation sensors and outputs for work and for play\n"
-#~ "• New 'Sweepy' robot helps keep your colony tidy and stylish\n"
-#~ "• Bunches of optimizations, bug fixes, and improvements across the game\n"
-#~ "\n"
-#~ "Please view the full patch notes for further details!"
-#~ msgstr ""
-#~ "<b>Willkommen bei Banhis Automation Innovation Pack!</b>\n"
-#~ "\n"
-#~ "<b>Aktualisierungsfunktionen:</b>\n"
-#~ "\n"
-#~ "• Neue und verbesserte Automatisierungssensoren und -ausgänge für Arbeit und Freizeit\n"
-#~ "• Der neue 'Sweepy'-Roboter sorgt dafür, dass Ihre Kolonie sauber und stilvoll bleibt\n"
-#~ "• Eine Reihe von Optimierungen, Fehlerkorrekturen und Verbesserungen im gesamten Spiel\n"
-#~ "\n"
-#~ "Bitte lesen Sie die vollständigen Patchnotizen für weitere Details!"
 
 #~ msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
 #~ msgid "Wheezeworts can be grown in flower pots and absorb <link=\"HEAT\">Heat</link> by respiring through their porous outer membranes."
