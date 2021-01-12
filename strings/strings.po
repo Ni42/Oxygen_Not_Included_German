@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-01-09 11:11+0100\n"
+"PO-Revision-Date: 2021-01-12 17:51+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -4744,7 +4744,7 @@ msgid ""
 "than <b>{0}%</b> charged, until it is <b>{1}% (High Threshold)</b> charged"
 msgstr ""
 "Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>, wenn die Batterie "
-"weniger als <b>{0}%</b> und nicht mehr wie <b>{1}% (Oberer Schwellwert)</b> "
+"weniger als <b>{0}%</b> und nicht mehr wie <b>{1}% (Oberer Schwellenwert)</b> "
 "geladen ist"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DEACTIVATE_TOOLTIP
@@ -4754,8 +4754,8 @@ msgid ""
 "<b>{0}%</b> charged, until it is less than <b>{1}% (Low Threshold)</b> charged"
 msgstr ""
 "Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>, wenn die Batterie "
-"eine Ladung von <b>{0}%</b> hat und nicht unter <b>{1}% (unterer Schwellwert)</"
-"b> geladen ist"
+"eine Ladung von <b>{0}%</b> hat und nicht unter <b>{1}% (unterer "
+"Schwellenwert)</b> geladen ist"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DESC"
@@ -4799,8 +4799,8 @@ msgid ""
 "than <b>Low Threshold</b> charged, until <b>High Threshold</b> is reached again"
 msgstr ""
 "Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>, wenn die Batterie "
-"niedriger als der <b>untere Schwellwert</b> geladen ist, bis der <b>obere "
-"Schwellwert</b> wieder erreicht wird"
+"niedriger als der <b>untere Schwellenwert</b> geladen ist, bis der <b>obere "
+"Schwellenwert</b> wieder erreicht wird"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_INACTIVE"
@@ -4810,8 +4810,8 @@ msgid ""
 "again"
 msgstr ""
 "Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>, wenn die Batterie "
-"höher als der <b>obere Schwellwert</b> geladen ist, bis der <b>untere "
-"Schwellwert</b> wieder erreicht wird"
+"höher als der <b>obere Schwellenwert</b> geladen ist, bis der <b>untere "
+"Schwellenwert</b> wieder erreicht wird"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.NAME"
@@ -13224,9 +13224,9 @@ msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> when reservoir is less "
 "than <b>{0}%</b> full, until it is <b>{1}% (High Threshold)</b> full"
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">grünes Signal</style></b>, wenn das "
-"Reservoir weniger als <b>{0}%</b> voll ist, bis es <b> {1}% ( Hoher "
-"Schwellenwert)</b> voll ist"
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>, wenn der Tank "
+"weniger als <b>{0}%</b> voll ist, bis er <b>{1}% (Hoher Schwellenwert)</b> "
+"voll ist"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.DEACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.DEACTIVATE_TOOLTIP"
@@ -13234,14 +13234,14 @@ msgid ""
 "Sends a <b><style=\"logic_off\">Red Signal</style></b> when reservoir is "
 "<b>{0}%</b> full, until it is less than <b>{1}% (Low Threshold)</b> full"
 msgstr ""
-"Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>, wenn das "
-"Reservoir<b>{0}%</b> voll ist, bis es weniger als <b>{1}% beträgt ( Niedriger "
-"Schwellenwert) </ b>"
+"Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>, wenn der Tank "
+"<b>{0}%</b> voll ist, bis er weniger als <b>{1}% (Niedriger Schwellenwert)</b> "
+"gefüllt ist"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT"
 msgid "Refill Parameters"
-msgstr "Ladeparameter"
+msgstr "Füllstandsparameter"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_ACTIVE"
@@ -13249,9 +13249,9 @@ msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> when reservoir is less "
 "than <b>Low Threshold</b> full, until <b>High Threshold</b> is reached again"
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">grünes Signal</style></b>, wenn die Batterie "
-"weniger als der <b>untere Schwellwert</b> geladen ist, bis der <b>obere "
-"Schwellwert</b> wieder erreicht wird"
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>, wenn der Tank "
+"weniger als der <b>untere Schwellenwert</b> gefüllt ist, bis der <b>obere "
+"Schwellenwert</b> wieder erreicht wird"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_INACTIVE"
@@ -13259,9 +13259,9 @@ msgid ""
 "Sends a <b><style=\"logic_off\">Red Signal</style></b> when reservoir is "
 "<b>High Threshold</b> full, until <b>Low Threshold</b> is reached again"
 msgstr ""
-"Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>, wenn die Batterie "
-"höher als der <b>obere Schwellwert</b> geladen ist, bis der <b>untere "
-"Schwellwert</b> wieder erreicht wird"
+"Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>, wenn der Tank "
+"höher als der <b>obere Schwellenwert</b> gefüllt ist, bis der <b>untere "
+"Schwellenwert</b> wieder erreicht wird"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_ACTIVATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_ACTIVATE"
@@ -13927,7 +13927,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STICKERBOMB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STICKERBOMB.NAME"
 msgid "<link=\"STICKERBOMB\">Sticker Bomb</link>"
-msgstr "<link=\"STICKERBOMB\">Sticker Bomb</link>"
+msgstr "<link=\"STICKERBOMB\">Aufkleber-Bombe</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC"
@@ -15219,7 +15219,7 @@ msgstr ""
 "<indent=5%>Direktor,\n"
 "\n"
 "Selbst mit dramatischen Optimierungen können wir nicht einmal die schiere "
-"Menge an Ressourcen, die für einen Kolonenkern an Bord des Schiffes benötigt "
+"Menge an Ressourcen, die für einen Kolonienkern an Bord des Schiffes benötigt "
 "wird, nicht unterbringen, selbst wenn wir nur eine sehr kurze interplanetare "
 "Reisedauer planen.\n"
 "\n"
@@ -15414,7 +15414,7 @@ msgid ""
 msgstr ""
 "Nun, die Mentorschaft ist nicht ganz so gelaufen, wie ich es erwartet hatte. "
 "Es stellte sich heraus, dass die jungen Leute niemanden brauchen, um sich mit "
-"alle, vertraut zu machen. Tatsächlich musste mir einer der netten jungen "
+"allem vertraut zu machen. Tatsächlich musste mir einer der netten jungen "
 "Männer, nachdem die Anlage unsere Magnetkarten losgeworden war, zeigen, wie "
 "man die Türen bedient, nachdem ich vor meinem eigenen Labor stecken geblieben "
 "war. Ich fühle mich nicht blöd.\n"
@@ -22020,10 +22020,10 @@ msgstr ""
 "gemessen. Die von Gebäuden produzierte und verbrauchte Leistung wird in Watt "
 "gemessen, was Joule (verbraucht oder produziert) pro Sekunde entspricht.\n"
 "\n"
-"Eine Batterie die 5000 Joules speichert, könnte ein Gebäude mit einem "
-"Verbrauch von 240 Watt für etwa 20 Sekunden versorgen. Ein Generator mit einer "
-"Leistung von 480 Watt könnte zwei Gebäude versorgen, die 240 Watt verbrauchen, "
-"solange er in Betrieb ist.\n"
+"Eine Batterie die 5000 Joule speichert, könnte ein Gebäude mit einem Verbrauch "
+"von 240 Watt für etwa 20 Sekunden versorgen. Ein Generator mit einer Leistung "
+"von 480 Watt könnte zwei Gebäude versorgen, die 240 Watt verbrauchen, solange "
+"er in Betrieb ist.\n"
 "\n"
 
 #. STRINGS.CODEX.POWER.PARAGRAPH_4
@@ -23074,7 +23074,7 @@ msgctxt ""
 "REACHED_SPACE_DESTINATION_DESCRIPTION"
 msgid "Send a Duplicant on a one-way mission to the furthest Starmap destination"
 msgstr ""
-"Sende einen Duplikanten auf einer Einweg-Mission zum am weitesten entfernten "
+"Sende einen Duplikanten auf eine Einweg-Mission zum am weitesten entfernten "
 "Sternenkartenziel"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT.FIRST
@@ -23151,7 +23151,7 @@ msgstr "Oxygen Nicht Verstopft"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION"
 msgid "Distribute 1000  Kg of Oxygen using gas vents."
-msgstr "Verteile 1000  kg Sauerstoff mit Hilfe von Gasausgängen."
+msgstr "Verteile 1000 kg Sauerstoff mit Hilfe von Gasausgängen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES"
@@ -23249,7 +23249,7 @@ msgid ""
 "Have a Duplicant eat any cooked meal prepared at an Electric Grill or Gas "
 "Range."
 msgstr ""
-"Laß einen Duplikanten eine gekochte Mahlzeit essen, die an einem elektrischen "
+"Lass einen Duplikanten eine gekochte Mahlzeit essen, die an einem elektrischen "
 "Grill oder Gasherd zubereitet wurde."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.CURED_DISEASE
@@ -23379,8 +23379,7 @@ msgid ""
 "Have a Duplicant with the Masterworks skill paint a Masterpiece quality "
 "painting."
 msgstr ""
-"Nutze einen Duplikant mit der Meisterwerk-Fertigkeit um ein Meisterwerk zu "
-"malen."
+"Lasse einen Duplikanten mit der Meisterwerk-Fertigkeit ein Meisterwerk malen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX"
@@ -23445,7 +23444,7 @@ msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ARM_VS_DUPE_FETCHES"
 msgid "Deliveries this cycle: Auto-Sweepers: {1} Duplicants: {2}"
 msgstr ""
-"Lieferung während dieses Zyklus: Automatische Räumer: {1} Duplikante: {2}"
+"Lieferung während dieses Zyklus: Automatische Räumer: {1} Duplikanten: {2}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.AUTOMATE_A_BUILDING
 msgctxt ""
@@ -23466,7 +23465,7 @@ msgstr "Gebaute Betten: {0} ({1} Benötigt)"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_A_ROOM
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_A_ROOM"
 msgid "Built a {0}."
-msgstr "Baue ein {0}."
+msgstr "Baue ein(en) {0}."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_N_ROOMS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILT_N_ROOMS"
@@ -23524,7 +23523,7 @@ msgstr "Verzehre etwas, das am {0} zubereitet wurde"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CREATE_A_PAINTING
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CREATE_A_PAINTING"
 msgid "Created a masterpiece painting"
-msgstr "Schuf ein Meisterwerk Gemälde"
+msgstr "Ein Meisterwerk-Gemälde geschaffen"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CURED_DISEASE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CURED_DISEASE"
@@ -23568,7 +23567,7 @@ msgstr "Zyklus: {0:0.##} / {1:0.##}"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GENERATE_POWER
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GENERATE_POWER"
 msgid "Energy generated: {0} / {1}"
-msgstr "Energie erzeugt: {0} {1}"
+msgstr "Energie erzeugt: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH"
@@ -23674,7 +23673,7 @@ msgstr "Technologie erforscht: {0} / {1}"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES"
 msgid "Distance: {0:n} m / {1:n} m"
-msgstr "Distanz: {0:n} m / {1:n} m m"
+msgstr "Distanz: {0:n} m / {1:n} m"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.UPGRADE_ALL_BUILDINGS
 msgctxt ""
@@ -23769,8 +23768,8 @@ msgid ""
 "Greenhouse and a Stable."
 msgstr ""
 "Baue von jedem der folgenden Räume mindestens einen in deiner Kolonie: Ein "
-"Naturreservat, ein Krankenhaus, ein Erholungsraum, einen großen Speisesaal, "
-"ein Schlafzimmer, ein Waschraum, ein Gewächshaus und einen Stall."
+"Naturreservat, ein Krankenhaus, einen Erholungsraum, einen großen Speisesaal, "
+"ein Schlafzimmer, einen Waschraum, ein Gewächshaus und einen Stall."
 
 # Filmtitel
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_LEAVE
@@ -28862,7 +28861,7 @@ msgstr "Dieses Tier sucht nach leckeren <style=\"KKeyword\">Samen</style>"
 #. STRINGS.CREATURES.STATUSITEMS.SATURATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SATURATED.NAME"
 msgid "Too Wet!"
-msgstr "Zu naß!"
+msgstr "Zu nass!"
 
 #. STRINGS.CREATURES.STATUSITEMS.SATURATED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SATURATED.TOOLTIP"
@@ -33788,7 +33787,7 @@ msgstr "Zombiesporen vorhanden\n"
 #. STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.NAME"
 msgid "<link=\"ZOMBIESPORES\">Zombie Spores</link>"
-msgstr "<link=\"ZOMBIESICKNESS\">Zombiesporen</link>"
+msgstr "<link=\"ZOMBIESPORES\">Zombiesporen</link>"
 
 #. STRINGS.DUPLICANTS.GENDER.FEMALE.NAME
 msgctxt "STRINGS.DUPLICANTS.GENDER.FEMALE.NAME"
@@ -50213,7 +50212,7 @@ msgstr ""
 "Meine Duplikanten werden nur essen, schlafen, arbeiten oder duschen während "
 "der Zeit, die ich für diese Aktivitäten zuteile.\n"
 "\n"
-"Um die Zeit optimal nutzen zu können, kann ich den <b>Zeitplan-Tab<b> "
+"Um die Zeit optimal nutzen zu können, kann ich den <b>Zeitplan-Tab</b> "
 "<b><color=#F44A4A>[PUNKT-TASTE]</b></color> öffnen, um festzulegen wie meine "
 "Duplikanten ihren Tag nutzen sollen."
 
@@ -58279,7 +58278,7 @@ msgid ""
 "Produces <style=\"produced\">{0}</style> for the <style=\"KKeyword\">Power "
 "Grid</style> it's connected to"
 msgstr ""
-"Prduziert <style=\"consumed\">{0}</style> für das verbundene <style=\"KKeyword"
+"Produziert <style=\"produced\">{0}</style> für das verbundene <style=\"KKeyword"
 "\">Stromnetz</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES
@@ -58746,7 +58745,7 @@ msgid ""
 "style> of available <style=\"KKeyword\">Power</style>"
 msgstr ""
 "Muss mit einem Stromnetz verbunden sein, das mindestens <style=\"consumed\">{0}"
-"</style> verfügbare <style=\"KKeyword\">Energie</style> hat"
+"</style> verfügbare <style=\"KKeyword\">Leistung</style> hat"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR"
