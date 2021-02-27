@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-25 22:58+0100\n"
-"Last-Translator: CarstenG\n"
+"PO-Revision-Date: 2021-02-27 09:23+0100\n"
+"Last-Translator: Xandras\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -14874,7 +14874,6 @@ msgstr ""
 "Eine stabile Tür mit einem ausgeklügelten genetischen Verriegelungsmechanismus."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.NAME"
 msgid "Temporal Ripper"
 msgstr "Temporaler Ripper"
@@ -14961,12 +14960,6 @@ msgstr ""
 "werden."
 
 #. STRINGS.BUILDINGS.PREFABS.TOURISTMODULE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.TOURISTMODULE.EFFECT"
-#| msgid ""
-#| "Allows one non-Astronaut Duplicant to visit space.\n"
-#| "\n"
-#| "Sight-Seeing Rocket flights decrease <link=\"STRESS\">Stress</link>."
 msgctxt "STRINGS.BUILDINGS.PREFABS.TOURISTMODULE.EFFECT"
 msgid ""
 "Allows one non-Astronaut Duplicant to visit space.\n"
@@ -18446,23 +18439,6 @@ msgid "Gates"
 msgstr "Gatter"
 
 #. STRINGS.CODEX.AUTOMATION.PARAGRAPH_1
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.AUTOMATION.PARAGRAPH_1"
-#| msgid ""
-#| "Automation is a tool for controlling the operation of buildings based on "
-#| "what sensors in the colony are detecting.\n"
-#| "\n"
-#| "A <link=\"CEILINGLIGHT\">Ceiling Light</link> could be configured to "
-#| "automatically turn on when a <link=\"DUPLICANTSENSOR\">Duplicant Motion "
-#| "Sensor</link> detects a Duplicant in the room.\n"
-#| "\n"
-#| "A <link=\"LIQUIDPUMP\">Liquid Pump</link> might activate only when a <link="
-#| "\"LOGICELEMENTSENSORLIQUID\">Liquid Element Sensor</link> detects water.\n"
-#| "\n"
-#| "A <link=\"AIRCONDITIONER\">Thermo Regulator</link> might activate only when "
-#| "the <link=\"LOGICTEMPERATURESENSOR\">Thermo Sensor</link> detects too much "
-#| "heat.\n"
-#| "\n"
 msgctxt "STRINGS.CODEX.AUTOMATION.PARAGRAPH_1"
 msgid ""
 "Automation is a tool for controlling the operation of buildings based on what "
@@ -18480,8 +18456,8 @@ msgid ""
 "heat.\n"
 "\n"
 msgstr ""
-"Die Automatisierung ist ein Instrument zur Steuerung des Betriebs von "
-"Gebäuden, auf der Grundlage von Daten die Sensoren in der Kolonie erfassen.\n"
+"Die Automatisierung ist ein Werkzeug zur Steuerung des Betriebs von Gebäuden, "
+"auf der Grundlage von Daten die Sensoren in der Kolonie erfassen.\n"
 "\n"
 "Ein <link=\"CEILINGLIGHT\">Deckenlicht</link> kann so konfiguriert werden, "
 "dass es sich automatisch einschaltet, wenn ein <link=\"DUPLICANTSENSOR"
@@ -20449,7 +20425,6 @@ msgstr ""
 "bewohnbarer für Duplikanten zu machen."
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_2"
 msgid ""
 "Resources can be transported from one Planetoid to the other using a <link="
@@ -20465,16 +20440,16 @@ msgid ""
 "Planetoids is very resource heavy and should only be done rarely."
 msgstr ""
 "Ressourcen können von einem Planetoiden zum anderen mit einem <link=\"RAILGUN"
-"\">Interplanetare Nutzlasten</link> transportiert werden. Sowohl der sendende "
-"als auch der empfangende Planetoide benötigen ein System, das für den "
-"erfolgreichen Transport von Ressourcen eingerichtet ist. Nur speziell "
-"ausgebildete Duplikanten können den <link=\"RAILGUN\">Interplanetare "
-"Nutzlasten</link> bedienen.\n"
+"\">Hochgeschwindigkeitswerfer</link>von einem Planetoid zum anderen "
+"transportiert werden. Sowohl der sendende als auch der empfangende Planetoid "
+"benötigen ein System, um Ressourcen erfolgreich zu transportieren. Nur "
+"speziell ausgebildete Duplikanten können den <link=\"RAILGUN"
+"\">Hochgeschwindigkeitswerfer</link> bedienen.\n"
 "\n"
 "Der Transport von Duplikanten von einem Planetoiden zu einem anderen kann nur "
-"mit einer <link=\"LANDINGPOD\">Landekapsel</link> durchgeführt werden. Jeder "
+"mit einer <link=\"LANDINGPOD\">Landekapsel</link> durchgeführt werden. Jede "
 "<link=\"LANDINGPOD\">Landekapsel</link> ist nur für eine Reise ausgelegt. Nach "
-"Erreichen des Zielortes zerlegt sich die Kapsel selbst. Der Transport von "
+"Erreichen des Ziels zerlegt sich die Kapsel selbst. Der Transport von "
 "Duplikanten zwischen Planetoiden ist sehr ressourcenintensiv und sollte nur "
 "selten durchgeführt werden."
 
@@ -22644,16 +22619,6 @@ msgid "Priority Tool"
 msgstr "Prioritäts-Werkzeug"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_1
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_1"
-#| msgid ""
-#| "Duplicants prioritize their errands based on several factors. Some of these "
-#| "can be adjusted to affect errand choice, but some errands (such as seeking "
-#| "breathable <link=\"OXYGEN\">oxygen</link>) are so important that they "
-#| "cannot be delayed. Errand priority can primarily be controlled by Errand "
-#| "Type prioritization, and then can be further fine tuned by the <b>Priority "
-#| "Tool</b> <b><color=#F44A4A>[P]</b></color>.\n"
-#| "\n"
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_1"
 msgid ""
 "Duplicants prioritize their errands based on several factors. Some of these "
@@ -22668,9 +22633,9 @@ msgstr ""
 "davon können angepasst werden, um die Auswahl der Aufträge zu beeinflussen, "
 "aber einige Aufträge (z.B. die Suche nach atembaren <link=\"OXYGEN"
 "\">Sauerstoff</link>) sind so wichtig, dass sie nicht verzögert werden können. "
-"Die Auftragspriorität kann vorrangig durch die Priorisierung der Auftragsart "
-"gesteuert und dann durch das <b>Prioritätswerkzeug</b> <b><color=#F44A4A>[P]</"
-"b></color> weiter verfeinert werden.\n"
+"Die Auftragspriorität kann hauptsächlich durch die Priorisierung der "
+"Auftragsart gesteuert und dann durch das <b>Prioritätswerkzeug</b> "
+"<b><color=#F44A4A>[P]</b></color> weiter verfeinert werden.\n"
 "\n"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_2
@@ -22701,16 +22666,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_3
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_3"
-#| msgid ""
-#| "The priority of errands can often be modified using the <b>Priority tool</"
-#| "b> <b><color=#F44A4A>[P]</b></color>. The values applied by this tool are "
-#| "always less influential than the Errand Type priorities described above. If "
-#| "two errands with equal Errand Type Priority are available to a Duplicant, "
-#| "they will choose the errand with a higher priority setting as applied by "
-#| "the tool.\n"
-#| "\n"
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_3"
 msgid ""
 "The priority of errands can often be modified using the <b>Priority tool</b> "
@@ -22720,12 +22675,13 @@ msgid ""
 "will choose the errand with a higher priority setting as applied by the tool.\n"
 "\n"
 msgstr ""
-"Die Priorität von Besorgungen kann häufig mit dem <b>Prioritätswerkzeug</b> "
-"<b><color=#F44A4A>[P]</b></color> geändert werden. Die mit diesem Werkzeug "
-"angewandten Werte haben immer einen geringeren Einfluss als die oben "
-"beschriebenen Prioritäten der Aufgabenart. Wenn ein Duplikant zwei Aufgaben "
-"mit gleicher Priorität hat, wählt er die Aufgabe dessen vom Werkzeug gesetzte "
-"Priorität höher ist.\n"
+"Die Priorität von Besorgungen kann oft mit dem <b>Prioritätswerkzeug</b> "
+"<b><color=#F44A4A>[P]</b></color> geändert werden. Die von diesem Tool "
+"angewendeten Werte haben immer einen geringeren Einfluss als die oben "
+"beschriebenen Prioritäten für den Aufgabentyp. Wenn einem Duplikanten zwei "
+"Aufgaben mit gleicher Priorität für den Aufgabentyp zur Verfügung stehen, "
+"wählt er die Besorgung mit einer höheren Prioritätseinstellung aus, die vom "
+"Tool festgelegt wird..\n"
 "\n"
 
 #. STRINGS.CODEX.PRIORITY.TITLE
@@ -22861,21 +22817,15 @@ msgid "Research Types"
 msgstr "Forschungstypen"
 
 #. STRINGS.CODEX.RESEARCH.PARAGRAPH_1
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.RESEARCH.PARAGRAPH_1"
-#| msgid ""
-#| "Doing research unlocks new types of buildings for the colony. Duplicants "
-#| "can perform research at the <link=\"RESEARCHCENTER\">Research Station</"
-#| "link>.\n"
-#| "\n"
 msgctxt "STRINGS.CODEX.RESEARCH.PARAGRAPH_1"
 msgid ""
 "Doing research unlocks new types of buildings for the colony. Duplicants can "
 "perform research at the <link=\"RESEARCHCENTER\">Research Station</link>.\n"
 "\n"
 msgstr ""
-"Die Forschung erschließt neue Gebäude für die Kolonie. Duplikanten können an "
-"der <link=\"RESEARCHCENTER\">Forschungsstation</link> forschen.\n"
+"Durch Forschung werden neue Gebäudetypen für die Kolonie freigeschaltet. "
+"Duplikanten können an der <link=\"RESEARCHCENTER\">Forschungsstation</link> "
+"forschen.\n"
 "\n"
 
 #. STRINGS.CODEX.RESEARCH.PARAGRAPH_2
@@ -23276,15 +23226,6 @@ msgid "Stress Responses"
 msgstr "Stressreaktionen"
 
 #. STRINGS.CODEX.STRESS.PARAGRAPH_1
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.STRESS.PARAGRAPH_1"
-#| msgid ""
-#| "A Duplicant's experiences in the colony affect their stress level. Stress "
-#| "increases when they have negative experiences or unmet expectations. Stress "
-#| "decreases with time if <link=\"MORALE\">Morale</link> is satisfied. "
-#| "Duplicant behavior starts to change for the worse when stress levels get "
-#| "too high.\n"
-#| "\n"
 msgctxt "STRINGS.CODEX.STRESS.PARAGRAPH_1"
 msgid ""
 "A Duplicant's experiences in the colony affect their stress level. Stress "
@@ -23293,11 +23234,11 @@ msgid ""
 "behavior starts to change for the worse when stress levels get too high.\n"
 "\n"
 msgstr ""
-"Die Erfahrungen eines Duplikanten in der Kolonie beeinflussen sein "
-"Stressniveau. Stress nimmt zu, wenn sie negative Erfahrungen oder unerfüllte "
-"Erwartungen haben. Der Stress nimmt mit der Zeit ab, wenn die <link=\"MORALE"
-"\">Moral</link> erfüllt ist. Das Verhalten der Duplikanten beginnt sich zu "
-"verschlechtern, wenn der Stresspegel zu hoch wird.\n"
+"Die Erfahrungen eines Duplikanten in der Kolonie wirken sich auf sein "
+"Stresslevel aus. Stress nimmt zu, wenn sie negative Erfahrungen oder "
+"unerfüllte Erwartungen haben. Der Stress nimmt mit der Zeit ab, wenn die <link="
+"\"MORALE\">Moral</link> erfüllt ist. Das Verhalten der Duplikanten beginnt "
+"sich zu verschlechtern, wenn der Stress zu hoch wird.\n"
 "\n"
 
 #. STRINGS.CODEX.STRESS.PARAGRAPH_2
@@ -24636,10 +24577,9 @@ msgid "<link=\"CRABSPECIES\">Pokeshell</link>"
 msgstr "<link=\"CRABSPECIES\">Pokepanzer</link>"
 
 #. STRINGS.CREATURES.FAMILY.DIVERGENTSPECIES
-#, fuzzy
 msgctxt "STRINGS.CREATURES.FAMILY.DIVERGENTSPECIES"
 msgid "<link=\"DIVERGENTSPECIES\">Divergent</link>"
-msgstr "<link=\"DIVERGENTSPECIES\">Divergent</link>"
+msgstr "<link=\"DIVERGENTSPECIES\">Abweichend</link>"
 
 #. STRINGS.CREATURES.FAMILY.DRECKO
 msgctxt "STRINGS.CREATURES.FAMILY.DRECKO"
@@ -24918,7 +24858,6 @@ msgstr ""
 "\"KKeyword\">Pflanze</style> und sorgte für einen kleinen Wachstumsschub"
 
 #. STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDEDWORM.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDEDWORM.NAME"
 msgid "Grubgrub Rub"
 msgstr "Grubgrub-Reiben"
@@ -25531,12 +25470,9 @@ msgid "<link=\"CYLINDRICA\">Bliss Burst</link>"
 msgstr "<link=\"CYLINDRICA\">Bliss Burst</link>"
 
 #. STRINGS.CREATURES.SPECIES.CYLINDRICA.WILT_PENALTY
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.BULBPLANT.WILT_PENALTY"
-#| msgid "Wilt Penalty"
 msgctxt "STRINGS.CREATURES.SPECIES.CYLINDRICA.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr "Nachteil für Verwelkung"
+msgstr "Welkstrafe"
 
 #. STRINGS.CREATURES.SPECIES.DIVERGENT.VARIANT_BEETLE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.DIVERGENT.VARIANT_BEETLE.BABY.DESC"
@@ -28005,7 +27941,6 @@ msgid "<link=\"GEYSERS\">Steam Spout</link>"
 msgstr "<link=\"GEYSERS\">Dampfquelle</link>"
 
 #. STRINGS.CREATURES.SPECIES.SUPERWORMPLANT.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SUPERWORMPLANT.DESC"
 msgid ""
 "A Grubfruit Plant that has flourished after being tended by a <link="
@@ -28106,12 +28041,9 @@ msgid "<link=\"TOEPLANT\">Tranquil Toes</link>"
 msgstr "<link=\"TOEPLANT\">Tranquil Toes</link>"
 
 #. STRINGS.CREATURES.SPECIES.TOEPLANT.WILT_PENALTY
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.BULBPLANT.WILT_PENALTY"
-#| msgid "Wilt Penalty"
 msgctxt "STRINGS.CREATURES.SPECIES.TOEPLANT.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr "Nachteil für Verwelkung"
+msgstr "Welkstrafe"
 
 #. STRINGS.CREATURES.SPECIES.WINECUPS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.WINECUPS.DESC"
@@ -28138,12 +28070,9 @@ msgid "<link=\"WINECUPS\">Mellow Mallow</link>"
 msgstr "<link=\"WINECUPS\">Milde Malve</link>"
 
 #. STRINGS.CREATURES.SPECIES.WINECUPS.WILT_PENALTY
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.BULBPLANT.WILT_PENALTY"
-#| msgid "Wilt Penalty"
 msgctxt "STRINGS.CREATURES.SPECIES.WINECUPS.WILT_PENALTY"
 msgid "Wilt Penalty"
-msgstr "Nachteil für Verwelkung"
+msgstr "Welkstrafe"
 
 #. STRINGS.CREATURES.SPECIES.WOOD_TREE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.WOOD_TREE.DESC"
@@ -31018,9 +30947,6 @@ msgid "Ranching"
 msgstr "Viehzucht"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RECREATION.ARCHETYPE_NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.ARCHETYPE_NAME"
-#| msgid "Relaxer"
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RECREATION.ARCHETYPE_NAME"
 msgid "Relaxer"
 msgstr "Erholer"
@@ -34767,7 +34693,6 @@ msgstr ""
 "Dieser Duplikant lief in einem Generator und hat von der Übung profitiert"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BONUSHITTHEBOOKS.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BONUSHITTHEBOOKS.NAME"
 msgid "Hit the Books"
 msgstr "Ran an die Bücher"
@@ -34887,9 +34812,6 @@ msgstr ""
 "Dieses Duplikant fühlt sich unendlich luxuriös durch das private Badezimmer"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BOTMOPPING.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME"
-#| msgid "Mopping"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BOTMOPPING.NAME"
 msgid "Mopping"
 msgstr "Wischt"
@@ -38998,9 +38920,6 @@ msgid "This Duplicant is cooking up a tasty <b>{Item}</b>"
 msgstr "Dieser Duplikant kocht ein leckeres <b>{Item}</b>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.STATUS"
-#| msgid "Coughing"
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.NAME"
 msgid "Coughing"
 msgstr "Hustet"
@@ -54602,12 +54521,9 @@ msgid "Unstoppable"
 msgstr "Nicht zu stoppen"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WILD_OL
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.MODIFIERS.WILD.NAME"
-#| msgid "Wild"
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WILD_OL"
 msgid "Wild Ol'"
-msgstr "Wild"
+msgstr ""
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WUNDER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WUNDER"
@@ -54655,12 +54571,9 @@ msgid "The Bad"
 msgstr "Der Unartige"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BEEFY
-#, fuzzy
-#| msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BAD"
-#| msgid "The Bad"
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BEEFY"
 msgid "The Beefy"
-msgstr "Der Unartige"
+msgstr ""
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_CHOSEN_ONE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_CHOSEN_ONE"
@@ -56838,10 +56751,9 @@ msgstr "Akkuselbstentladung"
 
 # Die Lebensdauer oder die Ladung?
 #. STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.TOOLTIP"
 msgid "The rate at which battery life is depleted"
-msgstr "Die Rate, mit der sich die Lebensdauer der Batterie verringert"
+msgstr "Die Rate, mit der die Batterielebensdauer erschöpft ist"
 
 #. STRINGS.ROBOTS.CATEGORY_NAME
 msgctxt "STRINGS.ROBOTS.CATEGORY_NAME"
@@ -57470,12 +57382,9 @@ msgid "Requires two or more wild critters"
 msgstr "Benötigt zwei oder mehr wilde Tiere"
 
 #. STRINGS.ROOMS.CRITERIA.WILDANIMALS.NAME
-#, fuzzy
-#| msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMALS.NAME"
-#| msgid "More Wildlife"
 msgctxt "STRINGS.ROOMS.CRITERIA.WILDANIMALS.NAME"
 msgid "More wildlife"
-msgstr "Mehr wilde Tier"
+msgstr "Mehr Wildtiere"
 
 #. STRINGS.ROOMS.CRITERIA.WILDPLANT.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.WILDPLANT.DESCRIPTION"
@@ -58422,9 +58331,6 @@ msgid "..."
 msgstr "..."
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LISTTITLES.RESOURCES"
-#| msgid "Resources"
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.NAME"
 msgid "Resource"
 msgstr "Ressourcen"
@@ -58440,17 +58346,11 @@ msgid "Reserved"
 msgstr "Reserviert"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LISTTITLES.RESOURCES"
-#| msgid "Resources"
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES"
 msgid "Resources"
 msgstr "Ressourcen"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES_TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.RESOURCESCREEN.HEADER"
-#| msgid "RESOURCES"
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES_TITLE"
 msgid "RESOURCES"
 msgstr "RESSOURCEN"
@@ -59024,16 +58924,14 @@ msgid "Overheat <link=\"HEAT\">Temperature</link>: {0}"
 msgstr "<link=\"HEAT\">Überhitzungstemperatur</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_INPUT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_INPUT"
 msgid "Input HEP Port"
-msgstr "HEP-Eingang"
+msgstr "HEP-Eingangsport"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_OUTPUT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_OUTPUT"
 msgid "Output HEP Port"
-msgstr "HEP-Ausgang"
+msgstr "HEP-Ausgangsport"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY"
@@ -59641,15 +59539,6 @@ msgstr ""
 "    • Wärmeleitfähigkeit"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
-#| msgid ""
-#| "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
-#| "\">Volume</style> and <style=\"KKeyword\">Specific Heat Capacity</style> of "
-#| "the pumped <style=\"KKeyword\">Gas</style>\n"
-#| "\n"
-#| "Cooling 1 Kg of <link=\"OXYGEN\">Oxygen</link> the entire <b>{1}</b> will "
-#| "output <b>{0}</b>"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
 msgid ""
 "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
@@ -59664,19 +59553,10 @@ msgstr ""
 "style> und der <style=\"KKeyword\">Temperatur</style> des gepumpten <style="
 "\"KKeyword\">Gases</style>\n"
 "\n"
-"Das Kühlen von 1 kg <link=\"OXYGEN\">Sauerstoff</link> um <b>{1}</b> erzeugt "
+"Das Kühlen von 1 Kg <link=\"OXYGEN\">Sauerstoff</link> um <b>{1}</b> erzeugt "
 "<b>{0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER"
-#| msgid ""
-#| "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
-#| "\">Volume</style> and <style=\"KKeyword\">Specific Heat Capacity</style> of "
-#| "the pumped <style=\"KKeyword\">Liquid</style>\n"
-#| "\n"
-#| "Cooling 10 Kg of <link=\"WATER\">Water</link> the entire <b>{1}</b> will "
-#| "output <b>{0}</b>"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER"
 msgid ""
 "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
@@ -59690,8 +59570,8 @@ msgstr ""
 "\">Volumen</style> und der <style=\"KKeyword\">spezifischen Wärmekapazität</"
 "style> der gepumpten <style=\"KKeyword\">Flüssigkeit</style>\n"
 "\n"
-"Das Kühlen von 10 kg <link=\"WATER\">Wasser</link> um <b>{1}</b> erzeugt <b>{0}"
-"</b>"
+"Das Kühlen von 10 Kg <link=\"WATER\">Wasser</link> das ganze <b>{1}</b> "
+"erzeugt <b>{0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS"
@@ -61403,9 +61283,6 @@ msgid "Copy"
 msgstr "Kopieren"
 
 #. STRINGS.UI.COPY_BUILDING_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.COPY_BUILDING_TOOLTIP"
-#| msgid "Create new build orders for the selected building. {Hotkey}"
 msgctxt "STRINGS.UI.COPY_BUILDING_TOOLTIP"
 msgid "Create new build orders based off the selected building. {Hotkey}"
 msgstr ""
@@ -61555,12 +61432,9 @@ msgid "CREDITS"
 msgstr "MITWIRKENDE"
 
 #. STRINGS.UI.DEBUG_TOOLS.DEBUG_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGPLACE"
-#| msgid "Debug Place"
 msgctxt "STRINGS.UI.DEBUG_TOOLS.DEBUG_ACTIVE"
 msgid "Debug tools active"
-msgstr "Debug Place"
+msgstr "Debug tools active"
 
 #. STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT
 msgctxt "STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT"
@@ -61689,14 +61563,10 @@ msgid "Average cell mass: {0}"
 msgstr "Mittlere Zellmasse: {0}"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.AVERAGE_RADS
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.AVERAGE_MASS"
-#| msgid "Average cell mass: {0}"
 msgctxt ""
 "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.AVERAGE_RADS"
 msgid "Average rads: {0}"
-msgstr "Mittlere Zellmasse: {0}"
+msgstr "Durchschnittliche Rads: {0}"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.AVERAGE_TEMPERATURE
 msgctxt ""
@@ -61725,14 +61595,10 @@ msgid "Total mass: {0}"
 msgstr "Gesamtmasse: {0}"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.TOTAL_RADS
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.TOTAL_MASS"
-#| msgid "Total mass: {0}"
 msgctxt ""
 "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.SELECTION_INFO_PANEL.TOTAL_RADS"
 msgid "Total rads: {0}"
-msgstr "Gesamtmasse: {0}"
+msgstr "Rads insgesamt: {0}"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.TITLE
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.TITLE"
@@ -62676,12 +62542,9 @@ msgid "Status"
 msgstr "Status"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.NO_GEYSERS
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.VERSION_UPDATE"
-#| msgid "New version detected"
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NO_GEYSERS"
 msgid "No geysers detected"
-msgstr "Neue Version gefunden"
+msgstr "Keine Geysire gefunden"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
@@ -64864,18 +64727,12 @@ msgid "Changing this setting requires the game to restart"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_CONFIRM
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.RESTART.OK"
-#| msgid "RESTART"
 msgctxt ""
 "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_CONFIRM"
 msgid "RESTART"
 msgstr "NEUSTART"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.REQUIRES_RESTART"
-#| msgid "RESTART REQUIRED"
 msgctxt ""
 "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_TITLE"
 msgid "RESTART REQUIRED"
@@ -65653,26 +65510,18 @@ msgstr ""
 "zu installieren"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1"
-#| msgid "DECTIVATE DLC"
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1"
 msgid "DEACTIVATE DLC"
 msgstr "DLC DEAKTIVIEREN"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC"
-#| msgid ""
-#| "The game will need to restart in order to download and install the base "
-#| "version of the game."
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC"
 msgid ""
 "The game will need to restart in order to download and install the <i>Oxygen "
 "Not Included</i> base game."
 msgstr ""
-"Das Spiel muss neu gestartet werden, um die Basisversion des Spiels "
-"herunterzuladen und zu installieren."
+"Das Spiel muss neu gestartet werden, um das Basisspiel <i>Oxygen Not Included</"
+"i> herunterzuladen und zu installieren."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
@@ -65857,12 +65706,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.ALL_MODS_DISABLED_EARLY_ACCESS.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.EXPECTED_DISABLED"
-#| msgid "NOT DISABLED"
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.ALL_MODS_DISABLED_EARLY_ACCESS.TITLE"
 msgid "ALL MODS DISABLED"
-msgstr "NICHT DEAKTIVIERT"
+msgstr "ALLE MODS DEAKTIVIERT"
 
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.INSTALL_INFO_INACCESSIBLE.MESSAGE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.INSTALL_INFO_INACCESSIBLE.MESSAGE"
@@ -66070,9 +65916,6 @@ msgid "ACTIVE DURING CRASH"
 msgstr "AKTIV WÄHREND DES ABSTURZES"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.ALL_MODS_DISABLED_EARLY_ACCESS
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.DEACTIVATED"
-#| msgid "DEACTIVATED"
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.ALL_MODS_DISABLED_EARLY_ACCESS"
 msgid "DEACTIVATED"
 msgstr "DEAKTIVIERT"
@@ -66143,12 +65986,9 @@ msgid "Mod was active during a crash and may be the cause"
 msgstr "Mod war während eines Absturzes aktiv und kann dessen Ursache sein"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.ALL_MODS_DISABLED_EARLY_ACCESS
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.DEACTIVATED"
-#| msgid "Deactivated due to errors"
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.ALL_MODS_DISABLED_EARLY_ACCESS"
 msgid "Deactivated due to Early Access for Spaced Out!"
-msgstr "Deaktiviert aufgrund von Fehlern"
+msgstr "Deaktiviert wegen Early Access für Spaced Out!"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.AVAILABLE_CONTENT_CHANGED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.AVAILABLE_CONTENT_CHANGED"
@@ -66358,12 +66198,9 @@ msgid "STEAM WORKSHOP"
 msgstr "STEAM WORKSHOP"
 
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.VERSION_UPDATE"
-#| msgid "VERSION UPDATE"
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "RE-ROCKETRY UPDATE!"
-msgstr "VERSIONS-AKTUALISIERUNG"
+msgstr "RE-ROCKETRY UPDATE!"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -66610,13 +66447,6 @@ msgid "Coordinates: {0}"
 msgstr "Koordinaten: {0}"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_COPY_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_COPY_TOOLTIP"
-#| msgid ""
-#| "Copy Coordinates to clipboard\n"
-#| "\n"
-#| "Share the Coordinates with a friend and they can start a colony on this "
-#| "same asteroid!"
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_COPY_TOOLTIP"
 msgid ""
 "Copy Coordinates to clipboard\n"
@@ -66630,17 +66460,6 @@ msgstr ""
 "identischen Asteroiden gründen!"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_TOOLTIP"
-#| msgid ""
-#| "Share the Coordinates with a friend and they can start a colony on this "
-#| "same asteroid!\n"
-#| "\n"
-#| "{0} - The asteroid\n"
-#| "\n"
-#| "{1} - The world seed\n"
-#| "\n"
-#| "{2} - Difficulty and Custom settings"
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_TOOLTIP"
 msgid ""
 "Share coordinates with a friend and they can start a colony on an identical "
@@ -67794,9 +67613,6 @@ msgid "Reject All Printables?"
 msgstr "Alle Druckerzeugnisse abweisen?"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.DUPLICATE_COLONY_NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.IMMIGRANTSCREEN.DUPLICATE_COLONY_NAME"
-#| msgid "A colony named \"{0}\" already exists!"
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.DUPLICATE_COLONY_NAME"
 msgid "A colony named \"{0}\" already exists"
 msgstr "Eine Kolonie mit dem Namen \"{0}\" existiert bereits"
@@ -70889,10 +70705,9 @@ msgid "Research required..."
 msgstr "Forschung benötigt..."
 
 #. STRINGS.UI.PRODUCTINFO_ROCKET_INTERIOR
-#, fuzzy
 msgctxt "STRINGS.UI.PRODUCTINFO_ROCKET_INTERIOR"
 msgid "Rocket interior only"
-msgstr "Nur in einer Rakete verfügbar"
+msgstr "Nur Raketeninterieur"
 
 #. STRINGS.UI.PRODUCTINFO_ROCKET_NOT_INTERIOR
 msgctxt "STRINGS.UI.PRODUCTINFO_ROCKET_NOT_INTERIOR"
@@ -72301,20 +72116,14 @@ msgid "Delete loose items cluttering the floor {Hotkey}"
 msgstr "Löscht alle auf dem Boden liegenden Gegenstände {Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.CRITTER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_RELOCATOR.NAME"
-#| msgid "Critter Relocator"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.CRITTER.NAME"
 msgid "Critter Removal"
-msgstr "Tier-Repositionierer"
+msgstr "Tier-Entfernung"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.CRITTER.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.CAPTUREBUTTON"
-#| msgid "Capture critters {Hotkey}"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.CRITTER.TOOLTIP"
 msgid "Remove Critters! {Hotkey}"
-msgstr "Fange Tiere ein {Hotkey}"
+msgstr "Entferne Tiere!{Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.NAME"
@@ -72387,9 +72196,6 @@ msgid "Inject thermal energy into the simulation {Hotkey}"
 msgstr "Injiziert Wärmeenergie in die Weltsimulation {Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.NAME"
-#| msgid "Instant build mode ON"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.NAME"
 msgid "Instant build mode ON"
 msgstr "Sofortiger Baumodus EIN"
@@ -73898,14 +73704,6 @@ msgid "Current Mass"
 msgstr "Aktuelle Masse"
 
 #. STRINGS.UI.STARMAP.CURRENT_MASS_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.CURRENT_MASS_TOOLTIP"
-#| msgid ""
-#| "Warning: Destination has {0} resources available.\n"
-#| "The rocket has capacity for {1}.\n"
-#| "\n"
-#| "Missions to this destination will not return a full cargo load to avoid "
-#| "depleting the destination for future explorations."
 msgctxt "STRINGS.UI.STARMAP.CURRENT_MASS_TOOLTIP"
 msgid ""
 "Warning: Missions to this destination will not return a full cargo load to "
@@ -73914,11 +73712,11 @@ msgid ""
 "Destination: {0} Resources Available\n"
 "Rocket Capacity: {1}"
 msgstr ""
-"Warnung: Das Ziel hat {0} Ressourcen verfügbar\n"
-"Die Rakete hat Kapazität für {1}\n"
+"Warnung: Missionen an dieses Ziel egeben keine volle Frachtladung, um zu "
+"vermeiden, dass das Ziel für zukünftige Erkundungen erschöpft wird\n"
 "\n"
-"Missionen zu diesem Ziel geben keine volle Frachtladung, um zu vermeiden, dass "
-"die Ressourcen des Ziels für zukünftige Erkundungen nicht erschöpft ist"
+"Ziel: {0} Ressourcen verfügbar\n"
+"Raketenkapazität: {1}"
 
 #. STRINGS.UI.STARMAP.DEFAULT_NAME
 msgctxt "STRINGS.UI.STARMAP.DEFAULT_NAME"
@@ -73926,20 +73724,14 @@ msgid "Rocket"
 msgstr "Rakete"
 
 #. STRINGS.UI.STARMAP.DESTINATIONSELECTION.NOTSELECTED
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.DESTINATIONSELECTION.NOTSELECTED"
-#| msgid "Destination not selected"
 msgctxt "STRINGS.UI.STARMAP.DESTINATIONSELECTION.NOTSELECTED"
 msgid "Destination not set"
 msgstr "Ziel nicht festgelegt"
 
 #. STRINGS.UI.STARMAP.DESTINATIONSELECTION.REACHABLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.DESTINATIONSELECTION.REACHABLE"
-#| msgid "Destination selected"
 msgctxt "STRINGS.UI.STARMAP.DESTINATIONSELECTION.REACHABLE"
 msgid "Destination set"
-msgstr "Ziel ausgewählt"
+msgstr "Ziel festgelegt"
 
 #. STRINGS.UI.STARMAP.DESTINATIONSELECTION.UNREACHABLE
 msgctxt "STRINGS.UI.STARMAP.DESTINATIONSELECTION.UNREACHABLE"
@@ -74119,12 +73911,9 @@ msgid "Construction warning"
 msgstr "Konstruktionswarnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_TRAIT"
-#| msgid "Missing required trait"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.FAILURE"
 msgid "Missing qualified crew"
-msgstr "Erforderliche Eigenschaft fehlt"
+msgstr "Qualifizierte Besatzung fehlt"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.READY"
@@ -74146,20 +73935,14 @@ msgid "Crew boarded"
 msgstr "Besatzung ist an Bord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
-#| msgid "Cleaning"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING"
 msgid "Crew warning"
-msgstr "Reinigt"
+msgstr "Crew Warnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
-#| msgid "Cleaning"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.WARNING"
 msgid "Crew warning"
-msgstr "Reinigt"
+msgstr "Crew Warnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.FAILURE"
@@ -74333,23 +74116,17 @@ msgstr ""
 "Bei der Rückkehr von diesem Ziel werden die Frachträume nicht gefüllt sein."
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION"
-#| msgid "Being deconstructed"
 msgctxt ""
 "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS."
 "FAILURE"
 msgid "Lander not constructed"
-msgstr "Wird zerlegt"
+msgstr "Lander nicht gebaut"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS.READY
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
-#| msgid "Harvest Ready"
 msgctxt ""
 "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS.READY"
 msgid "Landers Ready"
-msgstr "Ernte bereit"
+msgstr "Lander bereit"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS.WARNING
 msgctxt ""
@@ -74359,7 +74136,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLTIP.FAILURE
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLTIP."
 "FAILURE"
@@ -74463,20 +74239,14 @@ msgid "Extra passengers onboard"
 msgstr "Zusätzliche Passagiere an Bord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.READY
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.ROCKETSTATUS.NOPASSENGERS"
-#| msgid "No passengers"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.READY"
 msgid "No extra passengers"
-msgstr "Keine Passagiere"
+msgstr "Keine extra Passagiere"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.ROCKETSTATUS.NOPASSENGERS"
-#| msgid "No passengers"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.FAILURE"
 msgid "Extra passengers"
-msgstr "Keine Passagiere"
+msgstr "Extra Passagiere"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.READY"
@@ -74484,20 +74254,14 @@ msgid "Crew correct"
 msgstr "Besatzung ist passend"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
-#| msgid "Cleaning"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.WARNING"
 msgid "Crew warning"
-msgstr "Reinigt"
+msgstr "Crew Warnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
-#| msgid "Cleaning"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.WARNING"
 msgid "Crew warning"
-msgstr "Reinigt"
+msgstr "Crew Warnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.STATUS.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.STATUS.FAILURE"
@@ -74716,14 +74480,6 @@ msgid "Minimum Mass"
 msgstr "Minimale Masse"
 
 #. STRINGS.UI.STARMAP.MINIMUM_MASS_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.MINIMUM_MASS_TOOLTIP"
-#| msgid ""
-#| "This destination must retain at least this much mass in order to prevent "
-#| "depletion and allow the future regeneration of resources.\n"
-#| "\n"
-#| "Duplicants will always maintain a destination's minimum mass requirements, "
-#| "potentially returning with less cargo than their rocket can hold."
 msgctxt "STRINGS.UI.STARMAP.MINIMUM_MASS_TOOLTIP"
 msgid ""
 "This destination must retain at least this much mass in order to prevent "
@@ -74732,12 +74488,12 @@ msgid ""
 "Duplicants will always maintain a destination's minimum mass requirements, "
 "potentially returning with less cargo than their rocket can hold"
 msgstr ""
-"Ein Zielort muss immer so viel Masse übrig haben, um ihn nicht vollständig "
-"aufzubrauchen und die Regeneration der Ressourcen zu ermöglichen.\n"
+"Dieses Ziel muss mindestens so viel Masse behalten, um eine Erschöpfung zu "
+"verhindern und die zukünftige Regeneration von Ressourcen zu ermöglichen.\n"
 "\n"
-"Duplikanten werden die Mindestmasse immer einhalten, was aber dazu führen "
-"kann, dass sie weniger Fracht zurückbringen, als ihre Rakete transportieren "
-"könnte"
+"Duplikanten halten immer die Mindestanforderungen an die Masse eines Ziels ein "
+"und kehren möglicherweise mit weniger Fracht zurück, als ihre Rakete aufnehmen "
+"kann"
 
 #. STRINGS.UI.STARMAP.MISSION_STATUS.DESTROYED
 msgctxt "STRINGS.UI.STARMAP.MISSION_STATUS.DESTROYED"
@@ -76129,12 +75885,9 @@ msgid "View the Research Tree {Hotkey}"
 msgstr "Forschungsbaum anzeigen {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESOURCES
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_PAUSEMENU"
-#| msgid "Open the game menu {Hotkey}"
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESOURCES"
 msgid "Open the resource management screen {Hotkey}"
-msgstr "Öffne das Spielmenü {Hotkey}"
+msgstr "Öffnen die Ressourcenverwaltung{Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
@@ -78306,7 +78059,6 @@ msgid "Great Monument"
 msgstr "Großes Monument"
 
 #. STRINGS.UI.UISIDESCREENS.NUCLEAR_REACTOR_SIDE_SCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.NUCLEAR_REACTOR_SIDE_SCREEN.TITLE"
 msgid "Reaction Mass Target"
 msgstr "Reaktionsmassenziel"
@@ -80028,12 +79780,9 @@ msgid "Cancel Harvest"
 msgstr "Ernte abbrechen"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELEMPTYBEEHIVE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.TOOLTIP"
-#| msgid "Cancel this harvest order"
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELEMPTYBEEHIVE.TOOLTIP"
 msgid "Cancel the harvest order on this hive"
-msgstr "Ernte abbrechen"
+msgstr "Ernte abbrechen für diesen Bienenstock"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.NAME"
