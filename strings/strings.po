@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-27 09:46+0100\n"
-"Last-Translator: Xandras\n"
+"PO-Revision-Date: 2021-02-28 10:14+0100\n"
+"Last-Translator: Eisberge <22561095+Eisberge@users.noreply.github.com>\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -14491,8 +14491,7 @@ msgstr "<link=\"SPECIALCARGOBAY\">Biologischer Frachtraum</link>"
 #. STRINGS.BUILDINGS.PREFABS.STATERPILLAREGG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STATERPILLAREGG.DESC"
 msgid "The electrifying egg of the <link=\"STATERPILLAR\">Plug Slug</link>."
-msgstr ""
-"Das elektrisierende Ei der <link=\"STATERPILLAR\">Stöpselschnecke</link>."
+msgstr "Das elektrisierende Ei der <link=\"STATERPILLAR\">Steckschnecke</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.STATERPILLAREGG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STATERPILLAREGG.EFFECT"
@@ -14521,7 +14520,7 @@ msgstr "Wild!"
 #. STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.NAME"
 msgid "<link=\"STATERPILLAR\">Plug Slug</link>"
-msgstr "<link=\"STATERPILLAR\">Stöpselschnecke</link>"
+msgstr "<link=\"STATERPILLAR\">Steckschnecke</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.DESC"
@@ -25039,7 +25038,7 @@ msgstr "<link=\"SQUIRRELSPECIES\">Pips</link>"
 #. STRINGS.CREATURES.FAMILY_PLURAL.STATERPILLARSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.STATERPILLARSPECIES"
 msgid "<link=\"STATERPILLARSPECIES\">Plug Slug</link>"
-msgstr "<link=\"STATERPILLARSPECIES\">Stöpselschnecke</link>"
+msgstr "<link=\"STATERPILLARSPECIES\">Steckschnecke</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.SWEEPBOT
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.SWEEPBOT"
@@ -28234,15 +28233,15 @@ msgid ""
 "In time it will mature into a fully grown <link=\"STATERPILLAR\">Plug Slug</"
 "link>."
 msgstr ""
-"Ein molliges kleines Stöpselschneckchen.\n"
+"Ein molliges kleines Steckschneckchen.\n"
 "\n"
 "Mit der Zeit wird es zu einer ausgewachsenen <link=\"STATERPILLAR"
-"\">Stöpselschnecke</link>."
+"\">Steckschnecke</link>."
 
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.BABY.NAME"
 msgid "<link=\"STATERPILLAR\">Plug Sluglet</link>"
-msgstr "<link=\"STATERPILLAR\">Stöpselschneckchen</link>"
+msgstr "<link=\"STATERPILLAR\">Steckschneckchen</link>"
 
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.DESC"
@@ -28253,7 +28252,7 @@ msgid ""
 "Their power can be harnessed by leaving an exposed wire near areas where they "
 "like to sleep."
 msgstr ""
-"Stöpselschnecken sind lebhafte Kreaturen, die während der Nacht elektrische "
+"Steckschnecken sind lebhafte Kreaturen, die während der Nacht elektrische "
 "<link=\"POWER\" >Energie</link> erzeugen.\n"
 "\n"
 "Ihre Energie kann nutzbar gemacht werden, indem man einen freiliegendes Kabel "
@@ -28267,7 +28266,7 @@ msgstr "<link=\"STATERPILLAR\">Stöpselschnecken-Ei</link>"
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.NAME"
 msgid "<link=\"STATERPILLAR\">Plug Slug</link>"
-msgstr "<link=\"STATERPILLAR\">Stöpselschnecke</link>"
+msgstr "<link=\"STATERPILLAR\">Steckschnecke</link>"
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC"
