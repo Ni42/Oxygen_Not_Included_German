@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-01 21:46+0100\n"
+"PO-Revision-Date: 2021-03-01 22:20+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -74323,12 +74323,9 @@ msgid "Destination set"
 msgstr "Ziel festgelegt"
 
 #. STRINGS.UI.STARMAP.DESTINATIONSELECTION_TOOLTIP.NOTSELECTED
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.TOOLTIP"
-#| msgid "Select a resource to use as bait"
 msgctxt "STRINGS.UI.STARMAP.DESTINATIONSELECTION_TOOLTIP.NOTSELECTED"
 msgid "Select the rocket's nosecone to set a destination"
-msgstr "Wähle eine Ressource, die als Köder benutzt wird"
+msgstr "Wähle den Nasenkonus der Rakete aus, um ein Ziel festzulegen"
 
 #. STRINGS.UI.STARMAP.DESTINATIONSELECTION_TOOLTIP.REACHABLE
 msgctxt "STRINGS.UI.STARMAP.DESTINATIONSELECTION_TOOLTIP.REACHABLE"
@@ -74381,9 +74378,6 @@ msgid "TOO FAR FOR THIS ROCKET"
 msgstr "ZU WEIT FÜR DIESE RAKETE"
 
 #. STRINGS.UI.STARMAP.EMPTYOXIDIZERTANK.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.EMPTYOXIDIZERTANK.NAME"
-#| msgid "Oxidizer tank not full"
 msgctxt "STRINGS.UI.STARMAP.EMPTYOXIDIZERTANK.NAME"
 msgid "Oxidizer Tank not full"
 msgstr "Oxidatortank nicht voll"
@@ -74399,17 +74393,11 @@ msgid "Fuel Tank not full"
 msgstr "Treibstofftank nicht voll"
 
 #. STRINGS.UI.STARMAP.EMPTYTANK.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.EMPTYTANK.TOOLTIP"
-#| msgid "Fuel Tank must be filled before launch"
 msgctxt "STRINGS.UI.STARMAP.EMPTYTANK.TOOLTIP"
 msgid "Fuel tank must be filled before launch"
 msgstr "Treibstofftank muss vor dem Start gefüllt werden"
 
 #. STRINGS.UI.STARMAP.FULLOXIDIZERTANK.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.FULLOXIDIZERTANK.NAME"
-#| msgid "Oxidizer tank full"
 msgctxt "STRINGS.UI.STARMAP.FULLOXIDIZERTANK.NAME"
 msgid "Oxidizer Tank full"
 msgstr "Oxidatortank voll"
@@ -74475,28 +74463,19 @@ msgid "Astronaut"
 msgstr "Astronaut"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
-#| msgid "Going to construction dig"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.STATUS.FAILURE"
 msgid "No active construction"
-msgstr "Geht zu einer Baugrube"
+msgstr "Kein aktiver Bau"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.STATUS.READY
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
-#| msgid "Going to construction dig"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.STATUS.READY"
 msgid "No active construction"
-msgstr "Geht zu einer Baugrube"
+msgstr "Kein aktiver Bau"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
-#| msgid "Going to construction dig"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.STATUS.WARNING"
 msgid "No active construction"
-msgstr "Geht zu einer Baugrube"
+msgstr "Kein aktiver Bau"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.TOOLTIP.FAILURE
 msgctxt ""
@@ -74600,9 +74579,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.READY"
-#| msgid "Engine"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.FAILURE"
 msgid "Engine"
 msgstr "Triebwerk"
@@ -74613,9 +74589,6 @@ msgid "Engine"
 msgstr "Triebwerk"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.READY"
-#| msgid "Engine"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.WARNING"
 msgid "Engine"
 msgstr "Triebwerk"
@@ -74639,25 +74612,16 @@ msgid "Engine warning"
 msgstr "Triebwerkswarnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.JET_SUIT.TANK_EFFECT_NAME"
-#| msgid "Fuel Tank"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.STATUS.FAILURE"
 msgid "Fuel Tank"
 msgstr "Treibstofftank"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.STATUS.READY
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.JET_SUIT.TANK_EFFECT_NAME"
-#| msgid "Fuel Tank"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.STATUS.READY"
 msgid "Fuel Tank"
 msgstr "Treibstofftank"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.JET_SUIT.TANK_EFFECT_NAME"
-#| msgid "Fuel Tank"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.STATUS.WARNING"
 msgid "Fuel Tank"
 msgstr "Treibstofftank"
@@ -74681,9 +74645,6 @@ msgid "Fuel tank warning"
 msgstr "Treibstofftank-Warnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.STATUS.READY"
-#| msgid "Nosecone"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.STATUS.FAILURE"
 msgid "Nosecone"
 msgstr "Nasenkonus"
@@ -74694,9 +74655,6 @@ msgid "Nosecone"
 msgstr "Nasenkonus"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.STATUS.READY"
-#| msgid "Nosecone"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.STATUS.WARNING"
 msgid "Nosecone"
 msgstr "Nasenkonus"
@@ -74741,11 +74699,6 @@ msgstr ""
 "Bei der Rückkehr von diesem Ziel werden die Frachträume nicht gefüllt sein."
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS.FAILURE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS."
-#| "READY"
-#| msgid "Landers Ready"
 msgctxt ""
 "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS."
 "FAILURE"
@@ -74798,12 +74751,9 @@ msgid "Cargo Loading Complete"
 msgstr "Frachtladung abgeschlossen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.READY"
-#| msgid "Cargo Loading Complete"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.WARNING"
 msgid "Cargo Loading Complete"
-msgstr "Frachtladung abgeschlossen"
+msgstr "Beladung abgeschlossen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.FAILURE"
@@ -74829,28 +74779,19 @@ msgstr ""
 "oder von dieser Rakete übertragen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.READY"
-#| msgid "Module count"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.FAILURE"
 msgid "Module limit"
-msgstr "Modulanzahl"
+msgstr "Modulgrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.READY
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.READY"
-#| msgid "Module count"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.READY"
 msgid "Module limit"
-msgstr "Modulanzahl"
+msgstr "Modulgrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.READY"
-#| msgid "Module count"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.WARNING"
 msgid "Module limit"
-msgstr "Modulanzahl"
+msgstr "Modulgrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.FAILURE"
@@ -74861,20 +74802,16 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.READY
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.FAILURE"
-#| msgid "This rocket's engine can not support this many modules"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.READY"
 msgid "The rocket's engine can support the number of installed rocket modules"
-msgstr "Dieser Raketentriebwerk kann so viele Module nicht unterstützen"
+msgstr ""
+"Das Triebwerk der Rakete kann die Anzahl der installierten Raketenmodule "
+"aufnehmen."
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.WARNING"
-#| msgid "Module warning"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.WARNING"
 msgid "Module limit warning"
-msgstr "Modulwarnung"
+msgstr "Modulgrenzwertwarnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MINIMUM_MASS
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MINIMUM_MASS"
@@ -74890,9 +74827,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_DESTINATION
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.NO_ANALYZABLE_DESTINATION_SELECTED"
-#| msgid "No destination selected"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_DESTINATION"
 msgid "No destination selected"
 msgstr "Kein Ziel ausgewählt"
@@ -74908,20 +74842,14 @@ msgid "Non-crew exited"
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.NO_ELIGIBLE_DUPLICANTS"
-#| msgid "No Duplicants meet the requirements for this job"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.FAILURE"
 msgid "Non-crew Duplicants must exit the rocket before launch"
-msgstr "Kein Duplikant erfüllen die Anforderungen für diesen Beruf"
+msgstr "Nicht-Crew-Duplikanten müssen die Rakete vor dem Start verlassen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.READY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.NAME"
-#| msgid "Duplicants have died"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.READY"
 msgid "All non-crew Duplicants have disembarked"
-msgstr "Duplikanten sind gestorben"
+msgstr "Alle Nicht-Crew-Duplikanten sind von Bord gegangen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.WARNING"
@@ -74961,12 +74889,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.NAME"
-#| msgid "Piloting"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING"
 msgid "Pilot warning"
-msgstr "Pilotieren"
+msgstr "Pilotenwarnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.WARNING"
@@ -75055,13 +74980,9 @@ msgid "Sufficient Oxidizer"
 msgstr "Ausreichend Oxidationsmittel"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.STATUS.WARNING
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.STATUS.WARNING"
-#| msgid "Warning: limited oxidizer"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.STATUS.WARNING"
 msgid "Warning: Limited oxidizer"
-msgstr "Warnung: Limitiertes Oxidationsmittel"
+msgstr "Warnung: Begrenztes Oxidationsmittel"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.TOOLTIP.FAILURE"
@@ -76412,12 +76333,9 @@ msgid "Must be built in unoccupied space"
 msgstr "Muss auf einem freien Platz gebaut werden"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_ONROCKETENVELOPE
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SPACE"
-#| msgid "Must be built on the surface in space"
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_ONROCKETENVELOPE"
 msgid "Must be built on the floor of a rocket interior"
-msgstr "Muss auf der Oberfläche im Weltraum gebaut werden"
+msgstr "Muss auf dem Boden eines Raketeninnenraums gebaut werden"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SOLIDPORTS_OVERLAP
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SOLIDPORTS_OVERLAP"
@@ -77434,13 +77352,10 @@ msgid "Oversee Planetoid"
 msgstr "Planetoid untersuchen"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.VIEW_WORLD_DISABLE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.EXOBASES.HEADER_1"
-#| msgid "Discovering New Planetoids"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.VIEW_WORLD_DISABLE_TOOLTIP"
 msgid "Cannot view Planetoid"
-msgstr "Neue Planetoiden entdecken"
+msgstr "Kann Planetoid nicht sehen"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.VIEW_WORLD_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.VIEW_WORLD_TOOLTIP"
@@ -78209,12 +78124,9 @@ msgid "Blast off!"
 msgstr "Los geht's!"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_REQUESTED_BUTTON
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.CANT_LAUNCH_MISSION"
-#| msgid "CANNOT LAUNCH"
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_REQUESTED_BUTTON"
 msgid "CANCEL LAUNCH"
-msgstr "KANN NICHT STARTEN"
+msgstr "START ABBRECHEN"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_REQUESTED_BUTTON_TOOLTIP
 msgctxt ""
@@ -78234,13 +78146,6 @@ msgid "ACKNOWLEDGE WARNINGS"
 msgstr "WARNUNGEN BESTÄTIGEN"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_WARNINGS_BUTTON_TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_WARNINGS_BUTTON_TOOLTIP"
-#| msgid ""
-#| "Some items in the Launch Checklist require attention!\n"
-#| "------------------\n"
-#| "<b>Click to ignore warnings and proceed with launch</b>"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_WARNINGS_BUTTON_TOOLTIP"
 msgid ""
@@ -78248,7 +78153,7 @@ msgid ""
 "------------------\n"
 "<b>Click to ignore warnings and proceed with launch</b>"
 msgstr ""
-"Einige Punkte in der Launch-Checkliste erfordern Aufmerksamkeit!\n"
+"Einige Punkte in der Start-Checkliste erfordern Aufmerksamkeit!\n"
 "------------------\n"
 "<b>Klicke, um Warnungen zu ignorieren und mit dem Start fortzufahren</b>"
 
@@ -78268,12 +78173,9 @@ msgid "5... 4... 3... 2... 1..."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.LOADING_CREW
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.LOADING"
-#| msgid "Loading..."
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.LOADING_CREW"
 msgid "Loading crew..."
-msgstr "Ladevorgang..."
+msgstr "Besatzung steigt ein..."
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.READY_FOR_LAUNCH
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.READY_FOR_LAUNCH"
@@ -78281,12 +78183,9 @@ msgid "Ready to Launch"
 msgstr "Startbereit"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.STILL_PREPPING
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.NAME"
-#| msgid "Launch Checklist Incomplete"
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.STILL_PREPPING"
 msgid "Launch Checklist Incomplete"
-msgstr "Startcheckliste Unvollständig"
+msgstr "Start-Checkliste unvollständig"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.TAKING_OFF
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.TAKING_OFF"
@@ -78294,13 +78193,10 @@ msgid "Liftoff!!"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.UNLOADING_PASSENGERS
-#, fuzzy
-#| msgctxt "STRINGS.UI.WORLDGEN.LOADING"
-#| msgid "Loading world..."
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.UNLOADING_PASSENGERS"
 msgid "Unloading non-crew..."
-msgstr "Lädt Welt..."
+msgstr "Nicht-Besatzung steigt aus..."
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.WAITING_FOR_PILOT
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.WAITING_FOR_PILOT"
@@ -78463,15 +78359,10 @@ msgid "Ribbon Reader"
 msgstr "Band-Lesegerät"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBITSELECTORSIDESCREEN.RIBBON_WRITER_DESCRIPTION
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.UISIDESCREENS.LOGICBITSELECTORSIDESCREEN."
-#| "RIBBON_WRITER_DESCRIPTION"
-#| msgid "Received <b>Signal</b> will be written to selected <b>Bit</b>."
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.LOGICBITSELECTORSIDESCREEN.RIBBON_WRITER_DESCRIPTION"
 msgid "Received <b>Signal</b> will be written to selected <b>Bit</b>"
-msgstr "Empfangenes <b>Signal</b> wird in ausgewähltes <b>Bit</b> geschrieben."
+msgstr "Empfangenes <b>Signal</b> wird in ausgewähltes <b>Bit</b> geschrieben"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBITSELECTORSIDESCREEN.RIBBON_WRITER_TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBITSELECTORSIDESCREEN.RIBBON_WRITER_TITLE"
@@ -78837,13 +78728,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.SELECT_DUPLICANT
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.SELECT_DUPLICANT"
-#| msgid "Select Duplicant..."
 msgctxt "STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.SELECT_DUPLICANT"
 msgid "Select Duplicant"
-msgstr "Duplikant auswählen ..."
+msgstr "Duplikant auswählen"
 
 #. STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.TITLE"
@@ -81875,9 +81762,6 @@ msgid "- ALERT -"
 msgstr "- ALARM -"
 
 #. STRINGS.UI.WORLD_SELECTOR_SCREEN.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.CLUSTERMAP.PLANETOID"
-#| msgid "Planetoid"
 msgctxt "STRINGS.UI.WORLD_SELECTOR_SCREEN.TITLE"
 msgid "Planetoid"
 msgstr "Planetoid"
@@ -82844,12 +82728,9 @@ msgid "..."
 msgstr "..."
 
 #. STRINGS.WORLDS.MOOMOONLET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.ASTEROIDS.ROCKYASTEROID.NAME"
-#| msgid "Rocky Asteroid"
 msgctxt "STRINGS.WORLDS.MOOMOONLET.NAME"
 msgid "Moo Asteroid"
-msgstr "Felsiger Asteroid"
+msgstr "Muhender Asteroid"
 
 #. STRINGS.WORLDS.MOON_BARREN.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MOON_BARREN.DESCRIPTION"
@@ -83310,12 +83191,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.WORLDS.WATERMOONLET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.ASTEROIDS.CARBONACEOUSASTEROID.NAME"
-#| msgid "Carbon Asteroid"
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
-msgstr "Kohlenstoffreicher Asteroid"
+msgstr "Wasser-Asteroid"
 
 #~ msgctxt "STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.DESC"
 #~ msgid ""
