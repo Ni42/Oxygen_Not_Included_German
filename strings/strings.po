@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-01 22:20+0100\n"
+"PO-Revision-Date: 2021-03-01 22:42+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -78170,7 +78170,7 @@ msgstr "Keine Raketen im Orbit"
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.COUNTING_DOWN
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.COUNTING_DOWN"
 msgid "5... 4... 3... 2... 1..."
-msgstr ""
+msgstr "5... 4... 3... 2... 1..."
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.LOADING_CREW
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.LOADING_CREW"
@@ -78190,7 +78190,7 @@ msgstr "Start-Checkliste unvollständig"
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.TAKING_OFF
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.TAKING_OFF"
 msgid "Liftoff!!"
-msgstr ""
+msgstr "Abgehoben!!"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.UNLOADING_PASSENGERS
 msgctxt ""
@@ -78201,7 +78201,7 @@ msgstr "Nicht-Besatzung steigt aus..."
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.WAITING_FOR_PILOT
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.STATUS.WAITING_FOR_PILOT"
 msgid "Pilot requested at control station..."
-msgstr ""
+msgstr "Pilot in der Kontrollstation angefordert..."
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.TITLE"
@@ -78704,7 +78704,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.DEPLOY_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.DEPLOY_BUTTON"
 msgid "Deploy"
-msgstr ""
+msgstr "Bereitstellen"
 
 #. STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.DEPLOY_BUTTON_TOOLTIP
 msgctxt ""
@@ -78714,6 +78714,10 @@ msgid ""
 "\n"
 "A specific deploy location may need to be chosen for certain modules"
 msgstr ""
+"Sende den Inhalt dieses Moduls an die Oberfläche des aktuell umkreisten "
+"Planetoiden\n"
+"\n"
+"Für bestimmte Module muss eventuell ein bestimmter Einsatzort gewählt werden"
 
 #. STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.PILOT_FMT
 msgctxt "STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.PILOT_FMT"
@@ -78726,6 +78730,7 @@ msgctxt ""
 msgid ""
 "Automatically deploy this module's contents when a destination orbit is reached"
 msgstr ""
+"Automatisches Ausbringen des Modulinhalts, wenn ein Zielorbit erreicht wird"
 
 #. STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.SELECT_DUPLICANT
 msgctxt "STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.SELECT_DUPLICANT"
@@ -78735,7 +78740,7 @@ msgstr "Duplikant auswählen"
 #. STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MODULEFLIGHTUTILITYSIDESCREEN.TITLE"
 msgid "Deployables"
-msgstr ""
+msgstr "Einsetzbare Geräte"
 
 #. STRINGS.UI.UISIDESCREENS.MONUMENTSIDESCREEN.FLIP_FACING_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.MONUMENTSIDESCREEN.FLIP_FACING_BUTTON"
@@ -79165,7 +79170,7 @@ msgstr "Wähle eine Forschung"
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.ADDMODULE.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.ADDMODULE.DESC"
 msgid "Add a new module above this one"
-msgstr ""
+msgstr "Füge ein neues Modul oberhalb dieses Moduls hinzu"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.ADDMODULE.INVALID
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.ADDMODULE.INVALID"
@@ -79173,17 +79178,19 @@ msgid ""
 "Modules cannot be added above this module, or there is no room above to add a "
 "module"
 msgstr ""
+"Oberhalb dieses Moduls können keine Module hinzugefügt werden, oder es ist "
+"kein Platz darüber, um ein Modul hinzuzufügen"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONCHANGEMODULE.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONCHANGEMODULE.DESC"
 msgid "Swap this module for a different module"
-msgstr ""
+msgstr "Tausche dieses Modul gegen ein anderes Modul aus"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONCHANGEMODULE.INVALID
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONCHANGEMODULE.INVALID"
 msgid "This module cannot be changed to a different type"
-msgstr ""
+msgstr "Dieses Modul kann nicht auf einen anderen Typ geändert werden"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONREMOVEMODULE.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONREMOVEMODULE.DESC"
@@ -79222,7 +79229,7 @@ msgstr "Das darüberliegende Modul kann nicht getauscht werden"
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONVIEWEXTERIOR.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONVIEWEXTERIOR.DESC"
 msgid "Switch to external world view"
-msgstr ""
+msgstr "Auf externe Weltsicht umschalten"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONVIEWEXTERIOR.INVALID
 msgctxt ""
@@ -80690,7 +80697,7 @@ msgstr "Bienenstock ernten"
 #. STRINGS.UI.USERMENUACTIONS.EMPTYBEEHIVE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYBEEHIVE.TOOLTIP"
 msgid "Harvest the resources inside this hive"
-msgstr ""
+msgstr "Ernte die Ressourcen in diesem Bienenstock"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYDESALINATOR.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYDESALINATOR.NAME"
@@ -81755,6 +81762,13 @@ msgid ""
 "can guide the Duplicants through the perils of space travel, we could build a "
 "colony even bigger and better than before."
 msgstr ""
+"Der Asteroid, den wir Heimat nennen, ist mit einem anomalen Planeten "
+"kollidiert und hat unsere Kolonie dezimiert. Der Wiederaufbau ist von "
+"äußerster Wichtigkeit.\n"
+"\n"
+"Ich entdeckte eine neue Ansammlung materialreicher Planetoiden im nahen "
+"Weltraum. Wenn ich die Duplikanten durch die Gefahren der Raumfahrt führen "
+"kann, könnten wir eine noch größere und bessere Kolonie aufbauen."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
@@ -83013,6 +83027,11 @@ msgid ""
 "With a short distance to the surface, inter-world travel can be achieved "
 "quickly.</smallcaps>"
 msgstr ""
+"Eine große, verschmutzte Sumpfwelt.\n"
+"\n"
+"<smallcaps>Sumpfige Asteroiden sind eine große Masse aus gefrorenem Matsch und "
+"Ödland. Mit einer kurzen Entfernung zur Oberfläche können Reisen zwischen den "
+"Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.SWAMPMOONLET.NAME
 msgctxt "STRINGS.WORLDS.SWAMPMOONLET.NAME"
@@ -83028,6 +83047,11 @@ msgid ""
 "compact area. With a short distance to the surface, inter-world travel can be "
 "achieved quickly.</smallcaps>"
 msgstr ""
+"Eine ausgewogene Vielfalt an Ressourcen auf einer kleineren Welt.\n"
+"\n"
+"<smallcaps>Terra-Asteroiden haben alles, was man braucht, um eine Kolonie auf "
+"einem kompakten Gebiet zu gründen. Mit einem kurzen Abstand zur Oberfläche "
+"können Reisen zwischen den Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.TERRAMOONLET.NAME
 msgctxt "STRINGS.WORLDS.TERRAMOONLET.NAME"
@@ -83189,6 +83213,11 @@ msgid ""
 "Graphite. The surface island does not include much building material.</"
 "smallcaps>"
 msgstr ""
+"Eine kleine, mit Wasser gefüllte Welt.\n"
+"\n"
+"<smallcaps>Wasser-Asteroiden bieten verschiedene Flüssigkeiten und sind eine "
+"Quelle von Graphit. Die Oberflächeninsel enthält nicht viel Baumaterial.</"
+"smallcaps>"
 
 #. STRINGS.WORLDS.WATERMOONLET.NAME
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
