@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-01 22:42+0100\n"
+"PO-Revision-Date: 2021-03-02 22:16+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -481,6 +481,8 @@ msgid ""
 " on this Planetoid, or bring in a Duplicant with the appropriate skill from "
 "another Planetoid"
 msgstr ""
+" auf diesem Planetoiden, oder hole einen Duplikanten mit der entsprechenden "
+"Fähigkeit von einem anderen Planetoiden"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
@@ -965,17 +967,17 @@ msgstr "Nicht emittierend: Überdruck"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.TOOLTIP"
 msgid "Ambient pressure is too high for {Element} to be released"
-msgstr ""
+msgstr "Der Umgebungsdruck ist zu hoch, um {Element} freizugeben"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.NAME"
 msgid "Not Emitting: Too Cold"
-msgstr ""
+msgstr "Nicht emittierend: Zu kalt"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.TOOLTIP"
 msgid "Temperature is too low for {Element} to be released"
-msgstr ""
+msgstr "Die Umgebungstemperatur ist zu niedrig, um {Element} freizugeben"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME"
@@ -2061,7 +2063,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORNOTPOWERED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORNOTPOWERED.NAME"
 msgid "Power From Thruster: {ActiveWattage}/{MaxWattage}"
-msgstr ""
+msgstr "Leistung vom Triebwerk: {ActiveWattage}/{MaxWattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORNOTPOWERED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORNOTPOWERED.TOOLTIP"
@@ -2077,7 +2079,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORPOWERED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORPOWERED.NAME"
 msgid "Power From Thruster: {ActiveWattage}/{MaxWattage}"
-msgstr ""
+msgstr "Leistung vom Triebwerk: {ActiveWattage}/{MaxWattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORPOWERED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORPOWERED.TOOLTIP"
@@ -2086,6 +2088,9 @@ msgid ""
 "\"KKeyword\">Power</style> extracted from the thruster. It will continue "
 "generating power as long as it's travelling through space."
 msgstr ""
+"Das Triebwerk erzeugt <style=\"produced\">{MaxWattage}</style> von <style="
+"\"KKeyword\">Leistung</style>, die aus den Schubdüsen entnommen wird. Es wird "
+"weiterhin Energie erzeugen, solange es durch den Raum reist."
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
@@ -3110,7 +3115,7 @@ msgstr "Kein Zielort für die Lieferung"
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP"
 msgid "A delivery destination has not been set    • {0}"
-msgstr ""
+msgstr "Es wurde kein Lieferziel eingestellt    • {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME"
@@ -4838,6 +4843,8 @@ msgid ""
 "Charging a battery module before takeoff makes it easier to power buildings "
 "during flight."
 msgstr ""
+"Das Aufladen eines Batteriemoduls vor dem Start erleichtert die Versorgung von "
+"Gebäuden während des Fluges."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.EFFECT"
@@ -4850,6 +4857,14 @@ msgid ""
 "\n"
 "Loses charge over time."
 msgstr ""
+"Speichert die überschüssige <link=\"POWER\">Energie</link>, die von einem "
+"Raketentriebwerk oder einer <link=\"LAUNCHPLATFORM\">Raketenplattform</link> "
+"erzeugt wird.\n"
+"\n"
+"Liefert gespeicherte Energie an <link=\"ROCKETINTERIORPOWERPLUG"
+"\">innenliegende Raketensteckdosen</link>.\n"
+"\n"
+"Verliert mit der Zeit an Ladung."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.NAME"
@@ -5793,6 +5808,8 @@ msgid ""
 "Crafting stations allow Duplicants to make oxygen masks to wear in low "
 "breathability areas."
 msgstr ""
+"An den Bastelstationen können Duplikanten Sauerstoffmasken herstellen, die sie "
+"in Gebieten mit geringer Atmungsfähigkeit tragen können."
 
 #. STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.EFFECT"
@@ -8348,7 +8365,7 @@ msgstr "<link=\"KEROSENEENGINE\">Petroleum-Triebwerk</link>"
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.DESC"
 msgid "More powerful rocket engines can propel heavier burdens."
-msgstr ""
+msgstr "Stärkere Raketentriebwerke können schwerere Lasten antreiben."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT"
@@ -13305,7 +13322,7 @@ msgstr "<link=\"ROCKETENVELOPEWINDOWTILE\">Raketenfenster</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.DESC"
 msgid "It's basically central-vac."
-msgstr ""
+msgstr "Es ist im Grunde eine Zentralentlüftung."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.EFFECT"
@@ -13317,6 +13334,12 @@ msgid ""
 "\n"
 "Must be built within the interior of a Rocket Module."
 msgstr ""
+"Ermöglicht das Pumpen von <link=\"ELEMENTSGAS\">Gasen</link> in das "
+"Raketenlager über <link=\"GASCONDUIT\" >Leitungen</link>.\n"
+"\n"
+"Leitet Gas an das erste Raketenmodul mit freier Kapazität.\n"
+"\n"
+"Muss im Inneren eines Raketenmoduls gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME"
@@ -13326,7 +13349,7 @@ msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gas Eingangsamatur</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC"
 msgid "Refreshing breezes on-demand."
-msgstr ""
+msgstr "Erfrischende Brisen auf Abruf."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.EFFECT"
@@ -13338,6 +13361,12 @@ msgid ""
 "\n"
 "Must be built within the interior of a Rocket Module."
 msgstr ""
+"Ermöglicht das Entnehmen von <link=\"ELEMENTSGAS\">Gasen</link> aus dem "
+"Raketenlager über <link=\"GASCONDUIT\" >Leitungen</link>.\n"
+"\n"
+"Fördert Gas aus dem ersten Raketenmodul mit dem angeforderten Material.\n"
+"\n"
+"Muss im Inneren eines Raketenmoduls gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.NAME"
@@ -13347,7 +13376,7 @@ msgstr "<link=\"ROCKETINTERIORGASOUTPUT\">Gas-Ausgangsamatur</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.DESC"
 msgid "Begone, foul waters!"
-msgstr ""
+msgstr "Hinfort, du faules Wasser!"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.EFFECT"
@@ -13359,6 +13388,12 @@ msgid ""
 "\n"
 "Must be built within the interior of a Rocket Module."
 msgstr ""
+"Ermöglicht das Pumpen von <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> in das "
+"Raketenlager über <link=\"LIQUIDCONDUIT\">Rohre</link>.\n"
+"\n"
+"Leitet Flüssigkeiten an das erste Raketenmodul mit freiem Platz.\n"
+"\n"
+"Muss im Inneren eines Raketenmoduls gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.NAME"
@@ -13368,7 +13403,7 @@ msgstr "<link=\"LIQUIDPIPING\">Flüssigkeits-Eingangsamatur</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.DESC"
 msgid "Now if only we had some water balloons..."
-msgstr ""
+msgstr "Wenn wir jetzt nur ein paar Wasserballons hätten..."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.EFFECT"
@@ -13380,6 +13415,13 @@ msgid ""
 "\n"
 "Must be built within the interior of a Rocket Module."
 msgstr ""
+"Ermöglicht das Entnehmen von <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> aus "
+"dem Raketenlager über <link=\"LIQUIDCONDUIT\">Leitungen</link>.\n"
+"\n"
+"Fördert Flüssigkeiten aus dem ersten Raketenmodul mit dem angeforderten "
+"Material.\n"
+"\n"
+"Muss im Inneren eines Raketenmoduls gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.NAME"
@@ -13392,6 +13434,7 @@ msgid ""
 "Outlets conveniently power buildings inside a cockpit using their rocket's "
 "power stores."
 msgstr ""
+"Steckdosen versorgen Gebäude im Cockpit bequem mit den Batterien ihrer Rakete."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.EFFECT"
@@ -13403,6 +13446,12 @@ msgid ""
 "\n"
 "Must be built within the interior of a Rocket Module."
 msgstr ""
+"Liefert <link=\"POWER\">Energie</link> an angeschlossene Gebäude.\n"
+"\n"
+"Bezieht Energie von <link=\"BATTERYMODULE\">Batteriemodulen</link> und "
+"Raketentriebwerken.\n"
+"\n"
+"Muss im Inneren eines Raketenmoduls gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.NAME"
@@ -13413,6 +13462,8 @@ msgstr "<link=\"ROCKETINTERIORPOWERPLUG\">Steckdosenanschluss</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.DESC"
 msgid "Why organize your shelves when you can just shove everything in here?"
 msgstr ""
+"Warum solltest du deine Regale organisieren, wenn du alles einfach hier "
+"reinstopfen kannst?"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.EFFECT"
@@ -13452,6 +13503,13 @@ msgid ""
 "\n"
 "Must be built within the interior of a Rocket Module."
 msgstr ""
+"Ermöglicht es, <link=\"ELEMENTSSOLID\">Feststoffe</link> aus dem Raketenlager "
+"über <link=\"SOLIDCONDUIT\">Förderschienen</link> zu holen.\n"
+"\n"
+"Fördert Feststoffe aus dem ersten Raketenmodul mit dem angeforderten "
+"Material.\n"
+"\n"
+"Muss innerhalb des Inneren eines Raketenmoduls gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.NAME"
@@ -14837,6 +14895,9 @@ msgid ""
 "creating <link=\"<LINK=\"SUPERCOOLANT\">SUPER COOLANT</LINK>\">Super Coolant</"
 "link>."
 msgstr ""
+"Fulleren ist ein <link=\"ELEMENTSSOLID\">Feststoff</link>, der bei der "
+"Herstellung von <link=\"<LINK=\"SUPERCOOLANT\">SUPER COOLANT</LINK>"
+"\">Superkühlmittel</link> nützlich ist."
 
 #. STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.NAME"
@@ -14850,8 +14911,8 @@ msgid ""
 "Super Coolant is an industrial grade <link=\"FULLERENE\">Fullerene</link> "
 "coolant."
 msgstr ""
-"Superkühlmittel ist ein industrielles <link=\"FULLERENE\">Fullerene-"
-"Kühlmittel</link>."
+"Superkühlmittel ist ein industrielles <link=\"FULLERENE\">Fulleren-Kühlmittel</"
+"link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.SUPERINSULATOR_RECIPE_DESCRIPTION
 msgctxt ""
@@ -20823,11 +20884,18 @@ msgid ""
 "\n"
 "\n"
 msgstr ""
+"Wenn du einen Samen zum Anpflanzen auswählst, kannst du aus einer Vielzahl von "
+"Mutationen wählen.\n"
+"Verschiedene Pflanzen und Tiere haben unterschiedliche Mutationen, die es "
+"ihnen ermöglichen, in verschiedenen Situationen zu gedeihen.\n"
+"\n"
+"\n"
+"\n"
 
 #. STRINGS.CODEX.GENETICS.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.GENETICS.PARAGRAPH_2"
 msgid "This is where the breeding information will go"
-msgstr ""
+msgstr "Hier werden die Zuchtinformationen abgelegt"
 
 #. STRINGS.CODEX.GENETICS.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.GENETICS.PARAGRAPH_3"
@@ -20835,6 +20903,8 @@ msgid ""
 "This is where the part about dangers will go\n"
 "\n"
 msgstr ""
+"An dieser Stelle wird der Teil über Gefahren stehen\n"
+"\n"
 
 #. STRINGS.CODEX.GENETICS.TITLE
 msgctxt "STRINGS.CODEX.GENETICS.TITLE"
@@ -27497,6 +27567,11 @@ msgid ""
 "\n"
 "It is rooted firmly in place, and appears to have been here for some time."
 msgstr ""
+"Ein <link=\"ISORESIN\">Isoresin</link>-produzierender, kybernetischer Baum, "
+"der Anzeichen von Empfindungsfähigkeit zeigt.\n"
+"\n"
+"Er ist fest an seinem Platz verwurzelt und scheint schon seit einiger Zeit "
+"hier zu sein."
 
 #. STRINGS.CREATURES.SPECIES.SAPTREE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SAPTREE.NAME"
@@ -34212,6 +34287,8 @@ msgid ""
 "Boosters can be taken by both healthy and sick Duplicants to prevent potential "
 "disease"
 msgstr ""
+"Aufputschmittel können sowohl von gesunden als auch von kranken Duplikanten "
+"eingenommen werden, um mögliche Krankheiten zu verhindern"
 
 #. STRINGS.DUPLICANTS.DISEASES.MEDICINE.CURES
 msgctxt "STRINGS.DUPLICANTS.DISEASES.MEDICINE.CURES"
@@ -34887,12 +34964,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.BONUSDIGGING1.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BONUSDIGGING1.NAME"
 msgid "Hot Diggity!"
-msgstr ""
+msgstr "Heißer Gräber!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BONUSDIGGING1.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BONUSDIGGING1.TOOLTIP"
 msgid "This Duplicant did a lot of excavating and is really digging digging"
-msgstr ""
+msgstr "Dieser Duplikant hat viel gegraben und gräbt wirklich"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BONUSDOOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BONUSDOOR.NAME"
@@ -38641,6 +38718,8 @@ msgstr "<link=\"SENIORPILOT\">Raketensteuerung II</link>"
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION"
 msgid "Enables Duplicants to perform experiments inside a launched rocket"
 msgstr ""
+"Ermöglicht Duplikanten die Durchführung von Experimenten innerhalb einer "
+"gestarteten Rakete"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME"
@@ -43894,7 +43973,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.FULLERENE.NAME
 msgctxt "STRINGS.ELEMENTS.FULLERENE.NAME"
 msgid "<link=\"FULLERENE\">Fullerene</link>"
-msgstr "<link=\"FULLERENE\">Fullerene</link>"
+msgstr "<link=\"FULLERENE\">Fulleren</link>"
 
 #. STRINGS.ELEMENTS.GLASS.DESC
 msgctxt "STRINGS.ELEMENTS.GLASS.DESC"
@@ -45519,8 +45598,8 @@ msgid ""
 "\n"
 "This selection is in a <link=\"ELEMENTSSOLID\">Solid</link> state."
 msgstr ""
-"Superkühlmittel ist ein industrielles <link=\"FULLERENE\">Fullerene-"
-"Kühlmittel</link>.\n"
+"Superkühlmittel ist ein industrielles <link=\"FULLERENE\">Fulleren-Kühlmittel</"
+"link>.\n"
 "\n"
 "Die Auswahl ist derzeit <link=\"ELEMENTSSOLID\">fest</link>."
 
@@ -45691,7 +45770,7 @@ msgid ""
 "states of <link=\"FULLERENE\">Fullerene</link>."
 msgstr ""
 "Superkühlmittel ist ein industrielles Kühlmittel, das die ungewöhnlichen "
-"Energiezustände von <link=\"FULLERENE\">Fullerene</link> nutzt."
+"Energiezustände von <link=\"FULLERENE\">Fulleren</link> nutzt."
 
 #. STRINGS.ELEMENTS.SUPERCOOLANT.NAME
 msgctxt "STRINGS.ELEMENTS.SUPERCOOLANT.NAME"
@@ -45706,8 +45785,8 @@ msgid ""
 "\n"
 "This selection is in a <link=\"ELEMENTSGAS\">Gaseous</link> state."
 msgstr ""
-"Superkühlmittel ist ein industrielles <link=\"FULLERENE\">Fullerene-"
-"Kühlmittel</link>.\n"
+"Superkühlmittel ist ein industrielles <link=\"FULLERENE\">Fulleren-Kühlmittel</"
+"link>.\n"
 "\n"
 "Die Auswahl ist derzeit <link=\"ELEMENTSGAS\">gasförmig</link>."
 
@@ -61373,7 +61452,7 @@ msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.MUTE_TUTORIAL"
 msgid ""
 "Diagnostic can be muted in the <b><color=#E5B000>See All</color></b> panel"
 msgstr ""
-"Die Diagnostik kann im Panel <b><color=#E5B000>Zeige allesl</color></b> "
+"Die Diagnostik kann im Panel <b><color=#E5B000>Zeige alles</color></b> "
 "stummgeschaltet werden"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA
@@ -63234,6 +63313,10 @@ msgid ""
 "------------------\n"
 "Click to subscribe to this diagnostic - <b>Visible On Alert Only</b>"
 msgstr ""
+"\n"
+"------------------\n"
+"Klicke hier, um diese Auswertung zu abonnieren - <b>Nur bei Alarmen sichtbar</"
+"b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALWAYS
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALWAYS"
@@ -63242,6 +63325,10 @@ msgid ""
 "------------------\n"
 "Click to pin this diagnostic to the sidebar -  <b>Always Visible</b>"
 msgstr ""
+"\n"
+"------------------\n"
+"Klicke hier, um diese Auswertung an die Seitenleiste zu pinnen - <b>Immer "
+"sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.NEVER
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.NEVER"
@@ -63250,11 +63337,15 @@ msgid ""
 "------------------\n"
 "Click to mute this diagnostic on the sidebar -  <b>Never Visible      </b>"
 msgstr ""
+"\n"
+"------------------\n"
+"Klicke hier, um diese Auswertung in der Seitenleiste stumm zu schalten - "
+"<b>Nie sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.DIAGNOSTIC
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.DIAGNOSTIC"
 msgid "Diagnostic"
-msgstr ""
+msgstr "Auswertung"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.RESERVED
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.RESERVED"
@@ -63269,7 +63360,7 @@ msgstr "Suche"
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.SEE_ALL
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.SEE_ALL"
 msgid "+ See All ({0})"
-msgstr ""
+msgstr "+ Zeige Alles ({0})"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.STATUS
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.STATUS"
@@ -63279,7 +63370,7 @@ msgstr "Status"
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.TITLE
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.TITLE"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostik"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.TOTAL
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.TOTAL"
@@ -71476,12 +71567,12 @@ msgstr "<color=#52C079FF>IST GESTIEGEN</color>"
 #. STRINGS.UI.RESOURCESCREEN.NEW_TAG
 msgctxt "STRINGS.UI.RESOURCESCREEN.NEW_TAG"
 msgid "NEW"
-msgstr ""
+msgstr "NEU"
 
 #. STRINGS.UI.RESOURCESCREEN.SEE_ALL
 msgctxt "STRINGS.UI.RESOURCESCREEN.SEE_ALL"
 msgid "+ See All ({0})"
-msgstr ""
+msgstr "+ Zeige Alles ({0})"
 
 #. STRINGS.UI.RESOURCESCREEN.TREND_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.TREND_TOOLTIP"
@@ -71492,6 +71583,8 @@ msgstr "Die verfügbare Menge dieser Ressource hat im letzten Zyklus {0} {1}"
 msgctxt "STRINGS.UI.RESOURCESCREEN.TREND_TOOLTIP_NO_CHANGE"
 msgid "The available amount of this resource has NOT CHANGED in the last cycle"
 msgstr ""
+"Die verfügbare Menge dieser Ressource hat sich im letzten Zyklus NICHT "
+"VERÄNDERT"
 
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.BUILDING_COUNT
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.BUILDING_COUNT"
