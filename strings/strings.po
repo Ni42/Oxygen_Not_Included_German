@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-02 22:16+0100\n"
+"PO-Revision-Date: 2021-03-03 18:46+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -12191,7 +12191,7 @@ msgid ""
 "Lands a Duplicant on a Planetoid from an orbiting <link=\"PIONEERMODULE"
 "\">Trailblazer Module</link>."
 msgstr ""
-"Setzt einen Duplikanten auf einem Planetoiden von einem im Orbit befindlichen "
+"Setzt einen Duplikanten auf einem Planetoiden von einer im Orbit befindlichen "
 "<link=\"PIONEERMODULE\">Pionier-Landefähre</link> ab."
 
 #. STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.NAME
@@ -12217,12 +12217,15 @@ msgstr ""
 "Ermöglicht Reisen zu Planetoiden, die noch keine <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> aufweisen.\n"
 "\n"
-"Kann einen Duplikant-Reisenden transportieren."
+"Kann einen Duplikanten aufnehmen.\n"
+"\n"
+"Der Einsatz ist verfügbar, während sie sich in einem Sternenkartenfeld neben "
+"einem Planetoiden befindet."
 
 #. STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.NAME"
 msgid "<link=\"PIONEERMODULE\">Trailblazer Module</link>"
-msgstr "<link=\"PIONEERMODULE\">Wegbereiter-Modul</link>"
+msgstr "<link=\"PIONEERMODULE\">Pionier-Landefähre</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PIXELPACK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIXELPACK.DESC"
@@ -13530,7 +13533,7 @@ msgid ""
 "\n"
 "Pod will disintegrate on arrival."
 msgstr ""
-"Enthält einen Duplikanten, der von einem <link=\"PIONEERMODULE\">Pionier-"
+"Enthält einen Duplikanten, der von einer <link=\"PIONEERMODULE\">Pionier-"
 "Landefähre</link> aus der Umlaufbahn ausgesetzt wird.\n"
 "\n"
 "Die Kapsel wird bei der Ankunft zerfallen."
@@ -13639,7 +13642,7 @@ msgstr "Analysiert automatisch den angrenzenden Weltraum während der Reise."
 #. STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.NAME"
 msgid "<link=\"SCANNERMODULE\">Cartographic Module</link>"
-msgstr "<link=\"SCANNERMODULE\">Kartografisches Modul</link>"
+msgstr "<link=\"SCANNERMODULE\">Kartographiemodul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.DESC"
@@ -44059,6 +44062,9 @@ msgid ""
 "It is useful as a <b>Construction Material</b> where high thermal conducitivty "
 "matters."
 msgstr ""
+"(C) Graphit ist die stabilste Form von Kohlenstoff.\n"
+"\n"
+"Es ist nützlich als <b>Baumaterial</b>, wo hohe Wärmeleitfähigkeit wichtig ist."
 
 #. STRINGS.ELEMENTS.GRAPHITE.NAME
 msgctxt "STRINGS.ELEMENTS.GRAPHITE.NAME"
@@ -45213,6 +45219,8 @@ msgid ""
 "Sticky tree goo. When the moisture is boiled from it, it will polymerize into "
 "Isoresin."
 msgstr ""
+"Klebriger Baumschleim. Wenn die Feuchtigkeit aus ihm herausgekocht wird, "
+"polymerisiert er zu Isoresin."
 
 #. STRINGS.ELEMENTS.RESIN.NAME
 msgctxt "STRINGS.ELEMENTS.RESIN.NAME"
@@ -45583,7 +45591,7 @@ msgstr "<link=\"SOLIDPROPANE\">Propan</link>"
 #. STRINGS.ELEMENTS.SOLIDRESIN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDRESIN.DESC"
 msgid "Solid sticky tree goo."
-msgstr ""
+msgstr "Fester klebriger Baumschleim."
 
 #. STRINGS.ELEMENTS.SOLIDRESIN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDRESIN.NAME"
@@ -49809,6 +49817,11 @@ msgid ""
 "\n"
 "Must be taken daily."
 msgstr ""
+"Eine Nahrungsergänzung, die die Geschwindigkeit, mit der der Körper eines "
+"Duplikanten Strahlung absorbiert, beschleunigt, so dass sie eine erhöhte "
+"Strahlenbelastung bewältigen können.\n"
+"\n"
+"Muss täglich eingenommen werden."
 
 #. STRINGS.ITEMS.PILLS.INTERMEDIATEBOOSTER.DESC
 msgctxt "STRINGS.ITEMS.PILLS.INTERMEDIATEBOOSTER.DESC"
@@ -49880,6 +49893,11 @@ msgid ""
 "\n"
 "Must be taken daily."
 msgstr ""
+"Eine Nahrungsergänzung, die die Geschwindigkeit, mit der der Körper eines "
+"Duplikanten Strahlung absorbiert, beschleunigt, so dass sie eine erhöhte "
+"Strahlenbelastung bewältigen können.\n"
+"\n"
+"Muss täglich eingenommen werden."
 
 #. STRINGS.ITEMS.PILLS.PLACEBO.DESC
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.DESC"
@@ -50200,6 +50218,8 @@ msgid ""
 "A rocket has had its flight plan interrupted by a new discovery. Its path can "
 "be reassigned on the Starmap screen."
 msgstr ""
+"Der Flugplan einer Rakete ist durch eine neue Entdeckung unterbrochen worden. "
+"Ihr Kurs kann auf der Sternenkarte neu zugewiesen werden."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
@@ -56017,11 +56037,13 @@ msgstr "<link=\"ADVANCEDRESEARCH\">Fortschrittliche Forschung</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDSCANNERS.DESC"
 msgid "Computerized systems do the looking, so Duplicants don't have to."
 msgstr ""
+"Computergestützte Systeme übernehmen die Suche, so dass Duplikanten dies nicht "
+"tun müssen."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDSCANNERS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDSCANNERS.NAME"
 msgid "<link=\"ADVANCEDSCANNERS\">Sensitive Microimaging</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDSCANNERS\">Empfindliche Mikrobildgebung</link>"
 
 #. STRINGS.RESEARCH.TECHS.AGRICULTURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.AGRICULTURE.DESC"
@@ -56376,7 +56398,7 @@ msgstr "<link=\"FOODREPURPOSING\">Lebensmittelwiederverwendung</link>"
 #. STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for gas resources"
-msgstr ""
+msgstr "Interne Raketenanschlüsse für Gasressourcen"
 
 #. STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.NAME"
@@ -56560,7 +56582,7 @@ msgstr "<link=\"JOBS\">Beschäftigung</link>"
 #. STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for liquid resources"
-msgstr ""
+msgstr "Interne Raketenanschlüsse für Flüssigressourcen"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.NAME"
@@ -56966,7 +56988,7 @@ msgstr "<link=\"SMELTING\">Schmelzen</link>"
 #. STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for solid resources"
-msgstr ""
+msgstr "Interne Raketenanschlüsse für Feststoffressourcen"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.NAME"
@@ -57002,7 +57024,7 @@ msgstr "<link=\"SOLIDTRANSPORT\">Feststofftransport</link>"
 #. STRINGS.RESEARCH.TECHS.SPACEPOWER.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEPOWER.DESC"
 msgid "It's like power... in space!"
-msgstr ""
+msgstr "Es ist wie Energie... im Weltraum!"
 
 #. STRINGS.RESEARCH.TECHS.SPACEPOWER.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEPOWER.NAME"
@@ -58535,6 +58557,10 @@ msgid ""
 "<link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> as it escapes the lush "
 "fields of <link=\"TOXICSAND\">Polluted Dirt</link> this biome is known for."
 msgstr ""
+"Die Besucher des Sumpf-Bioms werden mit den sanften, beruhigenden Klängen von "
+"<link=\"CONTAMINATEDOXYGEN\">verschmutztem Sauerstoff</link> verwöhnt, wenn er "
+"aus den üppigen Feldern von <link=\"TOXICSAND\" >verschmutzter Erde</link> "
+"entweicht, für die dieses Biom bekannt ist."
 
 #. STRINGS.SUBWORLDS.MARSH.NAME
 msgctxt "STRINGS.SUBWORLDS.MARSH.NAME"
@@ -58785,7 +58811,7 @@ msgstr ""
 #. STRINGS.SUBWORLDS.SWAMP.NAME
 msgctxt "STRINGS.SUBWORLDS.SWAMP.NAME"
 msgid "Swampy"
-msgstr ""
+msgstr "Sumpfig"
 
 #. STRINGS.SUBWORLDS.SWAMP.UTILITY
 msgctxt "STRINGS.SUBWORLDS.SWAMP.UTILITY"
@@ -58800,7 +58826,7 @@ msgstr ""
 #. STRINGS.SUBWORLDS.WASTELAND.NAME
 msgctxt "STRINGS.SUBWORLDS.WASTELAND.NAME"
 msgid "Wasteland"
-msgstr ""
+msgstr "Ödland"
 
 #. STRINGS.SUBWORLDS.WASTELAND.UTILITY
 msgctxt "STRINGS.SUBWORLDS.WASTELAND.UTILITY"
@@ -58835,7 +58861,7 @@ msgstr "Ressourcen"
 #. STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP"
 msgid "Check to pin resource to side panel"
-msgstr ""
+msgstr "Zum Anheften der Ressource an die Seitenwand klicken"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESERVED
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESERVED"
@@ -58870,7 +58896,7 @@ msgstr "Total"
 #. STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP"
 msgid "Unpin resource"
-msgstr ""
+msgstr "Ressource entpinnen"
 
 #. STRINGS.UI.ASSIGNDUPLICANT
 msgctxt "STRINGS.UI.ASSIGNDUPLICANT"
@@ -60663,17 +60689,17 @@ msgstr "Raketenlast: "
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.BURDEN_TOTAL.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.BURDEN_TOTAL.TOOLTIP"
 msgid "The combined burden of all the modules in this rocket"
-msgstr ""
+msgstr "Die Gesamtlast aller Module in dieser Rakete"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.NAME"
 msgid "Fuel consumed per Tile: {0}"
-msgstr ""
+msgstr "Pro Kachel verbrauchter Kraftstoff: {0}"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.TOOLTIP"
 msgid "This rocket can travel one tile per {0} of fuel"
-msgstr ""
+msgstr "Diese Rakete kann pro {0} Treibstoff eine Kachel fliegen"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_REMAINING.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_REMAINING.NAME"
@@ -60693,7 +60719,7 @@ msgstr "Max Module: "
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_MODULES.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_MODULES.TOOLTIP"
 msgid "The {0} can support {1} rocket modules, plus itself"
-msgstr ""
+msgstr "Das {0} kann {1} Raketenmodule unterstützen, plus sich selbst"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.NAME"
@@ -60713,17 +60739,18 @@ msgstr "Verbleibende Oxidationskraft: "
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.OXIDIZER_REMAINING.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.OXIDIZER_REMAINING.TOOLTIP"
 msgid "This rocket has enough oxidizer in its tank for {0} of fuel"
-msgstr ""
+msgstr "Diese Rakete hat genug Oxidationsmittel im Tank für {0} Treibstoff"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.NAME"
 msgid "Module Engine Power: "
-msgstr ""
+msgstr "Modultriebwerksleistung: "
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.TOOLTIP"
 msgid "The selected module adds {0} to the rocket's total Engine Power"
 msgstr ""
+"Das gewählte Modul addiert {0} zur gesamten Triebwerksleistung der Rakete"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_TOTAL.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_TOTAL.NAME"
@@ -60734,6 +60761,8 @@ msgstr "Raketentriebwerksleistung: "
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_TOTAL.TOOLTIP"
 msgid "The total engine power added by all the modules in this rocket"
 msgstr ""
+"Die gesamte Triebwerksleistung, die von allen Modulen in dieser Rakete "
+"hinzugefügt wird"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.RANGE.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.RANGE.NAME"
@@ -60747,6 +60776,9 @@ msgid ""
 "remaining</b> and <b>oxidizer power remaining</b> by <b>fuel consumed per "
 "tile</b>"
 msgstr ""
+"Die <b>verbleibende Reichweite</b> wird berechnet, indem der kleinere Wert aus "
+"<b>verbleibendem Kraftstoff</b> und <b>verbleibender Oxidatorleistung</b> "
+"durch den <b>verbrauchten Kraftstoff pro Kachel</b> geteilt wird."
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.NAME"
@@ -60759,6 +60791,8 @@ msgid ""
 "<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by "
 "<b>Burden</b>"
 msgstr ""
+"Die <b>Raketengeschwindigkeit</b> wird berechnet, indem man die "
+"<b>Triebwerksleistung</b> durch die <b>Belastung</b> teilt."
 
 #. STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION"
@@ -60788,6 +60822,10 @@ msgid ""
 "Space can be analyzed with a <link=\"TELESCOPE\">Telescope</link> or <link="
 "\"SCANNERMODULE\">Cartographic Module</link>"
 msgstr ""
+"Raketen können nicht zu diesem Feld fliegen, bis es analysiert wurde\n"
+"\n"
+"Der Weltraum kann mit einem <link=\"TELESCOPE\">Teleskop</link> oder <link="
+"\"SCANNERMODULE\">Kartographiemodul</link> analysiert werden"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_LAUNCH_PAD
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_LAUNCH_PAD"
@@ -60798,6 +60836,12 @@ msgid ""
 "Use a <link=\"PIONEERMODULE\">Trailblazer Module</link> or <link=\"SCOUTMODULE"
 "\">Rover's Module</link> to deploy a scout and make first contact"
 msgstr ""
+"Auf diesem Planetoiden gibt es keine <link=\"LAUNCHPLATFORM"
+"\">Raketenplattform</link>, auf der eine Rakete landen könnte\n"
+"\n"
+"Verwende eine <link=\"PIONEERMODULE\">Pionier-Landefähre</link> oder ein <link="
+"\"SCOUTMODULE\">Rover-Modul</link>, um einen Rover einzusetzen und den ersten "
+"Kontakt herzustellen"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_PATH
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_PATH"
@@ -60807,6 +60851,11 @@ msgid ""
 "Space can be analyzed with a <link=\"TELESCOPE\">Telescope</link> or <link="
 "\"SCANNERMODULE\">Cartographic Module</link> to clear the way"
 msgstr ""
+"Es gibt keinen navigierbaren Flugweg zu diesem Planetoiden\n"
+"\n"
+"Der Weltraum kann mit einem <link=\"TELESCOPE\">Teleskop</link> oder <link="
+"\"SCANNERMODULE\">Kartographiemodul</link> untersucht werden, um den Weg "
+"freizumachen"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID"
