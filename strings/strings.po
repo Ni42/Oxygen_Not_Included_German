@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-02 22:16+0100\n"
+"PO-Revision-Date: 2021-03-03 22:28+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -12191,7 +12191,7 @@ msgid ""
 "Lands a Duplicant on a Planetoid from an orbiting <link=\"PIONEERMODULE"
 "\">Trailblazer Module</link>."
 msgstr ""
-"Setzt einen Duplikanten auf einem Planetoiden von einem im Orbit befindlichen "
+"Setzt einen Duplikanten auf einem Planetoiden von einer im Orbit befindlichen "
 "<link=\"PIONEERMODULE\">Pionier-Landefähre</link> ab."
 
 #. STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.NAME
@@ -12217,12 +12217,15 @@ msgstr ""
 "Ermöglicht Reisen zu Planetoiden, die noch keine <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> aufweisen.\n"
 "\n"
-"Kann einen Duplikant-Reisenden transportieren."
+"Kann einen Duplikanten aufnehmen.\n"
+"\n"
+"Der Einsatz ist verfügbar, während sie sich in einem Sternenkartenfeld neben "
+"einem Planetoiden befindet."
 
 #. STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.NAME"
 msgid "<link=\"PIONEERMODULE\">Trailblazer Module</link>"
-msgstr "<link=\"PIONEERMODULE\">Wegbereiter-Modul</link>"
+msgstr "<link=\"PIONEERMODULE\">Pionier-Landefähre</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PIXELPACK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIXELPACK.DESC"
@@ -13530,7 +13533,7 @@ msgid ""
 "\n"
 "Pod will disintegrate on arrival."
 msgstr ""
-"Enthält einen Duplikanten, der von einem <link=\"PIONEERMODULE\">Pionier-"
+"Enthält einen Duplikanten, der von einer <link=\"PIONEERMODULE\">Pionier-"
 "Landefähre</link> aus der Umlaufbahn ausgesetzt wird.\n"
 "\n"
 "Die Kapsel wird bei der Ankunft zerfallen."
@@ -13639,7 +13642,7 @@ msgstr "Analysiert automatisch den angrenzenden Weltraum während der Reise."
 #. STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.NAME"
 msgid "<link=\"SCANNERMODULE\">Cartographic Module</link>"
-msgstr "<link=\"SCANNERMODULE\">Kartografisches Modul</link>"
+msgstr "<link=\"SCANNERMODULE\">Kartographiemodul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.DESC"
@@ -44059,6 +44062,9 @@ msgid ""
 "It is useful as a <b>Construction Material</b> where high thermal conducitivty "
 "matters."
 msgstr ""
+"(C) Graphit ist die stabilste Form von Kohlenstoff.\n"
+"\n"
+"Es ist nützlich als <b>Baumaterial</b>, wo hohe Wärmeleitfähigkeit wichtig ist."
 
 #. STRINGS.ELEMENTS.GRAPHITE.NAME
 msgctxt "STRINGS.ELEMENTS.GRAPHITE.NAME"
@@ -45213,6 +45219,8 @@ msgid ""
 "Sticky tree goo. When the moisture is boiled from it, it will polymerize into "
 "Isoresin."
 msgstr ""
+"Klebriger Baumschleim. Wenn die Feuchtigkeit aus ihm herausgekocht wird, "
+"polymerisiert er zu Isoresin."
 
 #. STRINGS.ELEMENTS.RESIN.NAME
 msgctxt "STRINGS.ELEMENTS.RESIN.NAME"
@@ -45583,7 +45591,7 @@ msgstr "<link=\"SOLIDPROPANE\">Propan</link>"
 #. STRINGS.ELEMENTS.SOLIDRESIN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDRESIN.DESC"
 msgid "Solid sticky tree goo."
-msgstr ""
+msgstr "Fester klebriger Baumschleim."
 
 #. STRINGS.ELEMENTS.SOLIDRESIN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDRESIN.NAME"
@@ -49809,6 +49817,11 @@ msgid ""
 "\n"
 "Must be taken daily."
 msgstr ""
+"Eine Nahrungsergänzung, die die Geschwindigkeit, mit der der Körper eines "
+"Duplikanten Strahlung absorbiert, beschleunigt, so dass sie eine erhöhte "
+"Strahlenbelastung bewältigen können.\n"
+"\n"
+"Muss täglich eingenommen werden."
 
 #. STRINGS.ITEMS.PILLS.INTERMEDIATEBOOSTER.DESC
 msgctxt "STRINGS.ITEMS.PILLS.INTERMEDIATEBOOSTER.DESC"
@@ -49880,6 +49893,11 @@ msgid ""
 "\n"
 "Must be taken daily."
 msgstr ""
+"Eine Nahrungsergänzung, die die Geschwindigkeit, mit der der Körper eines "
+"Duplikanten Strahlung absorbiert, beschleunigt, so dass sie eine erhöhte "
+"Strahlenbelastung bewältigen können.\n"
+"\n"
+"Muss täglich eingenommen werden."
 
 #. STRINGS.ITEMS.PILLS.PLACEBO.DESC
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.DESC"
@@ -50200,6 +50218,8 @@ msgid ""
 "A rocket has had its flight plan interrupted by a new discovery. Its path can "
 "be reassigned on the Starmap screen."
 msgstr ""
+"Der Flugplan einer Rakete ist durch eine neue Entdeckung unterbrochen worden. "
+"Ihr Kurs kann auf der Sternenkarte neu zugewiesen werden."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
@@ -56017,11 +56037,13 @@ msgstr "<link=\"ADVANCEDRESEARCH\">Fortschrittliche Forschung</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDSCANNERS.DESC"
 msgid "Computerized systems do the looking, so Duplicants don't have to."
 msgstr ""
+"Computergestützte Systeme übernehmen die Suche, so dass Duplikanten dies nicht "
+"tun müssen."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDSCANNERS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDSCANNERS.NAME"
 msgid "<link=\"ADVANCEDSCANNERS\">Sensitive Microimaging</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDSCANNERS\">Empfindliche Mikrobildgebung</link>"
 
 #. STRINGS.RESEARCH.TECHS.AGRICULTURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.AGRICULTURE.DESC"
@@ -56376,7 +56398,7 @@ msgstr "<link=\"FOODREPURPOSING\">Lebensmittelwiederverwendung</link>"
 #. STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for gas resources"
-msgstr ""
+msgstr "Interne Raketenanschlüsse für Gasressourcen"
 
 #. STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.NAME"
@@ -56560,7 +56582,7 @@ msgstr "<link=\"JOBS\">Beschäftigung</link>"
 #. STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for liquid resources"
-msgstr ""
+msgstr "Interne Raketenanschlüsse für Flüssigressourcen"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.NAME"
@@ -56966,7 +56988,7 @@ msgstr "<link=\"SMELTING\">Schmelzen</link>"
 #. STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for solid resources"
-msgstr ""
+msgstr "Interne Raketenanschlüsse für Feststoffressourcen"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.NAME"
@@ -57002,7 +57024,7 @@ msgstr "<link=\"SOLIDTRANSPORT\">Feststofftransport</link>"
 #. STRINGS.RESEARCH.TECHS.SPACEPOWER.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEPOWER.DESC"
 msgid "It's like power... in space!"
-msgstr ""
+msgstr "Es ist wie Energie... im Weltraum!"
 
 #. STRINGS.RESEARCH.TECHS.SPACEPOWER.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEPOWER.NAME"
@@ -58535,6 +58557,10 @@ msgid ""
 "<link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> as it escapes the lush "
 "fields of <link=\"TOXICSAND\">Polluted Dirt</link> this biome is known for."
 msgstr ""
+"Die Besucher des Sumpf-Bioms werden mit den sanften, beruhigenden Klängen von "
+"<link=\"CONTAMINATEDOXYGEN\">verschmutztem Sauerstoff</link> verwöhnt, wenn er "
+"aus den üppigen Feldern von <link=\"TOXICSAND\" >verschmutzter Erde</link> "
+"entweicht, für die dieses Biom bekannt ist."
 
 #. STRINGS.SUBWORLDS.MARSH.NAME
 msgctxt "STRINGS.SUBWORLDS.MARSH.NAME"
@@ -58785,7 +58811,7 @@ msgstr ""
 #. STRINGS.SUBWORLDS.SWAMP.NAME
 msgctxt "STRINGS.SUBWORLDS.SWAMP.NAME"
 msgid "Swampy"
-msgstr ""
+msgstr "Sumpfig"
 
 #. STRINGS.SUBWORLDS.SWAMP.UTILITY
 msgctxt "STRINGS.SUBWORLDS.SWAMP.UTILITY"
@@ -58800,7 +58826,7 @@ msgstr ""
 #. STRINGS.SUBWORLDS.WASTELAND.NAME
 msgctxt "STRINGS.SUBWORLDS.WASTELAND.NAME"
 msgid "Wasteland"
-msgstr ""
+msgstr "Ödland"
 
 #. STRINGS.SUBWORLDS.WASTELAND.UTILITY
 msgctxt "STRINGS.SUBWORLDS.WASTELAND.UTILITY"
@@ -58835,7 +58861,7 @@ msgstr "Ressourcen"
 #. STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP"
 msgid "Check to pin resource to side panel"
-msgstr ""
+msgstr "Zum Anheften der Ressource an die Seitenwand klicken"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESERVED
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESERVED"
@@ -58870,7 +58896,7 @@ msgstr "Total"
 #. STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP"
 msgid "Unpin resource"
-msgstr ""
+msgstr "Ressource entpinnen"
 
 #. STRINGS.UI.ASSIGNDUPLICANT
 msgctxt "STRINGS.UI.ASSIGNDUPLICANT"
@@ -60663,17 +60689,17 @@ msgstr "Raketenlast: "
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.BURDEN_TOTAL.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.BURDEN_TOTAL.TOOLTIP"
 msgid "The combined burden of all the modules in this rocket"
-msgstr ""
+msgstr "Die Gesamtlast aller Module in dieser Rakete"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.NAME"
 msgid "Fuel consumed per Tile: {0}"
-msgstr ""
+msgstr "Pro Kachel verbrauchter Kraftstoff: {0}"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_PER_HEX.TOOLTIP"
 msgid "This rocket can travel one tile per {0} of fuel"
-msgstr ""
+msgstr "Diese Rakete kann pro {0} Treibstoff eine Kachel fliegen"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_REMAINING.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.FUEL_REMAINING.NAME"
@@ -60693,7 +60719,7 @@ msgstr "Max Module: "
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_MODULES.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_MODULES.TOOLTIP"
 msgid "The {0} can support {1} rocket modules, plus itself"
-msgstr ""
+msgstr "Das {0} kann {1} Raketenmodule unterstützen, plus sich selbst"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.NAME"
@@ -60713,17 +60739,18 @@ msgstr "Verbleibende Oxidationskraft: "
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.OXIDIZER_REMAINING.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.OXIDIZER_REMAINING.TOOLTIP"
 msgid "This rocket has enough oxidizer in its tank for {0} of fuel"
-msgstr ""
+msgstr "Diese Rakete hat genug Oxidationsmittel im Tank für {0} Treibstoff"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.NAME"
 msgid "Module Engine Power: "
-msgstr ""
+msgstr "Modultriebwerksleistung: "
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_MODULE.TOOLTIP"
 msgid "The selected module adds {0} to the rocket's total Engine Power"
 msgstr ""
+"Das gewählte Modul addiert {0} zur gesamten Triebwerksleistung der Rakete"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_TOTAL.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_TOTAL.NAME"
@@ -60734,6 +60761,8 @@ msgstr "Raketentriebwerksleistung: "
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.POWER_TOTAL.TOOLTIP"
 msgid "The total engine power added by all the modules in this rocket"
 msgstr ""
+"Die gesamte Triebwerksleistung, die von allen Modulen in dieser Rakete "
+"hinzugefügt wird"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.RANGE.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.RANGE.NAME"
@@ -60747,6 +60776,9 @@ msgid ""
 "remaining</b> and <b>oxidizer power remaining</b> by <b>fuel consumed per "
 "tile</b>"
 msgstr ""
+"Die <b>verbleibende Reichweite</b> wird berechnet, indem der kleinere Wert aus "
+"<b>verbleibendem Kraftstoff</b> und <b>verbleibender Oxidatorleistung</b> "
+"durch den <b>verbrauchten Kraftstoff pro Kachel</b> geteilt wird."
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.NAME"
@@ -60759,6 +60791,8 @@ msgid ""
 "<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by "
 "<b>Burden</b>"
 msgstr ""
+"Die <b>Raketengeschwindigkeit</b> wird berechnet, indem man die "
+"<b>Triebwerksleistung</b> durch die <b>Belastung</b> teilt."
 
 #. STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION"
@@ -60788,6 +60822,10 @@ msgid ""
 "Space can be analyzed with a <link=\"TELESCOPE\">Telescope</link> or <link="
 "\"SCANNERMODULE\">Cartographic Module</link>"
 msgstr ""
+"Raketen können nicht zu diesem Feld fliegen, bis es analysiert wurde\n"
+"\n"
+"Der Weltraum kann mit einem <link=\"TELESCOPE\">Teleskop</link> oder <link="
+"\"SCANNERMODULE\">Kartographiemodul</link> analysiert werden"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_LAUNCH_PAD
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_LAUNCH_PAD"
@@ -60798,6 +60836,12 @@ msgid ""
 "Use a <link=\"PIONEERMODULE\">Trailblazer Module</link> or <link=\"SCOUTMODULE"
 "\">Rover's Module</link> to deploy a scout and make first contact"
 msgstr ""
+"Auf diesem Planetoiden gibt es keine <link=\"LAUNCHPLATFORM"
+"\">Raketenplattform</link>, auf der eine Rakete landen könnte\n"
+"\n"
+"Verwende eine <link=\"PIONEERMODULE\">Pionier-Landefähre</link> oder ein <link="
+"\"SCOUTMODULE\">Rover-Modul</link>, um einen Rover einzusetzen und den ersten "
+"Kontakt herzustellen"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_PATH
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_PATH"
@@ -60807,6 +60851,11 @@ msgid ""
 "Space can be analyzed with a <link=\"TELESCOPE\">Telescope</link> or <link="
 "\"SCANNERMODULE\">Cartographic Module</link> to clear the way"
 msgstr ""
+"Es gibt keinen navigierbaren Flugweg zu diesem Planetoiden\n"
+"\n"
+"Der Weltraum kann mit einem <link=\"TELESCOPE\">Teleskop</link> oder <link="
+"\"SCANNERMODULE\">Kartographiemodul</link> untersucht werden, um den Weg "
+"freizumachen"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID"
@@ -62960,6 +63009,7 @@ msgstr "Anforderungen"
 msgctxt "STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ALL_TOOLTIP"
 msgid "These conditions must be fulfilled in order to launch a rocket mission"
 msgstr ""
+"Diese Bedingungen müssen erfüllt sein, um eine Raketenmission starten zu können"
 
 #. STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.NAME"
@@ -62977,6 +63027,8 @@ msgid ""
 "It is recommended that all boxes on the Crew Manifest checklist be ticked "
 "before launching"
 msgstr ""
+"Es wird empfohlen, dass alle Kästchen auf der Crew-Manifest-Checkliste vor dem "
+"Start abgehakt sind"
 
 #. STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ROCKETFLIGHT
 msgctxt "STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ROCKETFLIGHT"
@@ -62987,6 +63039,8 @@ msgstr "Flugroute"
 msgctxt "STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ROCKETFLIGHT_TOOLTIP"
 msgid "A rocket requires a clear path to a set destination to conduct a mission"
 msgstr ""
+"Eine Rakete benötigt einen freien Weg zu einem festgelegten Ziel, um eine "
+"Mission durchzuführen"
 
 #. STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ROCKETPREP
 msgctxt "STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ROCKETPREP"
@@ -62999,6 +63053,8 @@ msgid ""
 "It is recommended that all boxes on the Rocket Construction checklist be "
 "ticked before launching"
 msgstr ""
+"Es wird empfohlen, dass alle Kästchen auf der Checkliste für den Raketenbau "
+"vor dem Start abgehakt sind"
 
 #. STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ROCKETSTORAGE
 msgctxt "STRINGS.UI.DETAILTABS.PROCESS_CONDITIONS.ROCKETSTORAGE"
@@ -63011,6 +63067,8 @@ msgid ""
 "It is recommended that all boxes on the Cargo Manifest checklist be ticked "
 "before launching"
 msgstr ""
+"Es wird empfohlen, dass alle Kästchen auf der Checkliste für das "
+"Frachtmanifest vor dem Start abgehakt sind"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_BIOMES
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_BIOMES"
@@ -63906,7 +63964,7 @@ msgstr "{0} verzehrt"
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.FOODFIGHT_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.FOODFIGHT_CONTEXT"
 msgid "{0} ingested in food fight"
-msgstr ""
+msgstr "{0} im Kampf gegen das Essen eingenommen"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS"
@@ -64552,7 +64610,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY."
 "NAME"
 msgid "Flimsy"
-msgstr ""
+msgstr "Dünn"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.TOOLTIP
 msgctxt ""
@@ -64566,7 +64624,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "INDESTRUCTIBLE.ATTRIBUTE_MODIFIER_NAME"
 msgid "Indestructible Suits (No Durability)"
-msgstr ""
+msgstr "Unzerstörbare Anzüge (keine Lebensdauer)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.INDESTRUCTIBLE.NAME
 msgctxt ""
@@ -64583,6 +64641,8 @@ msgid ""
 "Duplicants have perfected clothes manufacturing and are able to make suits "
 "that last forever"
 msgstr ""
+"Duplikanten haben die Herstellung von Kleidung perfektioniert und sind in der "
+"Lage, Anzüge herzustellen, die ewig halten"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.REINFORCED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -64596,7 +64656,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "REINFORCED.NAME"
 msgid "Reinforced"
-msgstr ""
+msgstr "Verstärkt"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.REINFORCED.TOOLTIP
 msgctxt ""
@@ -64617,7 +64677,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "THREADBARE.NAME"
 msgid "Threadbare"
-msgstr ""
+msgstr "Fadenlos"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.THREADBARE.TOOLTIP
 msgctxt ""
@@ -65381,11 +65441,13 @@ msgctxt ""
 msgid ""
 "If checked, content from the <i>Spaced Out!</i> Expansion will be available"
 msgstr ""
+"Wenn diese Option aktiviert ist, sind Inhalte aus der Erweiterung <i>Spaced "
+"Out!</i> verfügbar"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_BODY
 msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_BODY"
 msgid "Changing this setting requires the game to restart"
-msgstr ""
+msgstr "Das Ändern dieser Einstellung erfordert einen Neustart des Spiels"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_CONFIRM
 msgctxt ""
@@ -65408,12 +65470,17 @@ msgid ""
 "For now, you can toggle the DLC on and off using the DLC settings for Oxygen "
 "Not Included in Steam."
 msgstr ""
+"Die Testversion dieser Erweiterung erlaubt derzeit keinen Wechsel zum "
+"Basisspiel.\n"
+"\n"
+"Im Moment können Sie den DLC über die DLC-Einstellungen für Oxygen Not "
+"Included in Steam ein- und ausschalten."
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_TESTING_TITLE
 msgctxt ""
 "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_TESTING_TITLE"
 msgid "DISABLED FOR TESTING"
-msgstr ""
+msgstr "ZUM TESTEN DEAKTIVIERT"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.GENERAL_GAME_OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.GENERAL_GAME_OPTIONS"
@@ -65677,7 +65744,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT"
 msgid "Content"
-msgstr ""
+msgstr "Inhalt"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_COLONIES
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_COLONIES"
@@ -65860,6 +65927,8 @@ msgid ""
 "Loading this colony will require restarting the game with <i>Spaced Out!</i> "
 "content enabled"
 msgstr ""
+"Das Laden dieser Kolonie erfordert einen Neustart des Spiels mit aktiviertem "
+"<i>Spaced-Out!</i>-Inhalt"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE"
@@ -66141,6 +66210,8 @@ msgid ""
 "Loading this colony will require restarting the game with <i>Spaced Out!</i> "
 "content disabled"
 msgstr ""
+"Das Laden dieser Kolonie erfordert einen Neustart des Spiels mit deaktiviertem "
+"<i>Spaced-Out!</i>-Inhalt"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.WORLD_NAME
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.WORLD_NAME"
@@ -66365,6 +66436,9 @@ msgid ""
 "i> into Early Access:\n"
 "{0}"
 msgstr ""
+"Die Mod-Unterstützung wird für den ersten Start von <i>Spaced Out!</i> in den "
+"Early Access vorübergehend ausgesetzt: \n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.ALL_MODS_DISABLED_EARLY_ACCESS.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.ALL_MODS_DISABLED_EARLY_ACCESS.TITLE"
@@ -66892,6 +66966,18 @@ msgid ""
 "\n"
 "Check out the full patch notes for more details!"
 msgstr ""
+"<b>Kein-irdisches-Harz-Update</b>\n"
+"\n"
+"Es wurden neue Rohrverbindungen hinzugefügt, um die innere "
+"Raketeninfrastruktur mit den Lagermodulen zu verbinden.\n"
+"\n"
+"Es wurden neue Planetoiden zum Cluster hinzugefügt, die Ressourcen für das "
+"späte Spiel enthalten, zusammen mit neuen Raketenmodulen, die helfen, sie zu "
+"erreichen.\n"
+"\n"
+"Tonnenweise Fehlerbehebungen, Balance-Änderungen und mehr.\n"
+"\n"
+"Schaue dir die vollständigen Patch-Hinweise für weitere Details an!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
@@ -67153,6 +67239,9 @@ msgid ""
 "Purchase <i>Spaced Out!</i> to support <i>Oxygen Not Included</i> and enjoy "
 "the new content!"
 msgstr ""
+"Das <i>Spaced-Out!</i>-DLC wurde noch nicht im WeGame-Store gekauft. Kaufe "
+"<i>Spaced Out!</i>, um <i>Oxygen Not Included</i> zu unterstützen und genieße "
+"die neuen Inhalte!"
 
 #. STRINGS.UI.FRONTEND.RAILFORCEQUIT.SAVE_EXIT
 msgctxt "STRINGS.UI.FRONTEND.RAILFORCEQUIT.SAVE_EXIT"
@@ -74231,11 +74320,13 @@ msgid ""
 "Our researchers would have a field day with this if they could only get close "
 "enough."
 msgstr ""
+"Unsere Forscher würden einen großen Spaß daran haben, wenn sie nur nah genug "
+"herankommen könnten."
 
 #. STRINGS.UI.SPACEDESTINATIONS.RESEARCHDESTINATION.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.RESEARCHDESTINATION.NAME"
 msgid "Alluring Anomaly"
-msgstr ""
+msgstr "Verlockende Anomalie"
 
 #. STRINGS.UI.SPACEDESTINATIONS.TELESCOPE_TARGET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.TELESCOPE_TARGET.NAME"
@@ -74574,7 +74665,7 @@ msgstr "Kein aktiver Bau"
 msgctxt ""
 "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.TOOLTIP.FAILURE"
 msgid "In-progress module construction is preventing takeoff"
-msgstr ""
+msgstr "Laufende Modulbauarbeiten verhindern den Abflug"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.TOOLTIP.READY"
@@ -74607,6 +74698,12 @@ msgid ""
 "------------------\n"
 "    • {0}/{1} Boarded"
 msgstr ""
+"Keine Besatzungsmitglieder sind an Bord dieser Rakete\n"
+"\n"
+"Duplikanten müssen der Raketenbesatzung zugewiesen sein und Zugang zur Luke "
+"des Moduls haben, um an Bord zu gehen\n"
+"------------------\n"
+"    - {0}/{1} eingestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.NONE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.NONE"
@@ -74615,6 +74712,9 @@ msgid ""
 "------------------\n"
 "    • {0}/{1} Boarded"
 msgstr ""
+"Dieser Raketenbesatzung sind keine Duplikanten zugewiesen\n"
+"------------------\n"
+"    - {0}/{1} eingestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.READY"
@@ -74623,6 +74723,10 @@ msgid ""
 "------------------\n"
 "    • {0}/{1} Boarded"
 msgstr ""
+"Alle der Raketenbesatzung zugewiesenen Duplikanten sind an Bord und bereit zum "
+"Start\n"
+"------------------\n"
+"    - {0}/{1} eingestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING"
@@ -74631,6 +74735,10 @@ msgid ""
 "------------------\n"
 "    • {0}/{1} Boarded"
 msgstr ""
+"Einige Duplikanten, die dieser Raketenbesatzung zugewiesen sind, sind noch "
+"nicht an Bord\n"
+"------------------\n"
+"    - {0}/{1} eingestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.WARNING"
@@ -74640,17 +74748,17 @@ msgstr "Besatzung ist an Bord"
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.FAILURE"
 msgid "Clear launch path"
-msgstr ""
+msgstr "Freier Startpfad"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.READY"
 msgid "Clear launch path"
-msgstr ""
+msgstr "Freier Startpfad"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.STATUS.WARNING"
 msgid "Clear launch path"
-msgstr ""
+msgstr "Freier Startpfad"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.FAILURE"
@@ -74660,11 +74768,16 @@ msgid ""
 "The rocket's launch path can be cleared by excavating undug tiles and "
 "deconstructing any buildings above the rocket"
 msgstr ""
+"Diese Rakete hat keine freie Sichtlinie zum Weltraum, was einen Start "
+"verhindert\n"
+"------------------\n"
+"Die Startbahn der Rakete kann durch das Ausgraben von nicht ausgegrabenen "
+"Kacheln und den Rückbau aller Gebäude über der Rakete freigemacht werden"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.READY"
 msgid "The rocket's launch path is clear for takeoff"
-msgstr ""
+msgstr "Die Startbahn der Rakete ist frei zum Abheben"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.WARNING"
@@ -74693,11 +74806,14 @@ msgid ""
 "------------------\n"
 "This rocket cannot launch without a completed engine"
 msgstr ""
+"Kein Triebwerk eingebaut\n"
+"------------------\n"
+"Diese Rakete kann nicht ohne ein fertiges Triebwerk starten"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.TOOLTIP.READY"
 msgid "A suitable engine has been installed"
-msgstr ""
+msgstr "Ein geeignetes Triebwerk ist eingebaut"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.TOOLTIP.WARNING"
@@ -74726,11 +74842,14 @@ msgid ""
 "------------------\n"
 "This rocket cannot launch without a completed fuel tank"
 msgstr ""
+"Kein Kraftstofftank eingebaut\n"
+"------------------\n"
+"Diese Rakete kann ohne vollständigen Treibstofftank nicht starten"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.TOOLTIP.READY"
 msgid "A fuel tank has been installed"
-msgstr ""
+msgstr "Es wurde ein Kraftstofftank eingebaut"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.TOOLTIP.WARNING"
@@ -74759,11 +74878,14 @@ msgid ""
 "------------------\n"
 "This rocket cannot launch without a completed nosecone"
 msgstr ""
+"Kein Nasenkonus eingebaut\n"
+"------------------\n"
+"Diese Rakete kann nicht ohne einen fertigen Nasenkonus starten"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.TOOLTIP.READY"
 msgid "A suitable nosecone has been installed"
-msgstr ""
+msgstr "Ein geeigneter Nasenkonus ist eingebaut worden"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.TOOLTIP.WARNING"
@@ -74783,7 +74905,7 @@ msgstr "Installiert"
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED_TOOLTIP
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED_TOOLTIP"
 msgid "A suitable {0} has been installed"
-msgstr ""
+msgstr "Ein geeignetes {0} ist eingebaut worden"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSUFFICENT_MASS_TOOLTIP
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSUFFICENT_MASS_TOOLTIP"
@@ -74819,6 +74941,8 @@ msgid ""
 "Additional landers must be constructed to fulfill the lander requests of this "
 "rocket"
 msgstr ""
+"Es müssen zusätzliche Lander gebaut werden, um die Lander-Anforderungen dieser "
+"Rakete zu erfüllen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLTIP.READY
 msgctxt ""
@@ -74893,6 +75017,10 @@ msgid ""
 "------------------\n"
 "Excess modules must be removed"
 msgstr ""
+"Die Anzahl der installierten Module überschreitet die Modulgrenze des "
+"Triebwerks\n"
+"------------------\n"
+"Überschüssige Module müssen entfernt werden"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.READY"
@@ -74918,6 +75046,9 @@ msgid ""
 "------------------\n"
 "This rocket cannot launch without a completed {0}"
 msgstr ""
+"Keine {0} eingebaut\n"
+"------------------\n"
+"Diese Rakete kann nicht ohne ein abgeschlossenes {0} starten"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_DESTINATION
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_DESTINATION"
@@ -74927,12 +75058,12 @@ msgstr "Kein Ziel ausgewählt"
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.FAILURE"
 msgid "Non-crew exited"
-msgstr ""
+msgstr "Nicht-Besatzung ausgestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.READY"
 msgid "Non-crew exited"
-msgstr ""
+msgstr "Nicht-Besatzung ausgestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.FAILURE"
@@ -74947,12 +75078,12 @@ msgstr "Alle Nicht-Crew-Duplikanten sind von Bord gegangen"
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.TOOLTIP.WARNING"
 msgid "Non-crew warning"
-msgstr ""
+msgstr "Nicht-Besatzungswarnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.WARNING"
 msgid "Non-crew exited"
-msgstr ""
+msgstr "Nicht-Besatzung ausgestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.FAILURE"
@@ -74973,6 +75104,11 @@ msgid ""
 "Qualified Duplicants must be assigned to the rocket crew, and have access to "
 "the module's hatch"
 msgstr ""
+"Mindestens ein Besatzungsmitglied an Bord der Rakete muss die Fähigkeit <link="
+"\"PILOT\">Raketensteuerung</link> besitzen, um zu starten\n"
+"------------------\n"
+"Qualifizierte Duplikanten müssen der Raketenbesatzung zugewiesen werden und "
+"Zugang zur Luke des Moduls haben"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.READY"
@@ -74980,6 +75116,8 @@ msgid ""
 "A Duplicant with the <link=\"PILOT\">Rocket Piloting</link> skill is currently "
 "onboard"
 msgstr ""
+"Ein Duplikant mit der Fertigkeit <link=\"PILOT\">Raketensteuerung</link> ist "
+"derzeit an Bord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING"
@@ -75032,7 +75170,7 @@ msgctxt ""
 msgid ""
 "This rocket's fuel tanks have been filled to capacity, but it has no "
 "destination"
-msgstr ""
+msgstr "Die Treibstofftanks dieser Rakete sind voll, aber sie hat kein Ziel"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.TOOLTIP.WARNING"
@@ -75085,6 +75223,10 @@ msgid ""
 "If the oxidizer tanks are full, a different Oxidizer Tank Module may be "
 "required"
 msgstr ""
+"Diese Rakete hat nicht genug Oxidationsmittel, um ihr Ziel zu erreichen\n"
+"------------------\n"
+"Wenn die Oxidationstanks voll sind, kann ein weiteres Oxidationstankmodul "
+"erforderlich sein"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.TOOLTIP.READY"
@@ -75595,7 +75737,7 @@ msgstr "N/A"
 #. STRINGS.UI.TABLESCREENS.NOBODY_HERE
 msgctxt "STRINGS.UI.TABLESCREENS.NOBODY_HERE"
 msgid "Nobody here..."
-msgstr ""
+msgstr "Niemand hier..."
 
 #. STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON"
@@ -77304,6 +77446,8 @@ msgid ""
 "Order Duplicants to deliver {0}<link=\"NONE\">s</link> to this building "
 "automatically when they need replacing"
 msgstr ""
+"Duplikanten anweisen, {0}<link=\"NONE\">s</link> automatisch an dieses Gebäude "
+"zu liefern, wenn sie ersetzt werden müssen"
 
 #. STRINGS.UI.UISIDESCREENS.BUTTONMENUSIDESCREEN.DISALLOW_INTERNAL_CONSTRUCTOR
 msgctxt ""
@@ -77409,12 +77553,12 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN."
 "CLEAR_DESTINATION_BUTTON_TOOLTIP"
 msgid "Clear this rocket's selected destination"
-msgstr ""
+msgstr "Das ausgewählte Ziel dieser Rakete löschen"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE"
 msgid "Any landing pad"
-msgstr ""
+msgstr "Beliebiger Landeplatz"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.LOOP_BUTTON_TOOLTIP
 msgctxt ""
@@ -77423,6 +77567,8 @@ msgid ""
 "Toggle a roundtrip flight between this rocket's destination and its original "
 "takeoff location"
 msgstr ""
+"Einen Rundflug zwischen dem Zielort dieser Rakete und ihrem ursprünglichen "
+"Startort durchführen lassen"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NONEAVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NONEAVAILABLE"
@@ -77453,7 +77599,7 @@ msgstr "Kann Planetoid nicht sehen"
 #. STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.VIEW_WORLD_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.VIEW_WORLD_TOOLTIP"
 msgid "View this Planetoid's surface"
-msgstr ""
+msgstr "Ansicht der Planetoidenoberfläche"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.ASSIGN_TO_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.ASSIGN_TO_TOOLTIP"
@@ -78157,7 +78303,7 @@ msgstr "Innenraum ansehen"
 #. STRINGS.UI.UISIDESCREENS.HABITATMODULESIDESCREEN.VIEW_BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.HABITATMODULESIDESCREEN.VIEW_BUTTON_TOOLTIP"
 msgid "What's goin' on in there?"
-msgstr ""
+msgstr "Was geht da drinnen vor sich?"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.CURRENT_THRESHOLD
 msgctxt ""
@@ -78176,6 +78322,8 @@ msgid ""
 "Emits a <style=\"KKeyword\">High Energy Particle</style> when the stored "
 "particles exceed <b>{0}</b>"
 msgstr ""
+"Sendet ein <style=\"KKeyword\">Hochenergieteilchen</style>, wenn die "
+"gespeicherten Teilchen <b>{0}</b> überschreiten"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.CANCEL_LAND_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.CANCEL_LAND_BUTTON"
@@ -78195,12 +78343,12 @@ msgstr "HIER LANDEN"
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON"
 msgid "BEGIN LAUNCH SEQUENCE"
-msgstr ""
+msgstr "STARTSEQUENZ BEGINNEN"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON_DEBUG
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON_DEBUG"
 msgid "BEGIN LAUNCH SEQUENCE (DEBUG ENABLED)"
-msgstr ""
+msgstr "STARTSEQUENZ BEGINNEN (DEBUG AKTIVIERT)"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON_NOT_READY_TOOLTIP
 msgctxt ""
@@ -78210,6 +78358,9 @@ msgid ""
 "------------------\n"
 "<b>Review the Launch Checklist in the status panel for more detail</b>"
 msgstr ""
+"Diese Rakete ist <b>nicht</b> startbereit\n"
+"------------------\n"
+"<b>Lese die Start-Checkliste im Statusfenster für weitere Details</b>"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON_TOOLTIP"
