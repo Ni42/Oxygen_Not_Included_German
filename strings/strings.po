@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-04 22:05+0100\n"
+"PO-Revision-Date: 2021-03-08 19:35+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -9290,7 +9290,7 @@ msgstr "Benachrichtigung"
 #. STRINGS.BUILDINGS.PREFABS.LOGICALARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICALARM.NAME"
 msgid "<link=\"LOGICALARM\">Automated Notifier</link>"
-msgstr "<link=\"LOGICALARM\">Automatischer Notifier</link>"
+msgstr "<link=\"LOGICALARM\">Automatischer Melder</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.DESC"
@@ -17357,7 +17357,7 @@ msgstr ""
 "Abfallabbaus durchzuführen.\n"
 "\n"
 "Die Konstruktion sollte sich auf die Beseitigung der Krankheitsrisiken durch "
-"einen voll ausgewachsenes Morb-Exemlar konzentrieren...\n"
+"ein voll ausgewachsenes Morb-Exemlar konzentrieren...\n"
 "\n"
 "[LOG ENDE]\n"
 "------------------\n"
@@ -23213,7 +23213,7 @@ msgstr "Batteriekapazität: <b>{0} J</b>"
 #. STRINGS.CODEX.ROBOT_DESCRIPTORS.STORAGE.CAPACITY
 msgctxt "STRINGS.CODEX.ROBOT_DESCRIPTORS.STORAGE.CAPACITY"
 msgid "Internal storage: <b>{0} Kg</b>"
-msgstr "Internes Lager: <b>{0} Kg</b>"
+msgstr "Internes Lager: <b>{0} kg</b>"
 
 #. STRINGS.CODEX.ROYAL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ROYAL.BODY.CONTAINER1"
@@ -60072,11 +60072,10 @@ msgid ""
 "output <b>{0}</b>"
 msgstr ""
 "Erzeugt <style=\"KKeyword\">Wärme</style> basierend auf dem <style=\"KKeyword"
-"\">Volumen</style>, der <style=\"KKeyword\">spezifischen Wärmekapazität</"
-"style> und der <style=\"KKeyword\">Temperatur</style> des gepumpten <style="
-"\"KKeyword\">Gases</style>\n"
+"\">Volumen</style> und der <style=\"KKeyword\">spezifischen Wärmekapazität</"
+"style> des gepumpten <style=\"KKeyword\">Gases</style>\n"
 "\n"
-"Das Kühlen von 1 Kg <link=\"OXYGEN\">Sauerstoff</link> um <b>{1}</b> erzeugt "
+"Das Kühlen von 1 kg <link=\"OXYGEN\">Sauerstoff</link> um <b>{1}</b> erzeugt "
 "<b>{0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER
@@ -60093,8 +60092,8 @@ msgstr ""
 "\">Volumen</style> und der <style=\"KKeyword\">spezifischen Wärmekapazität</"
 "style> der gepumpten <style=\"KKeyword\">Flüssigkeit</style>\n"
 "\n"
-"Das Kühlen von 10 Kg <link=\"WATER\">Wasser</link> das ganze <b>{1}</b> "
-"erzeugt <b>{0}</b>"
+"Das Kühlen von 10 kg <link=\"WATER\">Wasser</link> um <b>{1}</b> erzeugt <b>{0}"
+"</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS"
@@ -72884,7 +72883,7 @@ msgstr "Tier-Entfernung"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.CRITTER.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.CRITTER.TOOLTIP"
 msgid "Remove Critters! {Hotkey}"
-msgstr "Entferne Tiere!{Hotkey}"
+msgstr "Entferne Tiere! {Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.NAME"
@@ -74480,7 +74479,7 @@ msgid ""
 "Destination: {0} Resources Available\n"
 "Rocket Capacity: {1}"
 msgstr ""
-"Warnung: Missionen an dieses Ziel egeben keine volle Frachtladung, um zu "
+"Warnung: Missionen an dieses Ziel ergeben keine volle Frachtladung, um zu "
 "vermeiden, dass das Ziel für zukünftige Erkundungen erschöpft wird\n"
 "\n"
 "Ziel: {0} Ressourcen verfügbar\n"
@@ -76763,7 +76762,7 @@ msgstr "Forschungsbaum anzeigen {Hotkey}"
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESOURCES
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESOURCES"
 msgid "Open the resource management screen {Hotkey}"
-msgstr "Öffnen die Ressourcenverwaltung{Hotkey}"
+msgstr "Öffne die Ressourcenverwaltung {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
@@ -80722,7 +80721,7 @@ msgstr "Ernte abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.CANCELEMPTYBEEHIVE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELEMPTYBEEHIVE.TOOLTIP"
 msgid "Cancel the harvest order on this hive"
-msgstr "Ernte abbrechen für diesen Bienenstock"
+msgstr "Ernteauftrag für diesen Bienenstock abbrechen"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.NAME"
