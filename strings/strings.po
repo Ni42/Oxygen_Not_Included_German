@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-08 19:35+0100\n"
+"PO-Revision-Date: 2021-03-09 21:59+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -895,7 +895,7 @@ msgid ""
 "\">Gantry</link> is extended"
 msgstr ""
 "Der Duplikant dieser Rakete kann nicht aussteigen, bis die <link=\"GANTRY"
-"\">Abschussrampe</link> ausgefahren ist"
+"\">Gangway</link> ausgefahren ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.NAME"
@@ -1381,7 +1381,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.HASGANTRY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HASGANTRY.NAME"
 msgid "Has Gantry"
-msgstr "Hat eine Abschussrampe"
+msgstr "Hat eine Gangway"
 
 #. STRINGS.BUILDING.STATUSITEMS.HASGANTRY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HASGANTRY.TOOLTIP"
@@ -2033,7 +2033,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.NAME"
 msgid "Missing Gantry"
-msgstr "Abschussrampe fehlt"
+msgstr "Gangway fehlt"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.TOOLTIP"
@@ -2042,9 +2042,9 @@ msgid ""
 "\">Command Capsules</link> and <link=\"TOURISTMODULE\">Sight-Seeing Modules</"
 "link> for Duplicant access"
 msgstr ""
-"Eine <link=\"GANTRY\">Abschussrampe</link> muss unter einer <link="
-"\"COMMANDMODULE\">Kommando­kapsel</link> und einem <link=\"TOURISTMODULE"
-"\">Touristmodul</link> gebaut sein, damit Duplikanten diese betreten können"
+"Eine <link=\"GANTRY\">Gangway</link> muss unter einer <link=\"COMMANDMODULE"
+"\">Kommando­kapsel</link> und einem <link=\"TOURISTMODULE\">Touristmodul</link> "
+"gebaut sein, damit Duplikanten diese betreten können"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.NAME"
@@ -6820,14 +6820,14 @@ msgstr "<link=\"GAMMARAYOVEN\">Gammastrahlenofen</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.DESC"
 msgid "A gantry can be built over rocket pieces where ladders and tile cannot."
 msgstr ""
-"Ein Abschussrampe kann über Raketenteilen aufgebaut werden, wo Ziegel und "
-"Leitern nicht hinreichen."
+"Ein Gangway kann über Raketenteilen aufgebaut werden, wo Ziegel und Leitern "
+"nicht hinreichen."
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT"
 msgid "Provides scaffolding across rocket modules to allow Duplicant access."
 msgstr ""
-"Ermöglicht Gerüste über Raketenmodule, um Duplikanten den Zutritt zu "
+"Sorgt für ein Gerüst über die Raketenmodule, um Duplikanten den Zutritt zu "
 "ermöglichen."
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT
@@ -6841,7 +6841,7 @@ msgid ""
 "<b>Extends gantry</b> when a <b><style=\"logic_on\">Green Signal</style></b> "
 "signal is received"
 msgstr ""
-"Fährt die <b>Rampe aus</b>, wenn das <b><style=\"logic_on\">Grüne Signal</"
+"Fährt die <b>Gangway aus</b>, wenn ein <b><style=\"logic_on\">Grünes Signal</"
 "style></b> empfangen wird"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT_INACTIVE
@@ -6850,13 +6850,13 @@ msgid ""
 "<b>Retracts gantry</b> when a <b><style=\"logic_off\">Red Signal</style></b> "
 "signal is received"
 msgstr ""
-"Fährt die <b>Rampe ein</b>, wenn das <b><style=\"logic_off\">Rote Signal</"
+"Fährt die <b>Gangway ein</b>, wenn ein <b><style=\"logic_off\">Rotes Signal</"
 "style></b> empfangen wird"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.NAME"
 msgid "<link=\"GANTRY\">Gantry</link>"
-msgstr "<link=\"GANTRY\">Abschuss­rampe</link>"
+msgstr "<link=\"GANTRY\">Gangway</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASBOTTLER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASBOTTLER.DESC"
@@ -10744,8 +10744,8 @@ msgid ""
 "Timer sensors create automation schedules for very short or very long periods "
 "of time."
 msgstr ""
-"Zeitrsensoren erstellen Automatisierungspläne für sehr kurze oder sehr lange "
-"Zeiträume."
+"Zeitsensoren erstellen Automatisierungszeitpläne für sehr kurze oder sehr "
+"lange Zeiträume."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.EFFECT"
@@ -43858,7 +43858,7 @@ msgid ""
 "\n"
 "It is primarily used to <link=\"POWER\">Power</link> potent research reactors."
 msgstr ""
-"(U) Angereichertes Uran ist eine hochgradig <link=\"STRAHLUNG\">radioaktive</"
+"(U) Angereichertes Uran ist eine hochgradig <link=\"RADIATION\">radioaktive</"
 "link> raffinierte Substanz.\n"
 "\n"
 "Es wird hauptsächlich verwendet, um <link=\"POWER\">leistungsfähige</link> "
@@ -43944,7 +43944,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.FOOLSGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
 msgid "<link=\"FOOLSGOLD\">Pyrite</link>"
-msgstr "<link=\"FOOLSGOLD\">Pyrite</link>"
+msgstr "<link=\"FOOLSGOLD\">Pyrit</link>"
 
 #. STRINGS.ELEMENTS.FOSSIL.DESC
 msgctxt "STRINGS.ELEMENTS.FOSSIL.DESC"
@@ -44006,7 +44006,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GOLD.NAME
 msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
 msgid "<link=\"GOLD\">Gold</link>"
-msgstr "<link=\"GOLDGAS\">Gold</link>"
+msgstr "<link=\"GOLD\">Gold</link>"
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.DESC"
@@ -44402,7 +44402,7 @@ msgid ""
 msgstr ""
 "(O<sub>2</sub>) Sauerstoff ist eine atembare Chemikalie.\n"
 "\n"
-"Der ausgewählte ist <link=\"ELEMENTSLIQUID\">flüssig</link>."
+"Die Auswahl ist derzeit <link=\"ELEMENTSLIQUID\">flüssig</link>."
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
@@ -44555,7 +44555,7 @@ msgstr ""
 "Energie für eine Änderung der <style=\"KKeyword\">Temperatur</style>, erwärmen "
 "und kühlen sich also langsam ab\n"
 "\n"
-"Spezifische Wärmekapazität: {1} DTU, um 1g um 1K zu erwärmen"
+"Spezifische Wärmekapazität: {1} DTU, um 1 g um 1 K zu erwärmen"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.HIGH_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.HIGH_THERMAL_CONDUCTIVITY"
@@ -44592,7 +44592,7 @@ msgstr ""
 "wenig Energie für eine Änderung der <style=\"KKeyword\">Temperatur</style>, "
 "erwärmen und kühlen sich also schnell ab\n"
 "\n"
-"Spezifische Wärmekapazität: {1} DTU, um 1g um 1K zu erwärmen"
+"Spezifische Wärmekapazität: {1} DTU, um 1 g um 1 K zu erwärmen"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.LOW_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.LOW_THERMAL_CONDUCTIVITY"
@@ -44935,8 +44935,8 @@ msgid ""
 "\">Research</link>."
 msgstr ""
 "(Nb) Niob ist ein <link=\"RAREMATERIALS\">seltenes Metall</link> mit vielen "
-"praktischen Anwendungen in der Metallurgie und <link=\"RESEARCH\">Forschung-"
-"Supraleiter</link>."
+"praktischen Anwendungen in der Metallurgie und <link=\"RESEARCH\">Supraleiter-"
+"Forschung</link>."
 
 #. STRINGS.ELEMENTS.NIOBIUM.NAME
 msgctxt "STRINGS.ELEMENTS.NIOBIUM.NAME"
@@ -45138,7 +45138,7 @@ msgstr ""
 "Schraubenalgen sind ein weiches, natürlich vorkommendes Gemisch aus "
 "biologischen Nährstoffen.\n"
 "\n"
-"Sie kann zu <link=\"FERTILIZER\">Dünger</link> verarbeitet werden und "
+"Sie können zu <link=\"FERTILIZER\">Dünger</link> verarbeitet werden und "
 "unterstützt das Wachstum einiger <link=\"PLANTS\">Pflanzen</link>."
 
 #. STRINGS.ELEMENTS.PONDSCUM.NAME
@@ -45206,7 +45206,7 @@ msgstr ""
 "Regolith ist eine sandige Substanz aus den unterschiedlichen Partikeln die "
 "sich auf irdischen Objekten ablagern.\n"
 "\n"
-"Es ist nützlich als <style=\"KKeyword\">Filtration Medium</style>."
+"Es ist nützlich als <style=\"KKeyword\">Filtermaterial</style>."
 
 #. STRINGS.ELEMENTS.REGOLITH.NAME
 msgctxt "STRINGS.ELEMENTS.REGOLITH.NAME"
@@ -45408,7 +45408,7 @@ msgid ""
 "\n"
 "It becomes <link=\"WATER\">Water</link> when melted."
 msgstr ""
-"(H<sub>2</sub>0) Schnee ist eine Masse an losen, kristallinen Eispartikeln\n"
+"(H<sub>2</sub>0) Schnee ist eine Masse an losen, kristallinen Eispartikeln.\n"
 "\n"
 "Wird zu <link=\"WATER\">Wasser</link> beim Schmelzen."
 
@@ -81033,7 +81033,7 @@ msgstr "Aktiviere Auto-Ernte"
 #. STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP"
 msgid "Automatically harvest this plant when it matures"
-msgstr "Diese Pflanze automatisch ernten, wenn sie reift"
+msgstr "Diese Pflanze automatisch ernten, wenn sie reif ist"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUAL_DELIVERY.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUAL_DELIVERY.NAME"
