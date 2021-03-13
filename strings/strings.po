@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-13 16:22+0100\n"
+"PO-Revision-Date: 2021-03-13 17:24+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -455,12 +455,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME"
 msgid "Collecting Radbolts ({x}/cycle)"
-msgstr ""
+msgstr "Sammle Teilchenblitze ({x} /  Zyklus)"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.TOOLTIP"
 msgid "Collecting Radbolts from ambient radiation"
-msgstr ""
+msgstr "Sammeln von Teilchenblitzen aus der Umgebungsstrahlung"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.LOCAL
 #, fuzzy
@@ -1485,28 +1485,18 @@ msgstr ""
 "Dieses Objekt muss in <style=\"KKeyword\">Flüssigkeit</style> eingetaucht sein"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_CONTROLLED_ACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR."
-#| "LOGIC_CONTROLLED_ACTIVE"
-#| msgid "Incoming HEP: Redirect"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR."
 "LOGIC_CONTROLLED_ACTIVE"
 msgid "Incoming Radbolts: Redirect"
-msgstr "Eintreffendes HEP: Weiterleiten"
+msgstr "Eintreffender Teilchenblitz: Weiterleiten"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_CONTROLLED_STANDBY
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR."
-#| "LOGIC_CONTROLLED_STANDBY"
-#| msgid "Incoming HEP: Ignore"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR."
 "LOGIC_CONTROLLED_STANDBY"
 msgid "Incoming Radbolts: Ignore"
-msgstr "Eintreffendes HEP: Ignorieren"
+msgstr "Eintreffender Teilchenblitz: Ignorieren"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.NORMAL
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.NORMAL"
@@ -1514,14 +1504,6 @@ msgid "Normal"
 msgstr "Normal"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS.LOGIC_CONTROLLED_ACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS."
-#| "LOGIC_CONTROLLED_ACTIVE"
-#| msgid ""
-#| "Particle Redirector is receiving a <b><style=\"logic_on\">Green Signal</"
-#| "style></b>, accepting incoming <style=\"KKeyword\">High Energy Particles</"
-#| "style>"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS."
 "LOGIC_CONTROLLED_ACTIVE"
@@ -1530,19 +1512,10 @@ msgid ""
 "\"logic_on\">Green Signal</style></b>, accepting incoming <style=\"KKeyword"
 "\">Radbolts</style>"
 msgstr ""
-"Der Partikel-Redirektor empfängt ein <b><style=\"logic_on\">Grünes Signal</"
-"style></b> und akzeptiert ankommende <style=\"KKeyword\">hochenergetische "
-"Partikel</style>"
+"Der Teilchenblitz-Redirektor empfängt ein <b><style=\"logic_on\">Grünes Signal</"
+"style></b> und akzeptiert ankommende <style=\"KKeyword\">Teilchenblitze</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS.LOGIC_CONTROLLED_STANDBY
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS."
-#| "LOGIC_CONTROLLED_STANDBY"
-#| msgid ""
-#| "Particle Redirector is receiving a <b><style=\"logic_off\">Red Signal</"
-#| "style></b>, ignoring incoming <style=\"KKeyword\">High Energy Particles</"
-#| "style>"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS."
 "LOGIC_CONTROLLED_STANDBY"
@@ -1551,41 +1524,26 @@ msgid ""
 "\"logic_off\">Red Signal</style></b>, ignoring incoming <style=\"KKeyword"
 "\">Radbolts</style>"
 msgstr ""
-"Der Partikel-Redirektor empfängt ein <b><style=\"logic_on\">Rotes Signal</"
-"style></b> und ignoriert ankommende <style=\"KKeyword\">hochenergetische "
-"Partikel</style>"
+"Der Teilchenblitz-Redirektor empfängt ein <b><style=\"logic_on\">Rotes Signal</"
+"style></b> und ignoriert ankommende <style=\"KKeyword\">Teilchenblitze</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS.NORMAL
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS.NORMAL"
-#| msgid "Incoming particles will be accepted and redirected"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLEREDIRECTOR.TOOLTIPS.NORMAL"
 msgid "Incoming Radbolts will be accepted and redirected"
-msgstr "Eingehende Partikel werden akzeptiert und umgeleitet"
+msgstr "Eingehende Teilchenblitze werden akzeptiert und umgeleitet"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.LOGIC_CONTROLLED_ACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER."
-#| "LOGIC_CONTROLLED_ACTIVE"
-#| msgid "Launch HEP: On"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.LOGIC_CONTROLLED_ACTIVE"
 msgid "Launch Radbolt: On"
-msgstr "Start HEP: An"
+msgstr "Starte Teilchenblitz: An"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.LOGIC_CONTROLLED_STANDBY
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER."
-#| "LOGIC_CONTROLLED_STANDBY"
-#| msgid "Launch HEP: Off"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.LOGIC_CONTROLLED_STANDBY"
 msgid "Launch Radbolt: Off"
-msgstr "Start HEP: Aus"
+msgstr "Starte Teilchenblitz: Aus"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.NORMAL
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.NORMAL"
@@ -1593,14 +1551,6 @@ msgid "Normal"
 msgstr "Normal"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS.LOGIC_CONTROLLED_ACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS."
-#| "LOGIC_CONTROLLED_ACTIVE"
-#| msgid ""
-#| "Particle Generator is receiving a <b><style=\"logic_on\">Green Signal</"
-#| "style></b>, accepting incoming <style=\"KKeyword\">High Energy Particles</"
-#| "style>"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS."
 "LOGIC_CONTROLLED_ACTIVE"
@@ -1609,19 +1559,10 @@ msgid ""
 "\"logic_on\">Green Signal</style></b>, accepting incoming <style=\"KKeyword"
 "\">Radbolts</style>"
 msgstr ""
-"Der Partikel-Redirektor empfängt ein <b><style=\"logic_on\">Grünes Signal</"
-"style></b> und akzeptiert ankommende <style=\"KKeyword\">hochenergetische "
-"Partikel</style>"
+"Der Teilchenblitz-Generator empfängt ein <b><style=\"logic_on\">Grünes Signal</"
+"style></b> und akzeptiert ankommende <style=\"KKeyword\">Teilchenblitze</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS.LOGIC_CONTROLLED_STANDBY
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS."
-#| "LOGIC_CONTROLLED_STANDBY"
-#| msgid ""
-#| "Particle Generator is receiving a <b><style=\"logic_off\">Red Signal</"
-#| "style></b>, ignoring incoming <style=\"KKeyword\">High Energy Particles</"
-#| "style>"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS."
 "LOGIC_CONTROLLED_STANDBY"
@@ -1630,23 +1571,16 @@ msgid ""
 "\"logic_off\">Red Signal</style></b>, ignoring incoming <style=\"KKeyword"
 "\">Radbolts</style>"
 msgstr ""
-"Der Partikel-Redirektor empfängt ein <b><style=\"logic_on\">Rotes Signal</"
-"style></b> und ignoriert ankommende <style=\"KKeyword\">hochenergetische "
-"Partikel</style>"
+"Der Teilchenblitz-Generator empfängt ein <b><style=\"logic_on\">Rotes Signal</"
+"style></b> und ignoriert ankommende <style=\"KKeyword\">Teilchenblitze</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS.NORMAL
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS.NORMAL"
-#| msgid ""
-#| "Incoming <style=\"KKeyword\">High Energy Particles</style> will be accepted "
-#| "and redirected"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HIGHENERGYPARTICLESPAWNER.TOOLTIPS.NORMAL"
 msgid ""
 "Incoming <style=\"KKeyword\">Radbolts</style> will be accepted and redirected"
 msgstr ""
-"Eingehende <style=\"KKeyword\">hochenergetische Partikel</style> werden "
-"akzeptiert und umgeleitet"
+"Eingehende <style=\"KKeyword\">Teilchenblitze</style> werden akzeptiert und "
+"umgeleitet"
 
 #. STRINGS.BUILDING.STATUSITEMS.HOTTUBFILLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HOTTUBFILLING.NAME"
@@ -4311,21 +4245,11 @@ msgid "These materials will be delivered once a Duplicant is available"
 msgstr "Diese Materialien werden geliefert, sobald ein Duplikant verfügbar ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME"
-#| msgid "Awaiting Bait"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.NAME"
 msgid "Awaiting Radbolts"
-msgstr "Warte auf Köder"
+msgstr "Warte auf Teilchenblitze"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
-#| msgid ""
-#| "{Skills} Skill required to operate\n"
-#| "------------------\n"
-#| "Open the <b>Skills Panel</b> <b><color=#F44A4A>[L]</b></color> to teach "
-#| "{Skills} to a Duplicant"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.TOOLTIP"
 msgid ""
 "This building requires Radbolts to function\n"
@@ -4333,10 +4257,10 @@ msgid ""
 "Open the <b>Radiation Overlay</b> <b><color=#F44A4A>[L-SHIFT + F4]</b></color> "
 "to view this building's radiation port"
 msgstr ""
-"{Skills} Erforderliche Fertigkeiten zur Bedienung\n"
+"Dieses Gebäude benötigt Teilchenblitze, um zu funktionieren\n"
 "------------------\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> um einem "
-"Duplikanten {Skills} zu lehren"
+"Öffne das <b>Strahlungs-Overlay</b> <b><color=#F44A4A>[L-SHIFT + F4]</b></"
+"color> um den Strahlungseingang dieses Gebäudes anzuzeigen."
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM"
@@ -8026,74 +7950,45 @@ msgid "We were all out of mirrors."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.EFFECT"
-#| msgid ""
-#| "Receives and redirects <style=\"KKeyword\">High Energy Particles</style> "
-#| "from <link=\"HIGHENERGYPARTICLESPAWNER\">Particle Generators</link>."
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.EFFECT"
 msgid ""
 "Receives and redirects Radbolts from <link=\"HIGHENERGYPARTICLESPAWNER"
 "\">Radbolt Generators</link>."
 msgstr ""
-"Empfängt und leitet <style=\"KKeyword\">hochenergetische Partikel</style> von "
-"<link=\"HIGHENERGYPARTICLESPAWNER\">Partikelgenerator</link> um."
+"Empfängt und leitet <style=\"KKeyword\">Teilchenblitze</style> von <link="
+"\"HIGHENERGYPARTICLESPAWNER\">Teilchenblitz-Generator</link> um."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT"
-#| msgid "Ignore incoming particles"
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT"
 msgid "Ignore incoming Radbolts"
-msgstr "Eingehende Partikel ignorieren"
+msgstr "Eingehende Teilchenblitze ignorieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_ACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_ACTIVE"
-#| msgid ""
-#| "<b><style=\"logic_on\">Green Signal</style></b>: Allow incoming particles"
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Allow incoming Radbolts"
 msgstr ""
-"<b><style=\"logic_on\">Grünes Signal</style></b>: Erlaubt eingehende Partikel"
+"<b><style=\"logic_on\">Grünes Signal</style></b>: Erlaubt eingehende "
+"Teilchenblitze"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_INACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_INACTIVE"
-#| msgid ""
-#| "<b><style=\"logic_off\">Red Signal</style></b>: Ignore incoming particles"
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Ignore incoming Radbolts"
 msgstr ""
-"<b><style=\"logic_off\">Rotes Signal</style></b>: Eingehende Partikel ignorieren"
+"<b><style=\"logic_off\">Rotes Signal</style></b>: Eingehende Teilchenblitze "
+"ignorieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME"
-#| msgid "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Particle Redirector</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME"
 msgid "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Radbolt Reflector</link>"
-msgstr "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Partikel-Redirector</link>"
+msgstr "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Teilchenblitz-Redirector</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.DESC"
-#| msgid "High energy particles are necessary for producing atomic research."
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.DESC"
 msgid "Radbolts are necessary for producing atomic research."
-msgstr "Hochenergetische Partikel sind notwendig, um Atomforschung zu betreiben."
+msgstr "Teilchenblitze sind notwendig, um Atomforschung zu betreiben."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT"
-#| msgid ""
-#| "Attracts nearby <link=\"RADIATION\">Radiation</link> to generate <style="
-#| "\"KKeyword\">High Energy Particles</style>.\n"
-#| "\n"
-#| "Emits generated particles in the direction of your choosing."
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT"
 msgid ""
 "Attracts nearby <link=\"RADIATION\">Radiation</link> to generate Radbolts.\n"
@@ -8101,38 +7996,32 @@ msgid ""
 "Emits generated Radbolts in the direction of your choosing."
 msgstr ""
 "Zieht die nahegelegene <link=\"RADIATION\">Strahlung</link> an und erzeugt "
-"<style=\"KKeyword\">Hochenergetische Partikel</style>.\n"
+"<style=\"KKeyword\">Teilchenblitze</style>.\n"
 "\n"
-"Sendet die erzeugten Partikel in die gewählte Richtung aus."
+"Sendet die erzeugten Teilchenblitze in die gewählte Richtung aus."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT"
 msgid "Do not emit Radbolts"
-msgstr ""
+msgstr "Keine Teilchenblitze emittieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.RESET_PORT_ACTIVE"
-#| msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset counter"
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Emit Radbolts"
-msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Zähler zurücksetzen"
+msgstr ""
+"<b><style=\"logic_on\">Grünes Signal</style></b>: Teilchenblitze emittieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_INACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.OBJECTDISPENSER.LOGIC_PORT_INACTIVE"
-#| msgid "<b><style=\"logic_off\">Red Signal</style></b>: Store materials"
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Do not emit Radbolts"
-msgstr "<b><style=\"logic_off\">Rotes Signal</style></b>: Material lagern"
+msgstr ""
+"<b><style=\"logic_off\">Rotes Signal</style></b>: keine Teilchenblitze "
+"emittieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.NAME"
-#| msgid "<link=\"HIGHENERGYPARTICLESPAWNER\">Particle Generator</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.NAME"
 msgid "<link=\"HIGHENERGYPARTICLESPAWNER\">Radbolt Generator</link>"
-msgstr "<link=\"HIGHENERGYPARTICLESPAWNER\">Partikelgenerator</link>"
+msgstr "<link=\"HIGHENERGYPARTICLESPAWNER\">Teilchenblitz-Generator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.DESC"
@@ -12000,15 +11889,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.DESC"
 msgid ""
 "Radbolt generators and reflectors make radiation useable by other buildings."
 msgstr ""
+"Teilchenblitz-Generatoren und -Reflektoren machen die Strahlung für andere "
+"Gebäude nutzbar."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.EFFECT"
-#| msgid ""
-#| "Uses <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> to produce <link="
-#| "\"RADIATION\">Radiation</link>.\n"
-#| "\n"
-#| "Generates a massive amount of <link=\"HEAT\">Heat</link>."
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.EFFECT"
 msgid ""
 "Uses <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> to produce <link="
@@ -12017,7 +11901,7 @@ msgid ""
 "Generates a massive amount of <link=\"HEAT\">Heat</link>."
 msgstr ""
 "Verwendet <link=\"ENRICHEDURANIUM\">angereichertes Uran</link> zur Erzeugung "
-"von <link=\"RADIATION\">Strahlung</link>.\n"
+"von <link=\"RADIATION\">Strahlung</link> zur Teilchenblitzerzeugung.\n"
 "\n"
 "Erzeugt eine gewaltige Menge an <link=\"HEAT\">Wärme</link>."
 
@@ -12057,14 +11941,6 @@ msgid "Comes with a few ions thrown in, free of charge."
 msgstr "Ein paar Ionen werden kostenlos mitgeliefert."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT"
-#| msgid ""
-#| "Conducts <link=\"RESEARCH\">Atomic Research</link> to unlock new "
-#| "technologies.\n"
-#| "\n"
-#| "Assigned Duplicants must possess the <link=\"ATOMICRESEARCHER\">Atomic "
-#| "Research</link> skill."
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCH\">Atomic Research</link> to unlock new technologies.\n"
@@ -12076,6 +11952,8 @@ msgid ""
 msgstr ""
 "Führt <link=\"RESEARCH\">Atomforschung</link> durch, um neue Technologien "
 "freizuschalten.\n"
+"\n"
+"Verbraucht Teilchenblitze.\n"
 "\n"
 "Zugewiesene Duplikanten müssen über die Fertigkeit <link=\"ATOMICRESEARCHER"
 "\">Atomforschung</link> verfügen."
@@ -13354,12 +13232,6 @@ msgstr ""
 "sind."
 
 #. STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.EFFECT"
-#| msgid ""
-#| "Emits <link=\"RADIATION\">Radiation</link> when <link=\"POWER\">Powered</"
-#| "link> that can be collected by a <link=\"HIGHENERGYPARTICLESPAWNER"
-#| "\">Particle Generator</link>."
 msgctxt "STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.EFFECT"
 msgid ""
 "Emits <link=\"RADIATION\">Radiation</link> when <link=\"POWER\">Powered</link> "
@@ -13368,7 +13240,7 @@ msgid ""
 msgstr ""
 "Emittiert bei <link=\"POWER\">Energiezufuhr</link> <link=\"RADIATION"
 "\">Strahlung</link>, die von einem <link=\"HIGHENERGYPARTICLESPAWNER"
-"\">Partikelgenerator</link> aufgenommen werden kann."
+"\">Teilchenblitz-Generator</link> aufgenommen werden kann."
 
 #. STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.NAME"
@@ -34155,26 +34027,18 @@ msgid "Death"
 msgstr "Tod"
 
 #. STRINGS.DUPLICANTS.DEATHS.HITBYHIGHENERGYPARTICLE.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.DEATHS.HITBYHIGHENERGYPARTICLE.DESCRIPTION"
-#| msgid ""
-#| "{Target} was struck by a <style=\"KKeyword\">High Energy Particle</style> "
-#| "and perished."
 msgctxt "STRINGS.DUPLICANTS.DEATHS.HITBYHIGHENERGYPARTICLE.DESCRIPTION"
 msgid ""
 "{Target} was struck by a radioactive <style=\"KKeyword\">Radbolt</style> and "
 "perished."
 msgstr ""
-"{Target} wurde von einem <style=\"KKeyword\">Hochenergieteilchen</style> "
-"getroffen und starb."
+"{Target} wurde von einem <style=\"KKeyword\">Teilchenblitz</style> getroffen "
+"und starb."
 
 #. STRINGS.DUPLICANTS.DEATHS.HITBYHIGHENERGYPARTICLE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.DEATHS.HITBYHIGHENERGYPARTICLE.NAME"
-#| msgid "Struck by HEP"
 msgctxt "STRINGS.DUPLICANTS.DEATHS.HITBYHIGHENERGYPARTICLE.NAME"
 msgid "Struck by Radbolt"
-msgstr "Von einenm HEP getroffen"
+msgstr "Von einem Teilchenblitz getroffen"
 
 #. STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION"
@@ -50620,26 +50484,20 @@ msgid "All-purpose <link=\"MEDICINE\">Medicine</link>."
 msgstr "Universell einsetzbare <link=\"MEDICINE\">Medizin</link>."
 
 #. STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.DESC
-#, fuzzy
-#| msgctxt "STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.DESC"
-#| msgid ""
-#| "A concentrated field of <link=\"HIGHENERGYPARTICLES\">High Enery Particles</"
-#| "link> that can be largely redirected using a <link=\"PARTICLEREFLECTOR"
-#| "\">Particle Reflector</link>."
 msgctxt "STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.DESC"
 msgid ""
 "A concentrated field of <style=\"KKeyword\">Radbolts</style> that can be "
 "largely redirected using a <link=\"HIGHENERGYPARTICLEREDIRECTOR\">Radbolt "
 "Reflector</link>."
 msgstr ""
-"Ein konzentriertes Feld von <link=\"HIGHENERGYPARTICLES\" >Hochenergieteilchen</"
-"link>, das mit einem <link=\"PARTICLEREFLECTOR\" >Teilchenreflektor</link> "
+"Ein konzentriertes Feld von <style=\"KKeyword\">Teilchenblitzen</style>, das "
+"mit einem <link=\"HIGHENERGYPARTICLEREDIRECTOR\" >Teilchenblitzreflektor</link> "
 "weitgehend umgelenkt werden kann."
 
 #. STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.NAME
 msgctxt "STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.NAME"
 msgid "Radbolts"
-msgstr ""
+msgstr "Teilchenblitze"
 
 #. STRINGS.ITEMS.RAILGUNPAYLOAD.DESC
 msgctxt "STRINGS.ITEMS.RAILGUNPAYLOAD.DESC"
@@ -59896,7 +59754,7 @@ msgstr "Duplikanten-Zugangsrechte"
 #. STRINGS.UI.BUILDINGEFFECTS.ACTIVE_PARTICLE_CONSUMPTION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ACTIVE_PARTICLE_CONSUMPTION"
 msgid "Radbolts: {Rate}"
-msgstr ""
+msgstr "Teilchenblitze: {Rate}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT"
@@ -60227,20 +60085,14 @@ msgid "Overheat <link=\"HEAT\">Temperature</link>: {0}"
 msgstr "<link=\"HEAT\">Überhitzungstemperatur</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_INPUT
-#, fuzzy
-#| msgctxt "STRINGS.UI.OVERLAYS.LOGIC.RIBBON_INPUT"
-#| msgid "Ribbon Input Port"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_INPUT"
 msgid "Radbolt Input Port"
-msgstr "Band-Eingangsanschluss"
+msgstr "Teilchenblitzeingang"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_OUTPUT
-#, fuzzy
-#| msgctxt "STRINGS.UI.OVERLAYS.LOGIC.RIBBON_OUTPUT"
-#| msgid "Ribbon Output Port"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_OUTPUT"
 msgid "Radbolt Output Port"
-msgstr "Band-Ausgangsanschluss"
+msgstr "Teilchenblitzausgang"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY"
@@ -60395,18 +60247,13 @@ msgstr ""
 "verbieten."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACTIVE_PARTICLE_CONSUMPTION
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACTIVE_PARTICLE_CONSUMPTION"
-#| msgid ""
-#| "This building requires <style=\"KKeyword\">High Energy Particles</style>, "
-#| "consuming them at a rate of {Rate} while in use"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACTIVE_PARTICLE_CONSUMPTION"
 msgid ""
 "This building requires <style=\"KKeyword\">Radbolts</style> to function, "
 "consuming them at a rate of {Rate} while in use"
 msgstr ""
-"Dieses Gebäude benötigt <style=\"KKeyword\">hochenergetische Partikel</style> "
-"und konsumiert diese mit einer Rate von {Rate}, während des Betriebs"
+"Dieses Gebäude benötigt <style=\"KKeyword\">Teilchenblitze</style>, um zu "
+"funktionieren, und verbraucht sie während des Betriebs mit einer Rate von {Rate}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT"
@@ -60996,32 +60843,22 @@ msgid "Begins overheating at <b>{0}</b>"
 msgstr "Beginnt bei <b>{0}</b> zu überhitzen"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PARTICLE_PORT_INPUT
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PARTICLE_PORT_INPUT"
-#| msgid ""
-#| "A HEP Port on this building allows it to absorb <style=\"KKeyword\">High "
-#| "Energy Particles</style>"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PARTICLE_PORT_INPUT"
 msgid ""
 "A Radbolt Port on this building allows it to receive <style=\"KKeyword"
 "\">Radbolts</style>"
 msgstr ""
-"Ein HEP-Port an diesem Gebäude ermöglicht es, <style =\"KKeyword"
-"\">hochenergetische Partikel</style> zu absorbieren"
+"Ein Teilchenblitz-Eingang an diesem Gebäude ermöglicht es, <style =\"KKeyword"
+"\">Teilchenblitze</style> zu absorbieren"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PARTICLE_PORT_OUTPUT
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PARTICLE_PORT_OUTPUT"
-#| msgid ""
-#| "This building has a configurable HEP Port for <style=\"KKeyword\">High "
-#| "Energy Particle</style> emission"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PARTICLE_PORT_OUTPUT"
 msgid ""
 "This building has a configurable Radbolt Port for <style=\"KKeyword\">Radbolt</"
 "style> emission"
 msgstr ""
-"Dieses Gebäude verfügt über einen konfigurierbaren HEP-Anschluss für <style="
-"\"KKeyword\">Hochenergieteilchen</style>-Emission"
+"Dieses Gebäude verfügt über einen konfigurierbaren Teilchenblitz-Ausgang für "
+"die <style=\"KKeyword\">Teilchenblitz</style>-Emission"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY"
@@ -67744,6 +67581,14 @@ msgid ""
 "\n"
 "Check out the full patch notes for more details!"
 msgstr ""
+"<b>Ein total verstahltes Update</b>\n"
+"\n"
+"Das neue Strahlungssystem und die Strahlenkrankheit der Duplikanten wurden "
+"hinzugefügt.\n"
+"Teilchenblitze aus dem neuen Forschungsreaktor oder Beetas können die "
+"Nuklearforschung am Atomaren Beschleuniger antreiben.\n"
+"\n"
+"Schaue dir die vollständigen Patchnotizen für weitere Details an!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
@@ -71868,12 +71713,9 @@ msgid "Significant Hazard"
 msgstr "Signifikante Gefährdung"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.RANGES.INPUTPORT
-#, fuzzy
-#| msgctxt "STRINGS.UI.OVERLAYS.LOGIC.RIBBON_INPUT"
-#| msgid "Ribbon Input Port"
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.RANGES.INPUTPORT"
 msgid "Radbolt Input Port"
-msgstr "Band-Eingangsanschluss"
+msgstr "Teilchenblitzeingang"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.RANGES.LOW
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.RANGES.LOW"
@@ -71896,12 +71738,9 @@ msgid "Completely Safe"
 msgstr "Vollkommen sicher"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.RANGES.OUTPUTPORT
-#, fuzzy
-#| msgctxt "STRINGS.UI.OVERLAYS.LOGIC.RIBBON_OUTPUT"
-#| msgid "Ribbon Output Port"
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.RANGES.OUTPUTPORT"
 msgid "Radbolt Output Port"
-msgstr "Band-Ausgangsanschluss"
+msgstr "Teilchenblitzausgang"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.RANGES.VERY_HIGH
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.RANGES.VERY_HIGH"
@@ -71922,12 +71761,9 @@ msgid "Significant Hazard"
 msgstr "Signifikante Gefährdung"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.INPUTPORT
-#, fuzzy
-#| msgctxt "STRINGS.UI.OVERLAYS.LOGIC.RIBBON_INPUT"
-#| msgid "Ribbon Input Port"
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.INPUTPORT"
 msgid "Radbolt Input Port"
-msgstr "Band-Eingangsanschluss"
+msgstr "Teilchenblitzeingang"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.LOW
 #, fuzzy
@@ -71962,12 +71798,9 @@ msgid "Completely Safe"
 msgstr "Vollkommen sicher"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.OUTPUTPORT
-#, fuzzy
-#| msgctxt "STRINGS.UI.OVERLAYS.LOGIC.RIBBON_OUTPUT"
-#| msgid "Ribbon Output Port"
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.OUTPUTPORT"
 msgid "Radbolt Output Port"
-msgstr "Band-Ausgangsanschluss"
+msgstr "Teilchenblitzausgang"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.VERY_HIGH
 #, fuzzy
@@ -79184,26 +79017,18 @@ msgid "Current Threshold: {0}%"
 msgstr "Aktueller Schwellenwert: {0}%"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_ACTIVATE"
-#| msgid "Low Threshold:"
 msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE"
 msgid "Radbolt Threshold"
-msgstr "Unterer Schwellenwert:"
+msgstr "Teilchenblitz-Schwellenwert"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TOOLTIP"
-#| msgid ""
-#| "Emits a <style=\"KKeyword\">High Energy Particle</style> when the stored "
-#| "particles exceed <b>{0}</b>"
 msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TOOLTIP"
 msgid ""
 "Releases a <style=\"KKeyword\">Radbolt</style> when stored Radbolts exceed "
 "<b>{0}</b>"
 msgstr ""
-"Sendet ein <style=\"KKeyword\">Hochenergieteilchen</style>, wenn die "
-"gespeicherten Teilchen <b>{0}</b> überschreiten"
+"Sendet einen <style=\"KKeyword\">Teilchenblitz</style> aus, wenn die "
+"gespeicherten Teilchenblitze <b>{0}</b> überschreiten"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.CANCEL_LAND_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.CANCEL_LAND_BUTTON"
@@ -81462,12 +81287,12 @@ msgstr " kDTU/s"
 #. STRINGS.UI.UNITSUFFIXES.HIGHENERGYPARTICLES.PARTRICLE
 msgctxt "STRINGS.UI.UNITSUFFIXES.HIGHENERGYPARTICLES.PARTRICLE"
 msgid " Radbolt"
-msgstr ""
+msgstr "Teilchenblitz"
 
 #. STRINGS.UI.UNITSUFFIXES.HIGHENERGYPARTICLES.PARTRICLES
 msgctxt "STRINGS.UI.UNITSUFFIXES.HIGHENERGYPARTICLES.PARTRICLES"
 msgid " Radbolts"
-msgstr ""
+msgstr "Teilchenblitze"
 
 #. STRINGS.UI.UNITSUFFIXES.INFORMATION.BYTE
 msgctxt "STRINGS.UI.UNITSUFFIXES.INFORMATION.BYTE"
