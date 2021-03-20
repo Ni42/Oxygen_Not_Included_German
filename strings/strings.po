@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-17 22:42+0100\n"
+"PO-Revision-Date: 2021-03-19 18:15+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -13598,7 +13598,7 @@ msgstr "<link=\"ROCKETINTERIORSOLIDINPUT\">Fördereranschluss</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.DESC"
 msgid "For accessing your stored luggage mid-flight."
-msgstr ""
+msgstr "Für den Zugriff auf dein verstautes Gepäck während des Fluges."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.EFFECT"
@@ -38960,7 +38960,7 @@ msgstr "Aktuelle Regenerierung: {0}"
 #. STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.NAME"
 msgid "Absorbed Rad Dose"
-msgstr ""
+msgstr "Absorbierte Strahlendosis"
 
 #. STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP"
@@ -41580,7 +41580,7 @@ msgstr "Dieser Duplikant hat offensichtlich noch nie etwas von Bügeln gehört"
 #. STRINGS.DUPLICANTS.TRAITS.DECORDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DECORDOWN.NAME"
 msgid "Shabby Dresser"
-msgstr ""
+msgstr "Lumpiger Garderobiere"
 
 #. STRINGS.DUPLICANTS.TRAITS.DECORUP.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DECORUP.DESC"
@@ -41616,7 +41616,7 @@ msgstr "Dieser Duplikant könnte sich nicht einmal aus einer Papiertüte ausgrab
 #. STRINGS.DUPLICANTS.TRAITS.DIGGINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIGGINGDOWN.NAME"
 msgid "Undigging"
-msgstr ""
+msgstr "Grabemuffel"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC"
@@ -50326,6 +50326,10 @@ msgid ""
 "Open the <style=\"KKeyword\">Starmap Screen</style> <b><color=#F44A4A>[Z]</b></"
 "color> to reassign rocket paths"
 msgstr ""
+"Die Flugbahn einer Rakete ist durch eine neue astronomische Entdeckung "
+"unterbrochen worden.\n"
+"Öffne die <style=\"KKeyword\">Sternenkarte</style> <b><color=#F44A4A>[Z]</b></"
+"color>, um die Raketenflugbahnen neu zuzuordnen"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
@@ -59160,7 +59164,7 @@ msgstr "<link=\"BUILDCATEGORYHEP\">Strahlung</link>"
 #. STRINGS.UI.BUILDCATEGORIES.HEP.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HEP.TOOLTIP"
 msgid "Here's where things get rad. {Hotkey}"
-msgstr ""
+msgstr "Hier wird es spannend. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.NAME"
@@ -60250,6 +60254,7 @@ msgstr "{0}"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IN_ORBIT_REQUIRED"
 msgid "This building is only operational while its parent rocket is in flight"
 msgstr ""
+"Dieses Gebäude ist nur in Betrieb, während die zugehörige Rakete im Flug ist"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ITEM_TEMPERATURE_ADJUST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ITEM_TEMPERATURE_ADJUST"
@@ -69855,12 +69860,12 @@ msgstr "{0}s Kleidung"
 #. STRINGS.UI.OVERLAYS.DECOR.CLOTHING_TRAIT_DECORDOWN
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLOTHING_TRAIT_DECORDOWN"
 msgid "{0}'s Outfit (Shabby Dresser)"
-msgstr ""
+msgstr "{0}s Kleidung (Lumpiger Garderobiere)"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLOTHING_TRAIT_DECORUP
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLOTHING_TRAIT_DECORUP"
 msgid "{0}'s Outfit (Innately Stylish)"
-msgstr ""
+msgstr "{0}s Kleidung (Von Natur aus stilvoll)"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
@@ -75119,7 +75124,7 @@ msgstr ""
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.READY"
 msgid "All possible loading and unloading has been completed"
-msgstr ""
+msgstr "Alle möglichen Lade- und Entladevorgänge sind abgeschlossen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.WARNING"
@@ -83188,11 +83193,15 @@ msgid ""
 "<smallcaps>Moo Moonlets are the natural breeding ground of Gassy Moos due to "
 "their abundance of Gas Grass and Methane.</smallcaps>"
 msgstr ""
+"Eine kleine Welt mit einzigartigen lokalen Lebensformen.\n"
+"\n"
+"<smallcaps>Muh-Asteroiden sind aufgrund ihres Reichtums an Gasgrass und Methan "
+"der natürliche Brutplatz für Weltraumkühe.</smallcaps>"
 
 #. STRINGS.WORLDS.MOOMOONLET.NAME
 msgctxt "STRINGS.WORLDS.MOOMOONLET.NAME"
 msgid "Moo Moonlet"
-msgstr ""
+msgstr "Muh-Asteroid"
 
 #. STRINGS.WORLDS.MOON_BARREN.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MOON_BARREN.DESCRIPTION"
@@ -83670,4 +83679,3 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Moonlet"
 msgstr "Wasser-Asteroid"
-
