@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-19 18:15+0100\n"
+"PO-Revision-Date: 2021-03-20 20:24+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -6520,7 +6520,7 @@ msgid ""
 "Uses <link=\"DIRTYWATER\">Polluted Water</link> and <link=\"PHOSPHORITE"
 "\">Phosphorite</link> to produce <link=\"FERTILIZER\">Fertilizer</link>."
 msgstr ""
-"Verbraucht <link=\"DIRTYWATER\">verschmutztes Wasser</link>and <link="
+"Verbraucht <link=\"DIRTYWATER\">verschmutztes Wasser</link>und <link="
 "\"PHOSPHORITE\">Phosphorit</link>, um <link=\"FERTILIZER\">Dünger</link> "
 "herzustellen."
 
@@ -11064,7 +11064,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME"
 msgid "<link=\"MANUALPRESSUREDOOR\">Manual Airlock</link>"
-msgstr "<link=\"MANUALPRESSUREDOOR\">Man. Luftschleuse</link>"
+msgstr "<link=\"MANUALPRESSUREDOOR\">Manuelle Luftschleuse</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.AVERAGEQUALITYNAME"
@@ -15520,12 +15520,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT"
 msgid "Gas Displacement: {amount}"
-msgstr "Gas-Verschiebung: {amount}"
+msgstr "Gas-Durchsatz: {amount}"
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT_TOOLTIP"
 msgid "This building will displace {amount} Gas while in use."
-msgstr "Dieses Gebäude verschiebt {amount} Gas bei Verwendung."
+msgstr "Dieses Gebäude setzt {amount} Gas bei Verwendung durch."
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT"
@@ -27520,7 +27520,7 @@ msgid ""
 "The Puft Prince is a lazy critter that excretes little <link=\"SOLID\">Solid</"
 "link> lumps of whatever it has been breathing."
 msgstr ""
-"Der Puft Prinz ist ein fauler Lebewesen, der kleine <link=\"SOLID\">feste</"
+"Der Puft-Prinz ist ein faules Lebewesen, der kleine <link=\"SOLID\">feste</"
 "link>Klumpen von allem ausscheidet, was er geatmet hat."
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.EGG_NAME
@@ -31990,7 +31990,7 @@ msgstr "Schutzanzug anziehen"
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS"
 msgid "Equipping exosuit"
-msgstr "Ziehe Schutzanzug an"
+msgstr "Zieht Schutzanzug an"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP"
@@ -60948,12 +60948,12 @@ msgstr "Wähle ein neues Ziel auf der Karte"
 #. STRINGS.UI.CLUSTERMAP.TILES
 msgctxt "STRINGS.UI.CLUSTERMAP.TILES"
 msgid "Tiles"
-msgstr "Kachel"
+msgstr "Felder"
 
 #. STRINGS.UI.CLUSTERMAP.TILES_PER_CYCLE
 msgctxt "STRINGS.UI.CLUSTERMAP.TILES_PER_CYCLE"
 msgid "Tiles per cycle"
-msgstr "Kachel pro Zyklus"
+msgstr "Felder pro Zyklus"
 
 #. STRINGS.UI.CLUSTERMAP.TITLE
 msgctxt "STRINGS.UI.CLUSTERMAP.TITLE"
@@ -76194,7 +76194,7 @@ msgstr "Organisch"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS"
 msgid "Conveyor Rails"
-msgstr "Förderschiene"
+msgstr "Förderschienen"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.STATECHANGE
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.STATECHANGE"
