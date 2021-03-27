@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-20 20:24+0100\n"
+"PO-Revision-Date: 2021-03-21 18:26+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -7215,7 +7215,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME"
 msgid "<link=\"GASCONDUITRADIANT\">Radiant Gas Pipe</link>"
-msgstr "<link=\"GASCONDUITRADIANT\">Radiatorgasleitung</link>"
+msgstr "<link=\"GASCONDUITRADIANT\">Radiator­gas­leitung</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC"
@@ -7383,7 +7383,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "<link=\"GASPERMEABLEMEMBRANE\">Airflow Tile</link>"
-msgstr "<link=\"GASPERMEABLEMEMBRANE\">Luftdurchläs­sige Ziegel</link>"
+msgstr "<link=\"GASPERMEABLEMEMBRANE\">Luftdurchläs­siger Ziegel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
@@ -8314,7 +8314,7 @@ msgstr ""
 "Entleert die Anzüge von <link=\"DIRTYWATER\">verschmutztem Wasser</link>.\n"
 "\n"
 "Neben einer <link=\"JETSUITMARKER\">Jet-Anzug-Kontrollstelle</link> bauen, "
-"damit Duplikanten beim vorbeigehen in den Anzug steigen."
+"damit Duplikanten beim Vorbeigehen in den Anzug steigen."
 
 #. STRINGS.BUILDINGS.PREFABS.JETSUITLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.JETSUITLOCKER.NAME"
@@ -8574,7 +8574,7 @@ msgstr ""
 "Entleert <link=\"DIRTYWATER\">Verschmutztes Wasser</link>.\n"
 "\n"
 "Neben einer <link=\"LEADSUITMARKER\">Bleianzug-Kontrollstelle</link> bauen, "
-"damit Duplikanten beim vorbeigehen in den Anzug steigen."
+"damit Duplikanten beim Vorbeigehen in den Anzug steigen."
 
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.NAME"
@@ -11862,8 +11862,7 @@ msgstr "<link=\"OILREFINERY\">Öl-Raffinerie</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILWELLCAP.DESC"
 msgid "Water pumped into an oil reservoir cannot be recovered."
 msgstr ""
-"Wasser, das in einen Öllagerstätte gepumpt wird, kann nicht zurückgewonnen "
-"werden."
+"Wasser, das in ein Ölreservoir gepumpt wird, kann nicht zurückgewonnen werden."
 
 #. STRINGS.BUILDINGS.PREFABS.OILWELLCAP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILWELLCAP.EFFECT"
@@ -14081,13 +14080,13 @@ msgstr ""
 "Erzeugt aus <link=\"WATER\">Wasser</link> und <link=\"CARBONDIOXIDE"
 "\">Kohlendioxid</link> Sprudelwasser.\n"
 "\n"
-"Der Genuss von Sprudelwasser erhöht die <link=\"MORALE\">Morale</link> von "
+"Der Genuss von Sprudelwasser erhöht die <link=\"MORALE\">Moral</link> von "
 "Duplikanten."
 
 #. STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.NAME"
 msgid "<link=\"SODAFOUNTAIN\">Soda Fountain</link>"
-msgstr "<link=\"SODAFOUNTAIN\">Trinkwassersprudler</link>"
+msgstr "<link=\"SODAFOUNTAIN\">Trinkwasser­sprudler</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANEL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANEL.DESC"
@@ -14900,7 +14899,7 @@ msgstr ""
 "Entleert <link=\"DIRTYWATER\">Verschmutztes Wasser</link>.\n"
 "\n"
 "Neben einer <link=\"SUITMARKER\">Atemschutzanzug-Kontrollstelle</link> bauen, "
-"damit Duplikanten beim vorbeigehen in den Anzug steigen."
+"damit Duplikanten beim Vorbeigehen in den Anzug steigen."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITLOCKER.NAME"
@@ -15543,7 +15542,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.NAME"
 msgid "<link=\"VERTICALWINDTUNNEL\">Vertical Wind Tunnel</link>"
-msgstr "<link=\"VERTICALWINDTUNNEL\">Vertikalwindtunnel</link>"
+msgstr "<link=\"VERTICALWINDTUNNEL\">Vertikalwind­tunnel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.DESC"
@@ -59094,7 +59093,7 @@ msgstr ""
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME"
 msgid "<link=\"BUILDCATEGORYAUTOMATION\">Automation</link>"
-msgstr "<link=\"BUILDCATEGORYAUTOMATION\">Autom.</link>"
+msgstr "<link=\"BUILDCATEGORYAUTOMATION\">Automation</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP"
@@ -59659,7 +59658,7 @@ msgstr "Kuriert"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESCREATIVITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESCREATIVITY"
 msgid "Duplicant <link=\"ARTIST\">Creativity</link>"
-msgstr "<link=\"ARTIST\">Duplikant-Kreativität</link>"
+msgstr "<link=\"ARTIST\">Kreativität</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT"
