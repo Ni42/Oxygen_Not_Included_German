@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-25 19:09+0200\n"
-"Last-Translator: Xandras\n"
+"PO-Revision-Date: 2021-05-26 21:31+0200\n"
+"Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -438,21 +438,11 @@ msgstr ""
 "style>, um deine Duplikanten besser unter Quarantäne stellen zu können"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.NAME"
-#| msgid "{Local}Colony Lacks {Skills}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.NAME"
 msgid "Local Colony Lacks {Skills}"
-msgstr "{Local} Kolonie benötigt {Skills}-Fähigkeit"
+msgstr "Lokaler Kolonie fehlt {Skills}-Fähigkeit"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
-#| msgid ""
-#| "{Skills} Skill required to operate\n"
-#| "------------------\n"
-#| "Open the <b>Skills Panel</b> <b><color=#F44A4A>[L]</b></color> to teach "
-#| "{Skills} to a Duplicant"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
 msgid ""
 "{Skills} Skill required to operate\n"
@@ -464,7 +454,8 @@ msgstr ""
 "{Skills}-Fähigkeit zur Bedienung erforderlich\n"
 "------------------\n"
 "Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> um einem "
-"Duplikanten {Skills} zu lehren"
+"Duplikanten {Skills} zu lehren, oder bringe einen Duplikanten mit der Fähigkeit "
+"von einem anderen Planetoiden hier her"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.NAME"
@@ -491,12 +482,9 @@ msgid "Collecting Radbolts from ambient radiation"
 msgstr "Sammeln von Teilchenblitzen aus der Umgebungsstrahlung"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.NAME"
-#| msgid "{Local}Colony Lacks {Skills}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.NAME"
 msgid "Colony Lacks {Skills}"
-msgstr "{Local} Kolonie benötigt {Skills}-Fähigkeit"
+msgstr "Kolonie fehlt {Skills}-Fähigkeit"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
@@ -522,17 +510,11 @@ msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
 msgstr "<style=\"KKeyword\">Ausgangsrohr</style> ist blockiert"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
-#| msgid "Pipe Blocked"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.NAME"
 msgid "Pipe Blocked"
 msgstr "Rohr blockiert"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
-#| msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.TOOLTIP"
 msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
 msgstr "<style=\"KKeyword\">Ausgangsrohr</style> ist blockiert"
@@ -1678,20 +1660,13 @@ msgstr ""
 "Sie wird in {ETA} ankommen"
 
 #. STRINGS.BUILDING.STATUSITEMS.INFLIGHT.TOOLTIP_NO_PAD
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.INFLIGHT.TOOLTIP"
-#| msgid ""
-#| "This rocket is currently traveling to {Destination_Pad} on "
-#| "{Destination_Asteroid}\n"
-#| "\n"
-#| "It will arrive in {ETA}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INFLIGHT.TOOLTIP_NO_PAD"
 msgid ""
 "This rocket is currently traveling to {Destination_Asteroid}\n"
 "\n"
 "It will arrive in {ETA}"
 msgstr ""
-"Diese Rakete reist derzeit nach {Destination_Pad} auf {Destination_Asteroid}\n"
+"Diese Rakete reist derzeit nach {Destination_Asteroid}\n"
 "\n"
 "Sie wird in {ETA} ankommen"
 
@@ -1794,12 +1769,9 @@ msgid "A rocket must have a spacefarer module"
 msgstr "Eine Rakete muss ein Raumfahrermodul haben"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING"
-#| msgid "Time Remaining: {0}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.NAME"
 msgid "Amount remaining: {0}"
-msgstr "Verbleibende Zeit: {0}"
+msgstr "Verbleibende Menge: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.TOOLTIP"
@@ -1808,12 +1780,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_OUTPUT"
-#| msgid "Number Reached"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.NAME"
 msgid "Limit Reached"
-msgstr "Anzahl erreicht"
+msgstr "Grenze erreicht"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.TOOLTIP"
@@ -2202,26 +2171,18 @@ msgstr ""
 "Es wird weiterhin Energie erzeugen, solange es durch den Raum reist"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLARPANELWATTAGE.NAME"
-#| msgid "Current Wattage: {Wattage}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME"
 msgid "Current Wattage: {Wattage}"
 msgstr "Aktuelle Leistung: {Wattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLARPANELWATTAGE.TOOLTIP"
-#| msgid ""
-#| "This panel is generating <style=\"produced\">{Wattage}</style> of <style="
-#| "\"KKeyword\">Power</style>"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.TOOLTIP"
 msgid ""
 "This panel is generating <style=\"produced\">{Wattage}</style> of <style="
 "\"KKeyword\">Power</style>"
 msgstr ""
 "Dieses Modul erzeugt <style=\"produced\">{Wattage}</style> <style=\"KKeyword"
-"\">Energie</style>"
+"\">Leistung</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
@@ -2760,9 +2721,6 @@ msgstr ""
 "werden, auf der gegenüberliegenden Seite der Kontrollstellenausrichtung"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSURFACESIGHT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.NAME"
-#| msgid "No Line of Sight"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSURFACESIGHT.NAME"
 msgid "No Line of Sight"
 msgstr "Keine Sichtverbindung"
@@ -3282,12 +3240,9 @@ msgstr ""
 "Dieses Launcher benötigt einen klaren Pfad zum Starten von Nutzlasten"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME"
-#| msgid "Cleaning {Target}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME"
 msgid "Cleaning Rails: {timeleft}"
-msgstr "Reinigt {Target}"
+msgstr "Reinigt Schienen: {timeleft}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.TOOLTIP"
@@ -3335,22 +3290,17 @@ msgstr ""
 "Dieser Reaktor setzt gefährliche radioaktive Abfälle frei und kann nicht "
 "gestoppt werden"
 
-# TODO: Hier steht bewusst nicht "Objekt", damit es platztechnisch passt.
 #. STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.NAME"
 msgid "Refuel Disabled"
 msgstr "Nachladen deaktiviert"
 
 #. STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.TOOLTIP"
-#| msgid ""
-#| "This building will not be refueled once its active fuel has been consumed."
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.TOOLTIP"
 msgid "This building will not be refueled once its active fuel has been consumed"
 msgstr ""
 "Dieses Gebäude wird nicht mehr beladen, wenn sein aktiver Brennstoff verbraucht "
-"ist."
+"ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME"
@@ -3560,20 +3510,14 @@ msgstr ""
 "\">Energie</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME"
-#| msgid "Conveyor Rail Backup"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.NAME"
 msgid "Conveyor Rail Blocked"
-msgstr "Förderschienen-Rückstau"
+msgstr "Förderschiene blockiert"
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
-#| msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.TOOLTIP"
 msgid "Output <style=\"KKeyword\">Conveyor Rail</style> is blocked"
-msgstr "<style=\"KKeyword\">Ausgangsrohr</style> ist blockiert"
+msgstr "<style=\"KKeyword\">Förderschiene</style> ist blockiert"
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME"
@@ -3930,12 +3874,9 @@ msgid "Line of Sight: Obstructed"
 msgstr "Sichtlinie: Blockiert"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.TOOLTIP"
-#| msgid "This device needs a clear view of space to operate."
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.TOOLTIP"
 msgid "This device needs a clear view of space to operate"
-msgstr "Dieses Gerät benötigt für den Betrieb eine freie Sicht auf den Weltraum."
+msgstr "Dieses Gerät benötigt für den Betrieb eine freie Sicht auf den Weltraum"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.NAME"
@@ -3953,12 +3894,9 @@ msgid "Progress: {progress}"
 msgstr "Fortschritt: {progress}"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.TOOLTIP"
-#| msgid "Operation will commence once this meter fills all the way up."
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.TOOLTIP"
 msgid "Operation will commence once this device is fully charged"
-msgstr "Der Vorgang beginnt, sobald der Zähler vollständig gefüllt ist."
+msgstr "Der Vorgang beginnt, sobald das Gerät vollständig geladen ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION"
@@ -5253,14 +5191,6 @@ msgid "<link=\"BED\">Cot</link>"
 msgstr "<link=\"BED\">Feldbett</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BEEHIVE.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.BEEHIVE.DESC"
-#| msgid ""
-#| "A moderately <link=\"RADIATION\">Radioactive</link> nest made by <link=\"BEE"
-#| "\">Beetas</link>.\n"
-#| "\n"
-#| "Converts <link=\"URANIUMORE\">Uranium</link> into <link=\"ENRICHEDURANIUM"
-#| "\">Enriched Uranium</link> when worked by a Beeta."
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEEHIVE.DESC"
 msgid ""
 "A moderately <link=\"RADIATION\">Radioactive</link> nest made by <link=\"BEE"
@@ -5274,7 +5204,8 @@ msgstr ""
 "\">Beetas</link> gebaut wurde.\n"
 "\n"
 "Wandelt <link=\"URANIUMORE\">Uran</link> in <link=\"ENRICHEDURANIUM"
-"\">angereichertes Uran</link> um, wenn es von einem Beeta verarbeitet wird."
+"\">angereichertes Uran</link> um, wenn es von einem Beeta verarbeitet wird.\n"
+"Funktioniert nicht, wenn der Boden darunter zerstört ist."
 
 #. STRINGS.BUILDINGS.PREFABS.BEEHIVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEEHIVE.EFFECT"
@@ -5779,14 +5710,6 @@ msgstr ""
 "seltene Ressourcen zu bergen."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT"
-#| msgid ""
-#| "Uses pressurized <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> to propel "
-#| "rockets for space exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT"
 msgid ""
 "Uses pressurized <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> to propel "
@@ -5799,7 +5722,10 @@ msgid ""
 "added."
 msgstr ""
 "Verwendet unter Druck stehendes <link=\"CARBONDIOXIDE\">Kohlenstoffdioxid</"
-"link> zum Antrieb von Raketen für die Weltraumforschung.\n"
+"link> zum Antrieb von Raketen für die Kurzstreckenweltraumerkundung.\n"
+"\n"
+"Kohlendioxid-Triebwerke sind für ihre Größe relativ schnell, aber in der Höhe "
+"begrenzt.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
@@ -6168,12 +6094,9 @@ msgstr ""
 "Durch den Frost auf dem Glas ist eine Silhouette schwach zu erkennen."
 
 #. STRINGS.BUILDINGS.PREFABS.CRYOTANK.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CRYOTANK.NAME"
-#| msgid "<link=\"CRYOTANK\">Cryotank</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRYOTANK.NAME"
 msgid "<link=\"CRYOTANK\">Cryotank 3000</link>"
-msgstr "<link=\"CRYOTANK\">Kryotank</link>"
+msgstr "<link=\"CRYOTANK\">Kryotank 3000</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DECONTAMINATIONSHOWER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DECONTAMINATIONSHOWER.DESC"
@@ -7479,91 +7402,57 @@ msgid "Filters: {0}"
 msgstr "Filtert: {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
-#| msgid ""
-#| "Valves control the amount of gas that moves through pipes, preventing waste."
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.DESC"
 msgid "Meter Valves let an exact amount of gas pass through before shutting off."
-msgstr ""
-"Regler steuern die Gasmenge, die durch Leitungen bewegt wird, um Verschwendung "
-"zu vermeiden."
+msgstr "Zählerventile lassen eine exakte Gasmenge durch, bevor sie absperren."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.EFFECT"
-#| msgid ""
-#| "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn "
-#| "<link=\"ELEMENTSGAS\">Gas</link> flow on or off."
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.EFFECT"
 msgid ""
 "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn "
 "<link=\"ELEMENTSGAS\">Gas</link> flow off when the specified amount has passed "
 "through it."
 msgstr ""
-"Wird an ein <link=\"LOGIC\">Automatisierungsnetz</link> angeschlossen, den "
-"<link=\"ELEMENTSGAS\">Gasdurchfluss</link> automatisch ein- oder auszuschalten."
+"Wird an ein <link=\"LOGIC\">Automatisierungsnetz</link> angeschlossen, um den "
+"<link=\"ELEMENTSGAS\">Gasdurchfluss</link> automatisch abzuschalten, wenn die "
+"angegebene Menge durchgeflossen ist."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_OUTPUT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_OUTPUT"
-#| msgid "Number Reached"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_OUTPUT"
 msgid "Limit Reached"
-msgstr "Anzahl erreicht"
+msgstr "Grenze erreicht"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_RESET
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_RESET"
-#| msgid "Reset Counter"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
 msgstr "Zähler zurücksetzen"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
-#| msgid "<link=\"GASVALVE\">Gas Valve</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME"
 msgid "<link=\"GASLIMITVALVE\">Gas Meter Valve</link>"
-msgstr "<link=\"GASVALVE\">Gasventil</link>"
+msgstr "<link=\"GASVALVE\">Gaszählerventil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.LOGIC_PORT_ACTIVE"
-#| msgid ""
-#| "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the selected Gas "
-#| "is detected"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE"
 msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> if limit has been "
 "reached"
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn das "
-"konfigurierte Gas detektiert wird"
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>, wenn die Grenze "
+"erreicht wurde"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_INACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY_INACTIVE"
-#| msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
 "Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.RESET_PORT_ACTIVE"
-#| msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset counter"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset the amount"
 msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Zähler zurücksetzen"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_INACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICALARM.INPUT_PORT_INACTIVE"
-#| msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
 msgstr "<b><style=\"logic_off\">Rotes Signal</style></b>: Kein Effekt"
@@ -8092,14 +7981,6 @@ msgid "Radbolt-fueled rockets support few modules, but travel exceptionally far.
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT"
-#| msgid ""
-#| "Burns <link=\"SUCROSE\">Sucrose</link> to propel rockets for space "
-#| "exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT"
 msgid ""
 "Injects <link=\"HEP\">Radbolts</link> into a reaction chamber to propel rockets "
@@ -8111,19 +7992,20 @@ msgid ""
 "The engine of a rocket must be built first before more rocket modules can be "
 "added."
 msgstr ""
-"Verbrennt <link=\"SUCROSE\">Saccharose</link>, um Raketen für die "
-"Weltraumforschung anzutreiben.\n"
+"Injiziert <link=\"HEP\">Teilchenblitze</link> in eine Reaktionskammer, um "
+"Raketen für die Langstrecken-Weltraumerkundung anzutreiben.\n"
+"\n"
+"Teilchenblitz-Triebwerke sind schneller als <link=\"HYDROGENENGINE"
+"\">Wasserstoff-Triebwerke</link>, haben aber eine restriktivere "
+"Höhenzulassung.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.NAME"
-#| msgid "<link=\"STEAMENGINE\">Steam Engine</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.NAME"
 msgid "<link=\"HEPENGINE\">Radbolt Engine</link>"
-msgstr "<link=\"STEAMENGINE\">Dampf-Triebwerk</link>"
+msgstr "<link=\"HEPENGINE\">Teilchenblitz-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.DESC"
@@ -8295,14 +8177,6 @@ msgstr ""
 "Petroleumtriebwerke."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.EFFECT"
-#| msgid ""
-#| "Burns <link=\"LIQUIDHYDROGEN\">Liquid Hydrogen</link> to propel rockets for "
-#| "space exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.EFFECT"
 msgid ""
 "Burns <link=\"LIQUIDHYDROGEN\">Liquid Hydrogen</link> to propel rockets for "
@@ -8315,7 +8189,10 @@ msgid ""
 "added."
 msgstr ""
 "Verbrennt <link=\"LIQUIDHYDROGEN\">flüssigen Wasserstoff</link>, um Raketen für "
-"die Weltraumerkundung anzutreiben.\n"
+"die Langstreckenweltraumerkundung anzutreiben.\n"
+"\n"
+"Wasserstofftriebwerke haben die gleichen großzügigen Höhenbeschränkungen wie "
+"<link=\"KEROSENEGINE\">Petroleumtriebwerke</link>, sind aber etwas schneller.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
@@ -8323,7 +8200,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME"
 msgid "<link=\"HYDROGENENGINE\">Hydrogen Engine</link>"
-msgstr "<link=\"HYDROGENENGINE\">Wasserstoff-Triebwerk</link>"
+msgstr "<link=\"HYDROGENENGINE\">Wasserstofftriebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.DESC"
@@ -8334,14 +8211,6 @@ msgstr ""
 "Petroleumtriebwerke."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT"
-#| msgid ""
-#| "Burns <link=\"LIQUIDHYDROGEN\">Liquid Hydrogen</link> to propel rockets for "
-#| "space exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT"
 msgid ""
 "Burns <link=\"LIQUIDHYDROGEN\">Liquid Hydrogen</link> to propel rockets for "
@@ -8354,7 +8223,10 @@ msgid ""
 "added."
 msgstr ""
 "Verbrennt <link=\"LIQUIDHYDROGEN\">flüssigen Wasserstoff</link>, um Raketen für "
-"die Weltraumerkundung anzutreiben.\n"
+"die Langstreckenweltraumerkundung anzutreiben.\n"
+"\n"
+"Wasserstofftriebwerke haben die gleichen großzügigen Höhenbeschränkungen wie "
+"<link=\"KEROSENEGINE\">Petroleumtriebwerke</link>, sind aber etwas schneller.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
@@ -8362,7 +8234,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.NAME"
 msgid "<link=\"HYDROGENENGINE\">Hydrogen Engine</link>"
-msgstr "<link=\"HYDROGENENGINE\">Wasserstoffmotor</link>"
+msgstr "<link=\"HYDROGENENGINE\">Wasserstofftriebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
@@ -8714,14 +8586,6 @@ msgstr ""
 "seltene Ressourcen zu bergen."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT"
-#| msgid ""
-#| "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for space "
-#| "exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT"
 msgid ""
 "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for mid-range "
@@ -8734,7 +8598,10 @@ msgid ""
 "added."
 msgstr ""
 "Verbrennt <link=\"PETROLEUM\">Petroleum</link>, um Raketen für die "
-"Weltraumforschung anzutreiben.\n"
+"Mittelstreckenweltraumerkundung anzutreiben.\n"
+"\n"
+"Petroleumtriebwerke haben eine großzügige Höhenbeschränkung, ideal für den "
+"Transport vieler Module.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
@@ -8750,14 +8617,6 @@ msgid "More powerful rocket engines can propel heavier burdens."
 msgstr "Stärkere Raketentriebwerke können schwerere Lasten antreiben."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT"
-#| msgid ""
-#| "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for space "
-#| "exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT"
 msgid ""
 "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for mid-range "
@@ -8770,7 +8629,10 @@ msgid ""
 "added."
 msgstr ""
 "Verbrennt <link=\"PETROLEUM\">Petroleum</link>, um Raketen für die "
-"Weltraumforschung anzutreiben.\n"
+"Mittelstreckenweltraumerkundung anzutreiben.\n"
+"\n"
+"Petroleumtriebwerke haben eine großzügige Höhenbeschränkung, ideal für den "
+"Transport vieler Module.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
@@ -8789,14 +8651,6 @@ msgstr ""
 "seltene Ressourcen zu bergen."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT"
-#| msgid ""
-#| "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for space "
-#| "exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.EFFECT"
 msgid ""
 "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for mid-range "
@@ -8809,7 +8663,11 @@ msgid ""
 "added."
 msgstr ""
 "Verbrennt <link=\"PETROLEUM\">Petroleum</link>, um Raketen für die "
-"Weltraumforschung anzutreiben.\n"
+"Mittelstreckenweltraumerkundung anzutreiben.\n"
+"\n"
+"Kleine Petroleumtriebwerke besitzen die gleiche Geschwindigkeit wie ein <link="
+"\"KEROSENEGINE\">Petroleumtriebwerk</link>, haben aber geringere "
+"Höhenbeschränkungen.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
@@ -8899,14 +8757,13 @@ msgid "Spacefarer Deploy Pod"
 msgstr "Raumfahrer-Landekapsel"
 
 #. STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.DESC
-#, fuzzy
-#| msgctxt "STRINGS.ITEMS.RAILGUNPAYLOAD.NAME"
-#| msgid "<link=\"RAILGUNPAYLOAD\">Interplanetary Payload</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.DESC"
 msgid ""
 "Microtarget where your <link=\"RAILGUNPAYLOAD\">Interplanetary Payload</link> "
 "lands on a Planetoid surface."
-msgstr "<link=\"RAILGUNPAYLOAD\">Interplanetare Nutzlast</link>"
+msgstr ""
+"Mikroziel, bei dem die <link=\"RAILGUNPAYLOAD\">interplanetare Nutzlast</link> "
+"auf einer Planetoidoberfläche landet."
 
 #. STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.EFFECT"
@@ -8919,12 +8776,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
-#| msgid "<link=\"RATIONBOX\">Ration Box</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDINGBEACON.NAME"
 msgid "<link=\"LANDINGBEACON\">Targeting Beacon</link>"
-msgstr "<link=\"RATIONBOX\">Rationsbox</link>"
+msgstr "<link=\"LANDINGBEACON\">Zielfeuer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.DESC"
@@ -8952,21 +8806,14 @@ msgstr ""
 "\">Raketenanschlüssen</link>, die auf beiden Seiten der Plattform gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_LAUNCH"
-#| msgid "Launch Rocket"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH"
 msgid "Launch Rocket"
 msgstr "Rakete starten"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH_ACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_LAUNCH_ACTIVE"
-#| msgid "<b><style=\"logic_on\">Green Signal</style></b>: Launch rocket"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH_ACTIVE"
 msgid "Green Signal: Launch rocket"
-msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Startet Rakete"
+msgstr "Grünes Signal: Rakete starten"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH_INACTIVE"
@@ -8974,9 +8821,6 @@ msgid "Red Signal: Cancel launch"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY"
-#| msgid "Rocket Checklist"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY"
 msgid "Rocket Checklist"
 msgstr "Raketen-Checkliste"
@@ -8987,14 +8831,9 @@ msgid "Sends a Green Signal when its rocket is ready for flight"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY_INACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY_INACTIVE"
-#| msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY_INACTIVE"
 msgid "Otherwise, sends a Red Signal"
-msgstr ""
-"Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
+msgstr "Andernfalls wird ein Rotes Signal gesendet"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.NAME"
@@ -9549,94 +9388,59 @@ msgid "<link=\"LIQUIDHEATER\">Liquid Tepidizer</link>"
 msgstr "<link=\"LIQUIDHEATER\">Flüssigkeits­wärmer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC"
-#| msgid ""
-#| "Valves control the amount of liquid that moves through pipes, preventing "
-#| "waste."
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.DESC"
 msgid ""
 "Meter Valves let an exact amount of liquid pass through before shutting off."
 msgstr ""
-"Regler steuern die Flüssigkeitsmenge, die durch Rohre bewegt wird, um "
-"Verschwendung zu vermeiden."
+"Zählerventile lassen eine exakte Flüssigkeitsmenge durch, bevor sie absperren."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLOGICVALVE.EFFECT"
-#| msgid ""
-#| "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn "
-#| "<link=\"ELEMENTSLIQUID\">Liquid</link> flow on or off."
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.EFFECT"
 msgid ""
 "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn "
 "<link=\"ELEMENTSLIQUID\">Liquid</link> flow off when the specified amount has "
 "passed through it."
 msgstr ""
-"Wird an ein <link=\"LOGIC\">Automatisierungsnetz</link> angeschlossen, um den "
-"<link=\"ELEMENTSLIQUID\">Flüssigkeitsdurchfluss</link> automatisch ein- oder "
-"auszuschalten."
+"Wird an ein <link=\\\"LOGIC\\\">Automatisierungsnetz</link> angeschlossen, um "
+"den <link=\\\"ELEMENTSLIQUID\\\">Flüssigkeitsdurchfluss</link> automatisch "
+"abzuschalten, wenn die angegebene Menge durchgeflossen ist."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.LOGIC_PORT_OUTPUT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_OUTPUT"
-#| msgid "Number Reached"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.LOGIC_PORT_OUTPUT"
 msgid "Limit Reached"
-msgstr "Anzahl erreicht"
+msgstr "Grenze erreicht"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.LOGIC_PORT_RESET
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_RESET"
-#| msgid "Reset Counter"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
 msgstr "Zähler zurücksetzen"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME"
-#| msgid "<link=\"LIQUIDVALVE\">Liquid Valve</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.NAME"
 msgid "<link=\"LIQUIDLIMITVALVE\">Liquid Meter Valve</link>"
-msgstr "<link=\"LIQUIDVALVE\">Flüssigkeits­regler</link>"
+msgstr "<link=\"LIQUIDLIMITVALVE\">Flüssigkeits­zählerventil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.OUTPUT_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.LOGIC_PORT_ACTIVE"
-#| msgid ""
-#| "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the selected Gas "
-#| "is detected"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.OUTPUT_PORT_ACTIVE"
 msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> if limit has been "
 "reached"
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn das "
-"konfigurierte Gas detektiert wird"
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>, wenn die Grenze "
+"erreicht wurde"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.OUTPUT_PORT_INACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY_INACTIVE"
-#| msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.OUTPUT_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
 "Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.RESET_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.RESET_PORT_ACTIVE"
-#| msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset counter"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.RESET_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset the amount"
 msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Zähler zurücksetzen"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.RESET_PORT_INACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICALARM.INPUT_PORT_INACTIVE"
-#| msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.RESET_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
 msgstr "<b><style=\"logic_off\">Rotes Signal</style></b>: Kein Effekt"
