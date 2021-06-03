@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-26 21:31+0200\n"
+"PO-Revision-Date: 2021-06-03 14:40+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -5733,7 +5733,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CO2ENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.NAME"
 msgid "<link=\"CO2ENGINE\">Carbon Dioxide Engine</link>"
-msgstr "<link=\"CO2ENGINE\">Kohlendioxid-Motor</link>"
+msgstr "<link=\"CO2ENGINE\">Kohlendioxid-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC"
@@ -8640,7 +8640,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.NAME"
 msgid "<link=\"KEROSENEENGINECLUSTER\">Petroleum Engine</link>"
-msgstr "<link=\"KEROSENEENGINECLUSTER\">Petroleummotor</link>"
+msgstr "<link=\"KEROSENEENGINECLUSTER\">Petroleum-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.DESC"
@@ -8675,7 +8675,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.NAME"
 msgid "<link=\"KEROSENEENGINECLUSTERSMALL\">Small Petroleum Engine</link>"
-msgstr "<link=\"KEROSENEENGINECLUSTERSMALL\">Kleiner Petroleummotor</link>"
+msgstr "<link=\"KEROSENEENGINECLUSTERSMALL\">Kleines Petroleum-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.KILN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.DESC"
@@ -11830,17 +11830,6 @@ msgid "Rockets must be landed to load or unload resources."
 msgstr "Zum Be- und Entladen von Ressourcen müssen Raketen landen."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.EFFECT"
-#| msgid ""
-#| "Allows <link=\"ELEMENTSGAS\">Gases</link> to be loaded and unloaded from the "
-#| "storage of a linked rocket.\n"
-#| "\n"
-#| "Automatically links when built to the side of a <link=\"LAUNCHPLATFORM"
-#| "\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID"
-#| "\">Rocket Port</link>.\n"
-#| "\n"
-#| "Uses the gas filters set on the linked Rocket Platform."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.EFFECT"
 msgid ""
 "Loads <link=\"ELEMENTSGAS\">Gases</link> to the storage of a linked rocket.\n"
@@ -11851,43 +11840,25 @@ msgid ""
 "\n"
 "Uses the gas filters set on the rocket's cargo bays."
 msgstr ""
-"Ermöglicht das Be- und Entladen von <link=\"ELEMENTSGAS\">Gasen</link> aus dem "
-"Speicher einer angekoppelten Rakete.\n"
+"Lädt <link=\"ELEMENTSGAS\">Gase</link> in den Tank einer angekoppelten Rakete.\n"
 "\n"
 "Verbindet sich automatisch, wenn sie an der Seite einer <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> oder einem <link=\"MODULARLAUNCHPADPORTSOLID"
 "\">Raketenanschluss</link> gebaut wird.\n"
 "\n"
-"Verwendet die auf der verlinkten Raketenplattform eingestellten Gasfilter."
+"Verwendet die auf der verbundenen Raketenplattform eingestellten Gasfilter."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.NAME"
-#| msgid "<link=\"MODULARLAUNCHPADPORTGAS\">Gas Rocket Port</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.NAME"
 msgid "<link=\"MODULARLAUNCHPADPORTGAS\">Gas Rocket Port Loader</link>"
-msgstr "<link=\"MODULARLAUNCHPADPORTGAS\">Gas-Raketenanschluss</link>"
+msgstr "<link=\"MODULARLAUNCHPADPORTGAS\">Gas-Raketenladeanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGASUNLOADER.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.DESC"
-#| msgid "Rockets must be landed to load or unload resources."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGASUNLOADER.DESC"
 msgid "Rockets must be landed to load or unload resources."
 msgstr "Zum Be- und Entladen von Ressourcen müssen Raketen landen."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGASUNLOADER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.EFFECT"
-#| msgid ""
-#| "Allows <link=\"ELEMENTSGAS\">Gases</link> to be loaded and unloaded from the "
-#| "storage of a linked rocket.\n"
-#| "\n"
-#| "Automatically links when built to the side of a <link=\"LAUNCHPLATFORM"
-#| "\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID"
-#| "\">Rocket Port</link>.\n"
-#| "\n"
-#| "Uses the gas filters set on the linked Rocket Platform."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGASUNLOADER.EFFECT"
 msgid ""
 "Unloads <link=\"ELEMENTSGAS\">Gases</link> from the storage of a linked "
@@ -11899,22 +11870,20 @@ msgid ""
 "\n"
 "Uses the gas filters set on this unloader."
 msgstr ""
-"Ermöglicht das Be- und Entladen von <link=\"ELEMENTSGAS\">Gasen</link> aus dem "
-"Speicher einer angekoppelten Rakete.\n"
+"Entlädt <link=\"ELEMENTSGAS\">Gase</link> aus dem Tank einer verbundenen "
+"Rakete.\n"
 "\n"
 "Verbindet sich automatisch, wenn sie an der Seite einer <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> oder einem <link=\"MODULARLAUNCHPADPORTSOLID"
 "\">Raketenanschluss</link> gebaut wird.\n"
 "\n"
-"Verwendet die auf der verlinkten Raketenplattform eingestellten Gasfilter."
+"Verwendet die auf der verbundenen Raketenplattform eingestellten Gasfilter."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGASUNLOADER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.NAME"
-#| msgid "<link=\"MODULARLAUNCHPADPORTGAS\">Gas Rocket Port</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGASUNLOADER.NAME"
 msgid "<link=\"MODULARLAUNCHPADPORTGASUNLOADER\">Gas Rocket Port Unloader</link>"
-msgstr "<link=\"MODULARLAUNCHPADPORTGAS\">Gas-Raketenanschluss</link>"
+msgstr ""
+"<link=\"MODULARLAUNCHPADPORTGASUNLOADER\">Gas-Raketenentladeanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.DESC"
@@ -11922,17 +11891,6 @@ msgid "Rockets must be landed to load or unload resources."
 msgstr "Zum Be- und Entladen von Ressourcen müssen Raketen landen."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.EFFECT"
-#| msgid ""
-#| "Allows <link=\"ELEMENTSLIQUID\">Liquids</link> to be loaded and unloaded "
-#| "from the storage of a linked rocket.\n"
-#| "\n"
-#| "Automatically links when built to the side of a <link=\"LAUNCHPLATFORM"
-#| "\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID"
-#| "\">Rocket Port</link>.\n"
-#| "\n"
-#| "Uses the liquid filters set on the linked Rocket Platform."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.EFFECT"
 msgid ""
 "Loads <link=\"ELEMENTSLIQUID\">Liquids</link> to the storage of a linked "
@@ -11944,44 +11902,28 @@ msgid ""
 "\n"
 "Uses the liquid filters set on the rocket's cargo bays."
 msgstr ""
-"Ermöglicht das Be- und Entladen von <link=\"ELEMENTSLIQUID\">Flüssigkeiten</"
-"link> aus dem Speicher einer angekoppelten Rakete.\n"
+"Lädt <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> in den Tank einer "
+"verbundenen Rakete.\n"
 "\n"
 "Verbindet sich automatisch, wenn sie an der Seite einer <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> oder einem <link=\"MODULARLAUNCHPADPORTSOLID"
 "\">Raketenanschluss</link> gebaut wird.\n"
 "\n"
-"Verwendet die auf der verlinkten Raketenplattform eingestellten "
+"Verwendet die auf der verbundenen Raketenplattform eingestellten "
 "Flüssigkeitsfilter."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME"
-#| msgid "<link=\"MODULARLAUNCHPADPORTLIQUID\">Liquid Rocket Port</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME"
 msgid "<link=\"MODULARLAUNCHPADPORTLIQUID\">Liquid Rocket Port Loader</link>"
-msgstr "<link=\"MODULARLAUNCHPADPORTLIQUID\">Flüssigkeits-Raketenanschluss</link>"
+msgstr ""
+"<link=\"MODULARLAUNCHPADPORTLIQUID\">Flüssigkeits-Raketenladeanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.DESC"
-#| msgid "Rockets must be landed to load or unload resources."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.DESC"
 msgid "Rockets must be landed to load or unload resources."
 msgstr "Zum Be- und Entladen von Ressourcen müssen Raketen landen."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.EFFECT"
-#| msgid ""
-#| "Allows <link=\"ELEMENTSLIQUID\">Liquids</link> to be loaded and unloaded "
-#| "from the storage of a linked rocket.\n"
-#| "\n"
-#| "Automatically links when built to the side of a <link=\"LAUNCHPLATFORM"
-#| "\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID"
-#| "\">Rocket Port</link>.\n"
-#| "\n"
-#| "Uses the liquid filters set on the linked Rocket Platform."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.EFFECT"
 msgid ""
 "Unloads <link=\"ELEMENTSLIQUID\">Liquids</link> from the storage of a linked "
@@ -11993,24 +11935,23 @@ msgid ""
 "\n"
 "Uses the liquid filters set on this unloader."
 msgstr ""
-"Ermöglicht das Be- und Entladen von <link=\"ELEMENTSLIQUID\">Flüssigkeiten</"
-"link> aus dem Speicher einer angekoppelten Rakete.\n"
+"Entlädt <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> aus dem Tank einer "
+"verbundenen Rakete.\n"
 "\n"
 "Verbindet sich automatisch, wenn sie an der Seite einer <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> oder einem <link=\"MODULARLAUNCHPADPORTSOLID"
 "\">Raketenanschluss</link> gebaut wird.\n"
 "\n"
-"Verwendet die auf der verlinkten Raketenplattform eingestellten "
+"Verwendet die auf der verbundenen Raketenplattform eingestellten "
 "Flüssigkeitsfilter."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME"
-#| msgid "<link=\"MODULARLAUNCHPADPORTLIQUID\">Liquid Rocket Port</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.NAME"
 msgid ""
 "<link=\"MODULARLAUNCHPADPORTLIQUIDUNLOADER\">Liquid Rocket Port Unloader</link>"
-msgstr "<link=\"MODULARLAUNCHPADPORTLIQUID\">Flüssigkeits-Raketenanschluss</link>"
+msgstr ""
+"<link=\"MODULARLAUNCHPADPORTLIQUIDUNLOADER\">Flüssigkeits-"
+"Raketenentladeanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.DESC"
@@ -12018,17 +11959,6 @@ msgid "Rockets must be landed to load or unload resources."
 msgstr "Zum Be- und Entladen von Ressourcen müssen Raketen landen."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.EFFECT"
-#| msgid ""
-#| "Allows <link=\"ELEMENTSSOLID\">Solids</link> to be loaded and unloaded from "
-#| "the storage of a linked rocket.\n"
-#| "\n"
-#| "Automatically links when built to the side of a <link=\"LAUNCHPLATFORM"
-#| "\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID"
-#| "\">Rocket Port</link>.\n"
-#| "\n"
-#| "Uses the solid material filters set on the linked Rocket Platform."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.EFFECT"
 msgid ""
 "Loads <link=\"ELEMENTSSOLID\">Solids</link> to the storage of a linked rocket.\n"
@@ -12039,8 +11969,8 @@ msgid ""
 "\n"
 "Uses the solid material filters set on the rocket's cargo bays."
 msgstr ""
-"Ermöglicht das Be- und Entladen von <link=\"ELEMENTSLIQUID\">Feststoffen</link> "
-"aus dem Speicher einer angekoppelten Rakete.\n"
+"Lädt <link=\"ELEMENTSSOLID\">Feststoffe</link> in das Lager einer verbundenen "
+"Rakete.\n"
 "\n"
 "Verbindet sich automatisch, wenn sie an der Seite einer <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> oder einem <link=\"MODULARLAUNCHPADPORTSOLID"
@@ -12049,33 +11979,16 @@ msgstr ""
 "Verwendet die auf der verlinkten Raketenplattform eingestellten Materialfiltern."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.NAME"
-#| msgid "<link=\"MODULARLAUNCHPADPORTSOLID\">Solid Rocket Port</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.NAME"
 msgid "<link=\"MODULARLAUNCHPADPORTSOLID\">Solid Rocket Port Loader</link>"
-msgstr "<link=\"MODULARLAUNCHPADPORTSOLID\">Feststoff-Raketenanschluss</link>"
+msgstr "<link=\"MODULARLAUNCHPADPORTSOLID\">Feststoff-Raketenladeanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.DESC"
-#| msgid "Rockets must be landed to load or unload resources."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.DESC"
 msgid "Rockets must be landed to load or unload resources."
 msgstr "Zum Be- und Entladen von Ressourcen müssen Raketen landen."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.EFFECT"
-#| msgid ""
-#| "Allows <link=\"ELEMENTSSOLID\">Solids</link> to be loaded and unloaded from "
-#| "the storage of a linked rocket.\n"
-#| "\n"
-#| "Automatically links when built to the side of a <link=\"LAUNCHPLATFORM"
-#| "\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID"
-#| "\">Rocket Port</link>.\n"
-#| "\n"
-#| "Uses the solid material filters set on the linked Rocket Platform."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.EFFECT"
 msgid ""
 "Unloads <link=\"ELEMENTSSOLID\">Solids</link> from the storage of a linked "
@@ -12087,8 +12000,8 @@ msgid ""
 "\n"
 "Uses the solid material filters set on this unloader."
 msgstr ""
-"Ermöglicht das Be- und Entladen von <link=\"ELEMENTSLIQUID\">Feststoffen</link> "
-"aus dem Speicher einer angekoppelten Rakete.\n"
+"Entlädt <link=\"ELEMENTSSOLID\">Feststoffe</link> aus dem Lager einer "
+"verbundenen Rakete.\n"
 "\n"
 "Verbindet sich automatisch, wenn sie an der Seite einer <link=\"LAUNCHPLATFORM"
 "\">Raketenplattform</link> oder einem <link=\"MODULARLAUNCHPADPORTSOLID"
@@ -12097,13 +12010,12 @@ msgstr ""
 "Verwendet die auf der verlinkten Raketenplattform eingestellten Materialfiltern."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.NAME"
-#| msgid "<link=\"MODULARLAUNCHPADPORTSOLID\">Solid Rocket Port</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.NAME"
 msgid ""
 "<link=\"MODULARLAUNCHPADPORTSOLIDUNLOADER\">Solid Rocket Port Unloader</link>"
-msgstr "<link=\"MODULARLAUNCHPADPORTSOLID\">Feststoff-Raketenanschluss</link>"
+msgstr ""
+"<link=\"MODULARLAUNCHPADPORTSOLIDUNLOADER\">Feststoff-Raketenentladeanschluss</"
+"link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLIQUIDINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLIQUIDINPUT.DESC"
@@ -12444,17 +12356,6 @@ msgid "Orbital Microlabs perform research from the orbit around a Planetoid."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT"
-#| msgid ""
-#| "Conducts <link=\"RESEARCH\">Interstellar Research</link> to unlock new "
-#| "technologies.\n"
-#| "\n"
-#| "Consumes data from <link=\"TELESCOPE\">Telescopes</link> and <link="
-#| "\"RESEARCHMODULE\">Research Modules</link>.\n"
-#| "\n"
-#| "Assigned Duplicants must possess the <link=\"SENIORRESEARCHER\">Astronomy</"
-#| "link> skill."
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCH\">Interstellar Research</link> to unlock new "
@@ -12469,16 +12370,16 @@ msgstr ""
 "Führt <link=\"RESEARCH\">Interstellare Forschung</link> durch, um neue "
 "Technologien zu erschließen.\n"
 "\n"
-"Verwendet Daten von <link=\"TELESCOPE\">Teleskopen</link> und <link="
-"\"RESEARCHMODULE\">Forschungsmodulen</link>.\n"
+"Benötigt <link=\"POLYPROPYLENE\">Plastik</link> und <link=\"POWER\">Energie</"
+"link>.\n"
 "\n"
-"Zugewiesene Duplikanten müssen die Fertigkeit <link=\"SENIORRESEARCHER"
-"\">Astronomie</link> haben."
+"Zugewiesene Duplikanten müssen die Fertigkeit <link=\"COSMICRESEARCHER"
+"\">Weltraumforscher</link> haben."
 
 #. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.NAME"
 msgid "<link=\"ORBITALRESEARCHCENTER\">Orbital Microlab</link>"
-msgstr "<link=\"ORBITALRESEARCHCENTER\">Orbitales Microlabor</link>"
+msgstr "<link=\"ORBITALRESEARCHCENTER\">Orbitales Mikrolabor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ORESCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORESCRUBBER.DESC"
@@ -13641,28 +13542,22 @@ msgstr ""
 "Kann keine Duplikanten transportieren."
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_LAUNCH"
-#| msgid "Launch Rocket"
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT"
 msgid "Launch Toggle"
-msgstr "Rakete starten"
+msgstr "Startumschalter"
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.UI.LOGIC_PORTS.CONTROL_OPERATIONAL_ACTIVE"
-#| msgid "<b><style=\"logic_on\">Green Signal</style></b>: Enable building"
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Enable payload launching."
-msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Gebäude aktivieren"
+msgstr ""
+"<b><style=\"logic_on\">Grünes Signal</style></b>: Start der Nutzlast aktivieren."
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT_INACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.UI.LOGIC_PORTS.CONTROL_OPERATIONAL_INACTIVE"
-#| msgid "<b><style=\"logic_off\">Red Signal</style></b>: Disable building"
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Disable payload launching."
-msgstr "<b><style=\"logic_off\">Rotes Signal</style></b>: Gebäude deaktivieren"
+msgstr ""
+"<b><style=\"logic_off\">Rotes Signal</style></b>: Start der Nutzlast "
+"deaktivieren."
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.NAME"
@@ -14694,13 +14589,6 @@ msgid "Collect solar energy before takeoff and during flight."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANEL.EFFECT"
-#| msgid ""
-#| "Converts <link=\"LIGHT\">Sunlight</link> into electrical <link=\"POWER"
-#| "\">Power</link>.\n"
-#| "\n"
-#| "Must be exposed to space."
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.EFFECT"
 msgid ""
 "Converts <link=\"LIGHT\">Sunlight</link> into electrical <link=\"POWER\">Power</"
@@ -14709,17 +14597,14 @@ msgid ""
 "Must be exposed to space."
 msgstr ""
 "Wandelt <link=\"LIGHT\">Sonnenlicht</link> in elektrische <link=\"POWER"
-"\">Energie</link> um.\n"
+"\">Energie</link> zur Verwendung in Raketen um.\n"
 "\n"
 "Muss dem Weltraum ausgesetzt sein."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANEL.NAME"
-#| msgid "<link=\"SOLARPANEL\">Solar Panel</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.NAME"
 msgid "<link=\"SOLARPANELMODULE\">Solar Panel Module</link>"
-msgstr "<link=\"SOLARPANEL\">Solarmodul</link>"
+msgstr "<link=\"SOLARPANELMODULE\">Solarmodul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.DESC"
@@ -15048,83 +14933,51 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.EFFECT"
-#| msgid ""
-#| "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn "
-#| "<link=\"POWER\">Power</link> on or off.\n"
-#| "\n"
-#| "Does not affect circuitry preceding the switch."
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.EFFECT"
 msgid ""
 "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn "
 "material transfer off when the specified amount has passed through it."
 msgstr ""
-"Wird an ein <link=\"LOGIC\">Automatisierungsnetz</link> angeschlossen, um den "
-"<link=\"POWER\">Strom</link> automatisch ein- oder auszuschalten.\n"
-"\n"
-"Beeinflusst nicht die vorhergehenden Schaltungen."
+"Wird mit einem <link=\"LOGIC\">Automatisierungsnetz</link> verbunden, um den "
+"Materialtransfer automatisch auszuschalten, wenn die festgelegte Menge durch "
+"das Ventil gelaufen ist."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_OUTPUT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_OUTPUT"
-#| msgid "Number Reached"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_OUTPUT"
 msgid "Limit Reached"
-msgstr "Anzahl erreicht"
+msgstr "Grenze erreicht"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_RESET
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_RESET"
-#| msgid "Reset Counter"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
 msgstr "Zähler zurücksetzen"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.NAME"
-#| msgid "<link=\"SOLIDLOGICVALVE\">Conveyor Shutoff</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME"
 msgid "<link=\"SOLIDLIMITVALVE\">Conveyor Meter</link>"
-msgstr "<link=\"SOLIDLOGICVALVE\">Förderschie­nen-Sperre</link>"
+msgstr "<link=\"SOLIDLIMITVALVE\">Förderschie­nenzählersperre</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICELEMENTSENSORGAS.LOGIC_PORT_ACTIVE"
-#| msgid ""
-#| "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the selected Gas "
-#| "is detected"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE"
 msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> if limit has been "
 "reached"
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn das "
-"konfigurierte Gas detektiert wird"
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn die Grenze "
+"erreicht wurde"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_INACTIVE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY_INACTIVE"
-#| msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
 "Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_ACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.RESET_PORT_ACTIVE"
-#| msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset counter"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset the amount"
 msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Zähler zurücksetzen"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_INACTIVE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICALARM.INPUT_PORT_INACTIVE"
-#| msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
 msgstr "<b><style=\"logic_off\">Rotes Signal</style></b>: Kein Effekt"
@@ -15525,14 +15378,6 @@ msgstr ""
 "schmackhafteste."
 
 #. STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT"
-#| msgid ""
-#| "Burns <link=\"SUCROSE\">Sucrose</link> to propel rockets for space "
-#| "exploration.\n"
-#| "\n"
-#| "The engine of a rocket must be built first before more rocket modules can be "
-#| "added."
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT"
 msgid ""
 "Burns <link=\"SUCROSE\">Sucrose</link> to propel rockets for short range space "
@@ -15545,7 +15390,10 @@ msgid ""
 "added."
 msgstr ""
 "Verbrennt <link=\"SUCROSE\">Saccharose</link>, um Raketen für die "
-"Weltraumforschung anzutreiben.\n"
+"Kurzstreckeweltraumerkundung anzutreiben.\n"
+"\n"
+"Zucker-Triebwerke haben höhere Höhenbeschränkungen als <link=\"CO2ENGINE"
+"\">Kohlendioxid-Triebwerke</link>, bewegen sich aber langsamer.\n"
 "\n"
 "Das Triebwerk einer Rakete muss zuerst gebaut werden, bevor weitere "
 "Raketenmodule hinzugefügt werden können."
@@ -15553,7 +15401,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SUGARENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.NAME"
 msgid "<link=\"SUGARENGINE\">Sugar Engine</link>"
-msgstr "<link=\"SUGARENGINE\">Zuckermotor</link>"
+msgstr "<link=\"SUGARENGINE\">Zucker-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
@@ -16234,13 +16082,6 @@ msgid "This building will displace {amount} Gas while in use."
 msgstr "Dieses Gebäude setzt {amount} Gas bei Verwendung durch."
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT"
-#| msgid ""
-#| "Must be placed above an open space and connected to a <link=\"POWER\">Power "
-#| "Source</link>.\n"
-#| "\n"
-#| "Increases Duplicants <link=\"MORALE\">Morale</link>."
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT"
 msgid ""
 "Must be connected to a <link=\"POWER\">Power Source</link>. To properly "
@@ -16248,8 +16089,8 @@ msgid ""
 "\n"
 "Increases Duplicants <link=\"MORALE\">Morale</link>."
 msgstr ""
-"Muss über einem offenen Raum platziert und mit einer <link=\"POWER"
-"\">Stromquelle</link> verbunden werden.\n"
+"Muss mit einer <link=\"POWER\">Stromquelle</link> verbunden werden. Um richtig "
+"zu funktionieren, muss der Bereich unter diesem Gebäude frei bleiben.\n"
 "\n"
 "Erhöht die <link=\"MORALE\">Moral</link> von Duplikanten."
 
@@ -16712,26 +16553,18 @@ msgid "Single World"
 msgstr "Einzelne Welt"
 
 #. STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION"
-#| msgid ""
-#| "An earthy cluster of visitable planetoids made from the remains of an "
-#| "anomalous planet."
 msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.DESCRIPTION"
 msgid ""
 "A foresty cluster of visitable planetoids made from the remains of an anomalous "
 "planet."
 msgstr ""
-"Ein erdiger Cluster von besuchbaren Asteroiden, die aus den Überresten eines "
+"Ein waldiger Cluster von besuchbaren Asteroiden, die aus den Überresten eines "
 "anomalen Planeten entstanden sind."
 
 #. STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME"
-#| msgid "Terra Cluster"
 msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME"
 msgid "Forest Cluster"
-msgstr "Terra-Cluster"
+msgstr "Wald-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION"
@@ -16786,14 +16619,13 @@ msgstr "Zwei kleine Welten"
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a larger earthy planetoid to start on."
 msgstr ""
+"Eine Ansammlung von Planeten mit einem größeren erdähnlichen Planetoiden als "
+"Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME"
-#| msgid "Terra Cluster"
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME"
 msgid "Large Terra Cluster"
-msgstr "Terra-Cluster"
+msgstr "Großer Terra-Cluster"
 
 #. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2"
@@ -19560,20 +19392,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ARBORTREE.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.WOOD.NAME"
-#| msgid "Lumber"
 msgctxt "STRINGS.CODEX.ARBORTREE.SUBTITLE"
 msgid "Lumber Tree"
-msgstr "Holz"
+msgstr "Holzbaum"
 
 #. STRINGS.CODEX.ARBORTREE.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VERTICALWINDTUNNELFLYING.NAME"
-#| msgid "Airborne"
 msgctxt "STRINGS.CODEX.ARBORTREE.TITLE"
 msgid "Arbor Tree"
-msgstr "Fliegt"
+msgstr "Arbor-Baum"
 
 #. STRINGS.CODEX.AUTOMATION.HEADER_1
 msgctxt "STRINGS.CODEX.AUTOMATION.HEADER_1"
@@ -19864,9 +19690,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.B10_AI.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.A1A_B111.SUBTITLE"
-#| msgid "ENCRYPTION LEVEL: THREE"
 msgctxt "STRINGS.CODEX.B10_AI.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "VERSCHLÜSSELUNGSEBENE: DREI"
@@ -21233,9 +21056,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.BLISSBURST.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BLUFFBRIAR.SUBTITLE"
-#| msgid "Decorative Plant"
 msgctxt "STRINGS.CODEX.BLISSBURST.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "Dekorative Pflanze"
@@ -21296,20 +21116,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.BOGBUCKET.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE"
-#| msgid "Edible Plant"
 msgctxt "STRINGS.CODEX.BOGBUCKET.SUBTITLE"
 msgid "Edible Plant"
 msgstr "Essbare Pflanze"
 
 #. STRINGS.CODEX.BOGBUCKET.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKET"
-#| msgid "rocket"
 msgctxt "STRINGS.CODEX.BOGBUCKET.TITLE"
 msgid "Bog Bucket"
-msgstr "Rakete"
+msgstr "Mooreimer"
 
 #. STRINGS.CODEX.BRISTLEBLOSSOM.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.BODY.CONTAINER1"
@@ -21411,31 +21225,20 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.C01_Evil.BODY.CONTAINER3
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP"
-#| msgid ""
-#| "Growth Progress\n"
-#| "------------------\n"
 msgctxt "STRINGS.CODEX.C01_Evil.BODY.CONTAINER3"
 msgid ""
 "No seriously - what if he's right?\n"
 "------------------\n"
 msgstr ""
-"Wachstum im Gange\n"
+"Nein, im Ernst - was, wenn er Recht hat?\n"
 "------------------\n"
 
 #. STRINGS.CODEX.C01_Evil.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.SUBTITLE"
-#| msgid "ENCRYPTION LEVEL: NONE"
 msgctxt "STRINGS.CODEX.C01_Evil.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "VERSCHLÜSSELUNGSEBENE: KEINE"
 
 #. STRINGS.CODEX.C01_Evil.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.EVIL"
-#| msgid "Evil"
 msgctxt "STRINGS.CODEX.C01_Evil.TITLE"
 msgid "Evil"
 msgstr "Böse"
@@ -21545,17 +21348,11 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.DASHASALTVINE.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.SUBTITLE"
-#| msgid "Edible Spice Plant"
 msgctxt "STRINGS.CODEX.DASHASALTVINE.SUBTITLE"
 msgid "Edible Spice Plant"
 msgstr "Essbare Gewürzpflanze"
 
 #. STRINGS.CODEX.DASHASALTVINE.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BALMLILY.TITLE"
-#| msgid "Balm Lily"
 msgctxt "STRINGS.CODEX.DASHASALTVINE.TITLE"
 msgid "Balm Lily"
 msgstr "Balsamlilien"
@@ -21791,29 +21588,19 @@ msgid "! EVACUATION NOTICE !"
 msgstr "! EVAKUIERUNGSHINWEIS !"
 
 #. STRINGS.CODEX.EXOBASES.HEADER_1
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME"
-#| msgid "Building broken"
 msgctxt "STRINGS.CODEX.EXOBASES.HEADER_1"
 msgid "Building Rockets"
-msgstr "Objekt beschädigt"
+msgstr "Raketenbau"
 
 #. STRINGS.CODEX.EXOBASES.HEADER_2
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION"
-#| msgid "Space Race"
 msgctxt "STRINGS.CODEX.EXOBASES.HEADER_2"
 msgid "Space Travel"
-msgstr "Weltraumrennen"
+msgstr "Weltraumreisen"
 
 #. STRINGS.CODEX.EXOBASES.HEADER_3
-#, fuzzy
-#| msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.BUILDMENUTITLE"
-#| msgid "Ore Transport"
 msgctxt "STRINGS.CODEX.EXOBASES.HEADER_3"
 msgid "Space Transport"
-msgstr "Erztansport"
+msgstr "Weltraumtransport"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_1"
@@ -21863,12 +21650,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.EXOBASES.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
-#| msgid "<link=\"SPACEHEATER\">Space Heater</link>"
 msgctxt "STRINGS.CODEX.EXOBASES.TITLE"
 msgid "<link=\"EXOBASES\">Space Travel</link>"
-msgstr "<link=\"SPACEHEATER\">Raumheizung</link>"
+msgstr "<link=\"EXOBASES\">Weltraumreisen</link>"
 
 #. STRINGS.CODEX.GASGRASS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.GASGRASS.BODY.CONTAINER1"
@@ -21904,12 +21688,9 @@ msgstr ""
 "dem intern transportierten Chlor und der äußeren Umgebung zu vermeiden."
 
 #. STRINGS.CODEX.GASGRASS.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME"
-#| msgid "Critter Feeder"
 msgctxt "STRINGS.CODEX.GASGRASS.SUBTITLE"
 msgid "Critter Feed"
-msgstr "Tierfütterer"
+msgstr "Tierfutter"
 
 # Punkt ist falsch im Englischen !?
 #. STRINGS.CODEX.GASGRASS.TITLE
