@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-06-03 14:40+0200\n"
+"PO-Revision-Date: 2021-06-03 18:47+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -21820,20 +21820,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE"
-#| msgid "Edible Plant"
 msgctxt "STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "Essbare Pflanze"
 
 #. STRINGS.CODEX.GRUBFRUITPLANT.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.PLANETS.SALTDESERTPLANET.NAME"
-#| msgid "Arid Planet"
 msgctxt "STRINGS.CODEX.GRUBFRUITPLANT.TITLE"
 msgid "Grubfruit Plant"
-msgstr "Öder Planet"
+msgstr "Wühlfruchtpflanze"
 
 #. STRINGS.CODEX.HATCH.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.HATCH.BODY.CONTAINER1"
@@ -22228,9 +22222,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.HEXALENT.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BLUFFBRIAR.SUBTITLE"
-#| msgid "Decorative Plant"
 msgctxt "STRINGS.CODEX.HEXALENT.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "Dekorative Pflanze"
@@ -22238,7 +22229,7 @@ msgstr "Dekorative Pflanze"
 #. STRINGS.CODEX.HEXALENT.TITLE
 msgctxt "STRINGS.CODEX.HEXALENT.TITLE"
 msgid "Hexalent"
-msgstr ""
+msgstr "Hexalent"
 
 #. STRINGS.CODEX.HYDROCACTUS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.HYDROCACTUS.BODY.CONTAINER1"
@@ -22246,20 +22237,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.HYDROCACTUS.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.GASGRASS.SUBTITLE"
-#| msgid "Plant"
 msgctxt "STRINGS.CODEX.HYDROCACTUS.SUBTITLE"
 msgid "Plant"
 msgstr "Pflanze"
 
 #. STRINGS.CODEX.HYDROCACTUS.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.MISC.TAGS.OIL"
-#| msgid "Hydrocarbon"
 msgctxt "STRINGS.CODEX.HYDROCACTUS.TITLE"
 msgid "Hydrocactus"
-msgstr "Kohlenwasserstoff"
+msgstr "Wasserkaktus"
 
 #. STRINGS.CODEX.JUMPINGJOYA.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.JUMPINGJOYA.BODY.CONTAINER1"
@@ -22380,9 +22365,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.MELLOWMALLOW.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BLUFFBRIAR.SUBTITLE"
-#| msgid "Decorative Plant"
 msgctxt "STRINGS.CODEX.MELLOWMALLOW.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "Dekorative Pflanze"
@@ -22390,7 +22372,7 @@ msgstr "Dekorative Pflanze"
 #. STRINGS.CODEX.MELLOWMALLOW.TITLE
 msgctxt "STRINGS.CODEX.MELLOWMALLOW.TITLE"
 msgid "Mellow Mallow"
-msgstr ""
+msgstr "Milde Malve"
 
 #. STRINGS.CODEX.MIRTHLEAF.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MIRTHLEAF.BODY.CONTAINER1"
@@ -22630,18 +22612,6 @@ msgid "Calculations Complete"
 msgstr "Berechnungen abgeschlossen"
 
 #. STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.BODY
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.BODY"
-#| msgid ""
-#| "My Duplicant's investigations into the surrounding space have yielded some "
-#| "interesting results. We are not alone!... At least on a planetary level. We "
-#| "seem to be in a \"Cluster of Worlds\" - a collection of other planetoids my "
-#| "Duplicants can now explore.\n"
-#| "\n"
-#| "Since resources on this world are finite, I must build the necessary "
-#| "infrastructure to facilitate exploration and transportation between worlds "
-#| "in order to ensure my colony's survival. But first I should send out a "
-#| "robotic scout to further investigate these new worlds."
 msgctxt "STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.BODY"
 msgid ""
 "My Duplicant's investigations into the surrounding space have yielded some "
@@ -22660,9 +22630,7 @@ msgstr ""
 "\n"
 "Da die Ressourcen auf dieser Welt endlich sind, muss ich um das Überleben "
 "meiner Kolonie zu sichern, die notwendige Infrastruktur aufbauen, um die "
-"Erkundung und den Transport zwischen den Welten zu erleichtern. Aber zuerst "
-"sollte ich einen  robotischen Späher aussenden, um diese neuen Welten weiter zu "
-"erforschen."
+"Erkundung und den Transport zwischen den Welten zu erleichtern."
 
 #. STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.CLUSTERWORLDS.TITLE"
@@ -23393,20 +23361,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.NOSHBEAN.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE"
-#| msgid "Edible Plant"
 msgctxt "STRINGS.CODEX.NOSHBEAN.SUBTITLE"
 msgid "Edible Plant"
 msgstr "Essbare Pflanze"
 
 #. STRINGS.CODEX.NOSHBEAN.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.ROOMS.TYPES.POWER_PLANT.NAME"
-#| msgid "Power Plant"
 msgctxt "STRINGS.CODEX.NOSHBEAN.TITLE"
 msgid "Nosh Bean Plant"
-msgstr "Kraftwerk"
+msgstr "Happsbohnenpflanze"
 
 #. STRINGS.CODEX.OXYFERN.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.OXYFERN.BODY.CONTAINER1"
@@ -23420,9 +23382,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.OXYFERN.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.GASGRASS.SUBTITLE"
-#| msgid "Plant"
 msgctxt "STRINGS.CODEX.OXYFERN.SUBTITLE"
 msgid "Plant"
 msgstr "Pflanze"
@@ -24285,20 +24244,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.SATURNCRITTERTRAP.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.EAT_MEAT"
-#| msgid "Carnivore"
 msgctxt "STRINGS.CODEX.SATURNCRITTERTRAP.SUBTITLE"
 msgid "Carnivorous Plant"
-msgstr "Fleischfresser"
+msgstr "Fleischfressende Pflanze"
 
 #. STRINGS.CODEX.SATURNCRITTERTRAP.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.CLEANER.SUBTITLE"
-#| msgid "Critter Morph"
 msgctxt "STRINGS.CODEX.SATURNCRITTERTRAP.TITLE"
 msgid "Saturn Critter Trap"
-msgstr "Tier-Gestalt"
+msgstr "Saturn-Tier-Falle"
 
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER1"
@@ -24494,20 +24447,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE"
-#| msgid "Edible Plant"
 msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE"
 msgid "Edible Plant"
 msgstr "Essbare Pflanze"
 
 #. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.WORMPLANT.NAME"
-#| msgid "<link=\"WORMPLANT\">Spindly Grubfruit Plant</link>"
 msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.TITLE"
 msgid "Spindly Grubfruit Plant"
-msgstr "<link=\"WORMPLANT\">Spindeldürre Wühlfruchtpflanze</link>"
+msgstr "Spindeldürre Wühlfruchtpflanze"
 
 #. STRINGS.CODEX.SPORECHID.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SPORECHID.BODY.CONTAINER1"
@@ -24515,17 +24462,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.SPORECHID.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.DIVERGENT_WILL_TEND.NAME"
-#| msgid "Moving to Plant"
 msgctxt "STRINGS.CODEX.SPORECHID.SUBTITLE"
 msgid "Poisonous Plant"
-msgstr "Geht zu einer Pflanze"
+msgstr "Giftpflanze"
 
 #. STRINGS.CODEX.SPORECHID.TITLE
 msgctxt "STRINGS.CODEX.SPORECHID.TITLE"
 msgid "Sporechid"
-msgstr ""
+msgstr "Sporenblüte"
 
 #. STRINGS.CODEX.SQUEAKY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SQUEAKY.BODY.CONTAINER1"
@@ -24684,20 +24628,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.SWAMPCHARD.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE"
-#| msgid "Edible Plant"
 msgctxt "STRINGS.CODEX.SWAMPCHARD.SUBTITLE"
 msgid "Edible Plant"
 msgstr "Essbare Pflanze"
 
 #. STRINGS.CODEX.SWAMPCHARD.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME"
-#| msgid "Swamp Cluster"
 msgctxt "STRINGS.CODEX.SWAMPCHARD.TITLE"
 msgid "Swamp Chard"
-msgstr "Sumpf-Cluster"
+msgstr "Sumpfmangold"
 
 #. STRINGS.CODEX.SWEEPY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SWEEPY.BODY.CONTAINER1"
@@ -24823,20 +24761,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.TRANQUILTOES.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.BLUFFBRIAR.SUBTITLE"
-#| msgid "Decorative Plant"
 msgctxt "STRINGS.CODEX.TRANQUILTOES.SUBTITLE"
 msgid "Decorative Plant"
 msgstr "Dekorative Pflanze"
 
 #. STRINGS.CODEX.TRANQUILTOES.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TRAVELTUBES.BUILDMENUTITLE"
-#| msgid "Transit Tubes"
 msgctxt "STRINGS.CODEX.TRANQUILTOES.TITLE"
 msgid "Tranquil Toes"
-msgstr "Transitrohre"
+msgstr "Gelassene Zehen"
 
 #. STRINGS.CODEX.TROPICAL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.TROPICAL.BODY.CONTAINER1"
@@ -25929,20 +25861,14 @@ msgid "Growth Speed"
 msgstr "Wachstumsgeschwindigkeit"
 
 #. STRINGS.CREATURES.ATTRIBUTES.MATURITYMAX.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATS.SCALEGROWTH.TOOLTIP"
-#| msgid "The amount of time required for this critter to regrow its scales"
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.MATURITYMAX.DESC"
 msgid "The amount of time it takes this plant to grow."
-msgstr "Dauer bis die Schuppen dieses Tier wieder nachwachsen"
+msgstr "Die Zeit, die diese Pflanze braucht, um zu wachsen."
 
 #. STRINGS.CREATURES.ATTRIBUTES.MATURITYMAX.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_SIMPLE"
-#| msgid "Life Cycle: {0}"
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.MATURITYMAX.NAME"
 msgid "Life Cycle"
-msgstr "Lebenszyklus: {0}"
+msgstr "Lebenszyklus"
 
 #. STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.DESC
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.DESC"
@@ -26524,12 +26450,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.EXTREMELYTIGHT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOCIALIZED.NAME"
-#| msgid "Socialized"
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.EXTREMELYTIGHT.NAME"
 msgid "Superspecialized"
-msgstr "Sozialisiert"
+msgstr "Superspezialisiert"
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.HEAVYFRUIT.DESCRIPTION
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.HEAVYFRUIT.DESCRIPTION"
@@ -26551,12 +26474,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.LOADEDWITHFRUIT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.BASIC_MUTATION_A.NAME"
-#| msgid "Plentiful"
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.LOADEDWITHFRUIT.NAME"
 msgid "Bountiful"
-msgstr "Reichlich"
+msgstr "Großzügig"
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.MODERATELYLOOSE.DESCRIPTION
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.MODERATELYLOOSE.DESCRIPTION"
@@ -26571,22 +26491,18 @@ msgid "Easygoing"
 msgstr ""
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.MODERATELYTIGHT.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.BASIC_MUTATION_A.DESCRIPTION"
-#| msgid "A plant with this mutation produces a higher yield of crop"
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.MODERATELYTIGHT.DESCRIPTION"
 msgid ""
 "Plants with this mutation are pickier about their conditions but yield more "
 "produce."
-msgstr "Eine Pflanze mit dieser Mutation produziert einen höheren Ernteertrag"
+msgstr ""
+"Pflanzen mit dieser Mutation sind wählerischer, was die Bedingungen angeht, "
+"liefern aber mehr Ertrag."
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.MODERATELYTIGHT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOCIALIZED.NAME"
-#| msgid "Socialized"
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.MODERATELYTIGHT.NAME"
 msgid "Specialized"
-msgstr "Sozialisiert"
+msgstr "Spezialisiert"
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.NONE.NAME
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.NONE.NAME"
@@ -26594,12 +26510,9 @@ msgid "Original"
 msgstr "Original"
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.PLANT_NAME_FMT
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.GENETICS.HEADER_1"
-#| msgid "Plant Mutations"
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.PLANT_NAME_FMT"
 msgid "{PlantName} ({MutationList})"
-msgstr "Pflanzenmutationen"
+msgstr "{PlantName} ({MutationList})"
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.ROTTENHEAPS.DESCRIPTION
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.ROTTENHEAPS.DESCRIPTION"
@@ -26621,12 +26534,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.SLOWBURN.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.MODIFIERS.WILD.NAME"
-#| msgid "Wild"
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.SLOWBURN.NAME"
 msgid "Wildish"
-msgstr "Wild"
+msgstr "Verwildert"
 
 #. STRINGS.CREATURES.PLANT_MUTATIONS.SUNNYSPEED.DESCRIPTION
 msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.SUNNYSPEED.DESCRIPTION"
@@ -26651,7 +26561,7 @@ msgid ""
 "This seed must be identified at the <link=\"GENETICANALYSISSTATION\">Botanical "
 "Analyzer</link> before it can be planted."
 msgstr ""
-"Dieser Samen muss an einem <link=\"GENETICANALYSISSTATION\">Botanischer "
+"Dieser Samen muss an einem <link=\"GENETICANALYSISSTATION\">Botanischen "
 "Analysator</link> identifiziert werden, bevor er gepflanzt werden kann."
 
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC
@@ -26949,25 +26859,16 @@ msgid "<link=\"CRAB\">Pokeshell</link>"
 msgstr "<link=\"CRAB\">Pokepanzer</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DESC"
-#| msgid ""
-#| "Critter Traps are carnivorous plants that snatch up unsuspecting critters "
-#| "and consume them, releasing <link=\"HYDROGEN\">Hydrogen</link> as waste."
 msgctxt "STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DESC"
 msgid ""
 "Critter Traps are carnivorous plants that trap unsuspecting critters and "
 "consume them, releasing <link=\"HYDROGEN\">Hydrogen</link> as waste."
 msgstr ""
-"Tierfallen sind fleischfressende Pflanzen, die sich ahnungslose Tiere schnappen "
+"Tierfallen sind fleischfressende Pflanzen, die sich ahnungslose Tiere fangen "
 "und sie verzehren, wobei sie <link=\"HYDROGEN\">Wasserstoff</link> als Abfall "
 "freisetzen."
 
 #. STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DOMESTICATEDDESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DOMESTICATEDDESC"
-#| msgid ""
-#| "This plant eat critters and produces <link=\"HYDROGEN\">Hydrogen</link>."
 msgctxt "STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DOMESTICATEDDESC"
 msgid "This plant eats critters and produces <link=\"HYDROGEN\">Hydrogen</link>."
 msgstr ""
@@ -26976,7 +26877,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.NAME"
 msgid "<link=\"CRITTERTRAPPLANT\">Saturn Critter Trap</link>"
-msgstr "<link=\"CRITTERTRAPPLANT\">Saturn Tier-Falle</link>"
+msgstr "<link=\"CRITTERTRAPPLANT\">Saturn-Tier-Falle</link>"
 
 #. STRINGS.CREATURES.SPECIES.CYLINDRICA.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CYLINDRICA.DESC"
@@ -27443,26 +27344,18 @@ msgid "<link=\"GEYSERGENERICMOLTENALUMINUM\">Aluminum Volcano</link>"
 msgstr "<link=\"GEYSERGENERICMOLTENALUMINUM\">Aluminumvulkan</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COBALT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_GOLD.DESC"
-#| msgid ""
-#| "A large volcano that periodically erupts with molten <link=\"MOLTENGOLD"
-#| "\">Gold</link>."
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COBALT.DESC"
 msgid ""
 "A large volcano that periodically erupts with molten <link=\"MOLTENCOBALT"
 "\">Cobalt</link>."
 msgstr ""
-"Ein großer Vulkan, der periodisch mit geschmolzenem <link=\"MOLTENGOLD\">Gold</"
-"link> ausbricht."
+"Ein großer Vulkan, der periodisch mit geschmolzenem <link=\"MOLTENCOBALT"
+"\">Kobalt</link> ausbricht."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COBALT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_GOLD.NAME"
-#| msgid "<link=\"GEYSERGENERICMOLTENGOLD\">Gold Volcano</link>"
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COBALT.NAME"
 msgid "<link=\"GEYSERGENERICMOLTENCOBALT\">Cobalt Volcano</link>"
-msgstr "<link=\"GEYSERGENERICMOLTENGOLD\">Gold-Vulkan</link>"
+msgstr "<link=\"GEYSERGENERICMOLTENCOBALT\">Kobalt-Vulkan</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COPPER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COPPER.DESC"
@@ -28970,16 +28863,16 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Saturn Critter Trap Seed."
 msgstr ""
-"Der <link=\"PLANTS\">Samen</link> einer <link=\"CRITTERTRAPPLANT\">Saturn Tier-"
+"Der <link=\"PLANTS\">Samen</link> einer <link=\"CRITTERTRAPPLANT\">Saturn-Tier-"
 "Falle</link>.\n"
 "\n"
-"Beim Ausgraben von vergrabenen Gegenständen können Saturn Tier-Fallen-Samen "
+"Beim Ausgraben von vergrabenen Gegenständen können Saturn-Tier-Fallen-Samen "
 "gefunden werden."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.CRITTERTRAPPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CRITTERTRAPPLANT.NAME"
 msgid "<link=\"CRITTERTRAPPLANT\">Saturn Critter Trap Seed</link>"
-msgstr "<link=\"CRITTERTRAPPLANT\">Saturn Critter Trap Seed</link>"
+msgstr "<link=\"CRITTERTRAPPLANT\">Saturn-Tier-Fallen-Samen</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.CYLINDRICA.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CYLINDRICA.DESC"
@@ -29471,18 +29364,14 @@ msgid "<link=\"WORMPLANT\">Grubfruit Plant</link>"
 msgstr "<link=\"WORMPLANT\">Wühlfruchtpflanze</link>"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPFORAGEPLANTPLANTED.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.SWAMPFORAGEPLANTPLANTED.DESC"
-#| msgid ""
-#| "Swamp Chards are incapable of propagating but can be harvested for a single "
-#| "high quality and calorie dense <link=\"FOOD\">Food</link> serving."
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPFORAGEPLANTPLANTED.DESC"
 msgid ""
 "Swamp Chards are incapable of propagating but can be harvested for a single low "
 "quality and calorie dense <link=\"FOOD\">Food</link> serving."
 msgstr ""
-"Sumpfmangold kann sich nicht vermehren, kann aber für eine einzelne Portion "
-"<link=\"FOOD\">Nahrung</link> geerntet werden."
+"Sumpfmangold ist nicht vermehrungsfähig, kann aber für eine einzige "
+"minderwertige und kaloriendichte <link=\"FOOD\">Nahrungsmittel</link>-Portion "
+"geerntet werden."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPFORAGEPLANTPLANTED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPFORAGEPLANTPLANTED.NAME"
@@ -29548,7 +29437,7 @@ msgstr "Wachstumsbonus"
 #. STRINGS.CREATURES.SPECIES.TOEPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.TOEPLANT.NAME"
 msgid "<link=\"TOEPLANT\">Tranquil Toes</link>"
-msgstr "<link=\"TOEPLANT\">Gelassene Zehe</link>"
+msgstr "<link=\"TOEPLANT\">Gelassene Zehen</link>"
 
 #. STRINGS.CREATURES.SPECIES.TOEPLANT.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.TOEPLANT.WILT_PENALTY"
@@ -30197,48 +30086,32 @@ msgstr ""
 "style> erfüllt sind"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_NONRADIATED.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME"
-#| msgid "    • Irrigation"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_NONRADIATED.NAME"
 msgid "    • Low Radiation Levels"
-msgstr "    • Bewässerung"
+msgstr "    • Niedrige Strahlungswerte"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_NONRADIATED.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
-#| msgid ""
-#| "Growth will resume when <style=\"KKeyword\">Fertilization</style> "
-#| "requirements are met"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_NONRADIATED.TOOLTIP"
 msgid ""
 "Growth will resume when <style=\"KKeyword\">Radiation</style> requirements are "
 "met"
 msgstr ""
 "Das Wachstum wird fortgesetzt, wenn die <style=\"KKeyword"
-"\">Düngungsanforderungen</style> erfüllt sind"
+"\">Strahlungsanforderungen</style> erfüllt sind"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_RADIATED.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME"
-#| msgid "    • Irrigation"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_RADIATED.NAME"
 msgid "    • High Radiation Levels"
-msgstr "    • Bewässerung"
+msgstr "    • Hohe Strahlungswerte"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_RADIATED.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
-#| msgid ""
-#| "Growth will resume when <style=\"KKeyword\">Fertilization</style> "
-#| "requirements are met"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_RADIATED.TOOLTIP"
 msgid ""
 "Growth will resume when <style=\"KKeyword\">Radiation</style> requirements are "
 "met"
 msgstr ""
 "Das Wachstum wird fortgesetzt, wenn die <style=\"KKeyword"
-"\">Düngungsanforderungen</style> erfüllt sind"
+"\">Strahlungsanforderungen</style> erfüllt sind"
 
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.NAME"
@@ -30272,10 +30145,6 @@ msgstr "Diese Kreatur verdaut eine große Mahlzeit"
 
 # TODO: Hier steht bewusst nicht "Objekt", damit es platztechnisch passt.
 #. STRINGS.CREATURES.STATUSITEMS.DISABLED.NAME
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION"
-#| msgid "Disabled"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DISABLED.NAME"
 msgid "Disabled"
 msgstr "Deaktiviert"
@@ -30873,12 +30742,9 @@ msgstr ""
 "Dieses süße Tierchen ist alt geworden und verstirbt in <b>{TimeUntilDeath}</b>"
 
 #. STRINGS.CREATURES.STATUSITEMS.ORIGINALPLANTMUTATION.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.NONE.NAME"
-#| msgid "Original"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ORIGINALPLANTMUTATION.NAME"
 msgid "Original Plant"
-msgstr "Original"
+msgstr "Originalpflanze"
 
 #. STRINGS.CREATURES.STATUSITEMS.ORIGINALPLANTMUTATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ORIGINALPLANTMUTATION.TOOLTIP"
@@ -31087,12 +30953,9 @@ msgid "This critter is replenishing its <style=\"KKeyword\">Stamina</style>"
 msgstr "Diese Kreatur regeneriert ihre <style=\"KKeyword\">Ausdauer</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPECIFICPLANTMUTATION.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.GENETICS.HEADER_1"
-#| msgid "Plant Mutations"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPECIFICPLANTMUTATION.NAME"
 msgid "Mutant Plant: {MutationName}"
-msgstr "Pflanzenmutationen"
+msgstr "Mutierte Pflanze: {MutationName}"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPECIFICPLANTMUTATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPECIFICPLANTMUTATION.TOOLTIP"
@@ -31232,26 +31095,19 @@ msgid "This critter has been contained and cannot escape"
 msgstr "Diese Kreatur ist eingeschlossen und kann sich nicht bewegen"
 
 #. STRINGS.CREATURES.STATUSITEMS.UNKNOWNMUTATION.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.GENETICS.HEADER_1"
-#| msgid "Plant Mutations"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNKNOWNMUTATION.NAME"
 msgid "Unknown Mutation"
-msgstr "Pflanzenmutationen"
+msgstr "Unbekannte Mutation"
 
 #. STRINGS.CREATURES.STATUSITEMS.UNKNOWNMUTATION.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.UNIDENTIFIED_DESC"
-#| msgid ""
-#| "This seed must be identified at the <link=\"GENETICANALYSISSTATION"
-#| "\">Botanical Analyzer</link> before it can be planted."
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNKNOWNMUTATION.TOOLTIP"
 msgid ""
 "This seed carries some unexpected genetic markers. Analyze it at the <link="
 "\"GENETICANALYSISSTATION\">Botanical Analyzer</link> to learn its secrets."
 msgstr ""
-"Dieser Samen muss an einem <link=\"GENETICANALYSISSTATION\">Botanischer "
-"Analysator</link> identifiziert werden, bevor er gepflanzt werden kann."
+"Dieser Samen trägt einige unerwartete genetische Marker. Analysieren Sie ihn "
+"mit dem <link=\"GENETICANALYSISSTATION\">Botanischen Analysator</link>, um "
+"seine Geheimnisse zu erfahren."
 
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME"
@@ -31259,11 +31115,6 @@ msgid "Unrefrigerated"
 msgstr "Ungekühlt"
 
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP"
-#| msgid ""
-#| "<style=\"KKeyword\">Temperatures</style> above <b>{RotTemperature}</b> spoil "
-#| "food more quickly"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP"
 msgid ""
 "This food is warm\n"
@@ -31271,6 +31122,8 @@ msgid ""
 "<style=\"KKeyword\">Temperatures</style> above <b>{RotTemperature}</b> spoil "
 "food more quickly"
 msgstr ""
+"Diese Nahrung ist warm\n"
+"\n"
 "Nahrung verdirbt schneller bei <style=\"KKeyword\">Temperaturen</style> über "
 "<b>{RotTemperature}</b>"
 
@@ -31637,12 +31490,9 @@ msgid "Change in Decor relative to the base crop"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORBONUS.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
-#| msgid "Decor Morale Bonus"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORBONUS.NAME"
 msgid "Decor Bonus"
-msgstr "Dekorations-Moralbonus"
+msgstr "Dekorations-Bonus"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
@@ -31756,12 +31606,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FERTILIZERUSAGEMOD.NAME
-#, fuzzy
-#| msgctxt "STRINGS.MISC.TAGS.FARMINGMATERIAL"
-#| msgid "Fertilizer"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FERTILIZERUSAGEMOD.NAME"
 msgid "Fertilizer Usage"
-msgstr "Düngemittel"
+msgstr "Düngereinsatz"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.DESC"
@@ -31881,20 +31728,14 @@ msgid "Time it takes an unskilled Duplicant to harvest this plant's fruit"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HARVESTTIME.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.TIMER_SIDE_SCREEN.ON"
-#| msgid "Green Duration"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HARVESTTIME.NAME"
 msgid "Harvest Duration"
-msgstr "Grüne Dauer"
+msgstr "Erntedauer"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HEIGHT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.RIGHT"
-#| msgid "Right"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HEIGHT.NAME"
 msgid "Height"
-msgstr "Rechts"
+msgstr "Größe"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC"
@@ -32051,12 +31892,9 @@ msgid "Largest amount of ambient Radiation this plant can tolerate"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXRADIATIONTHRESHOLD.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.RADIATION.HEADER_1"
-#| msgid "Radiation"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXRADIATIONTHRESHOLD.NAME"
 msgid "Maximum Radiation"
-msgstr "Strahlung"
+msgstr "Maximale Strahlung"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC"
@@ -32091,28 +31929,21 @@ msgid "Minimum lux this plant requires for growth"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MINLIGHTLUX.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.LIGHT.HEADER_1"
-#| msgid "Light"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MINLIGHTLUX.NAME"
 msgid "Light"
 msgstr "Licht"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MINRADIATIONTHRESHOLD.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATS.SCALEGROWTH.TOOLTIP"
-#| msgid "The amount of time required for this critter to regrow its scales"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MINRADIATIONTHRESHOLD.DESC"
 msgid "Smallest amount of ambient Radiation required for this plant to grow"
-msgstr "Dauer bis die Schuppen dieses Tier wieder nachwachsen"
+msgstr ""
+"Geringste Menge an Umgebungsstrahlung, die für das Wachstum dieser Pflanze "
+"erforderlich ist"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MINRADIATIONTHRESHOLD.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.RADIATION"
-#| msgid "Ambient Radiation"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MINRADIATIONTHRESHOLD.NAME"
 msgid "Minimum Radiation"
-msgstr "Umgebungsstrahlung"
+msgstr "Minimale Strahlung"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MODIFIER_ENTRY
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MODIFIER_ENTRY"
