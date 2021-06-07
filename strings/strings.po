@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-06-03 18:47+0200\n"
+"PO-Revision-Date: 2021-06-07 20:59+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -32322,12 +32322,9 @@ msgid "Variance growth temperature relative to the base crop"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.WILTTEMPRANGEMOD.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDHOTENV.NAME"
-#| msgid "Target Temperature Reached"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.WILTTEMPRANGEMOD.NAME"
 msgid "Viable Temperature Range"
-msgstr "Zieltemperatur erreicht"
+msgstr "Nutzbarer Temperaturbereich"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.YIELDAMOUNT.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.YIELDAMOUNT.DESC"
@@ -32335,12 +32332,9 @@ msgid "Plant production relative to the base crop"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.YIELDAMOUNT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.COMPOSITION_SMALL_AMOUNT"
-#| msgid "Trace Amount"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.YIELDAMOUNT.NAME"
 msgid "Yield Amount"
-msgstr "Spurenmenge"
+msgstr "Ertragsmenge"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.ARCHETYPE_NAME"
@@ -34448,28 +34442,20 @@ msgid "This Duplicant is keeping their spacecraft on course"
 msgstr "Dieser Duplikant hält ihr Raumschiff auf Kurs"
 
 #. STRINGS.DUPLICANTS.CHORES.ROCKETENTEREXIT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.BURDEN_TOTAL.NAME"
-#| msgid "Rocket burden: "
 msgctxt "STRINGS.DUPLICANTS.CHORES.ROCKETENTEREXIT.NAME"
 msgid "Rocket Recrewing"
-msgstr "Raketenlast: "
+msgstr "Rakete besteigen"
 
 #. STRINGS.DUPLICANTS.CHORES.ROCKETENTEREXIT.STATUS
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME"
-#| msgid "Loading Rocket"
 msgctxt "STRINGS.DUPLICANTS.CHORES.ROCKETENTEREXIT.STATUS"
 msgid "Recrewing Rocket"
-msgstr "Rakete beladen"
+msgstr "Rakete besteigen"
 
 #. STRINGS.DUPLICANTS.CHORES.ROCKETENTEREXIT.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.ART.TOOLTIP"
-#| msgid "This Duplicant is going to work on their art"
 msgctxt "STRINGS.DUPLICANTS.CHORES.ROCKETENTEREXIT.TOOLTIP"
 msgid "This Duplicant is getting into (or out of) their assigned rocket"
-msgstr "Dieser Duplikant wird an seinem Kunstwerk arbeiten"
+msgstr ""
+"Dieser Duplikant steigt in seine zugewiesene Rakete ein (oder aus ihr aus)"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME"
@@ -34546,7 +34532,7 @@ msgstr ""
 "\n"
 "Erhöht die <style=\"KKeyword\">Inkubationsrate</style>\n"
 "\n"
-"Duplikanten müssen über Fertigkeit <style=\"KKeyword\">Viehzucht I</style> "
+"Duplikanten müssen die Fertigkeit <link=\"RANCHER\">Viehzucht I</link> "
 "verfügen, um Eier besingen zu können"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
@@ -38102,49 +38088,31 @@ msgstr ""
 "Wow, Natur ist echt toll!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.CONTAMINATED
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.NAME"
-#| msgid "Contaminated Air"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.CONTAMINATED"
 msgid "Contaminated Air"
 msgstr "Kontaminierte Luft"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.NORMAL
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME"
-#| msgid "Sterile Atmosphere"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.NORMAL"
 msgid "Normal Atmosphere"
-msgstr "Sterile Atmosphäre"
+msgstr "Normale Atmosphäre"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.STERILE
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME"
-#| msgid "Sterile Atmosphere"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.STERILE"
 msgid "Sterile Atmosphere"
 msgstr "Sterile Atmosphäre"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.FROZEN
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.DEATHS.FROZEN.NAME"
-#| msgid "Frozen"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.FROZEN"
 msgid "Frozen"
-msgstr "Erfroren"
+msgstr "Gefroren"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.REFRIGERATED
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME"
-#| msgid "Refrigerated"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.REFRIGERATED"
 msgid "Refrigerated"
 msgstr "Gekühlt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.UNREFRIGERATED
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME"
-#| msgid "Unrefrigerated"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.UNREFRIGERATED"
 msgid "Unrefrigerated"
 msgstr "Ungekühlt"
@@ -40034,26 +40002,18 @@ msgid "<link=\"SENIORPILOT\">Rocket Piloting II</link>"
 msgstr "<link=\"SENIORPILOT\">Raketensteuerung II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION"
-#| msgid ""
-#| "Enables Duplicants to conduct research from within a rocket using the <link="
-#| "\"COSMICRESEARCHCENTER\">Virtual Planetarium</link>"
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION"
 msgid ""
 "Enables Duplicants to conduct research from within a rocket using the <link="
 "\"ORBITALRESEARCHCENTER\">Orbital Microlab</link>"
 msgstr ""
 "Ermöglicht Duplikanten die Forschung aus einer Rakete heraus unter Verwendung "
-"des <link=\"COSMICRESEARCHCENTER\">Virtuellen Planetariums</link> durchzuführen"
+"des <link=\"ORBITALRESEARCHCENTER\">Orbitalen Mikrolabors</link> durchzuführen"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.NAME"
-#| msgid "<link=\"RESEARCHER\">Field Research</link>"
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME"
 msgid "<link=\"SPACERESEARCHER\">Orbital Researcher</link>"
-msgstr "<link=\"RESEARCHER\">Feldstudien</link>"
+msgstr "<link=\"SPACERESEARCHER\">Weltraumforscher</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION"
@@ -40404,12 +40364,10 @@ msgid "Analyzing Plant Genes"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGGENES.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP"
-#| msgid "This Duplicant is grieving the loss of a friend"
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGGENES.TOOLTIP"
 msgid "This duplicant is peering deep into the genetic code of an odd seed"
-msgstr "Dieser Duplikant trauert um einen Freund"
+msgstr ""
+"Dieser Duplikant blickt tief in den genetischen Code eines seltsamen Samens"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME"
@@ -48581,16 +48539,6 @@ msgid "{friend} is thawed!"
 msgstr "{friend} ist aufgetaut!"
 
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION"
-#| msgid ""
-#| "{dupe} has made an amazing discovery! A barely working <link=\"CRYOTANK"
-#| "\">Cryotank</link> has been uncovered containing a {friend} inside in a "
-#| "frozen state.\n"
-#| "\n"
-#| "{dupe} was successful in thawing {friend} and this encounter has filled both "
-#| "Duplicants with a sense of hope, something they will desperately need to "
-#| "keep their <link=\"MORALE\">Morale</link> up when facing the dangers ahead."
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION"
 msgid ""
 "{dupe} has made an amazing discovery! A barely working <link=\"CRYOTANK"
@@ -48602,7 +48550,7 @@ msgid ""
 "their <link=\"MORALE\">Morale</link> up when facing the dangers ahead."
 msgstr ""
 "{dupe} hat eine erstaunliche Entdeckung gemacht! Ein kaum funktionierender "
-"<link=\"CRYOTANK\">Kryotank</link> wurde entdeckt, der einen {friend} in "
+"<link=\"CRYOTANK\">Kryotank 3000</link> wurde entdeckt, der einen {friend} in "
 "gefrorenem Zustand enthält.\n"
 "\n"
 "{dupe} gelang es, {friend} aufzutauen und diese Begegnung hat beide Duplikanten "
@@ -52290,20 +52238,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.NAME"
-#| msgid "Analysis Complete"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME"
 msgid "Seed Analysis Complete"
-msgstr "Analyse abgeschlossen"
+msgstr "Samenanalyse abgeschlossen"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.NAME"
-#| msgid "Analysis Complete"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.TOOLTIP"
 msgid "{Plant} Analysis complete!"
-msgstr "Analyse abgeschlossen"
+msgstr "Analyse von {Plant} abgeschlossen!"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
@@ -52719,18 +52661,13 @@ msgid "New Mutant Seed Discovered"
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.UNIDENTIFIED_DESC"
-#| msgid ""
-#| "This seed must be identified at the <link=\"GENETICANALYSISSTATION"
-#| "\">Botanical Analyzer</link> before it can be planted."
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP"
 msgid ""
 "A new mutant variety of the {Plant} has been found. Analyze it at the <link="
 "\"GENETICANALYSISSTATION\">Botanical Analyzer</link> to learn more!"
 msgstr ""
-"Dieser Samen muss an einem <link=\"GENETICANALYSISSTATION\">Botanischer "
-"Analysator</link> identifiziert werden, bevor er gepflanzt werden kann."
+"Eine neue mutierte Sorte von {Plant} wurde gefunden. Analysiere sie am <link="
+"\"GENETICANALYSISSTATION\">Botanischen Analysator</link>, um mehr zu erfahren!"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME"
@@ -52958,18 +52895,13 @@ msgid "Reactor Meltdown"
 msgstr "Reaktorkernschmelze"
 
 #. STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.TOOLTIP"
-#| msgid ""
-#| "A Research Reactor has overheated and is meltingdown! Extreme radiation is "
-#| "flooding the area around it."
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.TOOLTIP"
 msgid ""
 "A Research Reactor has overheated and is melting down! Extreme radiation is "
 "flooding the area"
 msgstr ""
 "Ein Forschungsreaktor ist überhitzt und schmilzt! Extreme Strahlung überflutet "
-"das Gebiet um ihn herum."
+"das Gebiet um ihn herum"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
@@ -53122,20 +53054,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
-#| msgid "Tutorial: Scheduling"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME"
 msgid "Tutorial: Space Travel"
-msgstr "Anleitung: Zeitplanung"
+msgstr "Anleitung: Weltraumreisen"
 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.DIGGING.TOOLTIP"
-#| msgid "Notes on buried riches"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.TOOLTIP"
 msgid "Notes on traveling in space"
-msgstr "Notizen zu vergrabenen Schätzen"
+msgstr "Notizen zum Reisen im Weltraum"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY"
@@ -53423,17 +53349,12 @@ msgstr ""
 "Lerne, wie du deine Duplikanten dazu bringst deine Anweisungen zu erledigen"
 
 #. STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.MESSAGEBODY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.MESSAGEBODY"
-#| msgid ""
-#| "The Duplicants' astronomical efforts have uncovered new Planetoids:\n"
-#| "{0}"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WORLDDETECTED.MESSAGEBODY"
 msgid ""
 "My Duplicants' astronomical efforts have uncovered a new Planetoid:\n"
 "{0}"
 msgstr ""
-"Die astronomischen Bemühungen der Duplikanten haben neue Planetoiden "
+"Die astronomischen Bemühungen meiner Duplikanten haben einen neuen Planetoiden "
 "aufgedeckt:\n"
 "{0}"
 
@@ -57321,12 +57242,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.NAMEGEN.WORLD.SPACECRAFT_PREFIX
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME"
-#| msgid "Spacecraft ready to land"
 msgctxt "STRINGS.NAMEGEN.WORLD.SPACECRAFT_PREFIX"
 msgid "Spacecraft: "
-msgstr "Raumschiffe bereit zur Landung"
+msgstr "Raumschiff: "
 
 #. STRINGS.NAMEGEN.WORLD.SUFFIXES.GENERICLIST
 msgctxt "STRINGS.NAMEGEN.WORLD.SUFFIXES.GENERICLIST"
@@ -57396,15 +57314,6 @@ msgid "No Researchers assigned"
 msgstr "Kein Forscher zugewiesen"
 
 #. STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP"
-#| msgid ""
-#| "The selected research focus requires <style=\"KKeyword\">Advanced Research</"
-#| "style> to complete\n"
-#| "\n"
-#| "Open the <b>Skills Panel</b> <b><color=#F44A4A>[L]</b></color> and teach a "
-#| "Duplicant the <link=\"ADVANCEDRESEARCH\">Advanced Research</link> Skill to "
-#| "use this building"
 msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP"
 msgid ""
 "The selected research focus requires {ResearchType} to complete\n"
@@ -57412,12 +57321,11 @@ msgid ""
 "Open the <b>Skills Panel</b> <b><color=#F44A4A>[L]</b></color> and teach a "
 "Duplicant the {ResearchType} Skill to use this building"
 msgstr ""
-"Der ausgewählte Forschungsschwerpunkt erfordert <style=\"KKeyword"
-"\">fortschrittliche Forschung</style>\n"
+"Der ausgewählte Forschungsschwerpunkt erfordert {ResearchType} zum Abschluss\n"
 "\n"
 "Öffnen das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> und "
-"weisen einem Duplikanten die Fertigkeit <link=\"ADVANCEDRESEARCH"
-"\">fortschrittliche Forschung</link> zu, um dieses Gebäude zu nutzen"
+"weisen einem Duplikanten die Fertigkeit {ResearchType} zu, um dieses Gebäude zu "
+"nutzen"
 
 #. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
 msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
@@ -57492,9 +57400,6 @@ msgstr ""
 "höhere Technologiestufen freizuschalten."
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.DELTA_RESEARCH_POINT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DELTA_RESEARCH_POINT.NAME"
-#| msgid "<style=\"KKeyword\">Atomic  Research</style> Capability"
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DELTA_RESEARCH_POINT.NAME"
 msgid "<style=\"KKeyword\">Atomic Research</style> Capability"
 msgstr "<style=\"KKeyword\">Atomforschungsfähigkeit</style>"
@@ -57542,26 +57447,18 @@ msgid "<style=\"KKeyword\">Lead Suit</style> Pattern"
 msgstr "<style=\"KKeyword\">Blei-Anzug</style>-Muster"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.ORBITAL_RESEARCH_POINT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DELTA_RESEARCH_POINT.DESC"
-#| msgid ""
-#| "Allows <style=\"KKeyword\">Atomic Research</style> points to be accumulated, "
-#| "unlocking higher technology tiers."
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.ORBITAL_RESEARCH_POINT.DESC"
 msgid ""
 "Allows <style=\"KKeyword\">Orbital Research</style> points to be accumulated, "
 "unlocking higher technology tiers."
 msgstr ""
-"Ermöglicht das Ansammeln von <style=\"KKeyword\">Atomforschung</style>, um "
+"Ermöglicht das Ansammeln von <style=\"KKeyword\">Weltraumforschung</style>, um "
 "höhere Technologiestufen freizuschalten."
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.ORBITAL_RESEARCH_POINT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DELTA_RESEARCH_POINT.NAME"
-#| msgid "<style=\"KKeyword\">Atomic  Research</style> Capability"
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.ORBITAL_RESEARCH_POINT.NAME"
 msgid "<style=\"KKeyword\">Orbital Research</style> Capability"
-msgstr "<style=\"KKeyword\">Atomforschungsfähigkeit</style>"
+msgstr "<style=\"KKeyword\">Weltraumforschungsfähigkeit</style>"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.OXYGEN_MASK.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.OXYGEN_MASK.DESC"
@@ -57638,12 +57535,9 @@ msgid "<link=\"ADVANCEDRESEARCH\">Advanced Research</link>"
 msgstr "<link=\"ADVANCEDRESEARCH\">Fortschrittliche Forschung</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDSANITATION.DESC
-#, fuzzy
-#| msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE"
-#| msgid "Tidying up for the Duplicants..."
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDSANITATION.DESC"
 msgid "Clean up dirty Duplicants."
-msgstr "Für die Duplikanten aufräumen..."
+msgstr "Reinigung dreckiger Duplikanten."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDSANITATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDSANITATION.NAME"
@@ -57822,12 +57716,9 @@ msgid "<link=\"COMBUSTION\">Internal Combustion</link>"
 msgstr "<link=\"COMBUSTION\">Interne Verbrennung</link>"
 
 #. STRINGS.RESEARCH.TECHS.CRASHPLAN.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.CRASHPLAN.DESC"
-#| msgid "What goes up, must come down"
 msgctxt "STRINGS.RESEARCH.TECHS.CRASHPLAN.DESC"
 msgid "What goes up, must come down."
-msgstr "Was nach oben geht, muss auch wieder nach unten kommen"
+msgstr "Was nach oben geht, muss auch wieder nach unten kommen."
 
 #. STRINGS.RESEARCH.TECHS.CRASHPLAN.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.CRASHPLAN.NAME"
@@ -57878,12 +57769,9 @@ msgid "<link=\"DUPETRAFFICCONTROL\">Computing</link>"
 msgstr "<link=\"DUPETRAFFICCONTROL\">Datenverarbeitung</link>"
 
 #. STRINGS.RESEARCH.TECHS.DURABLELIFESUPPORT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.DURABLELIFESUPPORT.DESC"
-#| msgid "Improved construction will allow extended missions into space."
 msgctxt "STRINGS.RESEARCH.TECHS.DURABLELIFESUPPORT.DESC"
 msgid "Improved devices for extended missions into space."
-msgstr "Die optimierte Konstruktion ermöglicht längere Missionen im Weltraum."
+msgstr "Verbesserte Geräte für ausgedehnte Missionen in den Weltraum."
 
 #. STRINGS.RESEARCH.TECHS.DURABLELIFESUPPORT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.DURABLELIFESUPPORT.NAME"
@@ -58017,12 +57905,9 @@ msgid "<link=\"FOODREPURPOSING\">Food Repurposing</link>"
 msgstr "<link=\"FOODREPURPOSING\">Lebensmittelwiederverwendung</link>"
 
 #. STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC"
-#| msgid "Internal rocket hookups for gas resources"
 msgctxt "STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for gas resources."
-msgstr "Interne Raketenanschlüsse für Gasressourcen"
+msgstr "Interne Raketenanschlüsse für Gasressourcen."
 
 #. STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.NAME"
@@ -58082,12 +57967,9 @@ msgid "Hurl things through space."
 msgstr ""
 
 #. STRINGS.RESEARCH.TECHS.HIGHVELOCITYTRANSPORT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME"
-#| msgid "<link=\"SOLIDTRANSPORT\">Solid Transport</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.HIGHVELOCITYTRANSPORT.NAME"
 msgid "<link=\"HIGHVELOCITY\">High Velocity Transport</link>"
-msgstr "<link=\"SOLIDTRANSPORT\">Feststofftransport</link>"
+msgstr "<link=\"HIGHVELOCITY\">Hochgeschwindigkeitstransport</link>"
 
 #. STRINGS.RESEARCH.TECHS.HVAC.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.HVAC.DESC"
@@ -58105,12 +57987,9 @@ msgid "<link=\"HVAC\">HVAC</link>"
 msgstr "<link=\"HVAC\">Heizung, Lüftung und Klimatisierung</link>"
 
 #. STRINGS.RESEARCH.TECHS.HYDROCARBONPROPULSION.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.HYDROCARBONPROPULSION.DESC"
-#| msgid "Big rocket engines with smoke"
 msgctxt "STRINGS.RESEARCH.TECHS.HYDROCARBONPROPULSION.DESC"
 msgid "Mid-range rocket engines with lots of smoke."
-msgstr "Große Raketentriebwerke mit Rauch"
+msgstr "Mittelgroße Raketentriebwerke mit viel Rauch."
 
 #. STRINGS.RESEARCH.TECHS.HYDROCARBONPROPULSION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.HYDROCARBONPROPULSION.NAME"
@@ -58219,12 +58098,9 @@ msgid "<link=\"JOBS\">Employment</link>"
 msgstr "<link=\"JOBS\">Beschäftigung</link>"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC"
-#| msgid "Internal rocket hookups for liquid resources"
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC"
 msgid "Internal rocket hookups for liquid resources."
-msgstr "Interne Raketenanschlüsse für Flüssigressourcen"
+msgstr "Interne Raketenanschlüsse für Flüssigressourcen."
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.NAME"
@@ -58364,12 +58240,9 @@ msgid "Monumental art projects."
 msgstr ""
 
 #. STRINGS.RESEARCH.TECHS.MONUMENTS.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.NAME"
-#| msgid "<link=\"MONUMENTTOP\">Monument Top</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.MONUMENTS.NAME"
 msgid "<link=\"MONUMENTS\">Monuments</link>"
-msgstr "<link=\"MONUMENTTOP\">Monument-Spitze</link>"
+msgstr "<link=\"MONUMENTS\">Monumente</link>"
 
 #. STRINGS.RESEARCH.TECHS.MULTIPLEXING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.MULTIPLEXING.DESC"
@@ -58397,12 +58270,9 @@ msgid "Radical technology to get you to the stars."
 msgstr ""
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARPROPULSION.NAME
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.CRYOFUELPROPULSION.NAME"
-#| msgid "<link=\"CRYOFUELPROPULSION\">Cryofuel Propulsion</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARPROPULSION.NAME"
 msgid "<link=\"NUCLEARPROPULSION\">Radbolt Propulsion</link>"
-msgstr "<link=\"CRYOFUELPROPULSION\">Kryokraftstoffantrieb</link>"
+msgstr "<link=\"NUCLEARPROPULSION\">Teilchenblitzantrieb</link>"
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARREFINEMENT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARREFINEMENT.DESC"
@@ -58420,12 +58290,9 @@ msgid "Research and harness sub-atomic particles."
 msgstr ""
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARRESEARCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.TECH"
-#| msgid "<link=\"TECH\">Research</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARRESEARCH.NAME"
 msgid "<link=\"ATOMIC\">Atomic Research</link>"
-msgstr "<link=\"TECH\">Forschung</link>"
+msgstr "<link=\"ATOMIC\">Atomforschung</link>"
 
 #. STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.DESC"
@@ -58655,13 +58522,12 @@ msgid "<link=\"SMELTING\">Smelting</link>"
 msgstr "<link=\"SMELTING\">Schmelzen</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC"
-#| msgid "Internal rocket hookups for solid resources"
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC"
 msgid ""
 "Internal rocket hookups for <link=\"ELEMENTSSOLID\">Solid</link> resources."
-msgstr "Interne Raketenanschlüsse für Feststoffressourcen"
+msgstr ""
+"Interne Raketenanschlüsse für <link=\"ELEMENTSSOLID\">Feststoffressourcen</"
+"link>."
 
 #. STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.NAME"
@@ -58681,23 +58547,17 @@ msgid "<link=\"SOLIDMANAGEMENT\">Solid Management</link>"
 msgstr "<link=\"SOLIDMANAGEMENT\">Feststoff-Management</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDSPACE.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.SOLIDMANAGEMENT.DESC"
-#| msgid "Make solid decisions in <link=\"ELEMENTSSOLID\">Solid</link> sorting."
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDSPACE.DESC"
 msgid ""
 "Transport and sort <link=\"ELEMENTSSOLID\">Solid</link> resources... in space!"
 msgstr ""
-"Trifft Solide Entscheidungen in der <link=\"ELEMENTSSOLID\">Feststoff</"
-"link>sortierung."
+"Transportiere und sortiere <link=\"ELEMENTSSOLID\">Feststoffressourcen</"
+"link>... im Weltraum!"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDSPACE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME"
-#| msgid "<link=\"SOLIDTRANSPORT\">Solid Transport</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDSPACE.NAME"
 msgid "<link=\"SOLIDSPACE\">Solid Space Transport</link>"
-msgstr "<link=\"SOLIDTRANSPORT\">Feststofftransport</link>"
+msgstr "<link=\"SOLIDSPACE\">Feststoffweltraumtransport</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC"
@@ -58929,12 +58789,6 @@ msgid "Missing Recipe Description"
 msgstr "Fehlende Rezeptbeschreibung"
 
 #. STRINGS.RESEARCH.TYPES.ORBITAL.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
-#| msgid ""
-#| "<link=\"RESEARCH\">Novice Research</link> is required to unlock basic "
-#| "technologies.\n"
-#| "It can be conducted at a <link=\"RESEARCHCENTER\">Research Station</link>."
 msgctxt "STRINGS.RESEARCH.TYPES.ORBITAL.DESC"
 msgid ""
 "<link=\"RESEARCH\">Orbital Research</link> is required to unlock orbital "
@@ -58942,26 +58796,20 @@ msgid ""
 "It can be conducted at a <link=\"ORBITALRESEARCHCENTER\">Orbital Microlab</"
 "link>."
 msgstr ""
-"<link=\"RESEARCH\">Novizenforschung</link> wird für die Freischaltung von Basis-"
-"Technologien benötigt.\n"
-"Sie wird an einer <link=\"RESEARCHCENTER\">Forschungsstation</link> "
+"<link=\"RESEARCH\">Weltraumforschung</link> wird für die Freischaltung von "
+"Weltraumtechnologien benötigt.\n"
+"Sie wird an einem <link=\"ORBITALRESEARCHCENTER\">Orbitalen Mikrolabor</link> "
 "durchgeführt."
 
 #. STRINGS.RESEARCH.TYPES.ORBITAL.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME"
-#| msgid "Orbital Researcher"
 msgctxt "STRINGS.RESEARCH.TYPES.ORBITAL.NAME"
 msgid "Orbital Research"
-msgstr "Weltraumforscher"
+msgstr "Weltraumforschung"
 
 #. STRINGS.RESEARCH.TYPES.ORBITAL.RECIPEDESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TYPES.GAMMA.RECIPEDESC"
-#| msgid "Unlocks cutting-edge technologies."
 msgctxt "STRINGS.RESEARCH.TYPES.ORBITAL.RECIPEDESC"
 msgid "Unlocks out-of-this-world technologies."
-msgstr "Schaltet hochmoderne Technologien frei."
+msgstr "Schaltet nicht alltägliche Technologien frei."
 
 #. STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.NAME
 msgctxt "STRINGS.ROBOTS.ATTRIBUTES.INTERNALBATTERYDELTA.NAME"
@@ -60276,24 +60124,16 @@ msgid ""
 "have been constructed nearby to take care of any medical emergencies."
 msgstr ""
 
-# Was sollen hier "Sounds" bedeuten (Sinn)?
 #. STRINGS.SUBWORLDS.MARSH.DESC
-#, fuzzy
-#| msgctxt "STRINGS.SUBWORLDS.MARSH.DESC"
-#| msgid ""
-#| "Visitors to the Marsh Biome will be treated to the soft soothing sounds of "
-#| "<link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> as it escapes the lush "
-#| "fields of <link=\"TOXICSAND\">Polluted Dirt</link> this biome is known for."
 msgctxt "STRINGS.SUBWORLDS.MARSH.DESC"
 msgid ""
 "<link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> dominates the atmosphere of "
 "the Marsh Biome as it escapes from the <link=\"TOXICSAND\">Polluted Dirt</link> "
 "this biome is known for."
 msgstr ""
-"Die Besucher des Sumpf-Bioms werden mit den sanften, beruhigenden Klängen von "
-"<link=\"CONTAMINATEDOXYGEN\">verschmutztem Sauerstoff</link> verwöhnt, wenn er "
-"aus den üppigen Feldern von <link=\"TOXICSAND\" >verschmutzter Erde</link> "
-"entweicht, für die dieses Biom bekannt ist."
+"<link=\"CONTAMINATEDOXYGEN\">Verschmutzter Sauerstoff</link> dominiert die "
+"Atmosphäre des Sumpfbioms, da er aus der <link=\"TOXICSAND\">verschmutzten "
+"Erde</link> entweicht, für die dieses Biom bekannt ist."
 
 #. STRINGS.SUBWORLDS.MARSH.NAME
 msgctxt "STRINGS.SUBWORLDS.MARSH.NAME"
@@ -60377,20 +60217,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.SUBWORLDS.OCEAN.DESC
-#, fuzzy
-#| msgctxt "STRINGS.SUBWORLDS.OCEAN.DESC"
-#| msgid ""
-#| "Get away from it all in the <link=\"BRINE\">Briny</link> Ocean Biome. <link="
-#| "\"SAND\">Sand</link>, <link=\"SALT\">Salt</link> and <link=\"BLEACHSTONE"
-#| "\">Bleachstone</link> abound in this unique biome."
 msgctxt "STRINGS.SUBWORLDS.OCEAN.DESC"
 msgid ""
 "<link=\"SAND\">Sand</link>, <link=\"SALT\">Salt</link> and <link=\"BLEACHSTONE"
 "\">Bleachstone</link> abound in this unique <link=\"BRINE\">briny</link> biome."
 msgstr ""
-"Entfliehe dem Alltag im <link=\"BRINE\">Sole-Ozean-Biom</link>. <link=\"SAND"
-"\">Sand</link>, <link=\"SALT\">Salz</link> und <link=\"BLEACHSTONE"
-"\">Bleichstein</link> sind in diesem einzigartigen Biom reichlich vorhanden."
+"<link=\"SAND\">Sand</link>, <link=\"SALT\">Salz</link> und <link=\"BLEACHSTONE"
+"\">Bleichstein</link> gibt es in diesem einzigartigen <link=\"BRINE\">Salz</"
+"link>-Biom."
 
 #. STRINGS.SUBWORLDS.OCEAN.NAME
 msgctxt "STRINGS.SUBWORLDS.OCEAN.NAME"
@@ -60416,22 +60250,13 @@ msgid ""
 msgstr ""
 
 #. STRINGS.SUBWORLDS.OIL.DESC
-#, fuzzy
-#| msgctxt "STRINGS.SUBWORLDS.OIL.DESC"
-#| msgid ""
-#| "Shimmering viscous pools of liquid <link=\"CRUDEOIL\">Crude Oil</link> "
-#| "pepper the <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> rich environment of "
-#| "the Oil Biome. Everything an energy-starved colony needs to support their "
-#| "burgeoning oil consuming power sources."
 msgctxt "STRINGS.SUBWORLDS.OIL.DESC"
 msgid ""
 "Viscous pools of liquid <link=\"CRUDEOIL\">Crude Oil</link> pepper the <link="
 "\"CARBONDIOXIDE\">Carbon Dioxide</link> rich environment of the Oil Biome."
 msgstr ""
-"Schimmernde, zähflüssige Lachen von flüssigem <link=\"CRUDEOIL\">Rohöl</link> "
-"würzen die <link=\"CARBONDIOXIDE\">kohlenstoffdioxidreiche</link> Umgebung des "
-"Öl-Bioms. Alles, was eine energiehungrige Kolonie braucht, um ihre aufkeimenden "
-"ölverbrauchenden Energiequellen zu decken."
+"Zähflüssige Lachen von flüssigem <link=\"CRUDEOIL\">Rohöl</link> würzen die "
+"<link=\"CARBONDIOXIDE\">kohlenstoffdioxidreiche</link> Umgebung des Öl-Bioms."
 
 #. STRINGS.SUBWORLDS.OIL.NAME
 msgctxt "STRINGS.SUBWORLDS.OIL.NAME"
@@ -60575,15 +60400,6 @@ msgid "Space"
 msgstr "Weltraum"
 
 #. STRINGS.SUBWORLDS.SPACE.UTILITY
-#, fuzzy
-#| msgctxt "STRINGS.SUBWORLDS.SPACE.UTILITY"
-#| msgid ""
-#| "Setting up <link=\"SOLARPANELS\">Solar Panels</link> the surface will "
-#| "provide a source of renewable energy. However, much care must be taken to "
-#| "ensure <link=\"ELEMENTSLIQUID\">Liquids</link> or <link=\"ELEMENTSGAS"
-#| "\">Gases</link> are not sucked out into the <link=\"VACUUM\">Vacuum</link> "
-#| "of space. <link=\"MOLE\">Shove Voles</link> are native to this biome, and "
-#| "need to be wrangled or contained or they will infest the colony."
 msgctxt "STRINGS.SUBWORLDS.SPACE.UTILITY"
 msgid ""
 "Setting up <link=\"SOLARPANELS\">Solar Panels</link> on the surface will "
@@ -60597,9 +60413,9 @@ msgstr ""
 "Oberfläche bietet eine Quelle für erneuerbare Energie. Es muss jedoch "
 "sorgfältig darauf geachtet werden, dass <link=\"ELEMENTSLIQUID\">Flüssigkeiten</"
 "link> oder <link=\"ELEMENTSGAS\">Gase</link> nicht in das <link=\"VACUUM"
-"\">Vakuum</link> des Weltraums gesaugt werden. <link=\"MOLE\">Wühlmäuse</link> "
-"sind in diesem Biom heimisch und müssen bekämpft oder eingedämmt werden, sonst "
-"befallen sie die Kolonie."
+"\">Vakuum</link> des Weltraums gesaugt werden. <link=\"MOLE\">Schubwühlmäuse</"
+"link> sind in diesem Biom heimisch und müssen bekämpft oder eingedämmt werden, "
+"sonst befallen sie die Kolonie."
 
 #. STRINGS.SUBWORLDS.SWAMP.DESC
 msgctxt "STRINGS.SUBWORLDS.SWAMP.DESC"
@@ -62543,20 +62359,14 @@ msgid "This rocket has {0} fuel in its tank"
 msgstr "Diese Rakete hat {0} Treibstoff in ihrem Tank"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.VENTED_MASS"
-#| msgid "Vented: {0} / {1}"
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.NAME"
 msgid "Height: {0}/{1}"
-msgstr "Belüftet: {0} / {1}"
+msgstr "Höhe: {0} / {1}"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_MODULES.TOOLTIP"
-#| msgid "The {0} can support {1} rocket modules, plus itself"
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.TOOLTIP"
 msgid "The {0} can support a total rocket height {1}"
-msgstr "Das {0} kann {1} Raketenmodule unterstützen, plus sich selbst"
+msgstr "Die {0} kann eine Raketengesamthöhe von {1} aufnehmen."
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_MODULES.NAME
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_MODULES.NAME"
@@ -62632,11 +62442,6 @@ msgid "Rocket Speed: "
 msgstr "Raketengeschwindigkeit: "
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.TOOLTIP"
-#| msgid ""
-#| "<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by "
-#| "<b>Burden</b>"
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.TOOLTIP"
 msgid ""
 "<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by <b>Burden</"
@@ -62644,7 +62449,9 @@ msgid ""
 "Rockets operating on autopilot will have a reduced speed."
 msgstr ""
 "Die <b>Raketengeschwindigkeit</b> wird berechnet, indem man die "
-"<b>Triebwerksleistung</b> durch die <b>Belastung</b> teilt"
+"<b>Triebwerksleistung</b> durch die <b>Belastung</b> teilt.\n"
+"Raketen, die mit Autopilot betrieben werden, haben eine reduzierte "
+"Geschwindigkeit."
 
 #. STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION"
