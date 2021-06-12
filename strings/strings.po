@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-06-07 20:59+0200\n"
+"PO-Revision-Date: 2021-06-08 20:51+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -62725,19 +62725,15 @@ msgid "Quality: {0}"
 msgstr "Qualität: {0}"
 
 #. STRINGS.UI.CODEX.FOOD.SPOILPROPERTIES
-#, fuzzy
-#| msgctxt "STRINGS.UI.CODEX.FOOD.SPOILPROPERTIES"
-#| msgid ""
-#| "Preserve temperature: {0}\n"
-#| "Spoil time: {1}"
 msgctxt "STRINGS.UI.CODEX.FOOD.SPOILPROPERTIES"
 msgid ""
 "Refrigeration temperature: {0}\n"
 "Deep Freeze temperature: {1}\n"
 "Spoil time: {2}"
 msgstr ""
-"Konservierungstemperatur: {0}\n"
-"Verderbzeit: {1}"
+"Kühltemperatur: {0}\n"
+"Tiefgefriertemperatur: {1}\n"
+"Verderbzeit: {2}"
 
 #. STRINGS.UI.CODEX.FORWARD_BUTTON_NO_HISTORY_TOOLTIP
 msgctxt "STRINGS.UI.CODEX.FORWARD_BUTTON_NO_HISTORY_TOOLTIP"
@@ -62962,23 +62958,17 @@ msgid "Breathability"
 msgstr "Atmungsfähigkeit"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.CRITERIA.CHECKLOWBREATHABILITY
-#, fuzzy
-#| msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.ALL_NAME"
-#| msgid "Breathability"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.CRITERIA."
 "CHECKLOWBREATHABILITY"
 msgid "Check low breathability"
-msgstr "Atmungsfähigkeit"
+msgstr "Kontrolle der Atmungsfähigkeit"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.CRITERIA.CHECKSUFFOCATION
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.NAME"
-#| msgid "Suffocation"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.CRITERIA.CHECKSUFFOCATION"
 msgid "Check suffocation"
-msgstr "Erstickung"
+msgstr "Kontrolle der Erstickungsgefahr"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.NORMAL"
@@ -63041,12 +63031,9 @@ msgid "    • One or more buildings are entombed"
 msgstr "    • Ein oder mehrere Gebäude sind verschüttet"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.CRITERIA.CHECKENTOMBED
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME"
-#| msgid "Entombed"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.CRITERIA.CHECKENTOMBED"
 msgid "Check entombed"
-msgstr "Verschüttet"
+msgstr "Kontrolle auf Verschüttete"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.NORMAL"
@@ -63069,20 +63056,14 @@ msgid "Check colony has farms"
 msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.CRITERIA.CHECKOPERATIONAL
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEOPERATIONAL.NAME"
-#| msgid "Farm plot operational"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.CRITERIA.CHECKOPERATIONAL"
 msgid "Check farm plots operational"
-msgstr "Farm funktionstüchtig"
+msgstr "Kontrolle der Farmfunktionstüchtigkeit"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.CRITERIA.CHECKPLANTED
-#, fuzzy
-#| msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.NO_FARM_TILES"
-#| msgid "No farmed plants"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.CRITERIA.CHECKPLANTED"
 msgid "Check farms are planted"
-msgstr "Keine Pflanzen angebaut"
+msgstr "Kontrolle, ob Farmen bepflanzt sind"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.CRITERIA.CHECKWILTING
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.CRITERIA.CHECKWILTING"
@@ -63165,12 +63146,9 @@ msgid "Check enough food"
 msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA.CHECKSTARVATION
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.STARVING.NOTIFICATION_NAME"
-#| msgid "Critter Starvation"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA.CHECKSTARVATION"
 msgid "Check starvation"
-msgstr "Tier verhungert"
+msgstr "Kontrolle, ob Tiere verhungern"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA_HAS_FOOD.FAIL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA_HAS_FOOD.FAIL"
@@ -63208,12 +63186,9 @@ msgid "<b>Food</b>"
 msgstr "<b>Nahrung</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.GENERIC_CRITERIA.CHECKWORLDHASMINIONS
-#, fuzzy
-#| msgctxt "STRINGS.UI.JOBSCREEN_DEFAULT"
-#| msgid "New Duplicants"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.GENERIC_CRITERIA.CHECKWORLDHASMINIONS"
 msgid "Check world has Duplicants"
-msgstr "Neue Duplikanten"
+msgstr "Kontrolle, ob Welt Duplikanten hat"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.GENERIC_CRITERIA_FAIL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.GENERIC_CRITERIA_FAIL"
@@ -63324,9 +63299,6 @@ msgid "<b>Avg Power</b>"
 msgstr "<b>Durchschn. Leistung</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.ALL_NAME
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.RADIATION.HEADER_1"
-#| msgid "Radiation"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.ALL_NAME"
 msgid "Radiation"
 msgstr "Strahlung"
@@ -63356,14 +63328,11 @@ msgid "One or more Duplicants are being exposed to extreme levels of radiation"
 msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.CRITERIA_RADIATION_EXPOSURE.PASS
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.NAME"
-#| msgid "Space exposure"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.CRITERIA_RADIATION_EXPOSURE."
 "PASS"
 msgid "Safe exposure levels"
-msgstr "Weltraum-Einwirkung"
+msgstr "Sichere Expositionswerte"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.CRITERIA_RADIATION_SICKNESS.FAIL
 msgctxt ""
@@ -63373,85 +63342,55 @@ msgid "Sick"
 msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.CRITERIA_RADIATION_SICKNESS.PASS
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.HEALTH.HEADER_1"
-#| msgid "Health"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.CRITERIA_RADIATION_SICKNESS."
 "PASS"
 msgid "Healthy"
-msgstr "Gesundheit"
+msgstr "Gesund"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.NORMAL
-#, fuzzy
-#| msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA_SHORT"
-#| msgid "    • No data"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.NORMAL"
 msgid "    • No Radiation concerns"
-msgstr "    • Keine Daten"
+msgstr "    • Keine Strahlungsbedenken"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.TOOLTIP_NAME
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.RADIATION.HEADER_1"
-#| msgid "Radiation"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.TOOLTIP_NAME"
 msgid "<b>Radiation</b>"
-msgstr "Strahlung"
+msgstr "<b>Strahlung</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.ALL_NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.NAME"
-#| msgid "<link=\"NUCLEARREACTOR\">Research Reactor</link>"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.ALL_NAME"
 msgid "<link=\"NUCLEARREACTOR\">Research Reactor</link>"
 msgstr "<link=\"NUCLEARREACTOR\">Forschungsreaktor</link>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA.CHECKCOOLANT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.NAME"
-#| msgid "No Checkpoint"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA.CHECKCOOLANT"
 msgid "Check coolant"
-msgstr "Kein Kontrollpunkt"
+msgstr "Überprüfe Kühlmittel"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA.CHECKTEMPERATURE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.HEAT.HEADER_1"
-#| msgid "Temperature"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA.CHECKTEMPERATURE"
 msgid "Check temperature"
-msgstr "Temperatur"
+msgstr "Überprüfe Temperatur"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_COOLANT_WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.LOW_CALORIES"
-#| msgid "    • Food-to-Duplicant ratio is low"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_COOLANT_WARNING"
 msgid "    • Coolant tank low"
-msgstr "    • Das Verhältnis von Essen zu Duplikanten ist niedrig"
+msgstr "    • Kühlmittelstand ist niedrig"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_TEMPERATURE_WARNING
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD_CROP.NAME"
-#| msgid "    • Body Temperature"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_TEMPERATURE_WARNING"
 msgid "    • Temperature dangerously high"
-msgstr "    • Körpertemperatur"
+msgstr "    • Temperatur gefährlich hoch"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.NORMAL
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME"
-#| msgid "    • Beached"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.NORMAL"
 msgid "    • Safe"
-msgstr "    • Trockengelegt"
+msgstr "    • Sicher"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.TOOLTIP_NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.NAME"
-#| msgid "<link=\"NUCLEARREACTOR\">Research Reactor</link>"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.TOOLTIP_NAME"
 msgid "<link=\"NUCLEARREACTOR\">Research Reactor</link>"
 msgstr "<link=\"NUCLEARREACTOR\">Forschungsreaktor</link>"
@@ -63504,15 +63443,12 @@ msgstr "    • Diese Rakete hat zu wenig Oxidationsmittel"
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.ALL_NAME"
 msgid "Max Stress"
-msgstr "Max Stress"
+msgstr "Maximaler Stress"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.CRITERIA.CHECKSTRESSED
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_NAME"
-#| msgid "High stress"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.CRITERIA.CHECKSTRESSED"
 msgid "Check stressed"
-msgstr "Hoher Stress"
+msgstr "Überprüfe Stress"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.HIGH_STRESS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.HIGH_STRESS"
@@ -63527,7 +63463,7 @@ msgstr "    • Alle Duplikanten haben derzeit ein überschaubares Stressniveau"
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.TOOLTIP_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.TOOLTIP_NAME"
 msgid "<b>Max Stress</b>"
-msgstr "<b>Max Stress</b>"
+msgstr "<b>Maximaler Stress</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.ALL_NAME"
@@ -63541,13 +63477,10 @@ msgid "Check enough toilets"
 msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.CRITERIA.CHECKHASANYTOILETS
-#, fuzzy
-#| msgctxt "STRINGS.UI.USERMENUACTIONS.CLEANTOILET.NAME"
-#| msgid "Clean Toilet"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.CRITERIA.CHECKHASANYTOILETS"
 msgid "Check has any toilets"
-msgstr "Toilette leeren"
+msgstr "Kontrolle, ob Toiletten vorhanden"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.FEW_TOILETS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.FEW_TOILETS"
@@ -63585,13 +63518,10 @@ msgid "Trapped"
 msgstr "Eingeklemmt"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.CRITERIA.CHECKTRAPPED
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.STATUSITEMS.TRAPPED.NAME"
-#| msgid "Trapped"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.CRITERIA.CHECKTRAPPED"
 msgid "Check Trapped"
-msgstr "Gefangen"
+msgstr "Kontrolle Gefangene"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.NORMAL"
@@ -66245,12 +66175,9 @@ msgid "AUDIO OPTIONS"
 msgstr "AUDIOOPTIONEN"
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.BLANK_DESC"
-#| msgid "Select a playstyle..."
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC"
 msgid "Select an asteroid style..."
-msgstr "Wähle einen Spielstil ..."
+msgstr "Wähle einen Asteroidenstil ..."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER"
@@ -66266,9 +66193,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.DLC1.NAME"
-#| msgid "Spaced Out!"
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE"
 msgid "Spaced Out!"
 msgstr "Spaced Out!"
@@ -69762,17 +69686,11 @@ msgid "NEW GAME"
 msgstr "NEUES SPIEL"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.AMBIENT_NO_MIN_RADIATION_FMT
-#, fuzzy
-#| msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.NOW"
-#| msgid "Less than a day"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.AMBIENT_NO_MIN_RADIATION_FMT"
 msgid "Less than {maxRads}"
-msgstr "Unter einem Tag"
+msgstr "Weniger als {maxRads}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.AMBIENT_RADIATION
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.RADIATION"
-#| msgid "Ambient Radiation"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.AMBIENT_RADIATION"
 msgid "Ambient Radiation"
 msgstr "Umgebungsstrahlung"
@@ -69938,12 +69856,9 @@ msgid "Light"
 msgstr "Licht"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.MUTANT_STERILE
-#, fuzzy
-#| msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY"
-#| msgid "Consumes 1 <link=\"PLANTS\">Seed</link>"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.MUTANT_STERILE"
 msgid "Doesn't Drop <link=\"PLANTS\">Seeds</link>"
-msgstr "Verbraucht 1 <link=\"PLANTS\">Samen</link>"
+msgstr "Erzeugt keinen <link=\"PLANTS\">Samen</link>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST"
@@ -69971,20 +69886,14 @@ msgid "<link=\"LIGHT\">Darkness</link>"
 msgstr "<link=\"LIGHT\">Dunkelheit</link>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_LIGHT
-#, fuzzy
-#| msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_LIGHT"
-#| msgid "<link=\"LIGHT\">Light</link>"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_LIGHT"
 msgid "<link=\"LIGHT\">Light</link>: {Lux}"
-msgstr "<link=\"LIGHT\">Licht</link>"
+msgstr "<link=\"LIGHT\">Licht</link>: {Lux}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_NO_MIN_RADIATION
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.RADIATION.TITLE"
-#| msgid "<link=\"RADIATION\">Radiation</link>"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_NO_MIN_RADIATION"
 msgid "Maximum <link=\"RADIATION\">Radiation</link>: {MaxRads}"
-msgstr "<link=\"RADIATION\">Strahlung</link>"
+msgstr "Maximale <link=\"RADIATION\">Strahlung</link>: {MaxRads}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE"
@@ -69992,12 +69901,9 @@ msgid "<link=\"ATMOSPHERE\">Air</link> Pressure: {0} minimum"
 msgstr "<link=\"ATMOSPHERE\">Luftdruck</link>: Mindestens {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_RADIATION
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.RADIATION.TITLE"
-#| msgid "<link=\"RADIATION\">Radiation</link>"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_RADIATION"
 msgid "<link=\"RADIATION\">Radiation</link>: {MinRads} to {MaxRads}"
-msgstr "<link=\"RADIATION\">Strahlung</link>"
+msgstr "<link=\"RADIATION\">Strahlung</link>: {MinRads} bis {MaxRads}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_RECEPTACLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_RECEPTACLE"
@@ -70183,14 +70089,13 @@ msgid "This plant requires complete darkness"
 msgstr "Diese Pflanze erfordert vollständige Dunkelheit"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_LIGHT
-#, fuzzy
-#| msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_LIGHT"
-#| msgid "This plant requires a <style=\"KKeyword\">Light</style> source"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_LIGHT"
 msgid ""
 "This plant requires a <style=\"KKeyword\">Light</style> source bathing it in at "
 "least {Lux}"
-msgstr "Diese Pflanze benötigt eine <style=\"KKeyword\">Lichtquelle</style>"
+msgstr ""
+"Diese Pflanze benötigt eine <style=\"KKeyword\">Lichtquelle</style>, die sie in "
+"mindestens {Lux} taucht"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_NO_MIN_RADIATION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_NO_MIN_RADIATION"
@@ -74565,18 +74470,13 @@ msgstr ""
 "<link=\"PLANTS\">Pflanzenpflege</link> und Spurenelementdünger-Herstellung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_IDENTIFY_MUTANT_SEEDS.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.PLANT_MUTATIONS.UNIDENTIFIED_DESC"
-#| msgid ""
-#| "This seed must be identified at the <link=\"GENETICANALYSISSTATION"
-#| "\">Botanical Analyzer</link> before it can be planted."
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_IDENTIFY_MUTANT_SEEDS.DESCRIPTION"
 msgid ""
 "Can identify <style=\"KKeyword\">Mutant Seeds</style> at the <link="
 "\"GENETICANALYSISSTATION\">Botanical Analyzer</link>"
 msgstr ""
-"Dieser Samen muss an einem <link=\"GENETICANALYSISSTATION\">Botanischer "
-"Analysator</link> identifiziert werden, bevor er gepflanzt werden kann."
+"Kann <style=\"KKeyword\">Mutanten-Samen</style> am <link="
+"\"GENETICANALYSISSTATION\">Botanischen Analysator</link> identifizieren"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_PILOT_ROCKET.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_PILOT_ROCKET.DESCRIPTION"
@@ -74639,12 +74539,9 @@ msgid "<link=\"NUCLEARLABORATORY\">Atomic Collider</link> Usage"
 msgstr "<link=\"NUCLEARLABORATORY\">Atomarer Beschleuniger</link> Verwendung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.NAME"
-#| msgid "<link=\"ORBITALRESEARCHCENTER\">Orbital Microlab</link>"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION"
 msgid "<link=\"ORBITALRESEARCHCENTER\">Orbital Microlab</link> Usage"
-msgstr "<link=\"ORBITALRESEARCHCENTER\">Orbitales Microlabor</link>"
+msgstr "<link=\"ORBITALRESEARCHCENTER\">Orbitales-Mikrolabor</link>-Nutzung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING"
@@ -76148,12 +76045,9 @@ msgid "Fullerene Comet"
 msgstr "Fulleren-Komet"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.GASSYMOOCOMET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.GASSYMOO.TITLE"
-#| msgid "Gassy Moo"
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.GASSYMOOCOMET.NAME"
 msgid "Gassy Mooteor"
-msgstr "Gassy Moo"
+msgstr "Gassy Mooteor"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.GOLDCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.GOLDCOMET.NAME"
@@ -76751,17 +76645,11 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.READY
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.NAME"
-#| msgid "Cargo Transfer Complete"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.READY"
 msgid "Cargo Transfer Complete"
 msgstr "Frachttransfer abgeschlossen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.NAME"
-#| msgid "Cargo Transfer Complete"
 msgctxt ""
 "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.WARNING"
 msgid "Cargo Transfer Complete"
@@ -76774,19 +76662,11 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.TOOLTIP.READY
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.READY"
-#| msgid "All possible loading and unloading has been completed"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.TOOLTIP.READY"
 msgid "All possible loading and unloading has been completed"
 msgstr "Alle möglichen Lade- und Entladevorgänge sind abgeschlossen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.TOOLTIP.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.WARNING"
-#| msgid ""
-#| "The <link=\"LAUNCHPLATFORM\">Rocket Platform</link> could still transfer "
-#| "cargo to or from this rocket"
 msgctxt ""
 "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.TOOLTIP.WARNING"
 msgid ""
@@ -76933,28 +76813,19 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.ROOMS.CRITERIA.POWER_STATION.NAME"
-#| msgid "Power Control Station"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.STATUS.FAILURE"
 msgid "Control Station"
-msgstr "Stromregelstation"
+msgstr "Kontrollstation"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.STATUS.READY
-#, fuzzy
-#| msgctxt "STRINGS.ROOMS.CRITERIA.POWER_STATION.NAME"
-#| msgid "Power Control Station"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.STATUS.READY"
 msgid "Control Station"
-msgstr "Stromregelstation"
+msgstr "Kontrollstation"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.ROOMS.CRITERIA.POWER_STATION.NAME"
-#| msgid "Power Control Station"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.STATUS.WARNING"
 msgid "Control Station"
-msgstr "Stromregelstation"
+msgstr "Kontrollstation"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.FAILURE"
@@ -76970,13 +76841,9 @@ msgid "The control station is installed and waiting for the pilot"
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.WARNING
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CONSTRUCTION_COMPLETE.TOOLTIP.WARNING"
-#| msgid "Construction warning"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.WARNING"
 msgid "Control Station warning"
-msgstr "Konstruktionswarnung"
+msgstr "Kontrollstationswarnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.STATUS.FAILURE"
@@ -77184,64 +77051,40 @@ msgstr ""
 "von dieser Rakete übertragen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.STATUS.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
-#| msgid "Light Emitter"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.STATUS.FAILURE"
 msgid "Height limit"
-msgstr "Leuchtend"
+msgstr "Höhengrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.STATUS.READY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
-#| msgid "Light Emitter"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.STATUS.READY"
 msgid "Height limit"
-msgstr "Leuchtend"
+msgstr "Höhengrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.STATUS.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
-#| msgid "Light Emitter"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.STATUS.WARNING"
 msgid "Height limit"
-msgstr "Leuchtend"
+msgstr "Höhengrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.FAILURE
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.FAILURE"
-#| msgid ""
-#| "The number of installed modules exceeds the engine's module limit\n"
-#| "------------------\n"
-#| "Excess modules must be removed"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.FAILURE"
 msgid ""
 "The height of the rocket exceeds the engine's limit\n"
 "------------------\n"
 "Excess modules must be removed"
 msgstr ""
-"Die Anzahl der installierten Module überschreitet die Modulgrenze des "
-"Triebwerks\n"
+"Die Höhe der Rakete überschreitet die Höhengrenze des Triebwerks\n"
 "------------------\n"
 "Überschüssige Module müssen entfernt werden"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.READY
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.READY"
-#| msgid "The rocket's engine can support the number of installed rocket modules"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.READY"
 msgid "The rocket's engine can support the height of the rocket"
-msgstr ""
-"Das Triebwerk der Rakete kann die Anzahl der installierten Raketenmodule "
-"aufnehmen"
+msgstr "Das Triebwerk der Rakete kann die Höhe der Rakete aufnehmen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.WARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.WARNING"
-#| msgid "Module limit warning"
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.WARNING"
 msgid "Height limit warning"
-msgstr "Modulgrenzwertwarnung"
+msgstr "Höhenbegrenzungswarnung"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.STATUS.FAILURE"
@@ -79361,18 +79204,13 @@ msgstr ""
 "Der aktuelle <style=\"KKeyword\">Gasdruck</style> beträgt <b>{pressure}</b>"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.DISEASES.RADIATIONSICKNESS.DESCRIPTION"
-#| msgid ""
-#| "This Duplicant is leaving a trail of <style=\"KKeyword\">Radiation</style> "
-#| "behind them."
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION"
 msgid ""
 "This plant is sitting in <b>{rads}</b> of ambient <style=\"KKeyword"
 "\">Radiation</style>. It needs at between {minRads} and {maxRads} to grow"
 msgstr ""
-"Dieser Duplikant hinterlässt eine Spur aus <style=\"KKeyword\">Strahlung</"
-"style>."
+"Diese Pflanze befindet sich in <b>{rads}</b> der umgebenden <style=\"KKeyword"
+"\">Strahlung</style>. Sie braucht zwischen {minRads} und {maxRads} zum Wachsen"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION_NO_MIN
 #, fuzzy
