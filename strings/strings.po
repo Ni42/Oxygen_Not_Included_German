@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-06-08 20:51+0200\n"
-"Last-Translator: CarstenG\n"
+"PO-Revision-Date: 2021-06-12 11:52+0200\n"
+"Last-Translator: Xandras\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -40853,7 +40853,7 @@ msgid ""
 "This Duplicant is, uh... \"expelling\" absorbed radiation from their system"
 msgstr ""
 "Dieser Duplikant, ähm... \"stößt\" die absorbierte Strahlung aus seinem Körper "
-"\"aus\"."
+"\"aus\""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.NAME"
@@ -79213,18 +79213,13 @@ msgstr ""
 "\">Strahlung</style>. Sie braucht zwischen {minRads} und {maxRads} zum Wachsen"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION_NO_MIN
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.DISEASES.RADIATIONSICKNESS.DESCRIPTION"
-#| msgid ""
-#| "This Duplicant is leaving a trail of <style=\"KKeyword\">Radiation</style> "
-#| "behind them."
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION_NO_MIN"
 msgid ""
 "This plant is sitting in <b>{rads}</b> of ambient <style=\"KKeyword"
 "\">Radiation</style>. It needs less than {maxRads} to grow"
 msgstr ""
-"Dieser Duplikant hinterlässt eine Spur aus <style=\"KKeyword\">Strahlung</"
-"style>."
+"Diese Pflanze befindet sich in <b>{rads}</b> Umgebungs-<style=\"KKeyword"
+"\">Strahlung</style>. Es braucht weniger als {maxRads} um zu wachsen"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RECEPTACLE_INOPERATIONAL
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RECEPTACLE_INOPERATIONAL"
@@ -79704,24 +79699,18 @@ msgid "Select the first available landing site"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PATH_OBSTRUCTED
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.NAME"
-#| msgid "Flight Path Obstructed"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN."
 "DROPDOWN_TOOLTIP_PATH_OBSTRUCTED"
 msgid "Landing path obstructed"
-msgstr "Die Flugroute ist versperrt"
+msgstr "Landeweg versperrt"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_SITE_OBSTRUCTED
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.NAME"
-#| msgid "Line of Sight: Obstructed"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN."
 "DROPDOWN_TOOLTIP_SITE_OBSTRUCTED"
 msgid "Landing site obstructed"
-msgstr "Sichtlinie: Blockiert"
+msgstr "Landeplatz Blockiert"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_TOO_SHORT
 msgctxt ""
@@ -80496,20 +80485,14 @@ msgid "</i>No mutants found</i>"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SELECT_SEEDS
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECT_DESC"
-#| msgid "Select a seed to plant."
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SELECT_SEEDS"
 msgid "Select which seed types to analyze:"
-msgstr "Wähle Samen zum Pflanzen."
+msgstr "Wähle, welche Saatgutarten analysiert werden sollen:"
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.ANALYSIS_TARGET_HEADER"
-#| msgid "Object Analysis"
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.TITLE"
 msgid "Genetic Analysis"
-msgstr "Objektanalyse"
+msgstr "Genetische Analyse"
 
 #. STRINGS.UI.UISIDESCREENS.HABITATMODULESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.HABITATMODULESIDESCREEN.TITLE"
@@ -80533,31 +80516,22 @@ msgid "E"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_N
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.DISEASES.NODISEASES.NAME"
-#| msgid "NO"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_N"
 msgid "N"
-msgstr "NEIN"
+msgstr "N"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_NE
-#, fuzzy
-#| msgctxt "STRINGS.UI.RESOURCESCREEN.NEW_TAG"
-#| msgid "NEW"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_NE"
 msgid "NE"
-msgstr "NEU"
+msgstr "NO"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_NW
-#, fuzzy
-#| msgctxt "STRINGS.UI.RESOURCESCREEN.NEW_TAG"
-#| msgid "NEW"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_NW"
 msgid "NW"
-msgstr "NEU"
+msgstr "NW"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_S
 msgctxt ""
@@ -80566,41 +80540,29 @@ msgid "S"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_SE
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.SAVE_OPTIONS"
-#| msgid "SAVE"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_SE"
 msgid "SE"
-msgstr "SPEICHERN"
+msgstr "SO"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_SW
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPEED_SLOW"
-#| msgid "SLOW"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_SW"
 msgid "SW"
-msgstr "LANGSAM"
+msgstr "SW"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_W
-#, fuzzy
-#| msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.WATT"
-#| msgid " W"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_W"
 msgid "W"
 msgstr " W"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.SELECTED_DIRECTION
-#, fuzzy
-#| msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
-#| msgid "Stress Reaction: {0}"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN."
 "SELECTED_DIRECTION"
 msgid "Selected direction: {0}"
-msgstr "Stressreaktion: {0}"
+msgstr "Ausgewählte Richtung: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.TITLE"
@@ -80614,20 +80576,12 @@ msgid "Current Threshold: {0}%"
 msgstr "Aktueller Schwellenwert: {0}%"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_LABEL
-#, fuzzy
-#| msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.CALORIES_CREATED"
-#| msgid "Calorie Generation"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_LABEL"
 msgid "Radbolt Generation"
-msgstr "Kalorienerzeugung"
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACTIVE_PARTICLE_CONSUMPTION"
-#| msgid ""
-#| "This building requires <style=\"KKeyword\">Radbolts</style> to function, "
-#| "consuming them at a rate of {Rate} while in use"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN."
 "PROGRESS_BAR_TOOLTIP"
@@ -80635,8 +80589,8 @@ msgid ""
 "The building will emit a <style=\"KKeyword\">Radbolt</style> in the chosen "
 "direction when fully charged"
 msgstr ""
-"Dieses Gebäude benötigt <style=\"KKeyword\">Teilchenblitze</style>, um zu "
-"funktionieren, und verbraucht sie während des Betriebs mit einer Rate von {Rate}"
+"Das Gebäude sendet bei voller Aufladung einen <style=\"KKeyword"
+"\">Teilchenblitz</style> in die gewählte Richtung aus"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE"
@@ -80668,20 +80622,12 @@ msgid "LAND HERE"
 msgstr "HIER LANDEN"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_AUTOMATION_CONTROLLED
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.NEWAUTOMATIONWARNING_TITLE"
-#| msgid "AUTOMATION CHANGES"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_AUTOMATION_CONTROLLED"
 msgid "AUTOMATION CONTROLLED"
-msgstr "AUTOMATISIERUNGSÄNDERUNGEN"
+msgstr "AUTOMATISIERT"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_AUTOMATION_CONTROLLED_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.WARNING"
-#| msgid ""
-#| "The <link=\"LAUNCHPLATFORM\">Rocket Platform</link> could still transfer "
-#| "cargo to or from this rocket"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN."
 "LAUNCH_AUTOMATION_CONTROLLED_TOOLTIP"
@@ -80689,8 +80635,8 @@ msgid ""
 "This <link=\"LAUNCHPLATFORM\">Rocket Platform</link>'s launch operation is "
 "controlled by automation signals"
 msgstr ""
-"Die <link=\"LAUNCHPLATFORM\">Raketenplattform</link> könnte noch Fracht zu oder "
-"von dieser Rakete übertragen"
+"Der Startvorgang dieser <link=\"LAUNCHPLATFORM\">Raketenplattform</link> wird "
+"durch Automatisierungssignale gesteuert"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_BUTTON"
@@ -80809,9 +80755,6 @@ msgid "Waiting to land"
 msgstr "Wartet auf Landung"
 
 #. STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.AMOUNT
-#, fuzzy
-#| msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.BUILDING_COUNT"
-#| msgid "Count: {0}"
 msgctxt "STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.AMOUNT"
 msgid "Amount: {0}"
 msgstr "Anzahl: {0}"
@@ -80822,9 +80765,6 @@ msgid "Limit:"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.RESET_BUTTON
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_RESET"
-#| msgid "Reset Counter"
 msgctxt "STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.RESET_BUTTON"
 msgid "Reset Amount"
 msgstr "Zähler zurücksetzen"
@@ -80835,12 +80775,9 @@ msgid "The amount of Units or Mass passing through the sensor."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.ROCKETCONTROL.NAME"
-#| msgid "Rocket Control"
 msgctxt "STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.TITLE"
 msgid "Meter Control"
-msgstr "Raketensteuerung"
+msgstr "Zählersteuerung"
 
 #. STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TITLE"
@@ -81527,12 +81464,9 @@ msgid "{Disease} Burst: {DiseaseAmount}"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_CONSTANT
-#, fuzzy
-#| msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALDISEASE.TOOLTIP"
-#| msgid "Current disease: {Disease}"
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_CONSTANT"
 msgid "{Disease}: {DiseaseAmount}"
-msgstr "Aktuelle Krankheit: {Disease}"
+msgstr "{Disease}: {DiseaseAmount}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_ON_HARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_ON_HARVEST"
@@ -81629,14 +81563,10 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_DROPPER_CONSTANT
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT_TOOLTIP"
-#| msgid "This building will displace {amount} Gas while in use."
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_DROPPER_CONSTANT"
 msgid "This plant emits {DiseaseAmount} {Disease} while it is alive."
-msgstr "Dieses Gebäude setzt {amount} Gas bei Verwendung durch."
+msgstr "Diese Pflanze sondert {DiseaseAmount} {Disease} ab, während sie lebt."
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_ON_HARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_ON_HARVEST"
@@ -81673,12 +81603,9 @@ msgstr ""
 "<link=\"KCAL\">{2}</link> produziert [<link=\"KCAL\">{1}</link> / Einheit]"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_NONFOOD
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST"
-#| msgid "{0} {1} per harvest"
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_NONFOOD"
 msgid "{0} produced per harvest"
-msgstr "{0} {1} pro Ernte"
+msgstr "{0} produziert pro Ernte"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED"
@@ -81714,9 +81641,6 @@ msgid "{0}: {1} "
 msgstr "{0}: {1} "
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_NONFOOD
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD"
-#| msgid "{0}: {1} "
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_NONFOOD"
 msgid "{0}: {1} "
 msgstr "{0}: {1} "
@@ -81787,12 +81711,9 @@ msgid "Launch Resources:"
 msgstr "Start-Ressourcen:"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.LAUNCH_TARGET_SELECTED
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.LAUNCH_TARGET_SELECTED"
-#| msgid "Launcher destination {0} set."
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.LAUNCH_TARGET_SELECTED"
 msgid "Launcher destination {0} set"
-msgstr "Startziel {0} festgelegt."
+msgstr "Launcher-Ziel {0} festgelegt"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.MINIMUM_PAYLOAD_MASS
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.MINIMUM_PAYLOAD_MASS"
@@ -81800,19 +81721,14 @@ msgid "Minimum launch mass:"
 msgstr "Minimale Startmasse:"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.NO_SELECTED_LAUNCH_TARGET
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.NO_SELECTED_LAUNCH_TARGET"
-#| msgid ""
-#| "No destination selected.\n"
-#| "Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to set a course."
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.NO_SELECTED_LAUNCH_TARGET"
 msgid ""
 "No destination selected\n"
 "Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to set a course"
 msgstr ""
-"Kein Ziel ausgewählt.\n"
+"Kein Ziel ausgewählt\n"
 "Öffne die <b>Sternenkarte</b> <b><color=#F44A4A>[Z]</b></color>, um einen Kurs "
-"zu setzen."
+"festzulegen"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.OPENSTARMAPBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.OPENSTARMAPBUTTON"
@@ -82007,23 +81923,15 @@ msgid "    • Engine Power: {0} ({1})"
 msgstr "    • Triebwerksleistung: {0} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.SPEED"
-#| msgid "    • Speed: {0} ({1})"
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT"
 msgid "    • Height: {0}/{2} ({1})"
-msgstr "    • Geschwindigkeit: {0} ({1})"
+msgstr "    • Höhe: {0}/{2} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT_NOMAX
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.SPEED"
-#| msgid "    • Speed: {0} ({1})"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT_NOMAX"
 msgid "    • Height: {0} ({1})"
-msgstr "    • Geschwindigkeit: {0} ({1})"
+msgstr "    • Höhe: {0} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.NEGATIVEDELTA
 msgctxt ""
@@ -82127,15 +82035,10 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES."
-#| "FAILED"
-#| msgid "    • Max module limit of engine reached"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED"
 msgid "    • Engine's height limit reached"
-msgstr "    • Maximale Modulanzahl des Triebwerks erreicht"
+msgstr "    • Höhenlimit des Triebwerks erreicht"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE
 msgctxt ""
@@ -82373,27 +82276,15 @@ msgid "Object Analysis"
 msgstr "Objektanalyse"
 
 #. STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.ANALYSIS_TARGET_SELECTED
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.ANALYSIS_TARGET_SELECTED"
-#| msgid ""
-#| "Object focus selected.\n"
-#| "Analysis underway."
 msgctxt "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.ANALYSIS_TARGET_SELECTED"
 msgid ""
 "Object focus selected\n"
 "Analysis underway"
 msgstr ""
 "Objektfokus ausgewählt.\n"
-"Die Analyse ist im Gange."
+"Analyse läuft"
 
 #. STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET"
-#| msgid ""
-#| "No analysis focus selected.\n"
-#| "Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a "
-#| "focus."
 msgctxt "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET"
 msgid ""
 "No analysis focus selected\n"
@@ -82401,7 +82292,7 @@ msgid ""
 msgstr ""
 "Kein Analysefokus ausgewählt.\n"
 "Öffne die <b>Sternenkarte</b> <b><color=#F44A4A>[Z]</b></color>, um einen Fokus "
-"auszuwählen."
+"auszuwählen"
 
 #. STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.OPENSTARMAPBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.OPENSTARMAPBUTTON"
@@ -83929,13 +83820,6 @@ msgstr ""
 "Neuer Datenbankeintrag freigeschaltet."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_CRYO_TANK
-#, fuzzy
-#| msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_STERNSDESK"
-#| msgid ""
-#| "There's an old magazine article from a publication called the \"Nucleoid\" "
-#| "tucked in the top drawer. I add it to my database.\n"
-#| "\n"
-#| "New Database Entry discovered."
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_CRYO_TANK"
 msgid ""
 "There are some safety instructions included in the operating instructions of "
@@ -83943,10 +83827,10 @@ msgid ""
 "\n"
 "New Database Entry discoverd."
 msgstr ""
-"Da ist eine handschriftliche Notiz auf der Rückseite der oberen Schublade. Ich "
-"füge sie zu meiner Datenbank hinzu.\n"
+"In der Bedienungsanleitung dieses Kryotanks sind einige Sicherheitshinweise "
+"enthalten. Ich füge sie meiner Datenbank hinzu.\n"
 "\n"
-"Neuer Datenbankeintrag freigeschaltet."
+"Neuer Datenbankeintrag entdeckt."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_DISPLAY
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_DISPLAY"
@@ -84110,13 +83994,6 @@ msgstr ""
 "Neuer Datenbankeintrag freigeschaltet."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_TELEPORTER_RECEIVER
-#, fuzzy
-#| msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_POD"
-#| msgid ""
-#| "I search my incoming message history and find a single entry. I move the odd "
-#| "message into my database.\n"
-#| "\n"
-#| "New Database Entry discovered."
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_TELEPORTER_RECEIVER"
 msgid ""
 "Incongruously placed research notes are hidden within the operating "
@@ -84124,19 +84001,12 @@ msgid ""
 "\n"
 "New Database Entry discovered."
 msgstr ""
-"Ich durchsuche die eingehenden Nachrichten und finde einen einzelnen Eintrag. "
-"Ich verschiebe Nachricht in meinen Datenbank.\n"
+"In der Bedienungsanleitung dieses Gerätes sind Unpassend platzierte "
+"Forschungsnotizen versteckt. Ich füge sie meiner Datenbank hinzu.\n"
 "\n"
-"Neuer Datenbankeintrag freigeschaltet."
+"Neuer Datenbankeintrag entdeckt."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_TELEPORTER_SENDER
-#, fuzzy
-#| msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_OBJECT_SUCCESS.SEARCH4"
-#| msgid ""
-#| "A single page of a long printout remains legible. I scan it and add it to my "
-#| "database.\n"
-#| "\n"
-#| "New Database Entry discovered."
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_TELEPORTER_SENDER"
 msgid ""
 "While scanning the antiquated computer code of this machine I uncovered some "
@@ -84144,10 +84014,10 @@ msgid ""
 "\n"
 "New Database Entry discovered."
 msgstr ""
-"Eine einzelne Seite eines langen Druckauftrags ist lesbar. Ich überfliege sie "
-"und füge sie meiner Datenbank hinzu.\n"
+"Beim Scannen des antiquierten Computercodes dieser Maschine entdeckte ich "
+"einige Forschungsnotizen. Ich füge sie meiner Datenbank hinzu.\n"
 "\n"
-"Neuer Datenbankeintrag freigeschaltet."
+"Neuer Datenbankeintrag entdeckt."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.TOOLTIP"
@@ -85531,12 +85401,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.WORLDS.FORESTMOONLET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.WORLDS.MOOMOONLET.NAME"
-#| msgid "Moo Moonlet"
 msgctxt "STRINGS.WORLDS.FORESTMOONLET.NAME"
 msgid "Forest Moonlet"
-msgstr "Muh-Asteroid"
+msgstr "Waldmond"
 
 #. STRINGS.WORLDS.HELICONA.DESCRIPTION
 msgctxt "STRINGS.WORLDS.HELICONA.DESCRIPTION"
@@ -85597,13 +85464,6 @@ msgid "Marshy Asteroid"
 msgstr "Sumpfiger Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.DESCRIPTION"
-#| msgid ""
-#| "A partially frozen world with an oily core.\n"
-#| "\n"
-#| "<smallcaps>While Oily Swamp Asteroids are largely swampy, they also contain "
-#| "a great deal of rust.</smallcaps>"
 msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
 msgid ""
 "A large-ish partially frozen world with a radioactive core.\n"
@@ -85611,18 +85471,15 @@ msgid ""
 "<smallcaps>While Radioactive Swamp Asteroid are largely swampy, they also "
 "contain a great deal of rust.</smallcaps>"
 msgstr ""
-"Eine teilweise gefrorene Welt mit einem öligen Kern.\n"
+"Eine große, teilweise gefrorene Welt mit einem radioaktiven Kern.\n"
 "\n"
-"<smallcaps>Ölige Sumpf-Asteroiden sind weitgehend sumpfig, bergen aber auch "
-"sehr viel Rost.</smallcaps>"
+"<smallcaps>Obwohl radioaktive Sumpf-Asteroiden größtenteils sumpfig sind, "
+"enthalten sie auch viel Rost.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.NAME"
-#| msgid "Oily Swamp Asteroid"
 msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.NAME"
 msgid "Radioactive Swamp Asteroid"
-msgstr "Öliger Sumpf-Asteroid"
+msgstr "Radioaktiver Sumpf-Asteroid"
 
 #. STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION
 msgctxt "STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION"
@@ -85643,13 +85500,6 @@ msgid "Irradiated Marsh Asteroid"
 msgstr "Verstrahlter Sumpfasteroid"
 
 #. STRINGS.WORLDS.MOOMOONLET.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.WORLDS.MOOMOONLET.DESCRIPTION"
-#| msgid ""
-#| "A small world with unique local lifeforms.\n"
-#| "\n"
-#| "<smallcaps>Moo Moonlets are the natural breeding ground of Gassy Moos due to "
-#| "their abundance of Gas Grass and Methane.</smallcaps>"
 msgctxt "STRINGS.WORLDS.MOOMOONLET.DESCRIPTION"
 msgid ""
 "A small world with unique local lifeforms.\n"
@@ -85659,16 +85509,13 @@ msgid ""
 msgstr ""
 "Eine kleine Welt mit einzigartigen lokalen Lebensformen.\n"
 "\n"
-"<smallcaps>Muh-Asteroiden sind aufgrund ihres Reichtums an Gasgrass und Methan "
-"der natürliche Brutplatz für Weltraumkühe.</smallcaps>"
+"<smallcaps>Muh-Asteroiden sind aufgrund ihres Reichtums an Gasgras und Methan "
+"der natürliche Nährboden von Gassy Moos.</smallcaps>"
 
 #. STRINGS.WORLDS.MOOMOONLET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.ASTEROIDS.ROCKYASTEROID.NAME"
-#| msgid "Rocky Asteroid"
 msgctxt "STRINGS.WORLDS.MOOMOONLET.NAME"
 msgid "Moo Asteroid"
-msgstr "Felsiger Asteroid"
+msgstr "Muh Asteroid"
 
 #. STRINGS.WORLDS.MOON_BARREN.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MOON_BARREN.DESCRIPTION"
@@ -85970,9 +85817,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.WORLDS.SWAMPYLANDINGSITE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.WORLDS.METALHEAVYLANDINGSITE.NAME"
-#| msgid "Irradiated Marsh Asteroid"
 msgctxt "STRINGS.WORLDS.SWAMPYLANDINGSITE.NAME"
 msgid "Irradiated Swampy Asteroid"
 msgstr "Verstrahlter Sumpfasteroid"
@@ -86144,15 +85988,6 @@ msgid "Oily Swamp Asteroid"
 msgstr "Öliger Sumpf-Asteroid"
 
 #. STRINGS.WORLDS.WATERMOONLET.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.WORLDS.WATERMOONLET.DESCRIPTION"
-#| msgid ""
-#| "A small, water-submerged world.\n"
-#| "\n"
-#| "<smallcaps>Water Moonlets possess a variety of liquid resources and are a "
-#| "natural source of Graphite. However, its thin surface and sparse "
-#| "construction material means Duplicants should come prepared for a swim.</"
-#| "smallcaps>"
 msgctxt "STRINGS.WORLDS.WATERMOONLET.DESCRIPTION"
 msgid ""
 "A small, water-submerged world.\n"
@@ -86161,20 +85996,17 @@ msgid ""
 "natural source of Graphite. However, its thin surface and sparse construction "
 "material means Duplicants should come prepared for a swim.</smallcaps>"
 msgstr ""
-"Eine kleine, mit Wasser gefüllte Welt.\n"
+"Eine kleine, von Wasser überflutete Welt.\n"
 "\n"
-"<smallcaps>Wasser-Asteroiden bieten verschiedene Flüssigkeiten und sind eine "
-"Quelle von Graphit. Aufgrund der dünnen Oberfläche und des spärlichen "
-"Baumaterials sollten Duplikanten jedoch darauf vorbereitet sein, schwimmen zu "
-"gehen.</smallcaps>"
+"<smallcaps>Wasser-Asteroiden besitzen eine Vielzahl von flüssigen Ressourcen "
+"und sind eine natürliche Graphitquelle. Die dünne Oberfläche und das spärliche "
+"Konstruktionsmaterial bedeuten jedoch, dass Duplicants zum Schwimmen "
+"vorbereitet sein sollten.</smallcaps>"
 
 #. STRINGS.WORLDS.WATERMOONLET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.ASTEROIDS.CARBONACEOUSASTEROID.NAME"
-#| msgid "Carbon Asteroid"
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
-msgstr "Kohlenstoffreicher Asteroid"
+msgstr "Wasser-Asteroid"
 
 #~ msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.LOCAL"
 #~ msgid "Local"
