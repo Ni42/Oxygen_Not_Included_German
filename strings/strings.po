@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-06-22 20:59+0200\n"
+"PO-Revision-Date: 2021-06-23 21:02+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -40437,7 +40437,7 @@ msgstr "Baumäste sterben ohne einen gesunden Stamm, aus dem sie wachsen können
 #. STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGGENES.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGGENES.NAME"
 msgid "Analyzing Plant Genes"
-msgstr ""
+msgstr "Pflanzengene analysieren"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGGENES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGGENES.TOOLTIP"
@@ -52280,6 +52280,12 @@ msgid ""
 "\n"
 "{Info}"
 msgstr ""
+"Tiefgreifende Untersuchungen der Gene der Pflanze {Plant} haben zur Entdeckung "
+"einer vielversprechenden neuen kultivierbaren Mutation geführt:\n"
+"\n"
+"<b>{Subspecies}</b>\n"
+"\n"
+"{Info}"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME"
@@ -52702,7 +52708,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.NAME"
 msgid "New Mutant Seed Discovered"
-msgstr ""
+msgstr "Neues Mutanten-Saatgut entdeckt"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP"
@@ -53094,6 +53100,15 @@ msgid ""
 "Planetoid in order to use the <style=\"KKeyword\">Starmap Screen</style> "
 "<b><color=#F44A4A>[Z]</b></color> to see and set course for new destinations."
 msgstr ""
+"Um eine Rakete zu bauen, musst du zunächst eine <link=\"LAUNCHPLATFORM"
+"\">Raketenplattform</link> konstruieren und Module aus dem Menü hinzufügen. Alle "
+"Komponenten der Raketen-Checkliste müssen vollständig sein, bevor die Rakete "
+"gestartet werden kann.\n"
+"\n"
+"Ein <link=\"TELESCOPE\">Teleskop</link> muss auf der Oberfläche eines "
+"Planetoiden gebaut werden, um die <style=\"KKeyword\">Sternenkarte</style> "
+"<b><color=#F44A4A>[Z]</b></color> zu nutzen, um neue Ziele zu sehen und Kurs zu "
+"setzen."
 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME"
@@ -57767,6 +57782,7 @@ msgstr "<link=\"CRASHPLAN\">Absturzplan</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.CRYOFUELPROPULSION.DESC"
 msgid "A semi-powerful engine to propel you further into the galaxy."
 msgstr ""
+"Ein halbwegs leistungsfähiges Triebwerk, das dich weiter in die Galaxie treibt."
 
 #. STRINGS.RESEARCH.TECHS.CRYOFUELPROPULSION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.CRYOFUELPROPULSION.NAME"
@@ -58001,7 +58017,7 @@ msgstr "<link=\"HIGHTEMPFORGING\">Hochtemperatur-Schmieden</link>"
 #. STRINGS.RESEARCH.TECHS.HIGHVELOCITYTRANSPORT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.HIGHVELOCITYTRANSPORT.DESC"
 msgid "Hurl things through space."
-msgstr ""
+msgstr "Schleudere Dinge durch den Raum."
 
 #. STRINGS.RESEARCH.TECHS.HIGHVELOCITYTRANSPORT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.HIGHVELOCITYTRANSPORT.NAME"
@@ -58274,7 +58290,7 @@ msgstr "<link=\"MEDICINEIV\">Mikrozielorientiert Medizin</link>"
 #. STRINGS.RESEARCH.TECHS.MONUMENTS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.MONUMENTS.DESC"
 msgid "Monumental art projects."
-msgstr ""
+msgstr "Monumentale Kunstprojekte."
 
 #. STRINGS.RESEARCH.TECHS.MONUMENTS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.MONUMENTS.NAME"
@@ -58304,7 +58320,7 @@ msgstr "<link=\"NOTIFICATIONSYSTEMS\">Benachrichtigungssysteme</link>"
 #. STRINGS.RESEARCH.TECHS.NUCLEARPROPULSION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARPROPULSION.DESC"
 msgid "Radical technology to get you to the stars."
-msgstr ""
+msgstr "Eine revolutionäre Technologie, die dich zu den Sternen bringt."
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARPROPULSION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARPROPULSION.NAME"
@@ -58324,7 +58340,7 @@ msgstr "<link=\"NUCLEAR\">Strahlenverfeinerung</link>"
 #. STRINGS.RESEARCH.TECHS.NUCLEARRESEARCH.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARRESEARCH.DESC"
 msgid "Research and harness sub-atomic particles."
-msgstr ""
+msgstr "Subatomare Teilchen erforschen und nutzbar machen."
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARRESEARCH.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARRESEARCH.NAME"
@@ -58620,7 +58636,7 @@ msgstr "<link=\"SPACEPOWER\">Weltraummacht</link>"
 #. STRINGS.RESEARCH.TECHS.SPACEPROGRAM.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEPROGRAM.DESC"
 msgid "The first steps in getting a Duplicant to space."
-msgstr ""
+msgstr "Die ersten Schritte, um einen Duplikanten in den Weltraum zu bringen."
 
 #. STRINGS.RESEARCH.TECHS.SPACEPROGRAM.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEPROGRAM.NAME"
