@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-06-22 20:59+0200\n"
-"Last-Translator: CarstenG\n"
+"PO-Revision-Date: 2021-06-25 14:53+0200\n"
+"Last-Translator: Eisberge <22561095+Eisberge@users.noreply.github.com>\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -4455,7 +4455,7 @@ msgstr "Die Einrichtung arbeitet wie vorgesehen"
 #. STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.NAME"
 msgid "Duplicant Operation Required"
-msgstr "Duplikantenaktion abgeschlossen"
+msgstr "Duplikantenaktion notwendig"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKREQUIRESMINION.TOOLTIP"
@@ -29422,7 +29422,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.EGG_NAME"
 msgid "<link=\"STATERPILLAR\">Slug Egg</link>"
-msgstr "<link=\"STATERPILLAR\">Stöpselschnecken-Ei</link>"
+msgstr "<link=\"STATERPILLAR\">Steckschnecken-Ei</link>"
 
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.NAME"
