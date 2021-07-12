@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-03 13:02+0200\n"
+"PO-Revision-Date: 2021-07-07 20:58+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -60129,7 +60129,7 @@ msgstr "<link=\"SOLIDMANAGEMENT\">Feststoff-Management</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDSPACE.DESC"
 msgid "Transport and sort <link=\"ELEMENTSSOLID\">Solid</link> resources."
 msgstr ""
-"Transportiere und sortiere <link=\"ELEMENTSSOLID\">Feststoffressourcen</link>"
+"Transportiere und sortiere <link=\"ELEMENTSSOLID\">Feststoffressourcen</link>."
 
 #. STRINGS.RESEARCH.TECHS.SOLIDSPACE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDSPACE.NAME"
@@ -70546,7 +70546,7 @@ msgstr " - <b>kein kompatibler Mod gefunden</b>"
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.OLD_API
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.OLD_API"
 msgid " - <b>Mod out-of-date</b>"
-msgstr ""
+msgstr " - <b>Mod veraltet</b>"
 
 #. STRINGS.UI.FRONTEND.MODS.DB_CORRUPT
 msgctxt "STRINGS.UI.FRONTEND.MODS.DB_CORRUPT"
@@ -70638,7 +70638,7 @@ msgstr "STEAM WORKSHOP"
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "THE BIG MERGE"
-msgstr ""
+msgstr "DIE GROSSE VERSCHMELZUNG"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -70676,6 +70676,24 @@ msgid ""
 "\n"
 "Check out the full patch notes for more details!"
 msgstr ""
+"Willkommen bei <b>DER GROSSEN VERSCHMELZUNG</b>.\n"
+"\n"
+"   •<indent=20px>Wechsel im Hauptmenü zwischen <i>Spaced Out!</i> und dem "
+"Basisspiel, ohne das Spiel neu herunterzuladen.</indent>\n"
+"\n"
+"   •<indent=20px>Das Basisspiel enthält jetzt alle <i>Spaced-Out!</i>-"
+"Fehlerbehebungen und Qualitätsverbesserungen.</indent>\n"
+"\n"
+"   •<indent=20px>Einige Gebäude und Gegenstände wurden dem Basisspiel "
+"hinzugefügt, darunter Sauerstoffmasken und Zählerventile.</indent>\n"
+"\n"
+"   •<indent=20px>Verbesserungen der Benutzeroberfläche und der Diagnose wurden "
+"dem Basisspiel hinzugefügt.</indent>\n"
+"   \n"
+"   •<indent=20px>Erhebliche Updates am Modding-System, Modder finden im Forum "
+"eine Anleitung zum Upgrade.</indent>\n"
+"\n"
+"Schauen Sie sich die vollständigen Patch Notes für weitere Details an!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
@@ -71520,7 +71538,7 @@ msgstr "Umgebungsstrahlung"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.AMBIENT_RADIATION_FMT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.AMBIENT_RADIATION_FMT"
 msgid "{minRads} - {maxRads}"
-msgstr ""
+msgstr "{minRads} - {maxRads}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES"
@@ -71889,6 +71907,10 @@ msgid ""
 "Growing near its maximum radiation increases the chance of mutant seeds being "
 "produced"
 msgstr ""
+"\n"
+"\n"
+"Das Wachsen in der Nähe der maximalen Strahlung erhöht die Wahrscheinlichkeit, "
+"dass mutierte Samen produziert werden"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.MUTANT_STERILE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.MUTANT_STERILE"
@@ -71927,6 +71949,8 @@ msgid ""
 "This plant will stop growing if exposed to more than {MaxRads} of <link="
 "\"RADIATION\">Radiation</link>"
 msgstr ""
+"Diese Pflanze hört auf zu wachsen, wenn sie mehr als {MaxRads} an <link="
+"\"RADIATION\">Strahlung</link> ausgesetzt wird"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE"
@@ -71943,6 +71967,8 @@ msgid ""
 "This plant will only grow if it has between {MinRads} and {MaxRads} of <link="
 "\"RADIATION\">Radiation</link>"
 msgstr ""
+"Diese Pflanze wird nur wachsen, wenn sie zwischen {MinRads} und {MaxRads} <link="
+"\"RADIATION\">Strahlung</link> erhält"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_RECEPTACLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_RECEPTACLE"
@@ -77809,6 +77835,10 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Die Überbleibsel einer vergangenen Ära, verloren in der Zeit.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION1.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION1.NAME"
@@ -77823,11 +77853,15 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Eine stillgelegte Rakete einer Firma, die schon lange verschwunden ist.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION2.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION2.NAME"
 msgid "Demolished Rocket"
-msgstr ""
+msgstr "Zerstörte Rakete"
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.DESC
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.DESC"
@@ -77837,6 +77871,10 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Die Trümmer einer Rakete, die schon lange nicht mehr funktioniert.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.NAME"
@@ -77851,11 +77889,15 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Ein Raketenteil aus einer Gesellschaft, die ausgelöscht wurde.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION4.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION4.NAME"
 msgid "Retired Planetary Excursion Module"
-msgstr ""
+msgstr "Ausgedientes Planetares Exkursionsmodul"
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.DESC
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.DESC"
@@ -77865,6 +77907,10 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Ein zerstörter Gravitas-Satellit.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.NAME"
@@ -77879,6 +77925,11 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Die Überreste eines Satelliten, der irgendwann in der Vergangenheit hergestellt "
+"wurde.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION6.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION6.NAME"
@@ -77893,6 +77944,11 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Ein ausgedientes Space Shuttle, das unbeaufsichtigt durch den Weltraum "
+"schwebt.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION7.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION7.NAME"
@@ -77907,16 +77963,20 @@ msgid ""
 "Harvesting space junk requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
+"Das Modul von einer Raumstation, die schon lange nicht mehr existiert.\n"
+"\n"
+"Zum Sammeln von Weltraumschrott wird eine Rakete benötigt, die mit einem <link="
+"\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION8.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION8.NAME"
 msgid "Obsolete Space Station Module"
-msgstr ""
+msgstr "Veraltetes Raumstationsmodul"
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.DESC
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.DESC"
 msgid "Has never been disproven to not exist."
-msgstr ""
+msgstr "Es wurde nie widerlegt, dass sie nicht existiert."
 
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.NAME"
@@ -78160,7 +78220,7 @@ msgstr "Eisriese"
 #. STRINGS.UI.SPACEDESTINATIONS.GRAVITAS_SPACE_POI.STATION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.GRAVITAS_SPACE_POI.STATION"
 msgid "Destroyed Gravitas Space Station"
-msgstr ""
+msgstr "Zerstörte Gravitas-Raumstation"
 
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.DESC
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.DESC"
