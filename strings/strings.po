@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-07 20:58+0200\n"
+"PO-Revision-Date: 2021-07-12 21:50+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1215,6 +1215,8 @@ msgstr "Warte auf Teilchenblitze"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.TOOLTIP"
 msgid "A queued recipe requires more Radbolts than are currently stored"
 msgstr ""
+"Ein Rezept in der Warteschlange benötigt mehr Teilchenblitze als aktuell "
+"gespeichert sind"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.NAME"
@@ -1224,7 +1226,7 @@ msgstr "Alle Laderäume sind voll"
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.TOOLTIP"
 msgid "Rocket cannot store any more materials"
-msgstr ""
+msgstr "Rakete kann keine Materialien mehr speichern"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTCARGOREMAINING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTCARGOREMAINING.NAME"
@@ -3662,7 +3664,7 @@ msgstr "Ressourcen werden vom Weltraumschrott abgebaut"
 #. STRINGS.BUILDING.STATUSITEMS.SPACEPOIWASTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACEPOIWASTING.NAME"
 msgid "Cannot store resources: {0}"
-msgstr ""
+msgstr "Kann keine Ressourcen speichern: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACEPOIWASTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACEPOIWASTING.TOOLTIP"
@@ -4962,7 +4964,7 @@ msgstr "<link=\"SANDCEMENT\">Arcade-Automat</link>"
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.DESC"
 msgid "Discover the mysteries of the past."
-msgstr ""
+msgstr "Entdecke die Geheimnisse der Vergangenheit."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.EFFECT"
@@ -4970,6 +4972,8 @@ msgid ""
 "Analyses and extracts <link=\"UNOBTANIUM\">Neutronium</link> from artifacts of "
 "interest."
 msgstr ""
+"Analysiert und extrahiert <link=\"UNOBTANIUM\">Neutronium</link> aus Artefakten "
+"von Interesse."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.NAME"
@@ -4979,7 +4983,7 @@ msgstr "<link=\"ARTIFACTANALYSISSTATION\">Artefaktanalysestation</link>"
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.DESC"
 msgid "Holds artifacts found in space."
-msgstr ""
+msgstr "Enthält Artefakte, die im Weltraum gefunden wurden."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT"
@@ -6271,12 +6275,12 @@ msgstr "Dev-Generator"
 #. STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.DESC"
 msgid "That's some <i>strong</i> coffee."
-msgstr ""
+msgstr "Das ist ein <i>starker</i> Kaffee."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.EFFECT"
 msgid "Generates on-demand radiation to keep you cosy."
-msgstr ""
+msgstr "Erzeugt bedarfsgerechte Strahlung, damit du es gemütlich hast."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.NAME"
@@ -6286,7 +6290,7 @@ msgstr "Entwicklungsstrahlungsemitter"
 #. STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.DESC"
 msgid "Crushes refined carbon into diamond."
-msgstr ""
+msgstr "Zerkleinert veredelten Kohlenstoff zu Diamant."
 
 #. STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.EFFECT"
@@ -7996,7 +8000,7 @@ msgstr "<link=\"GRAVE\">Stilvolle Gedenkstätte</link>"
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC"
 msgid "An office door to an office that no longer exists."
-msgstr ""
+msgstr "Eine Bürotür zu einem Büro, das nicht mehr existiert."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT"
@@ -12398,6 +12402,11 @@ msgid ""
 "\n"
 "Must be built at the top of a rocket."
 msgstr ""
+"Ermöglicht es einer Rakete, sich in interstellare Trümmer zu bohren und <link="
+"\"ELEMENTSGAS\">Gase</link>, <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> und "
+"<link=\"ELEMENTSSOLID\">Feststoffe</link> aus dem Weltraum zu sammeln.\n"
+"\n"
+"Muss an der Spitze einer Rakete gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.NAME"
@@ -13616,6 +13625,7 @@ msgstr "Promotion"
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.DESC"
 msgid "Non-functioning robotic arms that once assisted lab technicians."
 msgstr ""
+"Nicht funktionierende Roboterarme, die einst die Labortechniker unterstützten."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.NAME"
@@ -13625,7 +13635,7 @@ msgstr "Deckenroboter"
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.DESC"
 msgid "A tall, thin window which once pointed to a courtyard."
-msgstr ""
+msgstr "Ein hohes, schmales Fenster, das einst auf einen Innenhof zeigte."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.NAME"
@@ -13652,6 +13662,7 @@ msgstr "Elektronische Anzeige"
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.DESC"
 msgid "The grasping robotic claw designed to assist technicians in a lab."
 msgstr ""
+"Die greifende Roboterzange zur Unterstützung von Technikern in einem Labor."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.NAME"
@@ -13666,6 +13677,10 @@ msgid ""
 "It appears to use a method other than fingerprints to verify an individual's "
 "identity."
 msgstr ""
+"Ein hochentwickeltes Sicherheitsgerät.\n"
+"\n"
+"Es scheint eine andere Methode als Fingerabdrücke zu verwenden, um die "
+"Identität einer Person zu überprüfen."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASHANDSCANNER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASHANDSCANNER.NAME"
@@ -13677,16 +13692,18 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR1.DESC"
 msgid ""
 "An abnormally large brain floating in embalming liquid to prevent decomposition."
 msgstr ""
+"Ein abnorm großes Gehirn, das in Einbalsamierungsflüssigkeit schwimmt, um "
+"Verwesung zu verhindern."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR1.NAME"
 msgid "Big Brain Jar"
-msgstr ""
+msgstr "Großes Hirn-Glas"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.DESC"
 msgid "The corpse of a proto-hatch creature meticulously preserved in a jar."
-msgstr ""
+msgstr "Der Leichnam eines Proto-Hatches, akribisch konserviert in einem Gefäß."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.NAME"
@@ -13700,16 +13717,19 @@ msgid ""
 "\n"
 "Perhaps the computer stores something of interest."
 msgstr ""
+"Der urige Forschungstisch eines verstorbenen Laboranten.\n"
+"\n"
+"Vielleicht speichert der Computer etwas von Interesse."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABTABLE.NAME"
 msgid "Lab Desk"
-msgstr ""
+msgstr "Labor-Schreibtisch"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC"
 msgid "A regular wall that once existed in a working lab."
-msgstr ""
+msgstr "Eine normale Wand, die einmal in einem Arbeitslabor stand."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT"
@@ -13719,12 +13739,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.NAME"
 msgid "Lab Wall"
-msgstr ""
+msgstr "Laborwand"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC"
 msgid "A lab window. Formerly a portal to the outside world."
-msgstr ""
+msgstr "Ein Laborfenster. Ehemals ein Portal zur Außenwelt."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT"
@@ -13743,6 +13763,10 @@ msgid ""
 "\n"
 "Someone once stared out this contemplating the results of an experiment."
 msgstr ""
+"Ein Laborfenster.\n"
+"\n"
+"Da hat mal jemand rausgestarrt und über die Ergebnisse eines Experiments "
+"nachgedacht."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.EFFECT"
@@ -13760,6 +13784,8 @@ msgid ""
 "The work space of an extinct robotics technician who left behind some "
 "unfinished prototypes."
 msgstr ""
+"Der Arbeitsraum eines ausgestorbenen Robotikers, der einige unfertige "
+"Prototypen hinterlassen hat."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.NAME"
@@ -13770,16 +13796,17 @@ msgstr "Robotik-Forschungstisch"
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.DESC"
 msgid "A shelf holding jars just out of reach for a short person."
 msgstr ""
+"Ein Regal mit Gläsern, das für eine kleine Person gerade nicht erreichbar ist."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.NAME"
 msgid "Shelf"
-msgstr ""
+msgstr "Regal"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC"
 msgid "The granite wall of a once great scientific facility."
-msgstr ""
+msgstr "Die Granitwand einer einst großen wissenschaftlichen Einrichtung."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT"
@@ -13789,7 +13816,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME"
 msgid "Wall"
-msgstr ""
+msgstr "Wand"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC"
@@ -19176,7 +19203,7 @@ msgstr "VERSCHLÜSSELUNGSEBENE: NULL"
 #. STRINGS.CODEX.A5_SHRIMP.TITLE
 msgctxt "STRINGS.CODEX.A5_SHRIMP.TITLE"
 msgid "Shrimp"
-msgstr ""
+msgstr "Garnele"
 
 #. STRINGS.CODEX.A5_STRAWBERRIES.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.BODY.CONTAINER1"
@@ -19229,7 +19256,7 @@ msgstr "VERSCHLÜSSELUNGSEBENE: NULL"
 #. STRINGS.CODEX.A5_STRAWBERRIES.TITLE
 msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.TITLE"
 msgid "Strawberries"
-msgstr ""
+msgstr "Erdbeeren"
 
 #. STRINGS.CODEX.A5_SUNFLOWERSEEDS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A5_SUNFLOWERSEEDS.BODY.CONTAINER1"
@@ -20039,6 +20066,15 @@ msgid ""
 "Despite having many hardy, evenly spaced branches, the short stature of the "
 "Arbor Tree makes climbing it rather irrelevant."
 msgstr ""
+"Arbor-Bäume wurden so gezüchtet, dass sie sich beim Wachsen horizontal "
+"ausbreiten, um auf vertikal beengtem Raum eine hohe Ausbeute an Bauholz zu "
+"erzielen.\n"
+"\n"
+"Arbor-Bäume sind mit der Eiche verwandt, speziell mit dem japanischen "
+"Immergrün, obwohl sie genetisch stark gekreuzt wurden.\n"
+"\n"
+"Obwohl er viele robuste, gleichmäßig verteilte Äste hat, macht die kurze Statur "
+"des Arbor-Baumes das Erklettern eher irrelevant."
 
 #. STRINGS.CODEX.ARBORTREE.SUBTITLE
 msgctxt "STRINGS.CODEX.ARBORTREE.SUBTITLE"
@@ -20311,6 +20347,21 @@ msgid ""
 "\n"
 "The workplace revolution starts now!"
 msgstr ""
+"Bringe dein Büro zu den Sternen mit Gravitas neuen Corporate Space Stations.\n"
+"\n"
+"Genieße eine gefesselte Belegschaft mit über 600 Quadratmetern Bürofläche in "
+"der niedrigen Erdumlaufbahn. Atemberaubende Aussichten, ein Fitnessstudio mit "
+"niedriger Schwerkraft und eine Cafeteria mit feinsten Nährstoffriegeln erwarten "
+"deine Mitarbeiter.\n"
+"\n"
+"Tägliche Hin- und Rückflüge zu Ihrem Satellitenbüro erfolgen über unsere "
+"luxuriösen Space Shuttles.\n"
+"\n"
+"Sei versichert, dass unsere Raumstationen und Shuttles nur die extrem "
+"effizienten, umweltfreundlichen, von Gravitas entwickelten Energiequellen "
+"nutzen.\n"
+"\n"
+"Die Revolution am Arbeitsplatz beginnt jetzt!"
 
 #. STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER2"
@@ -20318,6 +20369,8 @@ msgid ""
 "Taking reservations now for the first orbital office spaces.\n"
 "100% money back guarantee (minus 10% filing fee)"
 msgstr ""
+"Wir nehmen jetzt Reservierungen für die ersten orbitalen Büroflächen entgegen.\n"
+"100% Geld-zurück-Garantie (abzüglich 10% Anmeldegebühr)"
 
 #. STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.SUBTITLE
 msgctxt "STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.SUBTITLE"
@@ -20327,7 +20380,7 @@ msgstr "VERÖFFENTLICHUNG"
 #. STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.TITLE
 msgctxt "STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.TITLE"
 msgid "Office Space in Space!"
-msgstr ""
+msgstr "Büroraum im Weltraum!"
 
 #. STRINGS.CODEX.B10_AI.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B10_AI.BODY.CONTAINER1"
@@ -20532,6 +20585,23 @@ msgid ""
 "Gravitas is excited to have Captain Johannsen in the pilot seat as we reach for "
 "the stars...and beyond!"
 msgstr ""
+"Treffen Sie den Piloten:\n"
+"Kapitän Mae Johannsen\n"
+"\n"
+"Seit sie alt genug war, um zu laufen, träumte Captain Johannsen davon, den "
+"Himmel zu erreichen. Sie wuchs auf einem Luftwaffenstützpunkt auf und liebte "
+"das Dröhnen der Düsentriebwerke über ihrem Kopf.\n"
+"\n"
+"Mit 16 wurde sie die jüngste Pilotin, die einen Kampfjet flog, und mit 22 war "
+"sie bereits im Raumfahrtprogramm.\n"
+"\n"
+"Vier Jahre später bekam sie von Gravitas einen Exklusivvertrag als Pilotin für "
+"unsere Space Shuttles. In ihrer Zeit bei Gravitas hat Captain Johannsen mehr "
+"als 1.000 Flugstunden im Weltraum verbracht, in denen sie Satelliten in "
+"niedrige Erdumlaufbahnen befördert und ausgesetzt hat.\n"
+"\n"
+"Gravitas freut sich, Captain Johannsen auf dem Pilotensitz zu haben, während "
+"wir nach den Sternen greifen... und darüber hinaus!"
 
 #. STRINGS.CODEX.B2_MEETTHEPILOT.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.BODY.CONTAINER2"
@@ -20552,7 +20622,7 @@ msgstr "VERÖFFENTLICHUNG"
 #. STRINGS.CODEX.B2_MEETTHEPILOT.TITLE
 msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.TITLE"
 msgid "The Future of Space Flight"
-msgstr ""
+msgstr "Die Zukunft der Raumfahrt"
 
 #. STRINGS.CODEX.B2_TEMPORALBOWUPDATE.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B2_TEMPORALBOWUPDATE.BODY.CONTAINER2"
@@ -21758,6 +21828,47 @@ msgid ""
 "\n"
 "[LOG ENDS]"
 msgstr ""
+"<smallcaps>[Spracherkennung initialisiert]\n"
+"[Subjekte identifiziert: B835, B997]</smallcaps>\n"
+"\n"
+"[LOG BEGINNT]\n"
+"\n"
+"Dr.Ansari: Shhhh...\n"
+"\n"
+"Dr. Bubare: Was? Was machen wir denn hier?\n"
+"\n"
+"Dr. Ansari: Ich zeige es Ihnen, sprechen Sie nur leise.\n"
+"\n"
+"Dr. Bubare: Dürfen wir überhaupt hier sein?\n"
+"\n"
+"Dr. Ansari: Nein. Glauben Sie mir, es wird sich lohnen, wenn ich es gefunden "
+"habe.\n"
+"\n"
+"Dr. Bubare: Was finden?\n"
+"\n"
+"Dr. Ansari: Das!\n"
+"\n"
+"Dr. Bubare: ...Videoaufnahmen aus einem Rattenkäfig? Was ist so toll daran – "
+"Warten Sie. Sind die...?\n"
+"\n"
+"Dr. Ansari: Schwebend!\n"
+"\n"
+"Dr. Bubare: Sie meinen, sie sind im...?\n"
+"\n"
+"Dr. Ansari: Im Weltraum!\n"
+"\n"
+"Dr. Bubare: Unsere Thermoratten sind im Weltraum?!?\n"
+"\n"
+"Dr. Ansari: Jepp! Da sind Applecart und Cherrypie und der kleine Bananabread. "
+"Seht sie euch an, sie sind so glücklich. Wir haben Rattenstronauten gemacht!!\n"
+"\n"
+"Dr. Bubare: Glückliche Rattenstronauten.\n"
+"\n"
+"Dr. Ansari: Wir haben glückliche Rattenstronauten gemacht!!\n"
+"\n"
+"Dr. Bubare: Schhhhhh...da kommt jemand.\n"
+"\n"
+"[LOG ENDET]"
 
 #. STRINGS.CODEX.B7_INSPACE.SUBTITLE
 msgctxt "STRINGS.CODEX.B7_INSPACE.SUBTITLE"
@@ -22039,6 +22150,17 @@ msgid ""
 "surprise just how much more efficient the cooperative combination of insect and "
 "hive is when compared to even the most advanced industrial processes."
 msgstr ""
+"Beetas sind insektenartige Kreaturen, die eine symbiotische Beziehung mit der "
+"radioaktiven Umgebung genießen, in der sie gedeihen.\n"
+"\n"
+"Ähnlich wie die Honigbiene Nektar sammelt und ihn zu Honig verarbeitet, "
+"verwandelt der Beeta Uran in angereichertes Uran durch einen komplexen Prozess "
+"der Isotopentrennung innerhalb des Beeta-Bienenstocks.\n"
+"\n"
+"Wenn man den Anreicherungsprozess der Beeta zum ersten Mal beobachtet, stellen "
+"viele Wissenschaftler mit Erstaunen fest, wie viel effizienter die kooperative "
+"Kombination aus Insekt und Bienenstock im Vergleich zu selbst den "
+"fortschrittlichsten industriellen Prozessen ist."
 
 #. STRINGS.CODEX.BEETA.SUBTITLE
 msgctxt "STRINGS.CODEX.BEETA.SUBTITLE"
@@ -22048,7 +22170,7 @@ msgstr "Aggressive Tiere"
 #. STRINGS.CODEX.BEETA.TITLE
 msgctxt "STRINGS.CODEX.BEETA.TITLE"
 msgid "Beeta"
-msgstr ""
+msgstr "Beeta"
 
 #. STRINGS.CODEX.BLISSBURST.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.BLISSBURST.BODY.CONTAINER1"
@@ -22133,6 +22255,15 @@ msgid ""
 "warm and inviting that it has tempted individuals to climb inside for a nap, "
 "only to awake trapped in its sticky sap."
 msgstr ""
+"Mooreimer haben ihren Namen von ihren eimerartigen Blüten und ihrer Neigung, in "
+"sumpfigen, moorartigen Umgebungen zu wachsen.\n"
+"\n"
+"Die Blüte sondert eine dicke, süße Flüssigkeit ab, die sich am Boden des Eimers "
+"sammelt und zum Verzehr entnommen werden kann.\n"
+"\n"
+"Das Innere der Mooreimerblume ist zwar an sich nicht gefährlich, aber so warm "
+"und einladend, dass es Menschen dazu verleitet hat, für ein Nickerchen "
+"hineinzuklettern, nur um dann in ihrem klebrigen Saft gefangen zu erwachen."
 
 #. STRINGS.CODEX.BOGBUCKET.SUBTITLE
 msgctxt "STRINGS.CODEX.BOGBUCKET.SUBTITLE"
@@ -22315,6 +22446,9 @@ msgid ""
 "design our small-scale colony machines.</indent>\n"
 "------------------\n"
 msgstr ""
+"<indent=5%>Direktor, ich glaube, ich habe den perfekten Ingenieurkandidaten für "
+"die Entwicklung unserer kleinen Koloniemaschinen gefunden.</indent>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER4
 msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER4"
@@ -22332,6 +22466,20 @@ msgid ""
 "It's this philosophy that has launched Perlmutter to the top of a very short "
 "list of hot new industrial designers."
 msgstr ""
+"<b>Kreative Arbeitsplatz-Ideen in die Industrie bringen</b>\n"
+"\n"
+"Michael E.E. Perlmutter ist ein aufstrebender Star in der Welt des "
+"Industriedesigns und hat sich einen Namen gemacht, indem er spielerische "
+"Arbeitsräume für eine Belegschaft entwirft, die normalerweise aus der kreativen "
+"Diskussion ausgeschlossen ist.\n"
+"\n"
+"\"Ergodynamische Stühle sind schon zu Tode gemacht worden\", sagt Perlmutter. "
+"\"Was mich interessiert, ist die Neugestaltung des industriellen Raums. Es gibt "
+"keinen Grund, warum eine Maschine nicht ein Gefühl von Launenhaftigkeit "
+"vermitteln kann.\"\n"
+"\n"
+"Es ist diese Philosophie, die Perlmutter an die Spitze einer sehr kurzen Liste "
+"heißer neuer Industriedesigner gebracht hat."
 
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.EMAILHEADER1
 msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.EMAILHEADER1"
@@ -22369,7 +22517,7 @@ msgstr "VERSCHLÜSSELUNGSEBENE: EINS"
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.TITLE
 msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.TITLE"
 msgid "SUBJECT: Machine Engineer Candidate?"
-msgstr ""
+msgstr "BETREFF: Maschineningenieur-Kandidat?"
 
 #. STRINGS.CODEX.CLEANER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER1"
@@ -22657,6 +22805,14 @@ msgid ""
 "tiny facial hair which helps in pollinating the plants and stimulates faster "
 "growth."
 msgstr ""
+"'Divergent' ist der Name für die beiden unterschiedlichen Geschlechter einer "
+"Art, dem Sweetle und dem Grubgrub, die sich beide ungeschlechtlich fortpflanzen "
+"und sich um Wühlfuchtpflanze kümmern können.\n"
+"\n"
+"Bei der Pflege der Wühlfuchtpflanze zeigen beide Geschlechtsvarianten des "
+"Divergent genau die gleichen Verhaltensweisen, allerdings besitzt der Grubgrub "
+"etwas mehr winzige Gesichtshaare, die bei der Bestäubung der Pflanzen helfen "
+"und ein schnelleres Wachstum stimulieren."
 
 #. STRINGS.CODEX.DIVERGENT.SUBTITLE
 msgctxt "STRINGS.CODEX.DIVERGENT.SUBTITLE"
@@ -22888,6 +23044,15 @@ msgid ""
 "Experiment 52B, in this particular case the experimenting scientists weren't "
 "sure that they were done."
 msgstr ""
+"Experiment 52B ist eine aggressive, aber festsitzende Kreatur, die Kalorien "
+"verbraucht und Harz ausstößt.\n"
+"\n"
+"Obwohl diese Kreatur wie ein Baum aussieht, ähnelt ihre Taxonomie eher einer "
+"riesigen landbasierten Koralle mit kybernetischen Implantaten.\n"
+"\n"
+"Obwohl normalerweise im Labor gezüchtete Kreaturen einen besseren Namen als "
+"Experiment 52B erhalten würden, waren sich die experimentierenden "
+"Wissenschaftler in diesem speziellen Fall nicht sicher, dass sie fertig waren."
 
 #. STRINGS.CODEX.EXPERIMENT52B.SUBTITLE
 msgctxt "STRINGS.CODEX.EXPERIMENT52B.SUBTITLE"
@@ -23073,6 +23238,17 @@ msgid ""
 "entirely known but is thought to be somehow tied to the infrasonic 'songs' "
 "these insects lovingly purr to their plants."
 msgstr ""
+"Die Wühlfuchtpflanze steht in einer koevolutionären Beziehung mit der "
+"divergenten Art.\n"
+"\n"
+"Obwohl sie in der Lage ist, ohne die Hilfe des Divergenten Früchte zu "
+"produzieren, ist die spindeldürre Wühlfrucht eine minderwertige Version der "
+"Wühlfucht, sowohl im Geschmack als auch im Kaloriengehalt.\n"
+"\n"
+"Der Mechanismus, wie der Divergent das Wachstum der Wühlfuchtpflanze anregt, "
+"ist nicht vollständig bekannt, aber es wird vermutet, dass er irgendwie mit den "
+"Infraschall-\"Liedern\" zusammenhängt, die diese Insekten liebevoll zu ihren "
+"Pflanzen säuseln."
 
 #. STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.GRUBFRUITPLANT.SUBTITLE"
@@ -23519,6 +23695,16 @@ msgid ""
 "The Jumping Joya's capacity to thrive in many environments and the ease in "
 "which they propagate make them the go-to house plant for the lazy gardener."
 msgstr ""
+"Die Jumping Joya ist eine dekorative Pflanze, die den Menschen in ihrer "
+"Umgebung ein Gefühl von Ruhe und Wohlbefinden vermittelt.\n"
+"\n"
+"Ihre abgerundeten Anhängsel und exzentrisch geformten Polypen sind ein Favorit "
+"von Innenarchitekten, die einen Ausgleich zu den starren, geraden Wänden einer "
+"institutionellen Umgebung suchen.\n"
+"\n"
+"Die Fähigkeit der Jumping Joya, in vielen Umgebungen zu gedeihen, und die "
+"Leichtigkeit, mit der sie sich vermehren, machen sie zu einer beliebten "
+"Zimmerpflanze für faule Gärtner."
 
 #. STRINGS.CODEX.JUMPINGJOYA.SUBTITLE
 msgctxt "STRINGS.CODEX.JUMPINGJOYA.SUBTITLE"
@@ -23617,6 +23803,16 @@ msgid ""
 "however no Mealwood has ever reached the point of flowering without being "
 "overrun by the parasitic Meal Lice."
 msgstr ""
+"Mehlholz ist eine brombeerartige Pflanze, die eine parasitäre Symbiose mit den "
+"nährstoffreichen Mehlläusen eingeht, die sie bewohnen.\n"
+"\n"
+"Mehlholz erfährt in seinen ersten Stadien eine schnelle Wachstumsrate, aber "
+"sobald die Mehlläuse aktiv werden, verbrauchen sie alle neuen Fruchtsprossen "
+"auf der Pflanze, bevor sie voll ausreifen können.\n"
+"\n"
+"Theoretisch haben die Blüten dieser Pflanze eine schöne Fuchsia-Farbe, jedoch "
+"hat kein Mehlholz jemals den Punkt der Blüte erreicht, ohne von den parasitären "
+"Mehlläusen überrannt zu werden."
 
 #. STRINGS.CODEX.MEALWOOD.SUBTITLE
 msgctxt "STRINGS.CODEX.MEALWOOD.SUBTITLE"
@@ -23665,6 +23861,14 @@ msgid ""
 "Although the Mirth Leaf can inspire laughter and joy, it is not cut out for a "
 "career in stand-up comedy."
 msgstr ""
+"Das Mirth Leaf ist eine breitblättrige Zimmerpflanze, die zur Dekoration von "
+"Wohnräumen verwendet wird.\n"
+"\n"
+"Das fröhliche Wippen der breiten, grünen Blätter sorgt für stundenlange "
+"Unterhaltung bei denjenigen, die verzweifelt nach Unterhaltung suchen.\n"
+"\n"
+"Obwohl das Mirth Leaf zu Lachen und Freude anregen kann, ist es nicht für eine "
+"Karriere in der Stand-up-Comedy geeignet."
 
 #. STRINGS.CODEX.MIRTHLEAF.SUBTITLE
 msgctxt "STRINGS.CODEX.MIRTHLEAF.SUBTITLE"
@@ -24333,6 +24537,18 @@ msgid ""
 "dimensions is leaking into our current timeline through the Temporal Tear. "
 "Further analysis is required."
 msgstr ""
+"Eine genauere Analyse einiger Dokumente, auf die meine Duplikanten bei der "
+"Suche nach Artefakten gestoßen sind, hat einige seltsame Ähnlichkeiten zwischen "
+"mehreren Einträgen aufgedeckt. Diese Ähnlichkeiten sind zu stark, um Zufälle zu "
+"sein, aber gerade abweichend genug, um Fragen aufzuwerfen.\n"
+"\n"
+"Die logischste Schlussfolgerung ist, dass diese Artefakte aus verschiedenen "
+"Dimensionen stammen. Das heißt, separate Universen, die gleichzeitig "
+"existieren, aber winzige Unterschiede in ihrer Geschichte aufweisen.\n"
+"\n"
+"Die wahrscheinlichste Erklärung ist, dass Material und Materie aus mehreren "
+"Dimensionen durch den Temporalen Riss in unsere aktuelle Zeitlinie sickert. "
+"Weitere Analysen sind erforderlich."
 
 #. STRINGS.CODEX.MYLOG.BODY.OTHERDIMENSIONS.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.OTHERDIMENSIONS.TITLE"
@@ -24677,6 +24893,16 @@ msgid ""
 "application, doing so would deprive individuals of the immense gratification "
 "experienced by planting this bean and watching it flourish into maturity."
 msgstr ""
+"Die Happsbohnenpflanze produziert eine nahrhafte Bohne, die als köstlicher "
+"Fleischersatz fungieren kann, sofern sie richtig verarbeitet wird.\n"
+"\n"
+"Obwohl die Bohne eine Nahrungsquelle ist, fungiert sie auch als Samen für die "
+"Happsbohnenpflanze.\n"
+"\n"
+"Während die Verwendung der Happsbohne für die Ernährung die praktischere "
+"Anwendung zu sein scheint, würde dies die Menschen der immensen Befriedigung "
+"berauben, die sie erfahren, wenn sie diese Bohne pflanzen und beobachten, wie "
+"sie zur Reife gedeiht."
 
 #. STRINGS.CODEX.NOSHBEAN.SUBTITLE
 msgctxt "STRINGS.CODEX.NOSHBEAN.SUBTITLE"
@@ -25044,6 +25270,16 @@ msgid ""
 "domesticated is due to the internal vibration, or contented 'humming', they "
 "demonstrate when all their needs are met."
 msgstr ""
+"Steckschnecken sind pelzige Schnecken, die sich dank eines extremen "
+"triboelektrischen Effekts, der durch Reibung zwischen ihrem Fell und "
+"verschiedenen Oberflächen entsteht, an Wänden und Decken festhalten können. "
+"Dieses Phänomen ermöglicht es der Steckschnecke, eine erhebliche Menge an "
+"statischer Elektrizität zu erzeugen, die in Strom umgewandelt werden kann.\n"
+"\n"
+"Die erhöhte Menge an statischer Elektrizität, die eine Steckschnecke erzeugen "
+"kann, wenn sie domestiziert ist, ist auf die innere Vibration oder das "
+"zufriedene \"Brummen\" zurückzuführen, das sie zeigt, wenn alle ihre "
+"Bedürfnisse erfüllt sind."
 
 #. STRINGS.CODEX.PLUGSLUG.SUBTITLE
 msgctxt "STRINGS.CODEX.PLUGSLUG.SUBTITLE"
@@ -25053,7 +25289,7 @@ msgstr "Domestizierbares Tier"
 #. STRINGS.CODEX.PLUGSLUG.TITLE
 msgctxt "STRINGS.CODEX.PLUGSLUG.TITLE"
 msgid "Plug Slug"
-msgstr ""
+msgstr "Steckschnecke"
 
 #. STRINGS.CODEX.POKESHELL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.POKESHELL.BODY.CONTAINER1"
@@ -25545,6 +25781,19 @@ msgid ""
 "personalities it can switch between to have pleasant in-depth conversations "
 "with itself during long stints alone."
 msgstr ""
+"Der Rover ist ein planetarer Aufklärungsroboter, der darauf programmiert ist, "
+"auf Planetoiden zu landen und diese abzubauen, wo die Entsendung eines "
+"Duplikanten sie unnötig in Gefahr bringen würde.\n"
+"\n"
+"Rover sind so programmiert, dass sie sehr angenehm und sozial sind, wenn sie "
+"mit anderen Wesen interagieren. Eine unbeabsichtigte Folge dieser "
+"Programmierung ist jedoch, dass die sozialisierten Roboter dazu neigten, "
+"aufgrund von Einsamkeit und niedriger Moral die gleichen Arbeitsverlangsamungen "
+"zu erfahren.\n"
+"\n"
+"Um dies zu kompensieren, wurde der Rover so programmiert, dass er über zwei "
+"verschiedene Persönlichkeiten verfügt, zwischen denen er wechseln kann, um bei "
+"langen Einsätzen mit sich selbst angenehme, tiefgehende Gespräche zu führen."
 
 #. STRINGS.CODEX.ROVER.SUBTITLE
 msgctxt "STRINGS.CODEX.ROVER.SUBTITLE"
@@ -25627,6 +25876,15 @@ msgid ""
 "then digested through powerful acidic enzymes which coat the inner sides of the "
 "Saturn Trap Plant's leaves."
 msgstr ""
+"Die Saturn-Tier-Falle ist eine fleischfressende Pflanze, die ahnungslosen "
+"Tieren auflauert und sie dann zum Verzehr in ihrem Mund einfängt.\n"
+"\n"
+"Der räuberische Mechanismus der Saturn-Tier-Falle spiegelt den rauen "
+"radioaktiven Lebensraum wider, in dem sie sich befindet.\n"
+"\n"
+"Einmal im tödlichen Schlund der Pflanze gefangen, werden Kreaturen sanft "
+"erstickt und dann durch starke saure Enzyme verdaut, die die Innenseiten der "
+"Blätter der Saturn-Tier-Falle beschichten."
 
 #. STRINGS.CODEX.SATURNCRITTERTRAP.SUBTITLE
 msgctxt "STRINGS.CODEX.SATURNCRITTERTRAP.SUBTITLE"
@@ -25853,6 +26111,15 @@ msgid ""
 "The Zombie Spore was originally designed for medicinal purposes but its "
 "sedative properties were never refined to the point of usefulness."
 msgstr ""
+"Sporenblüten nutzen die Attraktivität ihrer Blüte, um ahnungslose Opfer in "
+"Wolken von parasitären Zombie-Sporen zu locken.\n"
+"\n"
+"Sie sind eine seltene Form von holoparasitären Pflanzen, die eher "
+"Säugetierwirte zum Infizieren finden als die üblichen Pflanzenarten.\n"
+"\n"
+"Die Zombie-Sporen wurde ursprünglich für medizinische Zwecke entwickelt, aber "
+"ihre sedierenden Eigenschaften wurden nie bis zum Punkt der Nützlichkeit "
+"verfeinert."
 
 #. STRINGS.CODEX.SPORECHID.SUBTITLE
 msgctxt "STRINGS.CODEX.SPORECHID.SUBTITLE"
@@ -26167,6 +26434,16 @@ msgid ""
 "It is a generally believed that the morale boosting abilities of this plant "
 "come from its resemblence to a funny hat one might wear at a party."
 msgstr ""
+"Gelassene Zehen sind eine dekorative Sukkulente, die in einer radioaktiven "
+"Umgebung gedeiht.\n"
+"\n"
+"Obwohl die meiste Flora und Fauna, die in einem rauen, radioaktiven Biom "
+"gedeiht, dazu neigt, aggressiv zu sein, bilden Gelassene Zehen eine seltene "
+"Ausnahme von dieser Regel.\n"
+"\n"
+"Es wird allgemein angenommen, dass die Moral steigernden Fähigkeiten dieser "
+"Pflanze von ihrer Ähnlichkeit mit einem lustigen Hut herrühren, den man auf "
+"einer Party tragen könnte."
 
 #. STRINGS.CODEX.TRANQUILTOES.SUBTITLE
 msgctxt "STRINGS.CODEX.TRANQUILTOES.SUBTITLE"
@@ -27633,7 +27910,7 @@ msgid ""
 "A <link=\"DIVERGENTWORM\">Grubgrub</link> rubbed against this <style=\"KKeyword"
 "\">Plant</style>, dramatically boosting growth"
 msgstr ""
-"Ein <link=\"DIVERGENTBEETLE\">Grubgrub</link> rieb sich an dieser <style="
+"Ein <link=\"DIVERGENTWORM\">Grubgrub</link> rieb sich an dieser <style="
 "\"KKeyword\">Pflanze</style> und sorgte für einen drastischen Wachstumsschub"
 
 #. STRINGS.CREATURES.MODIFIERS.DOMESTICATION_DECREASING.NAME
@@ -30384,13 +30661,13 @@ msgstr ""
 "Der <link=\"PLANTS\">Samen</link> eines <link=\"LEAFYPLANT\">Mirth Leaf</"
 "link>.\n"
 "\n"
-"Beim Ausgraben von vergrabenen Gegenständen können Mirth Leaf-Samen gefunden "
+"Beim Ausgraben von vergrabenen Gegenständen können Mirth-Leaf-Samen gefunden "
 "werden."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.LEAFYPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.LEAFYPLANT.NAME"
 msgid "<link=\"LEAFYPLANT\">Mirth Leaf Seed</link>"
-msgstr "<link=\"LEAFYPLANT\">Mirth Leaf-Samen</link>"
+msgstr "<link=\"LEAFYPLANT\">Mirth-Leaf-Samen</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC"
@@ -34451,7 +34728,7 @@ msgstr "Weniger als dreißig Minuten, sonst ist es umsonst"
 #. STRINGS.DUPLICANTS.CHORES.DEMOLISH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEMOLISH.NAME"
 msgid "Demolish"
-msgstr ""
+msgstr "Abreißen"
 
 #. STRINGS.DUPLICANTS.CHORES.DEMOLISH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEMOLISH.STATUS"
@@ -34461,7 +34738,7 @@ msgstr "Reist Objekt ab"
 #. STRINGS.DUPLICANTS.CHORES.DEMOLISH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEMOLISH.TOOLTIP"
 msgid "Demolishing an object removes it permanently"
-msgstr ""
+msgstr "Das Abreißen eines Objekts entfernt es dauerhaft"
 
 #. STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.NAME"
@@ -41507,22 +41784,22 @@ msgstr "<link=\"SUITEXPERT\">Schutzanzug-Training</link>"
 #. STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.DESCRIPTION"
 msgid "Work in progress skill"
-msgstr ""
+msgstr "Fertigkeit \"In Arbeit befindlich\""
 
 #. STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.NAME"
 msgid "W.I.P. Skill"
-msgstr ""
+msgstr "\"In Arbeit\"-Fertigkeit"
 
 #. STRINGS.DUPLICANTS.ROLES.USELESSSKILL.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.USELESSSKILL.DESCRIPTION"
 msgid "This skill doesn't really do anything right now."
-msgstr ""
+msgstr "Diese Fertigkeit bewirkt im Moment nicht wirklich etwas."
 
 #. STRINGS.DUPLICANTS.ROLES.USELESSSKILL.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.USELESSSKILL.NAME"
 msgid "W.I.P. Skill"
-msgstr ""
+msgstr "\"In Arbeit\"-Fertigkeit"
 
 #. STRINGS.DUPLICANTS.SKILLGROUPS.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.SKILLGROUPS.ART.NAME"
@@ -46768,7 +47045,7 @@ msgstr "<link=\"ETHANOLGAS\">Ethanol</link>"
 #. STRINGS.ELEMENTS.FALLOUT.DESC
 msgctxt "STRINGS.ELEMENTS.FALLOUT.DESC"
 msgid "TBD"
-msgstr ""
+msgstr "In Arbeit"
 
 #. STRINGS.ELEMENTS.FALLOUT.NAME
 msgctxt "STRINGS.ELEMENTS.FALLOUT.NAME"
@@ -50409,17 +50686,17 @@ msgstr "Tabulator"
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1"
 msgid "Building Utility 1"
-msgstr ""
+msgstr "Gebäude Hilfsmittel 1"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY2
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY2"
 msgid "Building Utility 2"
-msgstr ""
+msgstr "Gebäude Hilfsmittel 2"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY3
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY3"
 msgid "Building Utility 3"
-msgstr ""
+msgstr "Gebäude Hilfsmittel 3"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.NAME"
@@ -50464,12 +50741,12 @@ msgstr "Kamera nach oben schwenken"
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLEEASING
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLEEASING"
 msgid "Cinema Toggle Easing"
-msgstr ""
+msgstr "Kamera-Umschalter freigeben"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLELOCK
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMATOGGLELOCK"
 msgid "Cinema Toggle Lock"
-msgstr "Kinokamera-Umschalter sperren"
+msgstr "Kamera-Umschalter sperren"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMIN
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMIN"
@@ -50639,7 +50916,7 @@ msgstr "Debug Spawn Minion"
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSPAWNMINIONATMOSUIT
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSPAWNMINIONATMOSUIT"
 msgid "Debug Spawn Minion with Atmo Suit"
-msgstr ""
+msgstr "Debug Spawn Minion with Atmo Suit"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSUPERSPEED
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGSUPERSPEED"
@@ -50674,7 +50951,7 @@ msgstr "Debug Toggle Music"
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEPERSONALPRIORITYCOMPARISON
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEPERSONALPRIORITYCOMPARISON"
 msgid "Debug Toggle Personal Priority Comparison"
-msgstr ""
+msgstr "Debug Toggle Personal Priority Comparison"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLESELECTINEDITOR
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLESELECTINEDITOR"
@@ -50709,22 +50986,22 @@ msgstr "Debug"
 #. STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT1X
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT1X"
 msgid "Screen Shot 1x"
-msgstr ""
+msgstr "Bildschirmfoto 1x"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT2X
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT2X"
 msgid "Screen Shot 2x"
-msgstr ""
+msgstr "Bildschirmfoto 2x"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT32X
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT32X"
 msgid "Screen Shot 32x"
-msgstr ""
+msgstr "Bildschirmfoto 32x"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT8X
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.SREENSHOT8X"
 msgid "Screen Shot 8x"
-msgstr ""
+msgstr "Bildschirmfoto 8x"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.TOGGLECHROMEPROFILER
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.TOGGLECHROMEPROFILER"
@@ -50790,52 +51067,52 @@ msgstr "Verwaltung"
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV1
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV1"
 msgid "Goto User Nav 1"
-msgstr ""
+msgstr "Gehe zu Position 1"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV10
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV10"
 msgid "Goto User Nav 10"
-msgstr ""
+msgstr "Gehe zu Position 10"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV2
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV2"
 msgid "Goto User Nav 2"
-msgstr ""
+msgstr "Gehe zu Position 2"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV3
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV3"
 msgid "Goto User Nav 3"
-msgstr ""
+msgstr "Gehe zu Position 3"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV4
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV4"
 msgid "Goto User Nav 4"
-msgstr ""
+msgstr "Gehe zu Position 4"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV5
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV5"
 msgid "Goto User Nav 5"
-msgstr ""
+msgstr "Gehe zu Position 5"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV6
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV6"
 msgid "Goto User Nav 6"
-msgstr ""
+msgstr "Gehe zu Position 6"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV7
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV7"
 msgid "Goto User Nav 7"
-msgstr ""
+msgstr "Gehe zu Position 7"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV8
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV8"
 msgid "Goto User Nav 8"
-msgstr ""
+msgstr "Gehe zu Position 8"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV9
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.GOTOUSERNAV9"
 msgid "Goto User Nav 9"
-msgstr ""
+msgstr "Gehe zu Position 9"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.NAME"
@@ -50845,52 +51122,52 @@ msgstr "Navigation"
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV1
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV1"
 msgid "Set User Nav 1"
-msgstr ""
+msgstr "Setze Position 1"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV10
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV10"
 msgid "Set User Nav 10"
-msgstr ""
+msgstr "Setze Position 10"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV2
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV2"
 msgid "Set User Nav 2"
-msgstr ""
+msgstr "Setze Position 2"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV3
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV3"
 msgid "Set User Nav 3"
-msgstr ""
+msgstr "Setze Position 3"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV4
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV4"
 msgid "Set User Nav 4"
-msgstr ""
+msgstr "Setze Position 4"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV5
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV5"
 msgid "Set User Nav 5"
-msgstr ""
+msgstr "Setze Position 5"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV6
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV6"
 msgid "Set User Nav 6"
-msgstr ""
+msgstr "Setze Position 6"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV7
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV7"
 msgid "Set User Nav 7"
-msgstr ""
+msgstr "Setze Position 7"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV8
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV8"
 msgid "Set User Nav 8"
-msgstr ""
+msgstr "Setze Position 8"
 
 #. STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV9
 msgctxt "STRINGS.INPUT_BINDINGS.NAVIGATION.SETUSERNAV9"
 msgid "Set User Nav 9"
-msgstr ""
+msgstr "Setze Position 9"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.ALTERNATEVIEW
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ALTERNATEVIEW"
@@ -56046,7 +56323,7 @@ msgstr "Nicht atembares Gas"
 #. STRINGS.MISC.TAGS.UNIDENTIFIEDSEED
 msgctxt "STRINGS.MISC.TAGS.UNIDENTIFIEDSEED"
 msgid "Seed (Unidentified Mutation)"
-msgstr ""
+msgstr "Samen (nicht identifizierte Mutation)"
 
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
@@ -67954,7 +68231,7 @@ msgstr "Wähle einen Asteroidenstil ..."
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER"
 msgid "ASTEROID STYLE"
-msgstr ""
+msgstr "ASTEROIDEN-STIL"
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_DESC"
@@ -67963,6 +68240,9 @@ msgid ""
 "Smaller starting asteroids with resources distributed across the starmap. More "
 "emphasis on space travel."
 msgstr ""
+"Szenarien, die für das <b>Spaced Out! DLC</b> entworfen wurden.\n"
+"Kleinere Start-Asteroiden mit über die Sternenkarte verteilten Ressourcen. Mehr "
+"Betonung auf Raumfahrt."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE"
@@ -67976,11 +68256,14 @@ msgid ""
 "starting asteroids with many resources.\n"
 "Less emphasis on space travel."
 msgstr ""
+"Szenarien ähnlich dem <b>klassischen Oxygen Not Included</b>. Große Start-"
+"Asteroiden mit vielen Ressourcen.\n"
+"Weniger Betonung auf Raumfahrt."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE"
 msgid "Classic"
-msgstr ""
+msgstr "Klassisch"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY"
@@ -68974,7 +69257,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.TELEPORTERS.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Unchecked: No Teleporters will spawn during Worldgen"
-msgstr ""
+msgstr "Deaktiviert: Beim Welterzeugen werden keine Teleporter generiert"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.TELEPORTERS.LEVELS.ENABLED.NAME
 msgctxt ""
@@ -68999,7 +69282,7 @@ msgstr "Teleporter"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.TELEPORTERS.TOOLTIP"
 msgid "Determines whether teleporters will be spawned during Worldgen"
-msgstr ""
+msgstr "Legt fest, ob beim Welterzeugen Teleporter generiert werden sollen"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME"
@@ -71289,10 +71572,10 @@ msgid ""
 "\n"
 "Please try again with a different seed."
 msgstr ""
-"Beim Generieren einer Welt aus diesem seed ist ein Problem aufgetreten:\n"
+"Beim Generieren einer Welt aus diesem Seed ist ein Problem aufgetreten:\n"
 "{0}. \n"
 "\n"
-"Bitte versuch es erneut mit einem anderen seed."
+"Bitte versuch es erneut mit einem anderen Seed."
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FILES
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FILES"
@@ -88563,11 +88846,11 @@ msgid ""
 "natural source of Graphite, but Duplicants should come prepared for a swim.</"
 "smallcaps>"
 msgstr ""
-"Eine kleine, wasseruntergetauchte Welt.\n"
+"Eine kleine, von Wasser überflutete Welt.\n"
 "\n"
-"<smallcaps>Wasser Asteroiden besitzen eine Vielzahl von flüssigen Ressourcen "
-"und sind eine natürliche Quelle von Graphit, aber Duplikanten sollten für ein "
-"Schwimmen vorbereitet kommen.</smallcaps>"
+"<smallcaps>Wasser-Asteroiden besitzen eine Vielzahl von flüssigen Ressourcen "
+"und sind eine natürliche Quelle für Graphit, aber Duplikanten sollten darauf "
+"vorbereitet sein, zu schwimmen.</smallcaps>"
 
 #. STRINGS.WORLDS.WATERMOONLET.NAME
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
