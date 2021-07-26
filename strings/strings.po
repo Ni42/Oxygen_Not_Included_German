@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-16 17:35+0200\n"
-"Last-Translator: Xandras\n"
+"PO-Revision-Date: 2021-07-26 22:15+0200\n"
+"Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -1214,7 +1214,7 @@ msgstr "Wähle ein Produkt aus, um die Herstellung zu beginnen"
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.NAME"
 msgid "Waiting For Radbolts ({CurrentHEP}/{HEPRequired})"
-msgstr ""
+msgstr "Warte auf Teilchenblitze ({CurrentHEP}/{HEPRequired})"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.TOOLTIP
 #, fuzzy
@@ -4013,12 +4013,9 @@ msgid "This device needs a clear view of space to operate"
 msgstr "Dieses Gerät benötigt für den Betrieb eine freie Sicht auf den Weltraum"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.WORMHOLE.NAME"
-#| msgid "Temporal Tear"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.NAME"
 msgid "Temporal Tear not revealed"
-msgstr "Zeitriss"
+msgstr "Zeitriss nicht aufgedeckt"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.TOOLTIP"
@@ -4046,12 +4043,9 @@ msgid ""
 msgstr "Der Vorgang beginnt, sobald das Gerät vollständig geladen ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION"
-#| msgid "Temporal Ripper fully charged"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION"
 msgid "Temporal Tear Opener fully charged"
-msgstr "Temporaler Ripper voll aufgeladen"
+msgstr "Temporaler Zeitrissöffner voll aufgeladen"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION_TOOLTIP
 msgctxt ""
@@ -16427,12 +16421,9 @@ msgstr ""
 "Eine stabile Tür mit einem ausgeklügelten genetischen Verriegelungsmechanismus."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEARANALYZER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.WORMHOLE.NAME"
-#| msgid "Temporal Tear"
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEARANALYZER.NAME"
 msgid "Temporal Tear Scanner"
-msgstr "Zeitriss"
+msgstr "Zeitriss-Scanner"
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.DESC"
@@ -16452,12 +16443,9 @@ msgstr ""
 "Eine stabile Tür mit einem ausgeklügelten genetischen Verriegelungsmechanismus."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SPACEDESTINATIONS.WORMHOLE.NAME"
-#| msgid "Temporal Tear"
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.NAME"
 msgid "Temporal Tear Opener"
-msgstr "Zeitriss"
+msgstr "Zeitrissöffner"
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TEXT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TEXT"
@@ -20868,9 +20856,6 @@ msgstr ""
 "Präsentiert von der Gravitas Facility."
 
 #. STRINGS.CODEX.B2_MEETTHEPILOT.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.SUBTITLE"
-#| msgid "ENCRYPTION LEVEL: ONE"
 msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ONE"
 msgstr "VERSCHLÜSSELUNGSEBENE: EINS"
@@ -22748,9 +22733,6 @@ msgstr ""
 "------------------\n"
 
 #. STRINGS.CODEX.C01_EVIL.SUBTITLE
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.SUBTITLE"
-#| msgid "ENCRYPTION LEVEL: NONE"
 msgctxt "STRINGS.CODEX.C01_EVIL.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
 msgstr "VERSCHLÜSSELUNGSEBENE: KEINE"
@@ -27901,23 +27883,9 @@ msgid "- ALERT -"
 msgstr "- ALARM -"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.DESCRIPTION
-#, fuzzy
-#| msgid ""
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.DESCRIPTION"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-13 23:01+0200\n"
-"Last-Translator: CarstenG\n"
-"Language-Team: \n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY"
@@ -27930,9 +27898,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY_DLC1
-#, fuzzy
-#| msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY_DLC1"
-#| msgid "DLC1"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY_DLC1"
 msgid "DLC1"
 msgstr "DLC1"
@@ -27946,9 +27911,6 @@ msgid "LINK TO OUR PAST"
 msgstr "ZUM DREHEN ANKLICKEN"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE_DLC1
-#, fuzzy
-#| msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY_DLC1"
-#| msgid "DLC1"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE_DLC1"
 msgid "DLC1"
 msgstr "DLC1"
@@ -28045,17 +28007,11 @@ msgstr ""
 "Zuhause finden und eine blühende Kolonie gründen können."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.FIRST
-#, fuzzy
-#| msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY_DLC1"
-#| msgid "DLC1"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.FIRST"
 msgid "DLC1"
 msgstr "DLC1"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.SECOND
-#, fuzzy
-#| msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY_DLC1"
-#| msgid "DLC1"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.SECOND"
 msgid "DLC1"
 msgstr "DLC1"
@@ -72049,7 +72005,7 @@ msgstr "STEAM WORKSHOP"
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "A BREATH OF FRESH AIR"
-msgstr ""
+msgstr "EIN HAUCH FRISCHER LUFT"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -72066,27 +72022,6 @@ msgid "JOIN THE DISCUSSION"
 msgstr "DISKUTIERE MIT"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
-#| msgid ""
-#| "Welcome to the <b>THE BIG MERGE</b>\n"
-#| "\n"
-#| "   •<indent=20px>Toggle between <i>Spaced Out!</i> and Base Game in the "
-#| "main menu without re-downloading the game.</indent>\n"
-#| "\n"
-#| "   •<indent=20px>Base Game now has all <i>Spaced Out!</i> bug fixes and "
-#| "quality-of-life improvements.</indent>\n"
-#| "\n"
-#| "   •<indent=20px>Several buildings and items have been added to the Base "
-#| "Game, including Oxygen Masks, and Meter Valves.</indent>\n"
-#| "\n"
-#| "   •<indent=20px>UI and Diagnostics improvements have been added to the "
-#| "Base Game.</indent>\n"
-#| "   \n"
-#| "   •<indent=20px>Significant updates to the Modding system, modders please "
-#| "see the forum for upgrade instructions.</indent>\n"
-#| "\n"
-#| "Check out the full patch notes for more details!"
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid ""
 "Welcome to the newest update <b>A BREATH OF FRESH AIR</b>:\n"
@@ -72103,24 +72038,20 @@ msgid ""
 "\n"
 "   Check out the full patch notes for more details!"
 msgstr ""
-"Willkommen bei <b>DER GROSSEN VERSCHMELZUNG</b>.\n"
+"Willkommen zum neuesten Update <b>EIN HAUCH FRISCHER LUFT</b>:\n"
 "\n"
-"   •<indent=20px>Wechsel im Hauptmenü zwischen <i>Spaced Out!</i> und dem "
-"Basisspiel, ohne das Spiel neu herunterzuladen.</indent>\n"
-"\n"
-"   •<indent=20px>Das Basisspiel enthält jetzt alle <i>Spaced-Out!</i>-"
-"Fehlerbehebungen und Qualitätsverbesserungen.</indent>\n"
-"\n"
-"   •<indent=20px>Einige Gebäude und Gegenstände wurden dem Basisspiel "
+"•<indent=20px>Einige Gebäude und Gegenstände wurden dem Basisspiel "
 "hinzugefügt, darunter Sauerstoffmasken und Zählerventile.</indent>\n"
+"•<indent=20px>Das Basisspiel enthält jetzt alle <i>Spaced Out!</i>-"
+"Fehlerbehebungen und Qualitätsverbesserungen.</indent>\n"
+"•<indent=20px>Updates zu <i>Spaced Out!</i> kolonisatorischen Imperativen</"
+"indent>\n"
+"•<indent=20px>Erhebliche Aktualisierungen des Modding-Systems, Modder finden "
+"im Forum eine Anleitung zum Upgrade.</indent>\n"
+"•<indent=20px>Umschalten zwischen <i>Spaced Out!</i> und Basisspiel im "
+"Hauptmenü ohne erneutes Herunterladen des Spiels.</indent>\n"
 "\n"
-"   •<indent=20px>Verbesserungen der Benutzeroberfläche und der Diagnose wurden "
-"dem Basisspiel hinzugefügt.</indent>\n"
-"   \n"
-"   •<indent=20px>Erhebliche Updates am Modding-System, Modder finden im Forum "
-"eine Anleitung zum Upgrade.</indent>\n"
-"\n"
-"Schauen Sie sich die vollständigen Patch Notes für weitere Details an!"
+"   Schau dir die vollständigen Patch Notes für weitere Details an!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
@@ -72455,6 +72386,10 @@ msgid ""
 "features</b>, please pay attention to these changes which may affect your "
 "existing colony:"
 msgstr ""
+"Oxygen Not Included hat ein <b>bedeutendes Update</b> erhalten, seit diese "
+"Speicherdatei erstellt wurde! Neben einer <b>Vielzahl von Fehlerbehebungen und "
+"Qualitätsverbesserungen</b> beachte bitte die folgenden Änderungen, die deine "
+"bestehende Kolonie betreffen können:"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_AIRFILTER
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_AIRFILTER"
@@ -72463,6 +72398,9 @@ msgid ""
 "•<indent=20px>Duplicants will get <b>Stinging Eyes</b> from gasses such as "
 "chlorine and hydrogen.</indent>"
 msgstr ""
+"•<indent=20px>Lufterfrischer benötigen jetzt <b>5 W Leistung</b>.</indent>\n"
+"•<indent=20px>Duplikanten bekommen <b>Brennen in den Augen</b> von Gasen wie "
+"Chlor und Wasserstoff.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_BUILDINGS
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_BUILDINGS"
@@ -72472,6 +72410,10 @@ msgid ""
 "•<indent=20px>Use the new <b>Meter Valves</b> for precise control of resources "
 "in pipes.</indent>"
 msgstr ""
+"•<indent=20px><b>Sauerstoffmasken</b> wurden hinzugefügt, um die Erkundung im "
+"frühen Spiel zu erleichtern.</indent>\n"
+"•<indent=20px>Nutze die neuen <b>Zählerventile</b> für eine präzise Kontrolle "
+"der Ressourcen in Rohren.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_FOOD
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_FOOD"
@@ -72480,6 +72422,10 @@ msgid ""
 "•<indent=20px><b>Both</b> freezing temperatures and a sterile gas are needed "
 "for <b>total food preservation</b>.</indent>"
 msgstr ""
+"•<indent=20px>Kühlschränke sind effektiver für die Nahrungsaufbewahrung im "
+"frühen Spiel</indent>.\n"
+"•<indent=20px>Sowohl <b>Gefriertemperaturen</b> als auch <b>ein steriles Gas</"
+"b> werden für die <b>Gesamtkonservierung von Nahrung</b> benötigt.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_SIMULATION
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_SIMULATION"
@@ -72488,11 +72434,14 @@ msgid ""
 "•<indent=20px>This may <b>change the effectiveness</b> of certain contraptions "
 "and MISSING. setups.</indent>"
 msgstr ""
+"•<indent=20px>Viele <b>Simulationsfehler</b> wurden behoben.</indent>\n"
+"•<indent=20px>Dies kann <b>die Effektivität</b> bestimmter Vorrichtungen und "
+"Setups verändern.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_TITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_TITLE"
 msgid "BREATH OF FRESH AIR UPDATE CHANGES"
-msgstr ""
+msgstr "EIN HAUCH FRISCHER LUFT AKTUALISIERUNGSÄNDERUNGEN"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.NEWAUTOMATIONWARNING
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.NEWAUTOMATIONWARNING"
@@ -90251,44 +90200,3 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
 msgstr "Wasser-Asteroid"
-
-#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.NAME"
-#~ msgid "Waiting For Radbolts"
-#~ msgstr "Warte auf Teilchenblitze"
-
-#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.NAME"
-#~ msgid "Target: None"
-#~ msgstr "Ziel: Keins"
-
-#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.TOOLTIP"
-#~ msgid "\"Awaiting transmission of coordinates...\""
-#~ msgstr "\"Erwarte Übertragung der Koordinaten...\""
-
-#~ msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEARANALYZER.NAME"
-#~ msgid "Anomaly Scanner"
-#~ msgstr "Anomaliescanner"
-
-#~ msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.NAME"
-#~ msgid "Temporal Ripper"
-#~ msgstr "Temporaler Ripper"
-
-#~ msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.SUBTITLE"
-#~ msgid "PUBLIC RELEASE"
-#~ msgstr "VERÖFFENTLICHUNG"
-
-#~ msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.TITLE"
-#~ msgid "The Future of Space Flight"
-#~ msgstr "Die Zukunft der Raumfahrt"
-
-#~ msgctxt "STRINGS.CODEX.C01_Evil.SUBTITLE"
-#~ msgid "ENCRYPTION LEVEL: NONE"
-#~ msgstr "VERSCHLÜSSELUNGSEBENE: KEINE"
-
-#~ msgctxt ""
-#~ "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_TITLE_DLC1"
-#~ msgid "DLC1"
-#~ msgstr "DLC1"
-
-#~ msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
-#~ msgid "THE BIG MERGE"
-#~ msgstr "DIE GROSSE VERSCHMELZUNG"
