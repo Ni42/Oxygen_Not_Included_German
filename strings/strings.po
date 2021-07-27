@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-27 11:02+0200\n"
+"PO-Revision-Date: 2021-07-27 11:53+0200\n"
 "Last-Translator: Xandras\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1301,13 +1301,17 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME"
-msgid "Cooling Contents"
-msgstr "Kühlt Inhalt"
+msgid "Cooling Contents: {UsedPower}"
+msgstr "Kühlt Inhalt: {UsedPower}"
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP"
-msgid "The contents of this food storage are still being cooled down."
-msgstr "Der Inhalt dieses Lebensmittellagers wird noch runtergekühlt."
+msgid ""
+"The contents of this food storage are still being cooled down, using "
+"{UsedPower} of {MaxPower}."
+msgstr ""
+"Der Inhalt dieses Lebensmittellagers wird noch mit {UsedPower} von {MaxPower} "
+"gekühlt."
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME"
@@ -1319,13 +1323,11 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.TOOLTIP"
 msgid ""
 "Energy saver activated, using {UsedPower} of {MaxPower}\n"
 "\n"
-"The contents of this food storage are at refrigeration temperatures and need no "
-"further cooling."
+"The contents of this food storage are at refrigeration temperatures."
 msgstr ""
 "Energiesparmodus aktiviert, mit {UsedPower} von {MaxPower}\n"
 "\n"
-"Der Inhalt dieses Lebensmittellagers hat Kühltemperatur erreicht und muss nicht "
-"weiter gekühlt werden."
+"Der Inhalt dieses Lebensmittellagers hat Kühltemperatur erreicht."
 
 #. STRINGS.BUILDING.STATUSITEMS.GANTRY.AUTOMATION_CONTROL
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GANTRY.AUTOMATION_CONTROL"
@@ -2956,6 +2958,11 @@ msgstr "Geöffnet"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Excess produced"
 msgstr "Überschuss produziert"
+
+#. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.FOOD_TRANSFER
+msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.FOOD_TRANSFER"
+msgid "Internal Cooling"
+msgstr "Interne Kühlung"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
@@ -5623,14 +5630,18 @@ msgstr "Plumpes Gemälde"
 
 #. STRINGS.BUILDINGS.PREFABS.CARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARGOBAY.DESC"
-msgid "Holds more than a regular cargo bay."
-msgstr "Fasst mehr als ein normaler Frachtraum."
+msgid ""
+"Duplicants will fill cargo bays with any resources they find during space "
+"missions."
+msgstr ""
+"Duplikanten füllen die Laderäume mit allen Ressourcen, die sie während ihrer "
+"Weltraummissionen finden."
 
 #. STRINGS.BUILDINGS.PREFABS.CARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARGOBAY.EFFECT"
 msgid ""
-"Allows Duplicants to store most of the <link=\"ELEMENTSSOLID\">Solid Materials</"
-"link> found during space missions.\n"
+"Allows Duplicants to store any <link=\"ELEMENTSSOLID\">Solid Materials</link> "
+"found during space missions.\n"
 "\n"
 "Stored resources become available to the colony upon the rocket's return."
 msgstr ""
@@ -5642,8 +5653,8 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.CARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARGOBAY.NAME"
-msgid "<link=\"CARGOBAY\">Large Cargo Bay</link>"
-msgstr "<link=\"CARGOBAY\">Großer Frachtraum</link>"
+msgid "<link=\"CARGOBAY\">Cargo Bay</link>"
+msgstr "<link=\"CARGOBAY\">Frachtraum</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CARGOBAYCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARGOBAYCLUSTER.DESC"
@@ -7273,14 +7284,18 @@ msgstr "<link=\"GASBOTTLER\">Kanisterfüller</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.DESC"
-msgid "Holds more than a typical gas cargo canister."
-msgstr "Fasst mehr als ein typischer Gasfrachtkanister."
+msgid ""
+"Duplicants will fill cargo bays with any resources they find during space "
+"missions."
+msgstr ""
+"Duplikanten füllen die Laderäume mit allen Ressourcen, die sie während ihrer "
+"Weltraummissionen finden."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.EFFECT"
 msgid ""
-"Allows Duplicants to store most of the <link=\"ELEMENTSGAS\">Gas</link> "
-"resources found during space missions.\n"
+"Allows Duplicants to store any <link=\"ELEMENTSGAS\">Gas</link> resources found "
+"during space missions.\n"
 "\n"
 "Stored resources become available to the colony upon the rocket's return."
 msgstr ""
@@ -7292,8 +7307,8 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.NAME"
-msgid "<link=\"GASCARGOBAY\">Large Gas Cargo Canister</link>"
-msgstr "<link=\"GASCARGOBAY\">Großer Gasfrachtkanister</link>"
+msgid "<link=\"GASCARGOBAY\">Gas Cargo Canister</link>"
+msgstr "<link=\"GASCARGOBAY\">Gasfrachtkanister</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.DESC"
@@ -9195,14 +9210,18 @@ msgstr "<link=\"LEADSUITMARKER\">Bleianzug-Kontrollstelle</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.DESC"
-msgid "Holds more than a regular cargo tank."
-msgstr "Nimmt mehr auf als ein normaler Frachttank."
+msgid ""
+"Duplicants will fill cargo bays with any resources they find during space "
+"missions."
+msgstr ""
+"Duplikanten füllen die Laderäume mit allen Ressourcen, die sie während ihrer "
+"Weltraummissionen finden."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.EFFECT"
 msgid ""
-"Allows Duplicants to store most of the <link=\"ELEMENTSLIQUID\">Liquid</link> "
-"resources found during space missions.\n"
+"Allows Duplicants to store any <link=\"ELEMENTSLIQUID\">Liquid</link> resources "
+"found during space missions.\n"
 "\n"
 "Stored resources become available to the colony upon the rocket's return."
 msgstr ""
@@ -9214,8 +9233,8 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.NAME"
-msgid "<link=\"LIQUIDCARGOBAY\">Large Liquid Cargo Tank</link>"
-msgstr "<link=\"LIQUIDCARGOBAY\">Großer Flüssigkeits­frachtkanister</link>"
+msgid "<link=\"LIQUIDCARGOBAY\">Liquid Cargo Tank</link>"
+msgstr "<link=\"LIQUIDCARGOBAYSMALL\">Flüssigkeits­frachtkanister</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYCLUSTER.DESC"
@@ -76489,6 +76508,11 @@ msgstr ""
 "Zählt alle nicht zugewiesenen Ressourcen in Reichweite\n"
 "------------------\n"
 "Klicken, um zu erweitern"
+
+#. STRINGS.UI.RESOURCESCREEN.CLEAR_ALL
+msgctxt "STRINGS.UI.RESOURCESCREEN.CLEAR_ALL"
+msgid "Unpin all resources"
+msgstr "Ressource entpinnen"
 
 #. STRINGS.UI.RESOURCESCREEN.CLEAR_NEW_RESOURCES
 msgctxt "STRINGS.UI.RESOURCESCREEN.CLEAR_NEW_RESOURCES"
