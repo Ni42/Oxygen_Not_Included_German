@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-30 18:19+0200\n"
+"PO-Revision-Date: 2021-08-04 22:07+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -65973,7 +65973,7 @@ msgstr ""
 #. STRINGS.UI.COLONY_DIAGNOSTICS.PLACEHOLDER_CRITERIA_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.PLACEHOLDER_CRITERIA_NAME"
 msgid "Placeholder Criteria Name"
-msgstr ""
+msgstr "Platzhalterkriterium"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.POWERUSEDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.POWERUSEDIAGNOSTIC.ALL_NAME"
@@ -70888,7 +70888,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT"
 msgid "Vanilla FIXME"
-msgstr ""
+msgstr "Vanilla FIXME"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_RESTART
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_RESTART"
@@ -80471,11 +80471,14 @@ msgid ""
 "------------------\n"
 "A new Rocket Control Station must be installed inside the rocket"
 msgstr ""
+"Keine Kontrollstation\n"
+"------------------\n"
+"Eine neue Raketenkontrollstation muss im Inneren der Rakete installiert werden"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.READY"
 msgid "The control station is installed and waiting for the pilot"
-msgstr ""
+msgstr "Die Kontrollstation ist aufgebaut und erwartet den Piloten"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.WARNING"
@@ -82006,7 +82009,7 @@ msgstr "Prioritäts-Werkzeug"
 #. STRINGS.UI.TOOLS.SANDBOX.BRUSH.HOVERACTION
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.BRUSH.HOVERACTION"
 msgid "PAINT SIM"
-msgstr ""
+msgstr "FARBE SIMULIEREN"
 
 #. STRINGS.UI.TOOLS.SANDBOX.BRUSH.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.BRUSH.NAME"
@@ -83089,7 +83092,7 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ARTIFACTANALYSISSIDESCREEN."
 "NO_ARTIFACTS_DISCOVERED_TOOLTIP"
 msgid "A skilled artist can analyze artifacts"
-msgstr ""
+msgstr "Ein erfahrener Künstler kann Artefakte analysieren"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGN_TO_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGN_TO_TOOLTIP"
@@ -83370,7 +83373,7 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN."
 "DROPDOWN_TOOLTIP_FIRST_AVAILABLE"
 msgid "Select the first available landing site"
-msgstr ""
+msgstr "Wähle die erste verfügbare Landestelle"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PATH_OBSTRUCTED
 msgctxt ""
@@ -83391,13 +83394,14 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_TOO_SHORT"
 msgid "This rocket's height exceeds the space available in this landing site"
 msgstr ""
+"Die Höhe dieser Rakete übersteigt den verfügbaren Platz an diesem Landeplatz"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_VALID_SITE
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN."
 "DROPDOWN_TOOLTIP_VALID_SITE"
 msgid "Land at {0} when the site is clear"
-msgstr ""
+msgstr "Landung bei {0}, wenn der Standort frei ist"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE"
@@ -83418,7 +83422,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NO_TALL_SITES_AVAILABLE"
 msgid "No landing sites fit the height of this rocket"
-msgstr ""
+msgstr "Keine Landeplätze passen zur Höhe dieser Rakete"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NONEAVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NONEAVAILABLE"
@@ -84141,22 +84145,22 @@ msgstr "Neural-Oszillation läuft."
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.NONE_DISCOVERED
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.NONE_DISCOVERED"
 msgid "No mutant seeds have been found."
-msgstr ""
+msgstr "Es wurden keine mutierten Samen gefunden."
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_ALLOWED
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_ALLOWED"
 msgid "</i>Will analyze</i>"
-msgstr ""
+msgstr "</i>Wird analysiert</i>"
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_FORBIDDEN
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_FORBIDDEN"
 msgid "</i>Won't analyze</i>"
-msgstr ""
+msgstr "</i>Wird nicht analysiert</i>"
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_NO_MUTANTS
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_NO_MUTANTS"
 msgid "</i>No mutants found</i>"
-msgstr ""
+msgstr "</i>Keine Mutanten gefunden</i>"
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SELECT_SEEDS
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SELECT_SEEDS"
@@ -84212,7 +84216,7 @@ msgstr "Ressourcen werden abgebaut"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_E"
 msgid "E"
-msgstr ""
+msgstr "O"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_N
 msgctxt ""
@@ -84236,7 +84240,7 @@ msgstr "NW"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_S"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_SE
 msgctxt ""
@@ -84266,7 +84270,7 @@ msgstr "Ausgewählte Richtung: {0}"
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.TITLE"
 msgid "Emitting Particle Direction"
-msgstr ""
+msgstr "Richtung der emittierenden Partikel"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.CURRENT_THRESHOLD
 msgctxt ""
@@ -84278,7 +84282,7 @@ msgstr "Aktueller Schwellenwert: {0}%"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_LABEL"
 msgid "Radbolt Generation"
-msgstr ""
+msgstr "Teilchenblitz-Erzeugung"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_TOOLTIP
 msgctxt ""
@@ -84461,7 +84465,7 @@ msgstr "Anzahl: {0}"
 #. STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.LIMIT
 msgctxt "STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.LIMIT"
 msgid "Limit:"
-msgstr ""
+msgstr "Grenze:"
 
 #. STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.RESET_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.RESET_BUTTON"
@@ -84471,7 +84475,7 @@ msgstr "Zähler zurücksetzen"
 #. STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.SLIDER_TOOLTIP_UNITS
 msgctxt "STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.SLIDER_TOOLTIP_UNITS"
 msgid "The amount of Units or Mass passing through the sensor."
-msgstr ""
+msgstr "Die Menge der Einheiten oder der Masse, die den Sensor durchläuft."
 
 #. STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.LIMIT_VALVE_SIDE_SCREEN.TITLE"
@@ -85120,7 +85124,7 @@ msgstr "Nicht zugewiesen"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.AUTO_SELF_HARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.AUTO_SELF_HARVEST"
 msgid "Self-Harvest On Grown"
-msgstr ""
+msgstr "Selbsternte im Anbau"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.AWAITINGDELIVERY
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.AWAITINGDELIVERY"
@@ -85160,7 +85164,7 @@ msgstr "Pflanzen"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_BURST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_BURST"
 msgid "{Disease} Burst: {DiseaseAmount}"
-msgstr ""
+msgstr "{Disease}-Ausbruch: {DiseaseAmount}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_CONSTANT
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_CONSTANT"
@@ -85170,7 +85174,7 @@ msgstr "{Disease}: {DiseaseAmount}"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_ON_HARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_ON_HARVEST"
 msgid "{Disease} on crop: {DiseaseAmount}"
-msgstr ""
+msgstr "{Disease} auf Frucht: {DiseaseAmount}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ENTITYDEPOSITED"
@@ -85247,6 +85251,8 @@ msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.AUTO_SELF_HARVEST"
 msgid ""
 "This plant will instantly drop its crop and begin regrowing when it is matured."
 msgstr ""
+"Diese Pflanze lässt ihre Frucht sofort fallen und beginnt neu zu wachsen, wenn "
+"sie reif ist."
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.BONUS_SEEDS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.BONUS_SEEDS"
@@ -85260,6 +85266,8 @@ msgid ""
 "At certain points in this plant's lifecycle, it will emit a burst of "
 "{DiseaseAmount} {Disease}."
 msgstr ""
+"Zu bestimmten Zeitpunkten im Lebenszyklus dieser Pflanze wird sie einen "
+"Ausbruch von {DiseaseAmount} {Disease} ausstoßen."
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_DROPPER_CONSTANT
 msgctxt ""
@@ -85272,6 +85280,8 @@ msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_ON_HARVEST"
 msgid ""
 "The {Crop} produced by this plant will have {DiseaseAmount} {Disease} on it."
 msgstr ""
+"Die {Crop}, die von dieser Pflanze produziert wird, wird mit {DiseaseAmount} "
+"{Disease} belastet."
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS"
@@ -85608,7 +85618,7 @@ msgstr "Modul hinzufügen oder ändern"
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.ENGINE_MAX_HEIGHT
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.ENGINE_MAX_HEIGHT"
 msgid "This engine allows a <b>Maximum Rocket Height</b> of {0}"
-msgstr ""
+msgstr "Dieses Triebwerk erlaubt eine <b>Maximale Raketenhöhe</b> von {0}"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.BURDEN
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.BURDEN"
@@ -87046,7 +87056,7 @@ msgstr "Diesen Befehl fürs Zerlegen abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME"
 msgid "Demolish"
-msgstr ""
+msgstr "Abreißen"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF"
@@ -87680,12 +87690,12 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH1
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH1"
 msgid "There's nothing of interest left in this old space junk."
-msgstr ""
+msgstr "Es gibt nichts Interessantes mehr in diesem alten Weltraumschrott."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH2
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH2"
 msgid "I've salvaged everything I can from this vehicle."
-msgstr ""
+msgstr "Ich habe alles aus diesem Gefährt herausgeholt, was ich konnte."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH3
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH3"
@@ -87693,6 +87703,8 @@ msgid ""
 "Years of neglect and radioactive decay have destroyed all the useful data from "
 "this derelict spacecraft."
 msgstr ""
+"Jahrelange Vernachlässigung und radioaktiver Zerfall haben alle nützlichen "
+"Daten dieses verlassenen Raumschiffs zerstört."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH1
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH1"
@@ -87702,6 +87714,10 @@ msgid ""
 "\n"
 "New Database Entry unlocked."
 msgstr ""
+"Eine schnelle Analyse der Hardware dieses Trümmerteils hat einige durchsuchbare "
+"Dateien zutage gefördert.\n"
+"\n"
+"Neuer Datenbankeintrag freigeschaltet."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH2
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH2"
@@ -87723,6 +87739,10 @@ msgid ""
 "\n"
 "New Database Entry unlocked."
 msgstr ""
+"Bei der Untersuchung der Software dieses Wracks bin ich auf eine interessante "
+"Datei gestoßen.\n"
+"\n"
+"Neuer Datenbankeintrag freigeschaltet."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH4
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH4"
@@ -87745,6 +87765,10 @@ msgid ""
 "\n"
 "New Database Entry unlocked."
 msgstr ""
+"Ich finde einige bemerkenswerte Daten, die in den Systemdateien dieses "
+"Weltraumschrotts versteckt sind.\n"
+"\n"
+"Neuer Datenbankeintrag freigeschaltet."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH6
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH6"
@@ -87754,6 +87778,10 @@ msgid ""
 "\n"
 "New Database Entry unlocked."
 msgstr ""
+"Trotz jahrelanger Verschlechterung sind in dieser Maschine noch "
+"wiederherstellbare Dateien vorhanden.\n"
+"\n"
+"Neuer Datenbankeintrag freigeschaltet."
 
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_STERNSDESK
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_STERNSDESK"
