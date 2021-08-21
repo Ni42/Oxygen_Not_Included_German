@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-04 22:07+0200\n"
+"PO-Revision-Date: 2021-08-21 23:18+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -14451,7 +14451,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME"
 msgid "<link=\"ROCKETINTERIORGASINPUT\">Gas Intake Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gas Eingangsamatur</link>"
+msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gas-Eingangsamatur</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC"
@@ -15738,7 +15738,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.NAME"
 msgid "<link=\"STEAMENGINECLUSTER\">Steam Engine</link>"
-msgstr "<link=\"STEAMENGINECLUSTER\">Dampfmaschine</link>"
+msgstr "<link=\"STEAMENGINECLUSTER\">Dampf-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC"
@@ -15815,7 +15815,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STICKERBOMB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STICKERBOMB.NAME"
 msgid "<link=\"STICKERBOMB\">Sticker Bomb</link>"
-msgstr "<link=\"STICKERBOMB\">Sticker Bomb</link>"
+msgstr "<link=\"STICKERBOMB\">Aufkleberbombe</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC"
@@ -27513,7 +27513,7 @@ msgstr "Zyklen verbleibend: {0} / {1}"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REVEALED
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REVEALED"
 msgid "Revealed: {0:0.##}% / {1:0.##}%"
-msgstr "Aufgedeckt: Die {0:0.##}% / {1:0.##}%"
+msgstr "Aufgedeckt: {0:0.##}% / {1:0.##}%"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SKILL_BRANCH
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SKILL_BRANCH"
@@ -45315,7 +45315,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.NAME"
 msgid "Skilled: <link=\"ASTRONAUTTRAINEE\">Rocket Piloting</link>"
-msgstr "<link=\"ASTRONAUTTRAINEE\">Raketensteuerung</link>"
+msgstr "Erfahren: <link=\"ASTRONAUTTRAINEE\">Raketensteuerung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC"
@@ -45340,7 +45340,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.NAME"
 msgid "Skilled: <link=\"ASTRONAUT\">Rocket Navigation</link>"
-msgstr "<link=\"ASTRONAUT\">Raketennavigation</link>"
+msgstr "Erfahren: <link=\"ASTRONAUT\">Raketennavigation</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC"
@@ -45515,7 +45515,7 @@ msgstr "Verbessert die Kochgeschwindigkeit eines Duplikanten"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.NAME"
 msgid "Skilled: <link=\"COOK\">Grilling II</link>"
-msgstr "Geschickt: <link=\"COOK\">Grillen II</link>"
+msgstr "Erfahren: <link=\"COOK\">Grillen II</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC"
@@ -45600,7 +45600,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.NAME"
 msgid "Skilled: <link=\"FARMER\">Crop Tending</link>"
-msgstr "Geschickt: <link=\"FARMER\">Pflanzenpflege</link>"
+msgstr "Erfahren: <link=\"FARMER\">Pflanzenpflege</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC"
@@ -46059,7 +46059,7 @@ msgstr "Beseitigt den Geschwindigkeitsverlust beim Tragen von Exosuits"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.NAME"
 msgid "Skilled: <link=\"SUITEXPERT\">Exosuit Training</link>"
-msgstr "<link=\"SUITEXPERT\">Exosuit Training</link>"
+msgstr "Erfahren: <link=\"SUITEXPERT\">Schutzanzug-Training</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC"
@@ -46111,7 +46111,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.NAME"
 msgid "Skilled: <link=\"POWERTECHNICIAN\">Electrical Engineering</link>"
-msgstr "Fertigkeit: <link=\"POWERTECHNICIAN\">Elektro-Technik</link>"
+msgstr "Erfahren: <link=\"POWERTECHNICIAN\">Elektro-Technik</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC"
@@ -60192,7 +60192,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.FLOWREDIRECTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.FLOWREDIRECTION.NAME"
 msgid "<link=\"FLOWREDIRECTION\">Flow Redirection</link>"
-msgstr "<link=\"FLOWREDIRECTION\">Flow Redirection</link>"
+msgstr "<link=\"FLOWREDIRECTION\">Strömungsumlenkung</link>"
 
 #. STRINGS.RESEARCH.TECHS.FOODREPURPOSING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.FOODREPURPOSING.DESC"
@@ -60556,7 +60556,7 @@ msgstr "Hochmoderne Ausrüstung zur Bekämpfung hartnäckigster Krankheiten."
 #. STRINGS.RESEARCH.TECHS.MEDICINEIV.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.MEDICINEIV.NAME"
 msgid "<link=\"MEDICINEIV\">Micro-Targeted Medicine</link>"
-msgstr "<link=\"MEDICINEIV\">Mikrozielorientiert Medizin</link>"
+msgstr "<link=\"MEDICINEIV\">Mikrozielorientierte Medizin</link>"
 
 #. STRINGS.RESEARCH.TECHS.MONUMENTS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.MONUMENTS.DESC"
@@ -60627,7 +60627,7 @@ msgstr "Mehrdraht-Automatisierung auf einem Bruchteil des erforderlichen Raumes.
 #. STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.NAME"
 msgid "<link=\"PARALLELAUTOMATION\">Parallel Automation</link>"
-msgstr "<link=\"PARALLELAUTOMATION\">Parallele Automatisierung.</link>"
+msgstr "<link=\"PARALLELAUTOMATION\">Parallele Automatisierung</link>"
 
 #. STRINGS.RESEARCH.TECHS.PLASTICS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.PLASTICS.DESC"
@@ -60880,7 +60880,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.SOLIDSPACE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDSPACE.NAME"
 msgid "<link=\"SOLIDSPACE\">Solid Control</link>"
-msgstr "<link=\"SOLIDSPACE\">Feststoff Kontrolle</link>"
+msgstr "<link=\"SOLIDSPACE\">Feststoffkontrolle</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC"
@@ -83288,7 +83288,7 @@ msgstr "Max:"
 #. STRINGS.UI.UISIDESCREENS.CAPACITY_CONTROL_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPACITY_CONTROL_SIDE_SCREEN.TITLE"
 msgid "Automated Storage Capacity"
-msgstr "Automatisierter Lager-Verdichter"
+msgstr "Automatisierte Lagerkapazität"
 
 #. STRINGS.UI.UISIDESCREENS.CAPACITY_SIDE_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPACITY_SIDE_SCREEN.TOOLTIP"
