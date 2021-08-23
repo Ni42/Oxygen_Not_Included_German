@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-21 23:18+0200\n"
+"PO-Revision-Date: 2021-08-23 15:32+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -45244,7 +45244,7 @@ msgstr "Erfahren: <link=\"JUNIORARTIST\">Kunstgrundlagen</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.SHORT_DESC_TOOLTIP"
@@ -45268,7 +45268,7 @@ msgstr "Erfahren: Ästhetisches Design"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.SHORT_DESC_TOOLTIP"
@@ -45292,7 +45292,7 @@ msgstr "Erfahren: <link=\"MASTERARTIST\">Meisterwerke</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.SHORT_DESC_TOOLTIP"
@@ -45320,7 +45320,7 @@ msgstr "Erfahren: <link=\"ASTRONAUTTRAINEE\">Raketensteuerung</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC"
 msgid "Starts with a Tier 4 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 4 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-4-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC_TOOLTIP"
@@ -45345,7 +45345,7 @@ msgstr "Erfahren: <link=\"ASTRONAUT\">Raketennavigation</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC"
 msgid "Starts with a Tier 5 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 5 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-5-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC_TOOLTIP"
@@ -45369,7 +45369,7 @@ msgstr "Erfahren: <link=\"HANDYMAN\">Verbesserte Stärke</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.SHORT_DESC_TOOLTIP"
@@ -45397,7 +45397,7 @@ msgstr "Erfahren: <link=\"PLUMBER\">Klempnerei</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.SHORT_DESC_TOOLTIP"
@@ -45421,7 +45421,7 @@ msgstr "Erfahren: <link=\"JUNIORBUILDER\">Verbesserter Bau I</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.SHORT_DESC_TOOLTIP"
@@ -45445,7 +45445,7 @@ msgstr "Erfahren: <link=\"BUILDER\">Verbesserter Bau II</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.SHORT_DESC_TOOLTIP"
@@ -45469,7 +45469,7 @@ msgstr "Erfahren: <link=\"SENIORBUILDER\">Abreisen</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.SHORT_DESC_TOOLTIP"
@@ -45496,7 +45496,7 @@ msgstr "Erfahren: <link=\"JUNIORCOOK\">Grillen</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.SHORT_DESC_TOOLTIP"
@@ -45520,7 +45520,7 @@ msgstr "Erfahren: <link=\"COOK\">Grillen II</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC_TOOLTIP"
@@ -45548,7 +45548,7 @@ msgstr "Erfahren: <link=\"MECHATRONICENGINEER\">Mechatronik-Technik</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.SHORT_DESC_TOOLTIP"
@@ -45577,7 +45577,7 @@ msgstr "Erfahren: <link=\"JUNIORFARMER\">Verbesserte Landwirtschaft I</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.SHORT_DESC_TOOLTIP"
@@ -45605,7 +45605,7 @@ msgstr "Erfahren: <link=\"FARMER\">Pflanzenpflege</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC_TOOLTIP"
@@ -45629,7 +45629,7 @@ msgstr "Erfahren: <link=\"SENIORFARMER\">Verbesserte Landwirtschaft II</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.SHORT_DESC_TOOLTIP"
@@ -45653,7 +45653,7 @@ msgstr "Erfahren: <link=\"HAULER\">Verbesserte Tragfähigkeit I</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.SHORT_DESC_TOOLTIP"
@@ -45681,7 +45681,7 @@ msgstr "Erfahren: <link=\"MATERIALSMANAGER\">Verbesserte Tragfähigkeit II</link
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.SHORT_DESC_TOOLTIP"
@@ -45709,7 +45709,7 @@ msgstr "Erfahren: <link=\"MEDIC\">Medizinische Präparation</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.SHORT_DESC_TOOLTIP"
@@ -45737,7 +45737,7 @@ msgstr "Erfahren: <link=\"MEDIC\">Umgang mit Kranken</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC_TOOLTIP"
@@ -45765,7 +45765,7 @@ msgstr "Erfahren: <link=\"MEDIC\">Fortschrittliche medizinische Versorgung</link
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.SHORT_DESC_TOOLTIP"
@@ -45793,7 +45793,7 @@ msgstr "Erfahren: <link=\"JUNIORMINER\">Schweres Graben</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.SHORT_DESC_TOOLTIP"
@@ -45818,7 +45818,7 @@ msgstr "Erfahren: <link=\"MINER\">Superschweres Graben</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.SHORT_DESC_TOOLTIP"
@@ -45848,7 +45848,7 @@ msgstr "Erfahren: <link=\"SENIORMINER\">Superduperschweres Graben</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.SHORT_DESC_TOOLTIP"
@@ -45875,7 +45875,7 @@ msgstr "Erfahren: <link=\"JUNIORMINER\">Hazmat Graben</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.SHORT_DESC"
 msgid "Starts with a Tier 4 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 4 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-4-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.SHORT_DESC_TOOLTIP"
@@ -45902,7 +45902,7 @@ msgstr "Erfahren: <link=\"RANCHING\">Viehzucht I</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC_TOOLTIP"
@@ -45927,7 +45927,7 @@ msgstr "Erfahren: <link=\"SENIORRANCHER\">Viehzucht II</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC_TOOLTIP"
@@ -45955,7 +45955,7 @@ msgstr "Erfahren: <link=\"JUNIORRESEARCHER\">Fortschrittliche Forschung</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.SHORT_DESC_TOOLTIP"
@@ -45983,7 +45983,7 @@ msgstr "Erfahren: <link=\"RESEARCHER\">Feldstudien</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.SHORT_DESC_TOOLTIP"
@@ -46011,7 +46011,7 @@ msgstr "Erfahren: <link=\"SENIORRESEARCHER\">Astronomie</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.SHORT_DESC_TOOLTIP"
@@ -46040,7 +46040,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC_TOOLTIP"
@@ -46064,7 +46064,7 @@ msgstr "Erfahren: <link=\"SUITEXPERT\">Schutzanzug-Training</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC"
 msgid "Starts with a Tier 3 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 3 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-3-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC_TOOLTIP"
@@ -46088,7 +46088,7 @@ msgstr "Erfahren: <link=\"MACHINETECHNICIAN\">Verbessertes Basteln</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.SHORT_DESC"
 msgid "Starts with a Tier 1 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 1 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-1-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.SHORT_DESC_TOOLTIP"
@@ -46116,7 +46116,7 @@ msgstr "Erfahren: <link=\"POWERTECHNICIAN\">Elektro-Technik</link>"
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC"
 msgid "Starts with a Tier 2 <b>Skill</b>"
-msgstr "Beginnt mit einer Stufe 2 <b>Fertigkeit</b>"
+msgstr "Beginnt mit einer Stufe-2-<b>Fertigkeit</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC_TOOLTIP"
