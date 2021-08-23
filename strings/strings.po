@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-23 15:32+0200\n"
+"PO-Revision-Date: 2021-08-23 18:00+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1276,10 +1276,9 @@ msgid "This bathroom is ready to receive visitors"
 msgstr "Dieses WC ist bereit für Besucher"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME"
 msgid "{toilet} In Use"
-msgstr "WC besetzt"
+msgstr "{toilet} besetzt"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP"
@@ -1318,7 +1317,6 @@ msgid "Energy Saver: {UsedPower}"
 msgstr "Energiesparen: {UsedPower}"
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.TOOLTIP"
 msgid ""
 "The contents of this food storage are at refrigeration temperatures\n"
@@ -1326,8 +1324,10 @@ msgid ""
 "Energy Saver mode has been automatically activated using only {UsedPower} of "
 "{MaxPower}"
 msgstr ""
-"Der Inhalt dieses Lebensmittellagers wird noch mit {UsedPower} von {MaxPower} "
-"gekühlt."
+"DDer Inhalt dieses Lebensmittelbehälters hat die richtige Kühltemperatur\n"
+"\n"
+"Der Energiesparmodus wurde automatisch aktiviert und verwendet nur {UsedPower} "
+"von {MaxPower}"
 
 #. STRINGS.BUILDING.STATUSITEMS.GANTRY.AUTOMATION_CONTROL
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GANTRY.AUTOMATION_CONTROL"
@@ -2768,18 +2768,18 @@ msgid "Nothing out of the ordinary here"
 msgstr "Nichts außergewöhnliches hier"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.NAME"
 msgid "Not Controlled"
-msgstr "Raketensteuerung"
+msgstr "Nicht kontrolliert"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.TOOLTIP"
 msgid ""
 "This building is not controlled by a <link=\"ROCKETCONTROLSTATION\">Rocket "
 "Control Station</link>"
-msgstr "<link=\"ROCKETCONTROLSTATION\">Raketenkontrollstation</link>"
+msgstr ""
+"Dieses Gebäude wird nicht von einer <link=\"ROCKETCONTROLSTATION"
+"\">Raketenkontrollstation</link> kontrolliert."
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME"
@@ -3023,13 +3023,11 @@ msgid ""
 msgstr "Ausgabe des Inhalts ist nicht möglich, die Ausgangsleitung ist verstopft"
 
 #. STRINGS.BUILDING.STATUSITEMS.OUTPUTTILEBLOCKED.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OUTPUTTILEBLOCKED.NAME"
 msgid "Output Blocked"
 msgstr "Ausgang blockiert"
 
 #. STRINGS.BUILDING.STATUSITEMS.OUTPUTTILEBLOCKED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OUTPUTTILEBLOCKED.TOOLTIP"
 msgid "Output is blocked"
 msgstr "Ausgang ist blockiert"
@@ -3592,38 +3590,39 @@ msgstr ""
 "\">Raketenplattform</style> landen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.NAME"
 msgid "Access: Restricted"
-msgstr "Zugangsbeschränkungen"
+msgstr "Zugang: Eingeschränkt"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONACTIVE.TOOLTIP"
 msgid ""
 "This building cannot be operated while restricted, though it can be filled\n"
 "\n"
 "Controlled by a <link=\"ROCKETCONTROLSTATION\">Rocket Control Station</link>"
 msgstr ""
-"Ermöglicht es einem Duplikanten, eine <link=\"ROCKETCONTROLSTATION"
-"\">Raketenkontrollstation</link> zu bedienen und Raketen zu steuern"
+"Dieses Gebäude kann nicht betrieben werden, wenn es gesperrt ist, aber es kann "
+"gefüllt werden\n"
+"\n"
+"Kontrolliert durch eine <link=\"ROCKETCONTROLSTATION\">Raketenkontrollstation</"
+"link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.NAME"
 msgid "Access: Not Restricted"
-msgstr "Zugangsbeschränkungen"
+msgstr "Zugang: Frei zugänglich"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETRESTRICTIONINACTIVE.TOOLTIP"
 msgid ""
 "This building's operation is not restricted\n"
 "\n"
 "Controlled by a <link=\"ROCKETCONTROLSTATION\">Rocket Control Station</link>"
 msgstr ""
-"Ermöglicht es einem Duplikanten, eine <link=\"ROCKETCONTROLSTATION"
-"\">Raketenkontrollstation</link> zu bedienen und Raketen zu steuern"
+"Der Betrieb dieses Gebäudes ist nicht eingeschränkt\n"
+"\n"
+"Kontrolliert durch eine <link=\"ROCKETCONTROLSTATION\">Raketenkontrollstation</"
+"link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETSTRANDED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETSTRANDED.NAME"
@@ -4050,13 +4049,14 @@ msgid "Too few Printing Pods {progress}"
 msgstr "Zu wenige Druck-Pods {progress}"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_INSUFFICIENT_COLONIES.TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_INSUFFICIENT_COLONIES.TOOLTIP"
 msgid ""
 "To open the Temporal Tear, this device relies on a network of activated "
 "Printing Pods {progress}"
-msgstr "Dieses Gerät benötigt ein Netzwerk aktivierter Druck-Pods {progress}"
+msgstr ""
+"Um den Temporalen Riss zu öffnen, ist dieses Gerät auf ein Netzwerk von "
+"aktivierten Printing Pods angewiesen "
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.NAME"
@@ -4074,14 +4074,13 @@ msgid "Temporal Tear not revealed"
 msgstr "Zeitriss nicht aufgedeckt"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_TARGET.TOOLTIP"
 msgid ""
 "This machine is meant to target something in space, but the target has not yet "
 "been revealed"
 msgstr ""
 "Diese Maschine soll etwas im Weltraum anvisieren, aber das Ziel ist noch nicht "
-"aufgedeckt."
+"aufgedeckt"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.NAME"
@@ -4089,15 +4088,16 @@ msgid "Charging Progress: {progress}"
 msgstr "Ladefortschritt: {progress}"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_PROGRESS.TOOLTIP"
 msgid ""
 "This device must be charged with a high number of Radbolts\n"
 "\n"
 "Operation can commence once this device is fully charged"
 msgstr ""
-"Dieses Gerät muss mit einer hohen Anzahl Teilchenblitze aufgeladen werden. Der "
-"Betrieb kann beginnen, sobald dieses Gerät vollständig aufgeladen ist"
+"Dieses Gerät muss mit einer hohen Anzahl von Teilchenblitzen aufgeladen "
+"werden.\n"
+"\n"
+"Der Betrieb kann beginnen, sobald dieses Gerät vollständig aufgeladen ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_READY.NOTIFICATION"
@@ -6767,10 +6767,9 @@ msgid "Delivers a Duplicant from a stranded rocket to the nearest asteroid."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ESCAPEPOD.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ESCAPEPOD.NAME"
 msgid "Escape Pod"
-msgstr "Escape"
+msgstr "Rettungskapsel"
 
 #. STRINGS.BUILDINGS.PREFABS.ESPRESSOMACHINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ESPRESSOMACHINE.DESC"
@@ -9103,23 +9102,20 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERBED.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERBED.EFFECT"
 msgid ""
 "Provides a sleeping area for one Duplicant and also functions as a ladder.\n"
 "\n"
 "Duplicants will automatically sleep in their assigned beds at night."
 msgstr ""
-"Bietet einen Schlafplatz für einen Duplikanten und stellt zusätzliche <link="
-"\"STAMINA\">Ausdauer</link> wieder her.\n"
+"Bietet einen Schlafplatz für einen Duplikanten und dient auch als Leiter.\n"
 "\n"
 "Duplikanten schlafen nachts automatisch in ihren zugewiesenen Betten."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERBED.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERBED.NAME"
 msgid "<link=\"LADDERBED\">Ladder Bed</link>"
-msgstr "<link=\"LADDER\">Leiter</link>"
+msgstr "<link=\"LADDERBED\">Leiterbett</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.DESC"
@@ -10089,21 +10085,19 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.EFFECT"
 msgid ""
 "Send <b><style=\"logic_on\">Green Signals</style></b> at the chosen starmap "
 "locations and <b><style=\"logic_off\">Red Signals</style></b> everywhere else."
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> nach der "
-"ausgewählten Einschaltzeit und ein <b><style=\"logic_off\">Rotes Signal</"
-"style></b> nach der gewählten Ausschaltzeit"
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> an den ausgewählten "
+"Standorten der Sternenkarte und ein <b><style=\"logic_off\">Rotes Signal</"
+"style></b> überall sonst."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.NAME"
 msgid "<link=\"LOGICCLUSTERLOCATIONSENSOR\">Starmap Location Sensor</link>"
-msgstr "<link=\"LOGICRADIATIONSENSOR\">Strahlungssensor</link>"
+msgstr "<link=\"LOGICCLUSTERLOCATIONSENSOR\">Sternenkarten-Ortungssensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.DESC"
@@ -14506,7 +14500,6 @@ msgstr ""
 "Bildschirmschoner angeht."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT"
 msgid ""
 "Allows Duplicants to use pilot-operated rockets and control access to interior "
@@ -14514,16 +14507,16 @@ msgid ""
 "\n"
 "Assigned Duplicants must have the <link=\"PILOT\">Rocket Piloting</link> skill."
 msgstr ""
-"Erlaubt es den Duplikanten, Raketen zu steuern.\n"
+"Erlaubt es den Duplikanten, Raketen zu steuern und die Kontrolle des Zugangs zu "
+"Gebäuden im Inneren.\n"
 "\n"
 "Zugewiesene Duplikanten müssen die Fertigkeit <link=\"PILOT\">Raketenpilot</"
 "link> besitzen."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT"
 msgid "Restrict Building Usage"
-msgstr "Resonierende Gebäude"
+msgstr "Gebäudenutzung einschränken"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_ACTIVE
 #, fuzzy
@@ -90977,4 +90970,3 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
 msgstr "Wasser-Asteroid"
-
