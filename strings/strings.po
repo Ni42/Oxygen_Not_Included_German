@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-24 11:40+0200\n"
+"PO-Revision-Date: 2021-08-24 13:06+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -72778,7 +72778,6 @@ msgstr ""
 "{0}"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FAILURE
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FAILURE"
 msgid ""
 "A problem occurred while generating a world from this seed:\n"
@@ -72789,7 +72788,7 @@ msgstr ""
 "Beim Generieren einer Welt aus diesem Seed ist ein Problem aufgetreten:\n"
 "{0}. \n"
 "\n"
-"Bitte versuch es erneut mit einem anderen Seed."
+"Leider keimen nicht alle Samen. Bitte versuch es erneut mit einem anderen Seed."
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FILES
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FILES"
@@ -79168,10 +79167,9 @@ msgid "A moving tribute to a tiny plant hugger."
 msgstr ""
 
 #. STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.NAME"
 msgid "Grubgrub Statue"
-msgstr "Grub-Statue"
+msgstr "Grubgrub-Statue"
 
 #. STRINGS.UI.SPACEARTIFACTS.HATCHFOSSIL.ARTIFACT
 msgctxt "STRINGS.UI.SPACEARTIFACTS.HATCHFOSSIL.ARTIFACT"
@@ -79482,10 +79480,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.DESCRIPTION"
 msgid "It's pronounced nu-clear."
-msgstr "Es wird nuklear ausgesprochen"
+msgstr "Es wird nuklear ausgesprochen."
 
 #. STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.NAME
 msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.NAME"
@@ -83087,10 +83084,9 @@ msgid "Must be built in a corner"
 msgstr "Muss in einer Ecke eingebaut werden"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CORNER_FLOOR
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CORNER_FLOOR"
 msgid "Must be built in a corner on the ground"
-msgstr "Muss auf dem Boden gebaut werden"
+msgstr "Muss auf dem Boden in einer Ecke gebaut werden"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR"
@@ -84233,7 +84229,6 @@ msgid "Destination"
 msgstr "Ziel"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.EMPTY_SPACE_ROW
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.EMPTY_SPACE_ROW"
 msgid "In Space"
 msgstr "Im Weltraum"
@@ -84244,10 +84239,9 @@ msgid "Send Green signal at locations"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.TITLE"
 msgid "Location Filter"
-msgstr "Standortdetails"
+msgstr "Standortfilter"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERWORLDSIDESCREEN.TITLE"
@@ -84735,11 +84729,12 @@ msgid "No discovered recipes"
 msgstr "Keine Rezepte entdeckt"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPEDISCOVERED_BODY
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPEDISCOVERED_BODY"
 msgid ""
 "Discover new ingredients or research new technology to unlock some recipes."
-msgstr "Suche nach neuen Zutaten in der Welt, um Rezepte freizuschalten."
+msgstr ""
+"Entdecke neue Zutaten oder erforsche neue Technologien, um einige Rezepte "
+"freizuschalten."
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPESELECTED
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPESELECTED"
@@ -86472,7 +86467,6 @@ msgid "<b>{0}</b>"
 msgstr "<b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.RANGE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.RANGE"
 msgid "    • Potential Range: {0}/1 kg Fuel ({1})"
 msgstr "    • Potentielle Reichweite: {0}/1 kg Kraftstoff ({1})"
@@ -86493,10 +86487,9 @@ msgid "Rocket Module"
 msgstr "Raketenmodul"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.AUTOMATION
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.AUTOMATION"
 msgid "Automation Controlled"
-msgstr "Automatische Steuerung: {0}"
+msgstr "Automatisierungsgesteuert"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.AUTOMATION_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.AUTOMATION_TOOLTIP"
@@ -86508,14 +86501,12 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.BUILDING_RESTRICTIONS_LABEL
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.BUILDING_RESTRICTIONS_LABEL"
 msgid "Interior Building Restrictions"
-msgstr "Ungültige Platzierung"
+msgstr "Beschränkungen für interne Gebäude"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.GROUNDED_RESTRICTION_BUTTON
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.GROUNDED_RESTRICTION_BUTTON"
 msgid "Grounded"
@@ -86531,19 +86522,17 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.NONE_RESTRICTION_BUTTON
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.NONE_RESTRICTION_BUTTON"
 msgid "None"
 msgstr "Keine"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.NONE_RESTRICTION_BUTTON_TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN."
 "NONE_RESTRICTION_BUTTON_TOOLTIP"
 msgid "There are no restrictions on buildings inside this rocket"
-msgstr "Kein Schutzanzug zum Abkoppeln in diesem Gebäude vorhanden"
+msgstr "Es gibt keine Einschränkungen für Gebäude innerhalb dieser Rakete"
 
 #. STRINGS.UI.UISIDESCREENS.ROLESTATION.OPENROLESBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ROLESTATION.OPENROLESBUTTON"
@@ -86615,11 +86604,10 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED"
 msgid "    • Engine's height limit reached or exceeded"
-msgstr "    • Höhenlimit des Triebwerks erreicht"
+msgstr "    • Höhenlimit des Triebwerks erreicht oder überschritten"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE
 msgctxt ""
@@ -86756,10 +86744,9 @@ msgid "EMERGENCY PROCEDURES"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.TITLE"
 msgid "Self Destruct"
-msgstr "Zerlegen abbrechen"
+msgstr "Selbstzerstörung"
 
 #. STRINGS.UI.UISIDESCREENS.STUDYABLE_SIDE_SCREEN.PENDING_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.STUDYABLE_SIDE_SCREEN.PENDING_BUTTON"
@@ -87615,10 +87602,9 @@ msgid " g"
 msgstr " g"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.KILOGRAM
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.KILOGRAM"
 msgid " kg"
-msgstr " g"
+msgstr " kg"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.MICROGRAM
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.MICROGRAM"
@@ -88822,36 +88808,32 @@ msgid "Cancel this relocation order"
 msgstr "Verschieben abbrechen"
 
 #. STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.NAME_CONTROLLED
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.NAME_CONTROLLED"
 msgid "Controlled"
-msgstr "Steuerung"
+msgstr "Kontolliert"
 
 #. STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.NAME_UNCONTROLLED
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.NAME_UNCONTROLLED"
 msgid "Uncontrolled"
-msgstr "Deinstalliert"
+msgstr "Unkontrolliert"
 
 #. STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.TOOLTIP_CONTROLLED
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.TOOLTIP_CONTROLLED"
 msgid ""
 "Allow this building's operation to be controlled by a <link="
 "\"ROCKETCONTROLSTATION\">Rocket Control Station</link>"
 msgstr ""
-"Ermöglicht es einem Duplikanten, eine <link=\"ROCKETCONTROLSTATION"
-"\">Raketenkontrollstation</link> zu bedienen und Raketen zu steuern"
+"Ermöglicht die Steuerung des Gebäudebetriebs durch eine <link="
+"\"ROCKETCONTROLSTATION\">Raketenkontrollstation</link>"
 
 #. STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.TOOLTIP_UNCONTROLLED
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ROCKETUSAGERESTRICTION.TOOLTIP_UNCONTROLLED"
 msgid ""
 "Do not allow this building to be controlled by a <link=\"ROCKETCONTROLSTATION"
 "\">Rocket Control Station</link>"
 msgstr ""
-"Ermöglicht es einem Duplikanten, eine <link=\"ROCKETCONTROLSTATION"
-"\">Raketenkontrollstation</link> zu bedienen und Raketen zu steuern"
+"Dieses Gebäude darf nicht von einer <link=\"ROCKETCONTROLSTATION"
+"\">Raketenkontrollstation</link> kontrolliert werden."
 
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME"
@@ -90257,7 +90239,6 @@ msgid "Marshy Asteroid"
 msgstr "Sumpfiger Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
 msgid ""
 "A large-ish forested asteroid with a frozen radioactive core.\n"
@@ -90265,19 +90246,17 @@ msgid ""
 "<smallcaps>While Radioactive Forest Asteroid are largely foresty, they also "
 "contain a great deal of rust and ocean.</smallcaps>"
 msgstr ""
-"Eine große, teilweise gefrorene Welt mit einem radioaktiven Kern.\n"
+"Ein großer bewaldeter Asteroid mit einem gefrorenen radioaktiven Kern.\n"
 "\n"
-"<smallcaps>Obwohl radioaktive Sumpf-Asteroiden größtenteils sumpfig sind, "
-"enthalten sie auch viel Rost.</smallcaps>"
+"<smallcaps>Radioaktive Wald-Asteroiden sind zwar größtenteils bewaldet, "
+"enthalten aber auch eine Menge Rost und Ozean.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.NAME"
 msgid "Radioactive Forest Asteroid"
-msgstr "Radioaktiver Terra-Asteroid"
+msgstr "Radioaktiver Wald-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
 msgid ""
 "A large-ish partially frozen world with a radioactive core.\n"
@@ -90296,7 +90275,6 @@ msgid "Radioactive Swamp Asteroid"
 msgstr "Radioaktiver Sumpf-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSANDYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
 msgid ""
 "A large-ish terra world with a radioactive core.\n"
@@ -90806,7 +90784,6 @@ msgid "Tiny Twin Asteroid FOR DEVS"
 msgstr "Winziger Zwillings-Asteroid FÜR ENTWICKLER"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION"
 msgid ""
 "A lush location rich in wildlife and life-sustaining resources.\n"
@@ -90818,20 +90795,18 @@ msgid ""
 msgstr ""
 "Ein üppiger Ort mit reichhaltiger Tierwelt und lebenserhaltenden Ressourcen.\n"
 "\n"
-"<smallcaps>Auf Verdante Fuß zu fassen wird aufgrund der eingeschränkten "
-"Nahrungs- und Sauerstoffversorgung herausfordernd werden. Die reichlichen "
-"biologischen und Mineralvorkommen sollten aber exzellentes langfristiges "
-"Wachstum versprechen.</smallcaps>\n"
+"<smallcaps>Auf Verdante Fuß zu fassen, wird aufgrund der geringen Nahrungs- und "
+"Sauerstoffmöglichkeiten eine Herausforderung sein. Die reichhaltigen "
+"biologischen und mineralischen Ressourcen sollten jedoch ein hervorragendes "
+"langfristiges Wachstum ermöglichen.</smallcaps>\n"
 "\n"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME"
 msgid "Verdante"
 msgstr "Verdante"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION"
 msgid ""
 "A promising location with a balanced variety of resources.\n"
@@ -90849,13 +90824,11 @@ msgstr ""
 "\n"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME"
 msgid "Terra"
 msgstr "Terra"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION"
 msgid ""
 "A large, polluted swamp world.\n"
@@ -90871,7 +90844,6 @@ msgstr ""
 "Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
 msgid "Swampy Asteroid"
 msgstr "Sumpfiger Asteroid"
