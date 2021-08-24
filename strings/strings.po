@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-24 11:03+0200\n"
+"PO-Revision-Date: 2021-08-24 11:40+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -38572,19 +38572,17 @@ msgstr ""
 "Mangel an <style=\"KKeyword\">Licht</style> war, um sich zu entspannen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.NAME"
 msgid "Unrested: Movement"
-msgstr "Unterwasser-Bewegungsgeschwindigkeit"
+msgstr "Unausgeruht: Bewewgung"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.TOOLTIP"
 msgid ""
 "This Duplicant didn't get much sleep because they were interrupted by movement"
 msgstr ""
-"Dieser Duplikant hat nicht viel Schlaf bekommen, weil er zu beunruhigt über den "
-"Mangel an <style=\"KKeyword\">Licht</style> war, um sich zu entspannen"
+"Dieser Duplikant hat nicht viel Schlaf bekommen, weil er durch Bewegungen "
+"unterbrochen wurde"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BARRACKSSTAMINA.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BARRACKSSTAMINA.NAME"
@@ -44496,17 +44494,14 @@ msgstr ""
 "style> noch eingeschaltet sind"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYMOVEMENT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYMOVEMENT.NAME"
 msgid "Interrupted Sleep: Movement"
-msgstr "Unterbrochener Schlaf: Schnarchender Freund"
+msgstr "Unterbrochener Schlaf: Bewewgung"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYMOVEMENT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYMOVEMENT.TOOLTIP"
 msgid "This Duplicant is having trouble sleeping because their bed moved"
-msgstr ""
-"Dieser Duplikant hat aufgrund seiner Angst vor der Dunkelheit Schlafprobleme"
+msgstr "Dieser Duplikant hat Schlafprobleme, weil sein Bett bewegt wurde"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYNOISE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYNOISE.NAME"
@@ -52303,10 +52298,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ITEMS.DEBRISPAYLOAD.NAME
-#, fuzzy
 msgctxt "STRINGS.ITEMS.DEBRISPAYLOAD.NAME"
 msgid "Rocket Debris"
-msgstr "Weltraumschrott"
+msgstr "Raketentrümmer"
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
@@ -54600,10 +54594,9 @@ msgid "Notes on measuring heat energy"
 msgstr "Hinweise zur Messung der Wärmeenergie"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.NAME"
 msgid "Duplicant Crash Landed!"
-msgstr "Duplikanten zerquetscht"
+msgstr "Duplikant hat eine Bruchlandung hingelegt!"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.TOOLTIP"
@@ -60842,15 +60835,13 @@ msgid "<link=\"LIQUIDDISTRIBUTION\">Liquid Distribution</link>"
 msgstr "<link=\"LIQUIDDISTRIBUTION\">Flüssigkeitsverteilung</link>"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.DESC
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.DESC"
 msgid ""
 "Use pumped liquids to remove <link=\"SALT\">Salt</link> from <link=\"BRINE"
 "\">Brine</link>."
 msgstr ""
 "Verwende gepumpte Flüssigkeiten, um <link=\"SALT\">Salz</link> aus <link=\"BRINE"
-"\">Sole</link> zu lösen oder <link=\"CARBONDIOXIDE\">Kohlenstoffdioxid</link> "
-"aus der Luft zu ziehen."
+"\">Sole</link> zu entfernen."
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.NAME"
@@ -63258,10 +63249,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.SUBWORLDS.REGOLITH.NAME
-#, fuzzy
 msgctxt "STRINGS.SUBWORLDS.REGOLITH.NAME"
 msgid "Regolith"
-msgstr "Felsiger Asteroid"
+msgstr "Regolith"
 
 #. STRINGS.SUBWORLDS.REGOLITH.UTILITY
 msgctxt "STRINGS.SUBWORLDS.REGOLITH.UTILITY"
@@ -64300,16 +64290,14 @@ msgid "{0}: {1} per <link=\"RESEARCH\">Research</link> point"
 msgstr "{0}: {1} pro <link=\"RESEARCH\">Forschungspunkt</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_BUILDINGS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_BUILDINGS"
 msgid "    • Buildings: {buildinglist}"
-msgstr "    • Ernährung: {Foodlist}"
+msgstr "    • Gebäude: {buildinglist}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_HEADER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_HEADER"
 msgid "Restriction Control:"
-msgstr "Zählersteuerung"
+msgstr "Beschränkungskontrolle:"
 
 #. STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH"
@@ -64791,7 +64779,6 @@ msgstr ""
 "    • Wärmeleitfähigkeit"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
 msgid ""
 "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
@@ -64809,7 +64796,6 @@ msgstr ""
 "<b>{0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER"
 msgid ""
 "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
@@ -65172,23 +65158,20 @@ msgstr ""
 "\">Forschungspunkt</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ROCKETRESTRICTION_BUILDINGS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ROCKETRESTRICTION_BUILDINGS"
 msgid ""
 "This station controls the operational status of the following buildings:\n"
 "\n"
 "{buildinglist}"
 msgstr ""
-"Dieses Tier konsumiert typischerweise diese Materialien in folgenden Raten:\n"
+"Diese Station kontrolliert den Betriebsstatus der folgenden Gebäude:\n"
 "\n"
-"{Foodlist}"
+"{buildinglist}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ROCKETRESTRICTION_HEADER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ROCKETRESTRICTION_HEADER"
 msgid "Controls whether a building is operational within a rocket interior"
-msgstr ""
-"Dieses Gebäude ist nur in Betrieb, während die zugehörige Rakete im Flug ist"
+msgstr "Kontrolliert, ob ein Gebäude im Inneren einer Rakete betriebsbereit ist"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH"
@@ -66286,7 +66269,6 @@ msgstr ""
 "style> gelandet"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_UTILITY
-#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_UTILITY"
 msgid "    • This rocket is performing a task at its destination"
 msgstr "    • Diese Rakete führt an ihrem Zielort eine Aufgabe aus"
@@ -67468,7 +67450,6 @@ msgid "    • <b>Dying off: {0}</b>"
 msgstr "    • <b>Stirbt an: {0}</b>"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.DYING_OFF.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.DYING_OFF.TOOLTIP"
 msgid ""
 "Low germ count in this area is causing germs to die rapidly\n"
@@ -67478,7 +67459,7 @@ msgid ""
 msgstr ""
 "Die niedrige Keimzahl lässt die Keime in diesem Bereich schnell absterben\n"
 "\n"
-"Weniger als {0} Keime befinden sich auf diesem {1} Material.\n"
+"Weniger als {0} befinden sich auf diesen {1} des Materials.\n"
 "({2} Keime/kg)"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.ENVIRONMENT.DIE_TOOLTIP
@@ -67537,7 +67518,6 @@ msgid "    • <b>Overpopulated: {0}</b>"
 msgstr "    • <b>Überbevölkert: {0}</b>"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TOOLTIP"
 msgid ""
@@ -67550,7 +67530,7 @@ msgstr ""
 "In diesem Bereich befinden sich zu viele Keime. Sie werden schnell absterben, "
 "bis die Population stabil ist\n"
 "\n"
-"Auf diesem {1} Material können maximal {0} Keime sein.\n"
+"Auf diesen {1} des Materials können maximal {0} sein.\n"
 "({2} Keime/kg)"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.DIE_TOOLTIP
@@ -72482,7 +72462,6 @@ msgstr ""
 "bestehende Kolonie betreffen können:"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_AIRFILTER
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_AIRFILTER"
 msgid ""
 "•<indent=20px><link=\"AIRFILTER\">Deodorizer</link> now requires <b>5w Power</"
@@ -72490,12 +72469,12 @@ msgid ""
 "•<indent=20px>Duplicants will get <b>Stinging Eyes</b> from gasses such as "
 "chlorine and hydrogen.</indent>"
 msgstr ""
-"•<indent=20px>Lufterfrischer benötigen jetzt <b>5 W Leistung</b>.</indent>\n"
+"•<indent=20px><link=\"AIRFILTER\">Lufterfrischer</link> benötigen jetzt <b>5 W "
+"Leistung</b>.</indent>\n"
 "•<indent=20px>Duplikanten bekommen <b>Brennen in den Augen</b> von Gasen wie "
 "Chlor und Wasserstoff.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_BUILDINGS
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_BUILDINGS"
 msgid ""
 "•<indent=20px>The <b><link=\"OXYGENMASKSTATION\">Oxygen Mask Station</link></b> "
@@ -72503,8 +72482,8 @@ msgid ""
 "•<indent=20px>Use the new <b>Meter Valves</b> for precise control of resources "
 "in pipes.</indent>"
 msgstr ""
-"•<indent=20px><b>Sauerstoffmasken</b> wurden hinzugefügt, um die Erkundung im "
-"frühen Spiel zu erleichtern.</indent>\n"
+"•<indent=20px><b><link=\"OXYGENMASKSTATION\">Sauerstoffmaskenstation</b> wurd "
+"hinzugefügt, um die Erkundung im frühen Spiel zu erleichtern.</indent>\n"
 "•<indent=20px>Nutze die neuen <b>Zählerventile</b> für eine präzise Kontrolle "
 "der Ressourcen in Rohren.</indent>"
 
@@ -72521,7 +72500,6 @@ msgstr ""
 "b> werden für die <b>Gesamtkonservierung von Nahrung</b> benötigt.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_SIMULATION
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_SIMULATION"
 msgid ""
 "•<indent=20px>Many <b>simulation bugs</b> have been fixed.</indent>\n"
@@ -72530,7 +72508,7 @@ msgid ""
 msgstr ""
 "•<indent=20px>Viele <b>Simulationsfehler</b> wurden behoben.</indent>\n"
 "•<indent=20px>Dies kann <b>die Effektivität</b> bestimmter Vorrichtungen und "
-"Setups verändern.</indent>"
+"<link=\"STEAMTURBINE2\">Dampfturbinen</link>-Konfigurationen verändern.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_TITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_TITLE"
