@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-24 13:06+0200\n"
+"PO-Revision-Date: 2021-08-24 14:13+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1268,7 +1268,7 @@ msgstr "Objekt kann aufgrund der derzeitigen Sättigung nicht arbeiten"
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME"
 msgid "{toilet} Ready"
-msgstr ""
+msgstr "{toilet} bereit"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP"
@@ -1310,6 +1310,8 @@ msgid ""
 "{UsedPower} of {MaxPower} are being used to cool the contents of this food "
 "storage"
 msgstr ""
+"{UsedPower} von {MaxPower} werden zur Kühlung des Inhalts dieses "
+"Lebensmittellagers verwendet"
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME"
@@ -6765,6 +6767,8 @@ msgstr "<link=\"ELECTROLYZER\">Elektrolyseur</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.ESCAPEPOD.DESC"
 msgid "Delivers a Duplicant from a stranded rocket to the nearest asteroid."
 msgstr ""
+"Bringt einen Duplikanten von einer gestrandeten Rakete zum nächstgelegenen "
+"Asteroiden."
 
 #. STRINGS.BUILDINGS.PREFABS.ESCAPEPOD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ESCAPEPOD.NAME"
@@ -9100,6 +9104,8 @@ msgid ""
 "Duplicants can be interrupted if another duplicant uses the ladder while "
 "sleeping."
 msgstr ""
+"Duplikanten können gestört werden, wenn ein anderer Duplikant die Leiter im "
+"Schlaf benutzt."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERBED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERBED.EFFECT"
@@ -10083,6 +10089,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.DESC"
 msgid ""
 "Starmap Location sensors can signal when a spacecraft is at a certain location"
 msgstr ""
+"Sternenkarten-Ortungssensoren können signalisieren, wenn sich ein Raumfahrzeug "
+"an einem bestimmten Ort befindet"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.EFFECT"
@@ -14601,7 +14609,7 @@ msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gas-Eingangsamatur</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.DESC"
 msgid "A direct attachment to the output port on the exterior of the rocket."
-msgstr ""
+msgstr "Ein direkter Anschluss an den Ausgang an der Außenseite der Rakete."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.NAME"
@@ -14638,7 +14646,7 @@ msgstr "<link=\"ROCKETINTERIORGASOUTPUT\">Gas-Ausgangsamatur</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.DESC"
 msgid "A direct attachment to the input port on the exterior of the rocket."
-msgstr ""
+msgstr "Ein direkter Anschluss an den Eingang an der Außenseite der Rakete."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.NAME"
@@ -14675,7 +14683,7 @@ msgstr "<link=\"LIQUIDPIPING\">Flüssigkeits-Eingangsamatur</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.DESC"
 msgid "A direct attachment to the output port on the exterior of the rocket."
-msgstr ""
+msgstr "Ein direkter Anschluss an den Ausgang an der Außenseite der Rakete."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.NAME"
@@ -14714,7 +14722,7 @@ msgstr "<link=\"LIQUIDPIPING\">Flüssigkeits-Ausgangsamatur</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.DESC"
 msgid "A direct attachment to the input port on the exterior of the rocket."
-msgstr ""
+msgstr "Ein direkter Anschluss an den Eingang an der Außenseite der Rakete."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME"
@@ -22948,6 +22956,31 @@ msgid ""
 "way to tear open the fabric of spacetime and tap into the limitless human "
 "potential of a thousand alternate timelines."
 msgstr ""
+"Wir verwenden den Temporalbogen nun schon seit einiger Zeit erfolgreich und "
+"ohne offensichtliche Folgen. Ich sollte froh sein, dass das so gut "
+"funktioniert, aber einige Fragen nagen bis spät in die Nacht an meinem Gehirn.\n"
+"\n"
+"Wenn sich der Zeitpfeil vorwärts bewegt, müssten die Gesetze der Entropie "
+"besagen, dass sich das Universum von einem Zustand der Ordnung zu einem Zustand "
+"des Chaos bewegt. Wenn sich der Zeitbogen zu einem früheren Zeitpunkt beugt, zu "
+"einem Punkt, an dem die Dinge geordneter waren, würde die Logik vorschreiben, "
+"dass wir diesen Punkt chaotischer machen, indem wir ihm Dinge wegnehmen. Alle "
+"bekannten Gesetze des natürlichen Universums legen nahe, dass dies Auswirkungen "
+"auf unsere Gegenwart haben sollte, aber alle Beweise deuten darauf hin, dass "
+"das nicht stimmt. Es scheint, dass die Theorie, dass wir unsere Vergangenheit "
+"nicht ändern können, falsch war!\n"
+"\n"
+"Dies deutet darauf hin, dass die Zeit in Wirklichkeit nicht ein Pfeil ist, "
+"sondern mehrere Pfeile, von denen jeder in eine andere Richtung zeigt. Im "
+"Grunde beweist dies die Existenz anderer Zeitlinien - verschiedener Dimensionen "
+"-, von denen wir annehmen können, dass einige auch ihren eigenen Zeitbogen "
+"gebaut haben.\n"
+"\n"
+"Das Versprechen, diese letzte Dimensionsschwelle zu überschreiten, ist zu "
+"verlockend. Stellen Sie sich vor, welche Dinge Gravitas in einer anderen "
+"Dimension erfunden hat!! Ich muss einen Weg finden, das Gefüge der Raumzeit zu "
+"zerreißen und das grenzenlose menschliche Potenzial von tausend alternativen "
+"Zeitlinien anzuzapfen."
 
 #. STRINGS.CODEX.C8_TIMESORDER.SUBTITLE
 msgctxt "STRINGS.CODEX.C8_TIMESORDER.SUBTITLE"
@@ -23105,7 +23138,7 @@ msgstr "Essbare Gewürzpflanze"
 #. STRINGS.CODEX.DASHASALTVINE.TITLE
 msgctxt "STRINGS.CODEX.DASHASALTVINE.TITLE"
 msgid "Dasha Salt Vine"
-msgstr ""
+msgstr "Dasha-Salzranke"
 
 #. STRINGS.CODEX.DECOR.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.DECOR.BODY.CONTAINER1"
@@ -24721,6 +24754,17 @@ msgid ""
 "significant time, we must strive for a purpose.\n"
 "\n"
 msgstr ""
+"Wenn meine Duplikanten sich in die benachbarten Welten wagen, steigt die "
+"Wahrscheinlichkeit, dass sie auf feindliche Umgebungen stoßen, die für "
+"ungeschützte Individuen unsicher sind. Eine umsichtige Vorgehensweise wäre es, "
+"mit der Erforschung und Ausbildung von Ausrüstungen zu beginnen, die meine "
+"Duplikanten schützen könnten, wenn sie auf solche widrigen Umgebungen treffen.\n"
+"\n"
+"In den ersten Zyklen habe ich mich mit dem Aufbau der Grundlagen für meine "
+"Kolonie beschäftigt, aber jetzt ist es an der Zeit, mit der Zukunftsplanung zu "
+"beginnen. Wir können nicht einfach von Tag zu Tag ohne Ziel leben. Wenn wir für "
+"längere Zeit überleben wollen, müssen wir nach einem Ziel streben.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.TITLE"
@@ -25062,6 +25106,15 @@ msgid ""
 "our resources run out.\n"
 "\n"
 msgstr ""
+"Da meine Duplikanten sich weiter in ihre Umgebung vorgewagt haben, konnte ich "
+"mir ein genaueres Bild von unserer Umgebung machen.\n"
+"\n"
+"Leider bin ich zu dem Schluss gekommen, dass dieser Planetoid nicht über "
+"genügend Ressourcen verfügt, um eine dauerhafte Kolonie zu gründen.\n"
+"\n"
+"Ich kann nur hoffen, dass wir irgendwie einen anderen Asteroiden erreichen "
+"können, bevor unsere Ressourcen zu Ende gehen.\n"
+"\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.TITLE"
@@ -52296,6 +52349,8 @@ msgid ""
 "Whatever is left over from a Rocket Self-Destruct can be recovered once it has "
 "crash-landed."
 msgstr ""
+"Alles, was von einer Raketenselbstzerstörung übrig bleibt, kann nach einer "
+"Bruchlandung wiederhergestellt werden."
 
 #. STRINGS.ITEMS.DEBRISPAYLOAD.NAME
 msgctxt "STRINGS.ITEMS.DEBRISPAYLOAD.NAME"
@@ -54603,6 +54658,8 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANT_CRASH_LANDED.TOOLTIP"
 msgid ""
 "A Duplicant in an escape pod has made it to the surface of the nearest asteroid."
 msgstr ""
+"Ein Duplikant in einer Rettungskapsel hat es auf die Oberfläche des "
+"nächstgelegenen Asteroiden geschafft."
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY"
@@ -63247,6 +63304,8 @@ msgid ""
 "The Regolith Biome contains a bounty of <link=\"REGOLITH\">Regolith</link> "
 "which is very useful as a material for filtration."
 msgstr ""
+"Das Regolith-Biom enthält eine Fülle von <link=\"REGOLITH\">Regolith</link>, "
+"das als Filtermaterial sehr nützlich ist."
 
 #. STRINGS.SUBWORLDS.REGOLITH.NAME
 msgctxt "STRINGS.SUBWORLDS.REGOLITH.NAME"
@@ -63265,6 +63324,16 @@ msgid ""
 "pens made from either double thick walls or from <link=\"REFINEDMETAL\">Refined "
 "Metal</link> since they are capable of burrowing through most other materials."
 msgstr ""
+"In den Schichten des Regoliths tummeln sich die schädlichen <link=\"MOLESPECIES"
+"\">Schubwühlmäuse</link>, die wertvolle Ressourcen fressen und sie mit der "
+"Hälfte der ursprünglichen Masse wieder ausscheiden.\n"
+"\n"
+"Glücklicherweise lassen sich diese Schädlinge einfangen und als gute "
+"Nahrungsquelle für meine Duplikanten nutzen. Allerdings muss besonders darauf "
+"geachtet werden, dass diese Viecher in Ställen gehalten werden, die entweder "
+"aus doppelt so dicken Wänden oder aus <link=\"REFINEDMETAL\">Veredeltem Metall</"
+"link> bestehen, da sie in der Lage sind, sich durch die meisten anderen "
+"Materialien zu wühlen."
 
 #. STRINGS.SUBWORLDS.RUST.DESC
 msgctxt "STRINGS.SUBWORLDS.RUST.DESC"
@@ -71381,6 +71450,8 @@ msgid ""
 "<i>Spaced Out!</i> will be activated the next time you launch the game. The "
 "game will now close."
 msgstr ""
+"<i>Spaced Out!</i> wird aktiviert, wenn du das Spiel das nächste Mal startest. "
+"Das Spiel wird nun geschlossen."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1"
@@ -71402,6 +71473,8 @@ msgid ""
 "<i>Spaced Out!</i> will be deactivated the next time you launch the game. The "
 "game will now close."
 msgstr ""
+"<i>Spaced Out!</i> wird deaktiviert, wenn du das Spiel das nächste Mal "
+"startest. Das Spiel wird nun geschlossen."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
@@ -72091,7 +72164,7 @@ msgstr "STEAM WORKSHOP"
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "ROCKETRY RENOVATION"
-msgstr ""
+msgstr "RAKETENRENOVIERUNG"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -72123,6 +72196,19 @@ msgid ""
 "\n"
 "   Check out the full patch notes for more details!"
 msgstr ""
+"Willkommen zum <b>RAKETENRENOVIERUNGS-UPDATE</b>\n"
+"\n"
+"<b><i>Spaced Out!</i></b>\n"
+"<<indent=20px>Duplikanten können gestrandete Raketen in einer Rettungskapsel "
+"über die Schaltfläche \"Schiff verlassen\" verlassen.</indent>\n"
+"<indent=20px>Flüssigkeits- und Gasanschlüsse zu den Raumfahrermodulen "
+"hinzugefügt, um die Zufuhr und Entlüftung von Flüssigkeiten und Gasen zu "
+"erleichtern.</indent>\n"
+"<indent=20px>Neue Gebäude, einschließlich einer Wandtoilette, die Abfälle "
+"direkt in die Welt dahinter entlässt.</indent>\n"
+"<indent=20px>Bugfixes und QOL-Verbesserungen.</indent>\n"
+"\n"
+"   Schaut euch die vollständigen Patch Notes für weitere Details an!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
@@ -83886,7 +83972,7 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ARTIFACTANALYSISSIDESCREEN."
 "NO_ARTIFACTS_DISCOVERED_TOOLTIP"
 msgid "Analyzing artifacts requires a skilled artist"
-msgstr ""
+msgstr "Die Analyse von Artefakten erfordert einen erfahrenen Künstler"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGN_TO_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGN_TO_TOOLTIP"
@@ -84236,7 +84322,7 @@ msgstr "Im Weltraum"
 #. STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.HEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.HEADER"
 msgid "Send Green signal at locations"
-msgstr ""
+msgstr "Sende ein Grünes Signal an Standorten"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.TITLE"
@@ -86499,6 +86585,10 @@ msgid ""
 "Buildings with their access restricted cannot be operated, though they can "
 "still be filled"
 msgstr ""
+"Gebäudebeschränkungen werden durch Automatisierung verwaltet\n"
+"\n"
+"Gebäude mit Zugangsbeschränkungen können nicht bedient werden, können aber "
+"trotzdem befüllt werden"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.BUILDING_RESTRICTIONS_LABEL
 msgctxt ""
@@ -86520,6 +86610,8 @@ msgid ""
 "Buildings with their access restricted cannot be operated while grounded, "
 "though they can still be filled"
 msgstr ""
+"Gebäude mit Zugangsbeschränkungen können am Boden nicht betrieben werden, "
+"können aber trotzdem befüllt werden"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.NONE_RESTRICTION_BUTTON
 msgctxt ""
@@ -86709,12 +86801,12 @@ msgstr "Modul auswählen"
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT"
 msgid "ABANDON SHIP!"
-msgstr ""
+msgstr "SCHIFF VERLASSEN!"
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT_CONFIRM
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT_CONFIRM"
 msgid "CONFIRM ABANDON SHIP"
-msgstr ""
+msgstr "SCHIFF VERLASSEN BESTÄTIGEN"
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TOOLTIP"
@@ -86726,6 +86818,13 @@ msgid ""
 "\n"
 "Any Duplicants on board will be safely delivered in escape pods."
 msgstr ""
+"Diese Rakete ist mit einem Notausstiegssystem ausgestattet.\n"
+"\n"
+"Die Selbstzerstörungssequenz der Rakete kann ausgelöst werden, um sie zu "
+"zerstören und Fragmente des Schiffes in Richtung des nächstgelegenen "
+"Planetoiden zu schleudern.\n"
+"\n"
+"Alle Duplikanten an Bord werden in Fluchtkapseln in Sicherheit gebracht."
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TOOLTIP_CONFIRM
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TOOLTIP_CONFIRM"
@@ -86737,11 +86836,18 @@ msgid ""
 "\n"
 "Any Duplicants on board will be safely delivered in escape pods."
 msgstr ""
+"<b>Damit werden alle Passagiere herausgeschleudert und die Rakete zerstört.<b>\n"
+"\n"
+"Die Selbstzerstörungssequenz der Rakete kann ausgelöst werden, um sie zu "
+"zerstören und Fragmente des Schiffes in Richtung des nächstgelegenen "
+"Planetoiden zu schleudern.\n"
+"\n"
+"Alle Duplikanten an Bord werden in Fluchtkapseln in Sicherheit gebracht."
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.MESSAGE_TEXT
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.MESSAGE_TEXT"
 msgid "EMERGENCY PROCEDURES"
-msgstr ""
+msgstr "NOTFALLMASSNAHMEN"
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.TITLE"
@@ -88833,7 +88939,7 @@ msgid ""
 "\">Rocket Control Station</link>"
 msgstr ""
 "Dieses Gebäude darf nicht von einer <link=\"ROCKETCONTROLSTATION"
-"\">Raketenkontrollstation</link> kontrolliert werden."
+"\">Raketenkontrollstation</link> kontrolliert werden"
 
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME"
