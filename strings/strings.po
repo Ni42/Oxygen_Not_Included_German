@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-23 18:00+0200\n"
+"PO-Revision-Date: 2021-08-24 11:03+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -2779,7 +2779,7 @@ msgid ""
 "Control Station</link>"
 msgstr ""
 "Dieses Gebäude wird nicht von einer <link=\"ROCKETCONTROLSTATION"
-"\">Raketenkontrollstation</link> kontrolliert."
+"\">Raketenkontrollstation</link> kontrolliert"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME"
@@ -4056,7 +4056,7 @@ msgid ""
 "Printing Pods {progress}"
 msgstr ""
 "Um den Temporalen Riss zu öffnen, ist dieses Gerät auf ein Netzwerk von "
-"aktivierten Printing Pods angewiesen "
+"aktivierten Printing Pods {progress} angewiesen"
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_NO_LOS.NAME"
@@ -14519,20 +14519,22 @@ msgid "Restrict Building Usage"
 msgstr "Gebäudenutzung einschränken"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_ACTIVE"
 msgid ""
 "<b><style=\"logic_on\">Green Signal</style></b>: Restrict access to interior "
 "buildings"
-msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Zähler zurücksetzen"
+msgstr ""
+"<b><style=\"logic_on\">Grünes Signal</style></b>: Beschränkung des Zugangs zu "
+"inneren Gebäuden"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_INACTIVE"
 msgid ""
 "<b><style=\"logic_off\">Red Signal</style></b>: Unrestrict access to interior "
 "buildings"
-msgstr "<b><style=\"logic_off\">Rotes Signal</style></b>: Gebäude deaktivieren"
+msgstr ""
+"<b><style=\"logic_off\">Rotes Signal</style></b>: Unbeschränkter Zugang zu "
+"inneren Gebäuden"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.NAME"
@@ -14602,10 +14604,9 @@ msgid "A direct attachment to the output port on the exterior of the rocket."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORGASINPUTPORT\">Gas Input Port</link>"
-msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gas-Eingangsamatur</link>"
+msgstr "<link=\"ROCKETINTERIORGASINPUTPORT\">Gaseingangsanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC"
@@ -14640,10 +14641,9 @@ msgid "A direct attachment to the input port on the exterior of the rocket."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORGASOUTPUTPORT\">Gas Output Port</link>"
-msgstr "<link=\"ROCKETINTERIORGASOUTPUT\">Gas-Ausgangsamatur</link>"
+msgstr "<link=\"ROCKETINTERIORGASOUTPUTPORT\">Gasausgangsanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.DESC"
@@ -14678,10 +14678,10 @@ msgid "A direct attachment to the output port on the exterior of the rocket."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORLIQUIDINPUTPORT\">Liquid Input Port</link>"
-msgstr "<link=\"LIQUIDPIPING\">Flüssigkeits-Eingangsamatur</link>"
+msgstr ""
+"<link=\"ROCKETINTERIORLIQUIDINPUTPORT\">Flüssigkeitseingangsanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.DESC"
@@ -14717,10 +14717,10 @@ msgid "A direct attachment to the input port on the exterior of the rocket."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORLIQUIDOUTPUTPORT\">Liquid Output Port</link>"
-msgstr "<link=\"LIQUIDPIPING\">Flüssigkeits-Ausgangsamatur</link>"
+msgstr ""
+"<link=\"ROCKETINTERIORLIQUIDOUTPUTPORT\">Flüssigkeitsausgangsanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.DESC"
@@ -16820,16 +16820,14 @@ msgid "<link=\"VERTICALWINDTUNNEL\">Vertical Wind Tunnel</link>"
 msgstr "<link=\"VERTICALWINDTUNNEL\">Vertikalwind­tunnel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.DESC"
 msgid ""
 "Wall Toilets transmit fewer germs to Duplicants' skin and require no emptying."
 msgstr ""
-"Toiletten übertragen weniger Keime auf die Haut der Duplikanten und erfordern "
-"keine Entleerung."
+"Wandtoiletten übertragen weniger Keime auf die Haut der Duplikanten und "
+"erfordern keine Entleerung."
 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.EFFECT"
 msgid ""
 "Gives Duplicants a place to relieve themselves. Empties directly on the other "
@@ -16837,15 +16835,15 @@ msgid ""
 "\n"
 "Spreads very few <link=\"DISEASE\">Germs</link>."
 msgstr ""
-"Gibt Duplikanten einen Ort, um sich zu erleichtern.\n"
+"Gibt Duplikanten einen Ort, um sich zu erleichtern. Entleert sich direkt auf "
+"der anderen Seite der Wand.\n"
 "\n"
 "Verbreitet sehr wenige <link=\"DISEASE\">Keime</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.NAME"
 msgid "<link=\"WALLTOILET\">Wall Toilet</link>"
-msgstr "<link=\"METALTILE\">Metallziegel</link>"
+msgstr "<link=\"WALLTOILET\">Wandtoilette</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.DESC"
@@ -17388,18 +17386,16 @@ msgid "Large Terra Cluster"
 msgstr "Großer Terra-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a larger swampy planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem größeren erdähnlichen Planetoiden als "
+"Eine Ansammlung von Planeten mit einem größeren sumpfigen Planetoiden als "
 "Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
 msgid "Large Swamp Cluster"
-msgstr "Sumpf-Cluster"
+msgstr "Großer Sumpf-Cluster"
 
 #. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2"
@@ -20724,7 +20720,6 @@ msgid "Office Space in Space!"
 msgstr "Büroraum im Weltraum!"
 
 #. STRINGS.CODEX.B10_AI.BODY.CONTAINER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.B10_AI.BODY.CONTAINER1"
 msgid ""
 "<smallcaps>[Voice Recognition Initialized]\n"
@@ -20808,7 +20803,7 @@ msgstr ""
 "Ich fürchte, dass ich einen schlüpfrigen Abhang hinunterrutsche, an dessen Ende "
 "Jackie mit offenen Armen auf mich wartet.\n"
 "\n"
-"[LOG ENDE]"
+"[LOG ENDET]"
 
 #. STRINGS.CODEX.B10_AI.SUBTITLE
 msgctxt "STRINGS.CODEX.B10_AI.SUBTITLE"
@@ -22955,16 +22950,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.C8_TIMESORDER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.C8_TIMESORDER.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "VERSCHLÜSSELUNGSEBENE: DREI"
 
 #. STRINGS.CODEX.C8_TIMESORDER.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.C8_TIMESORDER.TITLE"
 msgid "Time's Order"
-msgstr "Grabebefehle"
+msgstr "Die Ordnung der Zeit"
 
 #. STRINGS.CODEX.CLEANER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER1"
@@ -24179,7 +24172,6 @@ msgid "Measuring Light"
 msgstr "Licht messen"
 
 #. STRINGS.CODEX.LIGHT.PARAGRAPH_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_1"
 msgid ""
 "Most of the asteroid is dark. Light sources such as the <link=\"CEILINGLIGHT"
@@ -24190,8 +24182,8 @@ msgid ""
 msgstr ""
 "Der größte Teil des Asteroiden ist dunkel. Lichtquellen wie das <link="
 "\"CEILINGLIGHT\">Deckenlicht</link> oder <link=\"LIGHTBUG\">Leuchtkäfer</link> "
-"können Duplikanten einen sehr geschätzten Schub für Moral und Produktivität "
-"geben. Viele Pflanzen sind auch lichtempfindlich.\n"
+"verbessern die Dekoration und steigern die Produktivität der Duplikanten. Viele "
+"Pflanzen sind auch empfindlich gegenüber der Lichtmenge, die sie erhalten.\n"
 "\n"
 
 #. STRINGS.CODEX.LIGHT.PARAGRAPH_2
@@ -24211,7 +24203,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.LIGHT.PARAGRAPH_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.LIGHT.PARAGRAPH_3"
 msgid ""
 "The amount of light on a cell is measured in Lux. Lux has a dramatic range - A "
@@ -24222,9 +24213,9 @@ msgid ""
 msgstr ""
 "Die Lichtmenge auf einer Zelle wird in Lux gemessen. Lux hat einen dramatischen "
 "Bereich - Ein einfaches <link=\"CEILINGLIGHT\">Deckenlicht</link> erzeugt 1800 "
-"Lux, während die Sonne regelmäßig Werte bis zu 80000 Lux produziert. Die vom "
-"<link=\"SOLARPANEL\">Solarmodul</link> erzeugte Leistung ist proportional zu "
-"der Lichtmenge, der es ausgesetzt ist.\n"
+"Lux, während die Sonne Werte von bis zu 80000 Lux erzeugen kann. Die vom <link="
+"\"SOLARPANEL\">Solarmodul</link> erzeugte Leistung ist proportional zu der "
+"Lichtmenge, der es ausgesetzt ist.\n"
 "\n"
 
 #. STRINGS.CODEX.LIGHT.TITLE
@@ -24732,10 +24723,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.TITLE"
 msgid "Cycle 10"
-msgstr "Zyklus 1"
+msgstr "Zyklus 10"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG4.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG4.BODY"
@@ -25074,10 +25064,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.OUTSIDESTARTINGDLC1.TITLE"
 msgid "Regional Analysis"
-msgstr "Geographische Analyse"
+msgstr "Regionale Analyse"
 
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY"
@@ -26297,7 +26286,6 @@ msgid "Battery capacity: <b>{0} J</b>"
 msgstr "Batteriekapazität: <b>{0} J</b>"
 
 #. STRINGS.CODEX.ROBOT_DESCRIPTORS.STORAGE.CAPACITY
-#, fuzzy
 msgctxt "STRINGS.CODEX.ROBOT_DESCRIPTORS.STORAGE.CAPACITY"
 msgid "Internal storage: <b>{0} kg</b>"
 msgstr "Internes Lager: <b>{0} kg</b>"
@@ -27294,7 +27282,6 @@ msgid "Oxygen Not Occluded"
 msgstr "Oxygen Nicht Verstopft"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION"
 msgid "Distribute 1000  kg of Oxygen using gas vents."
 msgstr "Verteile 1000 kg Sauerstoff mit Hilfe von Gasabzügen."
