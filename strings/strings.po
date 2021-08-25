@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-24 17:17+0200\n"
+"PO-Revision-Date: 2021-08-25 09:38+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -36656,6 +36656,11 @@ msgctxt ""
 msgid "Not preferred assignment"
 msgstr "Nicht die bevorzugte Zuordnung"
 
+#. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROCKET_TRAVELLING
+msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROCKET_TRAVELLING"
+msgid "Rocket must be travelling"
+msgstr "Rakete muss unterwegs sein"
+
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME"
 msgid "Not allowed by schedule"
@@ -65691,6 +65696,16 @@ msgctxt "STRINGS.UI.CLUSTERMAP.TITLE"
 msgid "STARMAP"
 msgstr "STERNENKARTE"
 
+#. STRINGS.UI.CLUSTERMAP.TOOLTIP_EMPTY_HEX
+msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_EMPTY_HEX"
+msgid "EMPTY SPACE"
+msgstr "LEERER RAUM"
+
+#. STRINGS.UI.CLUSTERMAP.TOOLTIP_HIDDEN_HEX
+msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_HIDDEN_HEX"
+msgid "???"
+msgstr "???"
+
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_FOG_OF_WAR
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_FOG_OF_WAR"
 msgid ""
@@ -65738,6 +65753,11 @@ msgstr ""
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID"
 msgid "Must select a Planetoid destination"
 msgstr "Muss ein Planetoid-Ziel auswählen"
+
+#. STRINGS.UI.CLUSTERMAP.TOOLTIP_PEEKED_HEX_WITH_OBJECT
+msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_PEEKED_HEX_WITH_OBJECT"
+msgid "UNKNOWN OBJECT DETECTED!"
+msgstr "UNBEKANNTES OBJEKT ENTDECKT!"
 
 #. STRINGS.UI.CLUSTERMAP.UNKNOWN_DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.UNKNOWN_DESTINATION"
@@ -79134,8 +79154,8 @@ msgctxt "STRINGS.UI.SPACEARTIFACTS.ARTIFACTTIERS.TIER5"
 msgid "Rarity 5"
 msgstr "Seltenheit 5"
 
-#. STRINGS.UI.SPACEARTIFACTS.BIOLUMROCK.ARTIFACT
-msgctxt "STRINGS.UI.SPACEARTIFACTS.BIOLUMROCK.ARTIFACT"
+#. STRINGS.UI.SPACEARTIFACTS.BIOLUMINESCENTROCK.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.BIOLUMINESCENTROCK.ARTIFACT"
 msgid ""
 "The microscopic organisms within this rock are of a unique variety whose "
 "genetic code shows many tell-tale signs of being genetically engineered within "
@@ -79151,8 +79171,8 @@ msgstr ""
 "Weitere Analysen zeigen, dass sie 99,999 % ihres genetischen Codes mit "
 "Leuchtkäfern teilen."
 
-#. STRINGS.UI.SPACEARTIFACTS.BIOLUMROCK.DESCRIPTION
-msgctxt "STRINGS.UI.SPACEARTIFACTS.BIOLUMROCK.DESCRIPTION"
+#. STRINGS.UI.SPACEARTIFACTS.BIOLUMINESCENTROCK.DESCRIPTION
+msgctxt "STRINGS.UI.SPACEARTIFACTS.BIOLUMINESCENTROCK.DESCRIPTION"
 msgid ""
 "A thriving colony of tiny, microscopic organisms is responsible for giving it "
 "its bluish glow."
@@ -79160,8 +79180,8 @@ msgstr ""
 "Eine blühende Kolonie winziger, mikroskopischer Organismen ist dafür "
 "verantwortlich, dass er bläulich leuchtet."
 
-#. STRINGS.UI.SPACEARTIFACTS.BIOLUMROCK.NAME
-msgctxt "STRINGS.UI.SPACEARTIFACTS.BIOLUMROCK.NAME"
+#. STRINGS.UI.SPACEARTIFACTS.BIOLUMINESCENTROCK.NAME
+msgctxt "STRINGS.UI.SPACEARTIFACTS.BIOLUMINESCENTROCK.NAME"
 msgid "Bioluminescent Rock"
 msgstr "Biolumineszierender Fels"
 
@@ -79266,8 +79286,8 @@ msgctxt "STRINGS.UI.SPACEARTIFACTS.EGGROCK.NAME"
 msgid "Egg-Shaped Rock"
 msgstr "Eiförmiger Fels"
 
-#. STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.ARTIFACT
-msgctxt "STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.ARTIFACT"
+#. STRINGS.UI.SPACEARTIFACTS.GRUBSTATUE.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.GRUBSTATUE.ARTIFACT"
 msgid ""
 "It's very likely this statue was placed in a hidden, secluded place in the "
 "Gravitas laboratory since the creation of Grubgrubs was a closely held secret "
@@ -79284,13 +79304,13 @@ msgstr ""
 "Das ist eine Schande, denn die künstlerische Qualität dieser Statue ist "
 "wirklich sehr gelungen."
 
-#. STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.DESCRIPTION
-msgctxt "STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.DESCRIPTION"
+#. STRINGS.UI.SPACEARTIFACTS.GRUBSTATUE.DESCRIPTION
+msgctxt "STRINGS.UI.SPACEARTIFACTS.GRUBSTATUE.DESCRIPTION"
 msgid "A moving tribute to a tiny plant hugger."
 msgstr "Eine rührende Hommage an einen kleinen Pflanzenliebhaber."
 
-#. STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.NAME
-msgctxt "STRINGS.UI.SPACEARTIFACTS.GRUB_STATUE.NAME"
+#. STRINGS.UI.SPACEARTIFACTS.GRUBSTATUE.NAME
+msgctxt "STRINGS.UI.SPACEARTIFACTS.GRUBSTATUE.NAME"
 msgid "Grubgrub Statue"
 msgstr "Grubgrub-Statue"
 
@@ -79319,8 +79339,8 @@ msgctxt "STRINGS.UI.SPACEARTIFACTS.HATCHFOSSIL.NAME"
 msgid "Pristine Fossil"
 msgstr "Unversehrtes Fossil"
 
-#. STRINGS.UI.SPACEARTIFACTS.HONEY_JAR.ARTIFACT
-msgctxt "STRINGS.UI.SPACEARTIFACTS.HONEY_JAR.ARTIFACT"
+#. STRINGS.UI.SPACEARTIFACTS.HONEYJAR.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.HONEYJAR.ARTIFACT"
 msgid ""
 "Records from the Genetics and Biology Lab of the Gravitas facility show that "
 "several early iterations of a radioactive Bee would continue to produce honey "
@@ -79342,13 +79362,13 @@ msgstr ""
 "\"süßeste Honig war, den sie je gekostet hatten\" und bedauerten die "
 "Verwechslung nicht."
 
-#. STRINGS.UI.SPACEARTIFACTS.HONEY_JAR.DESCRIPTION
-msgctxt "STRINGS.UI.SPACEARTIFACTS.HONEY_JAR.DESCRIPTION"
+#. STRINGS.UI.SPACEARTIFACTS.HONEYJAR.DESCRIPTION
+msgctxt "STRINGS.UI.SPACEARTIFACTS.HONEYJAR.DESCRIPTION"
 msgid "Sweet golden liquid with just a touch of uranium."
 msgstr "Süße goldene Flüssigkeit mit einem Hauch von Uran."
 
-#. STRINGS.UI.SPACEARTIFACTS.HONEY_JAR.NAME
-msgctxt "STRINGS.UI.SPACEARTIFACTS.HONEY_JAR.NAME"
+#. STRINGS.UI.SPACEARTIFACTS.HONEYJAR.NAME
+msgctxt "STRINGS.UI.SPACEARTIFACTS.HONEYJAR.NAME"
 msgid "Honey Jar"
 msgstr "Honigglas"
 
@@ -79428,8 +79448,8 @@ msgctxt "STRINGS.UI.SPACEARTIFACTS.MOLDAVITE.NAME"
 msgid "Moldavite"
 msgstr "Moldavit"
 
-#. STRINGS.UI.SPACEARTIFACTS.MOOD_RING.ARTIFACT
-msgctxt "STRINGS.UI.SPACEARTIFACTS.MOOD_RING.ARTIFACT"
+#. STRINGS.UI.SPACEARTIFACTS.MOODRING.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.MOODRING.ARTIFACT"
 msgid ""
 "A wholly unique ring not found anywhere outside of the Gravitas Laboratory.\n"
 "\n"
@@ -79445,13 +79465,13 @@ msgstr ""
 "Travaldo Jones für seine Doktorarbeit eine Abhandlung mit dem Titel \"Neuartige "
 "Verwendungen für radiochromatische Farbstoffe\" verfasst hat."
 
-#. STRINGS.UI.SPACEARTIFACTS.MOOD_RING.DESCRIPTION
-msgctxt "STRINGS.UI.SPACEARTIFACTS.MOOD_RING.DESCRIPTION"
+#. STRINGS.UI.SPACEARTIFACTS.MOODRING.DESCRIPTION
+msgctxt "STRINGS.UI.SPACEARTIFACTS.MOODRING.DESCRIPTION"
 msgid "How radioactive are you feeling?"
 msgstr "Wie radioaktiv fühlst du dich?"
 
-#. STRINGS.UI.SPACEARTIFACTS.MOOD_RING.NAME
-msgctxt "STRINGS.UI.SPACEARTIFACTS.MOOD_RING.NAME"
+#. STRINGS.UI.SPACEARTIFACTS.MOODRING.NAME
+msgctxt "STRINGS.UI.SPACEARTIFACTS.MOODRING.NAME"
 msgid "Radiation Mood Ring"
 msgstr "Strahlungsstimmungsring"
 
@@ -79588,8 +79608,8 @@ msgctxt "STRINGS.UI.SPACEARTIFACTS.ORACLE.NAME"
 msgid "Useless Machine"
 msgstr "Nutzlose Maschine"
 
-#. STRINGS.UI.SPACEARTIFACTS.PERCOLATOR.ARTIFACT
-msgctxt "STRINGS.UI.SPACEARTIFACTS.PERCOLATOR.ARTIFACT"
+#. STRINGS.UI.SPACEARTIFACTS.PACUPERCOLATOR.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.PACUPERCOLATOR.ARTIFACT"
 msgid ""
 "A coffee percolator with the reminants of a blend of coffee that was a personal "
 "favorite of Dr. Hassan Aydem.\n"
@@ -79603,13 +79623,13 @@ msgstr ""
 "Er konsumierte diese besondere Mischung nur, wenn er am Sonntagnachmittag "
 "Forschungsarbeiten durchging."
 
-#. STRINGS.UI.SPACEARTIFACTS.PERCOLATOR.DESCRIPTION
-msgctxt "STRINGS.UI.SPACEARTIFACTS.PERCOLATOR.DESCRIPTION"
+#. STRINGS.UI.SPACEARTIFACTS.PACUPERCOLATOR.DESCRIPTION
+msgctxt "STRINGS.UI.SPACEARTIFACTS.PACUPERCOLATOR.DESCRIPTION"
 msgid "Don't drink from it! There was a pacu... IN the percolator!"
 msgstr "Trink nicht davon! Da war ein Pacu...... IN der Kaffeemaschine!"
 
-#. STRINGS.UI.SPACEARTIFACTS.PERCOLATOR.NAME
-msgctxt "STRINGS.UI.SPACEARTIFACTS.PERCOLATOR.NAME"
+#. STRINGS.UI.SPACEARTIFACTS.PACUPERCOLATOR.NAME
+msgctxt "STRINGS.UI.SPACEARTIFACTS.PACUPERCOLATOR.NAME"
 msgid "Percolator"
 msgstr "Kaffeemaschine"
 
@@ -79670,8 +79690,8 @@ msgctxt "STRINGS.UI.SPACEARTIFACTS.RAINBOWEGGROCK.NAME"
 msgid "Egg-Shaped Rock"
 msgstr "Eiförmiger Fels"
 
-#. STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.ARTIFACT
-msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.ARTIFACT"
+#. STRINGS.UI.SPACEARTIFACTS.REACTORMODEL.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTORMODEL.ARTIFACT"
 msgid ""
 "Though this Nuclear Power Plant was never built, this model exists as an "
 "artifact to a time early in the life of Gravitas when it was researching all "
@@ -79687,13 +79707,13 @@ msgstr ""
 "Letztendlich wurde die Idee, ein Kernkraftwerk zu bauen, zugunsten der \"viel "
 "sichereren\" Alternative der Entwicklung des Temporalbogens aufgegeben."
 
-#. STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.DESCRIPTION
-msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.DESCRIPTION"
+#. STRINGS.UI.SPACEARTIFACTS.REACTORMODEL.DESCRIPTION
+msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTORMODEL.DESCRIPTION"
 msgid "It's pronounced nu-clear."
 msgstr "Es wird nuklear ausgesprochen."
 
-#. STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.NAME
-msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTOR_MODEL.NAME"
+#. STRINGS.UI.SPACEARTIFACTS.REACTORMODEL.NAME
+msgctxt "STRINGS.UI.SPACEARTIFACTS.REACTORMODEL.NAME"
 msgid "Model Nuclear Power Plant"
 msgstr "Modell-Kernkraftwerk"
 
