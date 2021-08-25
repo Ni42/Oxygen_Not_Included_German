@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-25 09:38+0200\n"
+"PO-Revision-Date: 2021-08-25 14:56+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -5250,7 +5250,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME"
 msgid "<link=\"BATTERYMEDIUM\">Jumbo Battery</link>"
-msgstr "<link=\"BATTERYMEDIUM\">große Batterie</link>"
+msgstr "<link=\"BATTERYMEDIUM\">Große Batterie</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.DESC"
@@ -13474,7 +13474,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.NAME"
 msgid "<link=\"POWERTRANSFORMER\">Large Power Transformer</link>"
-msgstr "<link=\"POWERTRANSFORMER\">großer Transformator</link>"
+msgstr "<link=\"POWERTRANSFORMER\">Großer Transformator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMERSMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMERSMALL.DESC"
@@ -13505,7 +13505,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMERSMALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMERSMALL.NAME"
 msgid "<link=\"POWERTRANSFORMERSMALL\">Power Transformer</link>"
-msgstr "<link=\"POWERTRANSFORMERSMALL\">kleiner Transformator</link>"
+msgstr "<link=\"POWERTRANSFORMERSMALL\">Kleiner Transformator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
@@ -15683,7 +15683,7 @@ msgstr "Zähler zurücksetzen"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME"
 msgid "<link=\"SOLIDLIMITVALVE\">Conveyor Meter</link>"
-msgstr "<link=\"SOLIDLIMITVALVE\">Förderschie­nenzählersperre</link>"
+msgstr "<link=\"SOLIDLIMITVALVE\">Förder­schienen­zähler­sperre</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE"
@@ -16680,7 +16680,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.NAME"
 msgid "<link=\"TRAVELTUBE\">Transit Tube</link>"
-msgstr "<link=\"TRAVELTUBE\">Transportrohr</link>"
+msgstr "<link=\"TRAVELTUBE\">Transitrohr</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.DESC"
@@ -60585,7 +60585,7 @@ msgid ""
 "\">Light</link> with a high Lux value."
 msgstr ""
 "Verbesserst die <link=\"MORALE\">Moral</link>, durch Faulenzen in hellem <link="
-"\"LIGHT\">Light</link>."
+"\"LIGHT\">Licht</link>."
 
 #. STRINGS.RESEARCH.TECHS.ENVIRONMENTALAPPRECIATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ENVIRONMENTALAPPRECIATION.NAME"
@@ -61373,7 +61373,7 @@ msgstr "<link=\"SPACECOMBUSTION\">Fortschrittliche Verbrennung</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEGAS.DESC"
 msgid ""
 "<link=\"ELEMENTSGASSES\">Gas</link> engines and transportation for rockets."
-msgstr "<link=\"ELEMENTSGASSES\">Gas</link>motoren und Transport für Raketen."
+msgstr "<link=\"ELEMENTSGASSES\">Gas</link>triebwerke und Transport für Raketen."
 
 #. STRINGS.RESEARCH.TECHS.SPACEGAS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SPACEGAS.NAME"
@@ -76476,7 +76476,7 @@ msgstr "Strahlungs-Overlay"
 #. STRINGS.UI.OVERLAYS.RADIATION.DESC
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.DESC"
 msgid "{rads} per cycle ({description})"
-msgstr "{rad} pro Zyklus ({description})"
+msgstr "{rads} pro Zyklus ({description})"
 
 #. STRINGS.UI.OVERLAYS.RADIATION.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.HOVERTITLE"
@@ -81719,7 +81719,7 @@ msgstr "Installiert"
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED_TOOLTIP
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSTALLED_TOOLTIP"
 msgid "A suitable {0} has been installed"
-msgstr "Ein geeignetes {0} ist eingebaut worden"
+msgstr "Ein geeigneter {0} ist eingebaut worden"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSUFFICENT_MASS_TOOLTIP
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INSUFFICENT_MASS_TOOLTIP"
