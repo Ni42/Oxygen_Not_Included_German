@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-25 14:56+0200\n"
+"PO-Revision-Date: 2021-08-26 21:30+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -14611,6 +14611,15 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.DESC"
 msgid "A direct attachment to the output port on the exterior of the rocket."
 msgstr "Ein direkter Anschluss an den Ausgang an der Außenseite der Rakete."
 
+#. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.EFFECT"
+msgid ""
+"Allows a direct conduit connection out of the habitat module of the rocket.\n"
+"Can be used to vent Gasses to space during flight."
+msgstr ""
+"Ermöglicht eine direkte Leitungsverbindung aus dem Habitatmodul der Rakete.\n"
+"Kann verwendet werden, um Gase während des Fluges in den Weltraum abzulassen."
+
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORGASINPUTPORT\">Gas Input Port</link>"
@@ -14648,6 +14657,12 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.DESC"
 msgid "A direct attachment to the input port on the exterior of the rocket."
 msgstr "Ein direkter Anschluss an den Eingang an der Außenseite der Rakete."
 
+#. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.EFFECT"
+msgid "Allows a direct conduit connection into the habitat module of the rocket."
+msgstr ""
+"Ermöglicht eine direkte Leitungsverbindung in das Habitatmodul der Rakete."
+
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORGASOUTPUTPORT\">Gas Output Port</link>"
@@ -14684,6 +14699,16 @@ msgstr "<link=\"LIQUIDPIPING\">Flüssigkeits-Eingangsamatur</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.DESC"
 msgid "A direct attachment to the output port on the exterior of the rocket."
 msgstr "Ein direkter Anschluss an den Ausgang an der Außenseite der Rakete."
+
+#. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.EFFECT"
+msgid ""
+"Allows a direct conduit connection out of the habitat module of the rocket.\n"
+"Can be used to vent Liquids to space during flight."
+msgstr ""
+"Ermöglicht eine direkte Leitungsverbindung aus dem Habitatmodul der Rakete.\n"
+"Kann verwendet werden, um Flüssigkeiten während des Fluges in den Weltraum "
+"abzulassen."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.NAME"
@@ -14723,6 +14748,12 @@ msgstr "<link=\"LIQUIDPIPING\">Flüssigkeits-Ausgangsamatur</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.DESC"
 msgid "A direct attachment to the input port on the exterior of the rocket."
 msgstr "Ein direkter Anschluss an den Eingang an der Außenseite der Rakete."
+
+#. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.EFFECT"
+msgid "Allows a direct conduit connection into the habitat module of the rocket."
+msgstr ""
+"Ermöglicht eine direkte Leitungsverbindung in das Habitatmodul der Rakete."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME"
