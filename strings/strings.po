@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-04 11:27+0200\n"
+"PO-Revision-Date: 2021-09-05 17:31+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -272,13 +272,15 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME"
 msgid "Broadcaster Out of Range"
-msgstr ""
+msgstr "Sender außerhalb der Reichweite"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.TOOLTIP"
 msgid ""
 "This receiver is too far from the selected broadcaster to get signal updates"
 msgstr ""
+"Dieser Empfänger ist zu weit vom ausgewählten Sender entfernt, um "
+"Signalaktualisierungen zu erhalten"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME"
@@ -10928,7 +10930,7 @@ msgstr "<link=\"LOGICINTERASTEROIDRECEIVER\">Automatisierungsempfänger</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DEFAULTNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DEFAULTNAME"
 msgid "Unnamed Broadcaster"
-msgstr ""
+msgstr "Unbenannter Sender"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC"
@@ -51680,7 +51682,7 @@ msgstr "Kamera-Umschalter sperren"
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAUNPAUSEONMOVE
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAUNPAUSEONMOVE"
 msgid "Cinema Unpause On Move"
-msgstr ""
+msgstr "Kamera bei Bewegung nicht unterbrechen"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMIN
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAZOOMIN"
@@ -65945,6 +65947,7 @@ msgstr ""
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_OUT_OF_RANGE"
 msgid "This hex is further away than the rocket's maximum range of {0}."
 msgstr ""
+"Dieses Feld ist weiter entfernt als die maximale Raketenreichweite von {0}."
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID"
@@ -65959,7 +65962,7 @@ msgstr "Flugstrecke: {0}/{1}"
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_PATH_LENGTH_RETURN
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_PATH_LENGTH_RETURN"
 msgid "Trip Distance: {0}/{1} (Return Trip)"
-msgstr ""
+msgstr "Flugstrecke: {0}/{1} (Rückflug)"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_PEEKED_HEX_WITH_OBJECT
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_PEEKED_HEX_WITH_OBJECT"
