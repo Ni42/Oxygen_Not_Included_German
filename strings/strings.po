@@ -8366,6 +8366,25 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.NAME"
 msgid "<link=\"HEATCOMPRESSOR\">Liquid Heatquilizer</link>"
 msgstr "<link=\"HEATCOMPRESSOR\">Flüssigkeits­wärmer</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.DESC"
+msgid "Allows Radbolts to pass through walls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.EFFECT"
+msgid ""
+"Receives <link=\"HEP\">Radbolts</link> from <link=\"HIGHENERGYPARTICLESPAWNER"
+"\">Radbolt Generators</link> and directs them through walls. All other "
+"materials and elements will be blocked from passage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.NAME"
+msgid "<link=\"HEPBRIDGETILE\">Radbolt Joint Plate</link>"
+msgstr "<link=\"HEPENGINE\">Teilchenblitz-Triebwerk</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.DESC"
 msgid "Radbolt-fueled rockets support few modules, but travel exceptionally far."
@@ -72393,8 +72412,8 @@ msgstr "STEAM WORKSHOP"
 
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
-msgid "ROCKETRY RENOVATION"
-msgstr "RAKETENRENOVIERUNG"
+msgid "COSMIC CALLING"
+msgstr ""
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -72411,18 +72430,19 @@ msgid "JOIN THE DISCUSSION"
 msgstr "DISKUTIERE MIT"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
+#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid ""
-"Welcome to the <b>ROCKETRY RENOVATION UPDATE</b>\n"
+"Welcome to the <b>COSMIC CALLING UPDATE</b>\n"
 "\n"
 "<b><i>Spaced Out!</i></b>\n"
-"•<indent=20px>Duplicants can escape stranded rockets in an escape pod via the "
-"\"Abandon Ship\" button.</indent>\n"
-"•<indent=20px>Added liquid and gas ports to Spacefarer Modules to allow for "
-"easier fluid supplying and venting.</indent>\n"
-"•<indent=20px>New buildings, including a Wall Toilet that vents waste directly "
-"into the world behind it.</indent>\n"
-"•<indent=20px>Bug fixes and QOL improvements.</indent>\n"
+"•<indent=20px>New buildings allow automation signals to be broadcast between "
+"asteroids.</indent>\n"
+"•<indent=20px>Duplicants can boost their morale by having a chat on the new "
+"Party Line Phone.</indent>\n"
+"•<indent=20px>Radbolts can pass through a new special type of wall tile.</"
+"indent>\n"
+"•<indent=20px>Rocket engine speeds and ranges have been rebalanced.</indent>\n"
 "\n"
 "   Check out the full patch notes for more details!"
 msgstr ""
