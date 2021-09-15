@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-15 18:50+0200\n"
+"PO-Revision-Date: 2021-09-15 20:28+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -10932,7 +10932,7 @@ msgstr "<link=\"LOGICHAMMER\">Hammer</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.DESC"
 msgid "Receives automation signals from space."
-msgstr ""
+msgstr "Empfängt Automatisierungssignale aus dem Weltraum."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT"
@@ -16575,7 +16575,7 @@ msgstr "Einschalten {Hotkey}"
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.DESC"
 msgid "You never know who you'll meet on the other line."
-msgstr ""
+msgstr "Man weiß nie, wen man am anderen Ende der Leitung trifft."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT"
@@ -41269,7 +41269,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.NAME"
 msgid "Full of Gossip"
-msgstr ""
+msgstr "Voller Klatsch und Tratsch"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.TOOLTIP"
@@ -87239,7 +87239,7 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT."
 "FAILED_NO_ENGINE"
 msgid "    • Rocket requires space for an engine"
-msgstr ""
+msgstr "    • Rakete braucht Platz für eine Triebwerk"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE
 msgctxt ""
