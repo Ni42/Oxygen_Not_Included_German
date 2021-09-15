@@ -8186,11 +8186,6 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC"
 msgid "An office door to an office that no longer exists."
 msgstr "Eine Bürotür zu einem Büro, das nicht mehr existiert."
 
-#. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT
-msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT"
-msgid ""
-msgstr ""
-
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.NAME"
 msgid "Gravitas Door"
@@ -10936,13 +10931,40 @@ msgstr "<link=\"LOGICHAMMER\">Hammer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.DESC"
-msgid ""
-msgstr ""
+msgid "Receives automation signals from space."
+msgstr "Empfängt Automatisierungssignale aus dem Weltraum."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT"
 msgid ""
+"Receives a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style="
+"\"logic_off\">Red Signal</style></b> from an <link=\"LOGICINTERASTEROIDSENDER"
+"\">Automation Broadcaster</link> over vast distances in space.\n"
+"\n"
+"Both the Automation Receiver and the Automation Broadcaster must be exposed to "
+"space to function."
 msgstr ""
+"Empfängt ein <b><style=\"logic_on\">Grünes Signal</style></b> oder ein "
+"<b><style=\"logic_off\">Rotes Signal</style></b> von einem "
+"Automatisierungssender über große Entfernungen im Weltraum.\n"
+"\n"
+"Sowohl der Automatisierungsempfänger als auch der Automatisierungssender müssen "
+"dem Weltraum ausgesetzt sein, um zu funktionieren."
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT"
+msgid "Receiving Signal"
+msgstr "Empfängt Signal"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_ACTIVE"
+msgid "Receiving: <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr "Empfängt: <b><style=\"logic_on\">Grünes Signal</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_INACTIVE"
+msgid "Receiving: <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr "Empfängt: <b><style=\"logic_off\">Rotes Signal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.NAME"
@@ -10956,28 +10978,40 @@ msgstr "Unbenannter Sender"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC"
-msgid ""
-msgstr ""
+msgid "Sends automation signals into space."
+msgstr "Sendet Automatisierungssignale in den Weltraum."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT"
 msgid ""
+"Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style="
+"\"logic_off\">Red Signal</style></b> to an <link=\"LOGICINTERASTEROIDRECEIVER"
+"\">Automation Receiver</link> over vast distances in space.\n"
+"\n"
+"Both the Automation Broadcaster and the Automation Receiver must be exposed to "
+"space to function."
 msgstr ""
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> oder ein <b><style="
+"\"logic_off\">Rotes Signal</style></b> an einen Automatisierungsempfänger über "
+"große Entfernungen im Weltraum.\n"
+"\n"
+"Sowohl der Automatisierungssender als auch der Automatisierungsempfänger müssen "
+"dem Weltraum ausgesetzt sein, um zu funktionieren."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT"
-msgid "Broadcast Green Signal"
-msgstr "Grünes Signal ausstrahlen"
+msgid "Broadcasting Signal"
+msgstr "Signal ausstrahlen"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_ACTIVE"
-msgid ""
-msgstr ""
+msgid "Broadcasting: <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr "Sendet: <b><style=\"logic_on\">Grünes Signal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_INACTIVE"
-msgid ""
-msgstr ""
+msgid "Broadcasting: <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr "Sendet: <b><style=\"logic_off\">Rotes Signal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.NAME"
@@ -14043,11 +14077,6 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC"
 msgid "A regular wall that once existed in a working lab."
 msgstr "Eine normale Wand, die einmal in einem Arbeitslabor stand."
 
-#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT
-msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT"
-msgid ""
-msgstr ""
-
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.NAME"
 msgid "Lab Wall"
@@ -14057,11 +14086,6 @@ msgstr "Laborwand"
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC"
 msgid "A lab window. Formerly a portal to the outside world."
 msgstr "Ein Laborfenster. Ehemals ein Portal zur Außenwelt."
-
-#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT
-msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT"
-msgid ""
-msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.NAME"
@@ -14079,11 +14103,6 @@ msgstr ""
 "\n"
 "Da hat mal jemand rausgestarrt und über die Ergebnisse eines Experiments "
 "nachgedacht."
-
-#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.EFFECT
-msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.EFFECT"
-msgid ""
-msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.NAME"
@@ -14119,11 +14138,6 @@ msgstr "Regal"
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC"
 msgid "The granite wall of a once great scientific facility."
 msgstr "Die Granitwand einer einst großen wissenschaftlichen Einrichtung."
-
-#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT
-msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT"
-msgid ""
-msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME"
@@ -16557,6 +16571,29 @@ msgstr "Einschalten"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_ON_TOOLTIP"
 msgid "Turn On {Hotkey}"
 msgstr "Einschalten {Hotkey}"
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.DESC"
+msgid "You never know who you'll meet on the other line."
+msgstr "Man weiß nie, wen man am anderen Ende der Leitung trifft."
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT"
+msgid ""
+"Provides a way for Duplicants to chat with their friends in different "
+"locations.\n"
+"\n"
+"Chatting increases Duplicant <link=\"MORALE\">Morale</link>."
+msgstr ""
+"Bietet eine Möglichkeit für Duplikanten, mit ihren Freunden an anderen Orten zu "
+"plaudern.\n"
+"\n"
+"Plaudern erhöht die <link=\"MORALE\">Moral</link> der Duplikanten."
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME"
+msgid "<link=\"TELEPHONE\">Party Line Phone</link>"
+msgstr "<link=\"TELEPHONE\">Gemeinschaftstelefon</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.DESC"
@@ -41212,6 +41249,40 @@ msgid ""
 msgstr ""
 "Das helle natürliche <style=\"KKeyword\">Licht</style> bewirkt dass dieser "
 "Duplikant sich ganz leicht fühlt"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.NAME"
+msgid "Less Anxious"
+msgstr "Weniger besorgt"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.TOOLTIP"
+msgid ""
+"This Duplicant got some things off their chest by talking to themselves on the "
+"phone\n"
+"\n"
+"Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
+msgstr ""
+"Dieser Duplikant hat sich einiges von der Seele geredet, indem er mit sich "
+"selbst am Telefon sprach\n"
+"\n"
+"Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.NAME"
+msgid "Full of Gossip"
+msgstr "Voller Klatsch und Tratsch"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.TOOLTIP"
+msgid ""
+"This Duplicant chatted on the phone with at least one other Duplicant\n"
+"\n"
+"Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
+msgstr ""
+"Dieser Duplikant hat mit mindestens einem anderen Duplikanten telefoniert\n"
+"\n"
+"Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME"
@@ -65969,9 +66040,9 @@ msgstr ""
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_OUT_OF_RANGE
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_OUT_OF_RANGE"
-msgid "This hex is further away than the rocket's maximum range of {0}."
+msgid "This destination is further away than the rocket's maximum range of {0}."
 msgstr ""
-"Dieses Feld ist weiter entfernt als die maximale Raketenreichweite von {0}."
+"Dieses Ziel ist weiter entfernt als die maximale Raketenreichweite von {0}."
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID"
@@ -85994,12 +86065,12 @@ msgstr "Kanalauswahl"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.IN_RANGE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.IN_RANGE"
-msgid "Range OK"
-msgstr "Reichweite ok"
+msgid "In Range"
+msgstr "In Reichweite"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.OUT_OF_RANGE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.OUT_OF_RANGE"
-msgid "Out of range"
+msgid "Out of Range"
 msgstr "Außerhalb der Reichweite"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.TITLE
@@ -87164,6 +87235,13 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED"
 msgid "    • Engine's height limit reached or exceeded"
 msgstr "    • Höhenlimit des Triebwerks erreicht oder überschritten"
+
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED_NO_ENGINE
+msgctxt ""
+"STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT."
+"FAILED_NO_ENGINE"
+msgid "    • Rocket requires space for an engine"
+msgstr "    • Rakete braucht Platz für eine Triebwerk"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE
 msgctxt ""
