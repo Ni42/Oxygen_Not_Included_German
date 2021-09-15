@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-13 17:56+0200\n"
+"PO-Revision-Date: 2021-09-15 18:50+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -10935,7 +10935,6 @@ msgid "Receives automation signals from space."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT"
 msgid ""
 "Receives a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style="
@@ -10945,30 +10944,27 @@ msgid ""
 "Both the Automation Receiver and the Automation Broadcaster must be exposed to "
 "space to function."
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> oder ein <b><style="
-"\"logic_off\">Rotes Signal</style></b> an ein <link=\"LOGIC"
-"\">Automatisierungsband</link>.\n"
+"Empfängt ein <b><style=\"logic_on\">Grünes Signal</style></b> oder ein "
+"<b><style=\"logic_off\">Rotes Signal</style></b> von einem "
+"Automatisierungssender über große Entfernungen im Weltraum.\n"
 "\n"
-"Ein<link=\"LOGICRIBBON\">Automatisierungsband</link> muss als Ausgangskabel "
-"verwendet werden, um eine Überlastung zu vermeiden."
+"Sowohl der Automatisierungsempfänger als auch der Automatisierungssender müssen "
+"dem Weltraum ausgesetzt sein, um zu funktionieren."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT"
 msgid "Receiving Signal"
-msgstr "Grünes Signal"
+msgstr "Empfängt Signal"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_ACTIVE"
 msgid "Receiving: <b><style=\"logic_on\">Green Signal</style></b>"
-msgstr "Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>"
+msgstr "Empfängt: <b><style=\"logic_on\">Grünes Signal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT_INACTIVE"
 msgid "Receiving: <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr "Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>"
+msgstr "Empfängt: <b><style=\"logic_off\">Rotes Signal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.NAME"
@@ -10981,14 +10977,11 @@ msgid "Unnamed Broadcaster"
 msgstr "Unbenannter Sender"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC"
 msgid "Sends automation signals into space."
-msgstr ""
-"Sendet Automatisierungssignal, wenn das ausgewählte Objekt detektiert wird"
+msgstr "Sendet Automatisierungssignale in den Weltraum."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT"
 msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style="
@@ -10998,27 +10991,27 @@ msgid ""
 "Both the Automation Broadcaster and the Automation Receiver must be exposed to "
 "space to function."
 msgstr ""
-"Sendet ein <b><style=\"logic_on\">grünes Signal</style></b> oder ein <b><style="
-"\"logic_off\">rotes Signal</style></b> an ein <link=\"LOGIC"
-"\">Automatisierungsnetz</link>."
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> oder ein <b><style="
+"\"logic_off\">Rotes Signal</style></b> an einen Automatisierungsempfänger über "
+"große Entfernungen im Weltraum.\n"
+"\n"
+"Sowohl der Automatisierungssender als auch der Automatisierungsempfänger müssen "
+"dem Weltraum ausgesetzt sein, um zu funktionieren."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT"
 msgid "Broadcasting Signal"
-msgstr "Grünes Signal ausstrahlen"
+msgstr "Signal ausstrahlen"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_ACTIVE"
 msgid "Broadcasting: <b><style=\"logic_on\">Green Signal</style></b>"
-msgstr "Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b>"
+msgstr "Sendet: <b><style=\"logic_on\">Grünes Signal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT_INACTIVE"
 msgid "Broadcasting: <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr "Sendet ein <b><style=\"logic_off\">Rotes Signal</style></b>"
+msgstr "Sendet: <b><style=\"logic_off\">Rotes Signal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.NAME"
@@ -16585,7 +16578,6 @@ msgid "You never know who you'll meet on the other line."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT"
 msgid ""
 "Provides a way for Duplicants to chat with their friends in different "
@@ -16593,15 +16585,15 @@ msgid ""
 "\n"
 "Chatting increases Duplicant <link=\"MORALE\">Morale</link>."
 msgstr ""
-"Bietet Erfrischung für Duplikanten in ihren Pausen.\n"
+"Bietet eine Möglichkeit für Duplikanten, mit ihren Freunden an anderen Orten zu "
+"plaudern.\n"
 "\n"
-"Erhöht die <link=\"MORALE\">Moral</link> der Duplikanten."
+"Plaudern erhöht die <link=\"MORALE\">Moral</link> der Duplikanten."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME"
 msgid "<link=\"TELEPHONE\">Party Line Phone</link>"
-msgstr "<link=\"PROPANE\">Propan</link>"
+msgstr "<link=\"TELEPHONE\">Gemeinschaftstelefon</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.DESC"
@@ -41257,13 +41249,11 @@ msgstr ""
 "Duplikant sich ganz leicht fühlt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.NAME"
 msgid "Less Anxious"
-msgstr "Ängstlich"
+msgstr "Weniger besorgt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONEBABBLE.TOOLTIP"
 msgid ""
 "This Duplicant got some things off their chest by talking to themselves on the "
@@ -41271,7 +41261,8 @@ msgid ""
 "\n"
 "Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
 msgstr ""
-"Dieser Duplikant hatte gerade eine entspannende Zeit in der Sauna\n"
+"Dieser Duplikant hat sich einiges von der Seele geredet, indem er mit sich "
+"selbst am Telefon sprach\n"
 "\n"
 "Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
 
@@ -41281,14 +41272,13 @@ msgid "Full of Gossip"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.TOOLTIP"
 msgid ""
 "This Duplicant chatted on the phone with at least one other Duplicant\n"
 "\n"
 "Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
 msgstr ""
-"Dieser Duplikant konnte so richtig abtanzen!\n"
+"Dieser Duplikant hat mit mindestens einem anderen Duplikanten telefoniert\n"
 "\n"
 "Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
 
@@ -66047,11 +66037,10 @@ msgstr ""
 "freizumachen"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_OUT_OF_RANGE
-#, fuzzy
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_OUT_OF_RANGE"
 msgid "This destination is further away than the rocket's maximum range of {0}."
 msgstr ""
-"Dieses Feld ist weiter entfernt als die maximale Raketenreichweite von {0}."
+"Dieses Ziel ist weiter entfernt als die maximale Raketenreichweite von {0}."
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID"
@@ -86073,13 +86062,11 @@ msgid "Channel Selector"
 msgstr "Kanalauswahl"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.IN_RANGE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.IN_RANGE"
 msgid "In Range"
-msgstr "Reichweite"
+msgstr "In Reichweite"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.OUT_OF_RANGE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.OUT_OF_RANGE"
 msgid "Out of Range"
 msgstr "Außerhalb der Reichweite"
