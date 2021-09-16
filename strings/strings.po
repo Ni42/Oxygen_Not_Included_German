@@ -16590,6 +16590,51 @@ msgstr ""
 "\n"
 "Plaudern erhöht die <link=\"MORALE\">Moral</link> der Duplikanten."
 
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE"
+msgid "{attrib}: {amount} (No One)"
+msgstr "{attrib}: {amount} (Schwaches Licht)"
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE_TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE_TOOLTIP"
+msgid "Duplicants will gain {amount} {attrib} if they chat to no one."
+msgstr ""
+"Duplikanten erhalten {amount} {attrib}, wenn dieses Gebäude mindestens {lux} "
+"Licht hat."
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT"
+msgid "{attrib}: {amount} (At least one duplicant)"
+msgstr "{attrib}: {amount} (Helles Licht)"
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP"
+msgid ""
+"Duplicants will gain {amount} {attrib} if they chat to at least one other "
+"duplicant."
+msgstr ""
+"Duplikanten erhalten {amount} {attrib}, wenn dieses Gebäude mindestens {lux} "
+"Licht hat."
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE"
+msgid "{attrib}: {amount} (At least one duplicant across space)"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP"
+msgid ""
+"Duplicants will gain {amount} {attrib} if they chat to at least one other "
+"duplicant across space."
+msgstr ""
+"Duplikanten erhalten {amount} {attrib}, wenn dieses Gebäude mindestens {lux} "
+"Licht hat."
+
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME"
 msgid "<link=\"TELEPHONE\">Party Line Phone</link>"
@@ -29643,10 +29688,11 @@ msgid "<link=\"DRECKO\">Drecklet</link>"
 msgstr "<link=\"DRECKO\">Drecklet</link>"
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.DESC
+#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.DESC"
 msgid ""
 "Dreckos are nonhostile critters that graze on <link=\"SPICEVINE\">Pincha "
-"Pepper</link>, <link=\"SWAMPLILY\">Balm Lily</link> or <link="
+"Pepperplants</link>, <link=\"SWAMPLILY\">Balm Lily</link> or <link="
 "\"BASICSINGLEHARVESTPLANT\">Mealwood Plants</link>.\n"
 "\n"
 "Their backsides are covered in thick woolly fibers that only grow in <link="
@@ -41277,6 +41323,25 @@ msgstr "Voller Klatsch und Tratsch"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONECHAT.TOOLTIP"
 msgid ""
 "This Duplicant chatted on the phone with at least one other Duplicant\n"
+"\n"
+"Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
+msgstr ""
+"Dieser Duplikant hat mit mindestens einem anderen Duplikanten telefoniert\n"
+"\n"
+"Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.NAME"
+msgid "Long Distance"
+msgstr "Entfernung"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP"
+msgid ""
+"This Duplicant chatted on the phone with at least one other Duplicant across "
+"space\n"
 "\n"
 "Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
 msgstr ""
