@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-15 20:53+0200\n"
+"PO-Revision-Date: 2021-09-16 20:14+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -16591,34 +16591,28 @@ msgstr ""
 "Plaudern erhöht die <link=\"MORALE\">Moral</link> der Duplikanten."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE"
 msgid "{attrib}: {amount} (No One)"
-msgstr "{attrib}: {amount} (Schwaches Licht)"
+msgstr "{attrib}: {amount} (Niemand)"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE_TOOLTIP"
 msgid "Duplicants will gain {amount} {attrib} if they chat to no one."
-msgstr ""
-"Duplikanten erhalten {amount} {attrib}, wenn dieses Gebäude mindestens {lux} "
-"Licht hat."
+msgstr "Duplikanten erhalten {amount} {attrib}, wenn sie mit niemandem plaudern."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT"
 msgid "{attrib}: {amount} (At least one duplicant)"
-msgstr "{attrib}: {amount} (Helles Licht)"
+msgstr "{attrib}: {amount} (Mindestens ein Duplikant)"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP"
 msgid ""
 "Duplicants will gain {amount} {attrib} if they chat to at least one other "
 "duplicant."
 msgstr ""
-"Duplikanten erhalten {amount} {attrib}, wenn dieses Gebäude mindestens {lux} "
-"Licht hat."
+"Duplikanten erhalten {amount} {attrib}, wenn sie mit mindestens einem anderen "
+"Duplikanten plaudern."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE"
@@ -16626,14 +16620,13 @@ msgid "{attrib}: {amount} (At least one duplicant across space)"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP"
 msgid ""
 "Duplicants will gain {amount} {attrib} if they chat to at least one other "
 "duplicant across space."
 msgstr ""
-"Duplikanten erhalten {amount} {attrib}, wenn dieses Gebäude mindestens {lux} "
-"Licht hat."
+"Duplikanten erhalten {amount} {attrib}, wenn sie mit mindestens einem anderen "
+"Duplikanten durch das Weltall plaudern."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME"
@@ -29688,7 +29681,6 @@ msgid "<link=\"DRECKO\">Drecklet</link>"
 msgstr "<link=\"DRECKO\">Drecklet</link>"
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.DESC"
 msgid ""
 "Dreckos are nonhostile critters that graze on <link=\"SPICEVINE\">Pincha "
@@ -41331,13 +41323,11 @@ msgstr ""
 "Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.NAME"
 msgid "Long Distance"
-msgstr "Entfernung"
+msgstr "Ferngespräch"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP"
 msgid ""
 "This Duplicant chatted on the phone with at least one other Duplicant across "
@@ -41345,7 +41335,8 @@ msgid ""
 "\n"
 "Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
 msgstr ""
-"Dieser Duplikant hat mit mindestens einem anderen Duplikanten telefoniert\n"
+"Dieser Duplikant hat mit mindestens einem anderen Duplikanten durch das Weltall "
+"telefoniert\n"
 "\n"
 "Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
 
