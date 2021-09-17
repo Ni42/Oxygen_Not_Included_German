@@ -16578,10 +16578,11 @@ msgid "You never know who you'll meet on the other line."
 msgstr "Man weiß nie, wen man am anderen Ende der Leitung trifft."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT"
 msgid ""
-"Provides a way for Duplicants to chat with their friends in different "
-"locations.\n"
+"Can be used by one Duplicant to chat with themselves or with other Duplicants "
+"in different locations.\n"
 "\n"
 "Chatting increases Duplicant <link=\"MORALE\">Morale</link>."
 msgstr ""
@@ -16596,8 +16597,9 @@ msgid "{attrib}: {amount} (No One)"
 msgstr "{attrib}: {amount} (Niemand)"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_BABBLE_TOOLTIP"
-msgid "Duplicants will gain {amount} {attrib} if they chat to no one."
+msgid "Duplicants will gain {amount} {attrib} if they chat only with themselves."
 msgstr "Duplikanten erhalten {amount} {attrib}, wenn sie mit niemandem plaudern."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT
@@ -16606,10 +16608,11 @@ msgid "{attrib}: {amount} (At least one duplicant)"
 msgstr "{attrib}: {amount} (Mindestens ein Duplikant)"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP"
 msgid ""
-"Duplicants will gain {amount} {attrib} if they chat to at least one other "
-"duplicant."
+"Duplicants will gain {amount} {attrib} if they chat with at least one other "
+"Duplicant."
 msgstr ""
 "Duplikanten erhalten {amount} {attrib}, wenn sie mit mindestens einem anderen "
 "Duplikanten plaudern."
@@ -16620,10 +16623,11 @@ msgid "{attrib}: {amount} (At least one duplicant across space)"
 msgstr "{attrib}: {amount} (Mindestens ein Duplikant durch das Weltall)"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP"
 msgid ""
-"Duplicants will gain {amount} {attrib} if they chat to at least one other "
-"duplicant across space."
+"Duplicants will gain {amount} {attrib} if they chat with at least one other "
+"Duplicant across space."
 msgstr ""
 "Duplikanten erhalten {amount} {attrib}, wenn sie mit mindestens einem anderen "
 "Duplikanten durch das Weltall plaudern."
@@ -41323,9 +41327,10 @@ msgstr ""
 "Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.NAME"
-msgid "Long Distance"
-msgstr "Ferngespräch"
+msgid "Sociable"
+msgstr "Sozialisiert"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP"
