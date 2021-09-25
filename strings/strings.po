@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-17 23:40+0200\n"
+"PO-Revision-Date: 2021-09-25 11:18+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -4063,10 +4063,9 @@ msgid "Babbling to no one."
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.TOOLTIP"
 msgid "{Duplicant} just needed to vent to no one."
-msgstr "Dieser Duplikant muss sich nur noch einen Moment ausruhen"
+msgstr "{Duplicant} musste sich nur bei niemandem Luft machen."
 
 #. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO"
@@ -12828,7 +12827,6 @@ msgid "Comes with a few ions thrown in, free of charge."
 msgstr "Ein paar Ionen werden kostenlos mitgeliefert."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCHDCL1\">Materials Science Research</link> to unlock new "
@@ -12839,8 +12837,8 @@ msgid ""
 "Assigned Duplicants must possess the <link=\"ATOMICRESEARCHER\">Materials "
 "Science Research</link> skill."
 msgstr ""
-"Führt <link=\"RESEARCH\">Materialwissenschaftliche Forschung</link> durch, um "
-"neue Technologien freizuschalten.\n"
+"Führt <link=\"RESEARCHDCL1\">Materialwissenschaftliche Forschung</link> durch, "
+"um neue Technologien freizuschalten.\n"
 "\n"
 "Verbraucht Teilchenblitze.\n"
 "\n"
@@ -12968,7 +12966,6 @@ msgstr ""
 "durch."
 
 #. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCHDLC1\">Interstellar Research</link> to unlock new "
@@ -12980,7 +12977,7 @@ msgid ""
 "Assigned Duplicants must possess the <link=\"COSMICRESEARCHER\">Orbital "
 "Researcher</link> skill."
 msgstr ""
-"Führt <link=\"RESEARCH\">Interstellare Forschung</link> durch, um neue "
+"Führt <link=\"RESEARCHDLC1\">Interstellare Forschung</link> durch, um neue "
 "Technologien zu erschließen.\n"
 "\n"
 "Benötigt <link=\"POLYPROPYLENE\">Plastik</link> und <link=\"POWER\">Energie</"
@@ -22911,10 +22908,9 @@ msgid "Buddy Bud"
 msgstr "Buddy Bud"
 
 #. STRINGS.CODEX.BUILDING_TYPE.INDUSTRIAL_MACHINERY
-#, fuzzy
 msgctxt "STRINGS.CODEX.BUILDING_TYPE.INDUSTRIAL_MACHINERY"
 msgid "Industrial Machinery"
-msgstr "Keine industriellen Maschinen"
+msgstr "Industrielle Maschinen"
 
 #. STRINGS.CODEX.C01_EVIL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.C01_EVIL.BODY.CONTAINER1"
@@ -24020,10 +24016,9 @@ msgid "Requirements"
 msgstr "Anforderungen"
 
 #. STRINGS.CODEX.HEADERS.BUILDINGTYPE
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGTYPE"
 msgid "Room Requirements Class"
-msgstr "Anforderungen"
+msgstr "Raumbedarfsklasse"
 
 #. STRINGS.CODEX.HEADERS.COMFORTRANGE
 msgctxt "STRINGS.CODEX.HEADERS.COMFORTRANGE"
@@ -24046,13 +24041,11 @@ msgid "Diet"
 msgstr "Ernährung"
 
 #. STRINGS.CODEX.HEADERS.ELEMENTCONSUMEDBY
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEADERS.ELEMENTCONSUMEDBY"
 msgid "Consumed By"
-msgstr "Verbraucher"
+msgstr "Verbraucht von"
 
 #. STRINGS.CODEX.HEADERS.ELEMENTPRODUCEDBY
-#, fuzzy
 msgctxt "STRINGS.CODEX.HEADERS.ELEMENTPRODUCEDBY"
 msgid "Produced By"
 msgstr "Produziert von"
@@ -26552,7 +26545,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.RESEARCH.PARAGRAPH_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCH.PARAGRAPH_3"
 msgid ""
 "Advanced research tasks require special research stations to generate the "
@@ -26584,10 +26576,6 @@ msgstr ""
 "Computer</link> durchgeführt\n"
 "Interstellare Forschung wird im <link=\"COSMICRESEARCHCENTER\">Virtuellem "
 "Planetarium</link> durchgeführt\n"
-"Atomforschung wird am <link=\"NUCLEARLABORATORY\">Atomaren Beschleuniger</link> "
-"durchgeführt\n"
-"Materialwissenschaftliche Forschung wird am <link=\"NUCLEARLABORATORY"
-"\">Materialstudienterminal</link> durchgeführt\n"
 "\n"
 
 #. STRINGS.CODEX.RESEARCH.TITLE
@@ -26596,25 +26584,21 @@ msgid "<link=\"RESEARCH\">Research</link>"
 msgstr "<link=\"RESEARCH\">Forschung</link>"
 
 #. STRINGS.CODEX.RESEARCHDLC1.HEADER_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.HEADER_1"
 msgid "Research"
 msgstr "Forschung"
 
 #. STRINGS.CODEX.RESEARCHDLC1.HEADER_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.HEADER_2"
 msgid "Research Tasks"
 msgstr "Forschungsaufträge"
 
 #. STRINGS.CODEX.RESEARCHDLC1.HEADER_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.HEADER_3"
 msgid "Research Types"
 msgstr "Forschungstypen"
 
 #. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_1"
 msgid ""
 "Doing research unlocks new types of buildings for the colony. Duplicants can "
@@ -26627,7 +26611,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_2"
 msgid ""
 "A selected research task is completed once enough research points have been "
@@ -26643,7 +26626,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3"
 msgid ""
 "Advanced research tasks require special research stations to generate the "
@@ -26677,17 +26659,14 @@ msgstr ""
 "Computer</link> durchgeführt\n"
 "Interstellare Forschung wird im <link=\"COSMICRESEARCHCENTER\">Virtuellem "
 "Planetarium</link> durchgeführt\n"
-"Atomforschung wird am <link=\"NUCLEARLABORATORY\">Atomaren Beschleuniger</link> "
-"durchgeführt\n"
 "Materialwissenschaftliche Forschung wird am <link=\"NUCLEARLABORATORY"
 "\">Materialstudienterminal</link> durchgeführt\n"
 "\n"
 
 #. STRINGS.CODEX.RESEARCHDLC1.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.TITLE"
 msgid "<link=\"RESEARCHDLC1\">Research</link>"
-msgstr "<link=\"RESEARCH\">Forschung</link>"
+msgstr "<link=\"RESEARCHDLC1\">Forschung</link>"
 
 #. STRINGS.CODEX.ROBOT_DESCRIPTORS.BATTERY.CAPACITY
 msgctxt "STRINGS.CODEX.ROBOT_DESCRIPTORS.BATTERY.CAPACITY"
@@ -37401,7 +37380,6 @@ msgid "Singing to egg"
 msgstr "Singt zu einem Ei"
 
 #. STRINGS.DUPLICANTS.CHORES.SINGTOEGG.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.SINGTOEGG.TOOLTIP"
 msgid ""
 "A gentle lullaby from a supportive Duplicant encourages developing <style="
@@ -37417,7 +37395,7 @@ msgstr ""
 "\n"
 "Erhöht die <style=\"KKeyword\">Inkubationsrate</style>\n"
 "\n"
-"Duplikanten müssen die Fertigkeit <link=\"RANCHER\">Viehzucht I</link> "
+"Duplikanten müssen die Fertigkeit <link=\"RANCHING1\">Viehzucht I</link> "
 "verfügen, um Eier besingen zu können"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
@@ -40319,16 +40297,14 @@ msgid "This Duplicant sustained injuries that are a bit uncomfortable"
 msgstr "Die Verletzungen des Duplikanten sind ein bisschen unangenehm"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LONER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LONER.NAME"
 msgid "Alone"
-msgstr "Oberst"
+msgstr "Einzelgänger"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LONER.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LONER.TOOLTIP"
 msgid "This Duplicant is more feeling focused now that they're alone"
-msgstr "Dieser Duplikant grübelt darüber, was er als nächstes macht"
+msgstr "Dieser Duplikant ist jetzt, wo er allein ist, konzentrierter."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME"
@@ -41321,16 +41297,14 @@ msgstr ""
 "style> zu sich nehmen musste"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.NAME"
 msgid "Starry Eyed"
-msgstr "Feuchte Augen"
+msgstr "Sternäugig"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.TOOLTIP"
 msgid "This Duplicant loves being in space!"
-msgstr "Dieser Duplikant entspannt sich in der Sauna"
+msgstr "Dieser Duplikant liebt es, im Weltraum zu sein!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
