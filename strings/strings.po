@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-25 11:18+0200\n"
+"PO-Revision-Date: 2021-09-26 22:17+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -40304,7 +40304,7 @@ msgstr "Einzelgänger"
 #. STRINGS.DUPLICANTS.MODIFIERS.LONER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LONER.TOOLTIP"
 msgid "This Duplicant is more feeling focused now that they're alone"
-msgstr "Dieser Duplikant ist jetzt, wo er allein ist, konzentrierter."
+msgstr "Dieser Duplikant ist jetzt, wo er allein ist, konzentrierter"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME"
@@ -41468,7 +41468,6 @@ msgid "Sociable"
 msgstr "Kontaktfreudig"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TELEPHONELONGDISTANCE.TOOLTIP"
 msgid ""
 "This Duplicant is feeling sociable after chatting on the phone with someone "
@@ -41476,8 +41475,8 @@ msgid ""
 "\n"
 "Leisure activities increase Duplicants' <style=\"KKeyword\">Morale</style>"
 msgstr ""
-"Dieser Duplikant hat mit mindestens einem anderen Duplikanten durch das Weltall "
-"telefoniert\n"
+"Dieser Duplikant fühlt sich gesellig, nachdem er mit jemandem am anderen Ende "
+"des Weltraums telefoniert hat\n"
 "\n"
 "Freizeitaktivitäten verbessern <style=\"KKeyword\">Duplikantenmoral</style>"
 
@@ -41506,14 +41505,13 @@ msgid "Clutchy"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.THRIVER.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.THRIVER.TOOLTIP"
 msgid ""
 "This Duplicant is <style=\"KKeyword\">Stressed<style=\"KKeyword\"> and has "
 "kicked into hyperdrive"
 msgstr ""
-"Diese Duplikanten sind <style=\"KKeyword\">gestresst</style> und brauchen "
-"Entspannung:"
+"Dieser Duplikant ist <style=\"KKeyword\">gestresst<style=\"KKeyword\"> und hat "
+"den Turbo eingelegt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING"
@@ -42474,10 +42472,9 @@ msgid "Allows moderately attractive art to be created"
 msgstr "Ermöglicht die Schaffung von mäßig attraktiver Kunst"
 
 #. STRINGS.DUPLICANTS.ROLES.ARTIST.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.ARTIST.NAME"
 msgid "<link=\"ARTING2\">Aesthetic Design</link>"
-msgstr "<link=\"ARTISTRY\">Künstlerischer Ausdruck</link>"
+msgstr "<link=\"ARTING2\">Ästhetisches Design</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.ASTRONAUT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.ASTRONAUT.DESCRIPTION"
@@ -42486,10 +42483,9 @@ msgstr ""
 "Erhöht die Geschwindigkeit, mit der Raumfahrtmissionen abgeschlossen werden"
 
 #. STRINGS.DUPLICANTS.ROLES.ASTRONAUT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.ASTRONAUT.NAME"
 msgid "<link=\"ASTRONAUTING2\">Rocket Navigation</link>"
-msgstr "<link=\"ASTRONAUT\">Raketennavigation</link>"
+msgstr "<link=\"ASTRONAUTING2\">Raketennavigation</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.ASTRONAUTTRAINEE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.ASTRONAUTTRAINEE.DESCRIPTION"
@@ -42501,10 +42497,9 @@ msgstr ""
 "\">Kommandomoduls</link> zur Steuerung eines Raketenschiffs"
 
 #. STRINGS.DUPLICANTS.ROLES.ASTRONAUTTRAINEE.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.ASTRONAUTTRAINEE.NAME"
 msgid "<link=\"ASTRONAUTING1\">Rocket Piloting</link>"
-msgstr "<link=\"ASTRONAUTTRAINEE\">Raketensteuerung</link>"
+msgstr "<link=\"ASTRONAUTING1\">Raketensteuerung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION"
@@ -42512,10 +42507,9 @@ msgid "Further increases a Duplicant's construction speeds"
 msgstr "Erhöht die Baugeschwindigkeit eines Duplikanten weiter"
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.NAME"
 msgid "<link=\"BUILDING2\">Improved Construction II</link>"
-msgstr "<link=\"BUILDER\">Verbesserter Bau II</link>"
+msgstr "<link=\"BUILDING2\">Verbesserter Bau II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.COOK.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.COOK.DESCRIPTION"
@@ -42523,10 +42517,9 @@ msgid "Improves a Duplicant's cooking speed"
 msgstr "Verbessert die Kochgeschwindigkeit eines Duplikanten"
 
 #. STRINGS.DUPLICANTS.ROLES.COOK.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.COOK.NAME"
 msgid "<link=\"COOKING2\">Grilling II</link>"
-msgstr "<link=\"COOK\">Grillen II</link>"
+msgstr "<link=\"COOKING2\">Grillen II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.FARMER.DESCRIPTION"
@@ -42538,10 +42531,9 @@ msgstr ""
 "Wachstumsgeschwindigkeit erhöht"
 
 #. STRINGS.DUPLICANTS.ROLES.FARMER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.FARMER.NAME"
 msgid "<link=\"FARMING2\">Crop Tending</link>"
-msgstr "<link=\"FARMER\">Pflanzenpflege</link>"
+msgstr "<link=\"FARMING2\">Pflanzenpflege</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION"
@@ -42576,10 +42568,9 @@ msgid "Minorly improves a Duplicant's physical strength"
 msgstr "Verbessert die physische Stärke eines Duplikanten geringfügig"
 
 #. STRINGS.DUPLICANTS.ROLES.HANDYMAN.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.HANDYMAN.NAME"
 msgid "<link=\"BASEKEEPING1\">Improved Strength</link>"
-msgstr "<link=\"HANDYMAN\">Verbesserte Stärke</link>"
+msgstr "<link=\"BASEKEEPING1\">Verbesserte Stärke</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.HAULER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.HAULER.DESCRIPTION"
@@ -42587,10 +42578,9 @@ msgid "Minorly increase a Duplicant's strength and carrying capacity"
 msgstr "Erhöht geringfügig die Stärke und Tragfähigkeit eines Duplikanten"
 
 #. STRINGS.DUPLICANTS.ROLES.HAULER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.HAULER.NAME"
 msgid "<link=\"HAULING1\">Improved Carrying I</link>"
-msgstr "<link=\"HAULER\">Verbesserte Tragfähigkeit I</link>"
+msgstr "<link=\"HAULING1\">Verbesserte Tragfähigkeit I</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION"
@@ -42598,10 +42588,9 @@ msgid "Teaches the most basic level of art skill"
 msgstr "Gewährt die grundlegendste Stufe der Kunstfertigkeit"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME"
 msgid "<link=\"ARTING1\">Art Fundamentals</link>"
-msgstr "<link=\"JUNIORARTIST\">Kunstgrundlagen</link>"
+msgstr "<link=\"ARTING1\">Kunstgrundlagen</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION"
@@ -42609,10 +42598,9 @@ msgid "Marginally improves a Duplicant's construction speeds"
 msgstr "Verbessert die Konstruktionsgeschwindigkeit eines Duplikanten geringfügig"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.NAME"
 msgid "<link=\"BUILDING1\">Improved Construction I</link>"
-msgstr "<link=\"BUILDER\">Verbesserter Bau II</link>"
+msgstr "<link=\"BUILDING1\">Verbesserter Bau I</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.DESCRIPTION"
@@ -42623,10 +42611,9 @@ msgstr ""
 "Erlaubt Duplikanten das Kochen mit <link=\"COOKINGSTATION\">Elektrogrill</link>s"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME"
 msgid "<link=\"COOKING1\">Grilling</link>"
-msgstr "<link=\"COOK\">Grillen II</link>"
+msgstr "<link=\"COOKING1\">Grillen II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION"
@@ -42639,10 +42626,9 @@ msgstr ""
 "ernten"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.NAME"
 msgid "<link=\"FARMING1\">Improved Farming I</link>"
-msgstr "<link=\"JUNIORFARMER\">Verbesserte Landwirtschaft I</link>"
+msgstr "<link=\"FARMING1\">Verbesserte Landwirtschaft I</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MEDIC.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MEDIC.DESCRIPTION"
@@ -42654,10 +42640,9 @@ msgstr ""
 "\"APOTHECARY\">Apotheke</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MEDIC.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MEDIC.NAME"
 msgid "<link=\"MEDICINE1\">Medicine Compounding</link>"
-msgstr "<link=\"MEDIC\">Medizinische Präparation</link>"
+msgstr "<link=\"MEDICINE1\">Arzneimittelzubereitung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.DESCRIPTION"
@@ -42669,10 +42654,9 @@ msgstr ""
 "wie <link=\"GRANITE\">Granit</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME"
 msgid "<link=\"MINING1\">Hard Digging</link>"
-msgstr "<link=\"JUNIORMINER\">Schweres Graben</link>"
+msgstr "<link=\"MINING1\">Schweres Graben</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION"
@@ -42684,10 +42668,9 @@ msgstr ""
 "\">Supercomputer</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME"
 msgid "<link=\"RESEARCHING1\">Advanced Research</link>"
-msgstr "<link=\"JUNIORRESEARCHER\">Fortschrittliche Forschung</link>"
+msgstr "<link=\"RESEARCHING1\">Fortschrittliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION"
@@ -42695,10 +42678,9 @@ msgid "Marginally improves a Duplicant's tinkering speeds"
 msgstr "Verbessert die Bastelgeschwindigkeiten eines Duplikanten geringfügig"
 
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME"
 msgid "<link=\"TECHNICALS1\">Improved Tinkering</link>"
-msgstr "<link=\"MACHINETECHNICIAN\">Verbessertes Basteln</link>"
+msgstr "<link=\"TECHNICALS1\">Verbessertes Basteln</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MASTER_ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MASTER_ARTIST.DESCRIPTION"
@@ -42706,10 +42688,9 @@ msgid "Enables the painting and sculpting of masterpieces"
 msgstr "Ermöglicht das Malen und Modellieren von Meisterwerken"
 
 #. STRINGS.DUPLICANTS.ROLES.MASTER_ARTIST.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.MASTER_ARTIST.NAME"
 msgid "<link=\"ARTING3\">Masterworks</link>"
-msgstr "<link=\"MASTERARTIST\">Meisterwerke</link>"
+msgstr "<link=\"ARTING3\">Meisterwerke</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MASTER_MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MASTER_MINER.DESCRIPTION"
@@ -42720,10 +42701,9 @@ msgstr ""
 "link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MASTER_MINER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.MASTER_MINER.NAME"
 msgid "<link=\"MINING4\">Hazmat Digging</link>"
-msgstr "<link=\"MASTERMINER\">Gefahrgut-Graben</link>"
+msgstr "<link=\"MINING4\">Gefahrgut-Graben</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.DESCRIPTION"
@@ -42735,10 +42715,9 @@ msgstr ""
 "Lieferungen"
 
 #. STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.NAME"
 msgid "<link=\"HAULING2\">Improved Carrying II</link>"
-msgstr "<link=\"HAULER\">Verbesserte Tragfähigkeit I</link>"
+msgstr "<link=\"HAULING2\">Verbesserte Tragfähigkeit II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.DESCRIPTION"
@@ -42750,10 +42729,9 @@ msgstr ""
 "\">Förderschienensystemen</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME"
 msgid "<link=\"ENGINEERING1\">Mechatronics Engineering</link>"
-msgstr "<link=\"MECHATRONICENGINEER\">Mechatronik-Technik</link>"
+msgstr "<link=\"ENGINEERING1\">Mechatronik-Technik</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MEDIC.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MEDIC.DESCRIPTION"
@@ -42765,10 +42743,9 @@ msgstr ""
 "\"DOCTORSTATION\">Krankenstation</link> zu verabreichen"
 
 #. STRINGS.DUPLICANTS.ROLES.MEDIC.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.MEDIC.NAME"
 msgid "<link=\"MEDICINE2\">Bedside Manner</link>"
-msgstr "<link=\"MEDIC\">Umgang mit Kranken</link>"
+msgstr "<link=\"MEDICINE2\">Umgang mit Kranken</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MINER.DESCRIPTION"
@@ -42777,10 +42754,9 @@ msgstr ""
 "Ermöglicht die Förderung des Elements <link=\"KATAIRITE\">Abyssalit</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MINER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.MINER.NAME"
 msgid "<link=\"MINING2\">Superhard Digging</link>"
-msgstr "<link=\"MINER\">Superschweres Graben</link>"
+msgstr "<link=\"MINING2\">Superschweres Graben</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION"
@@ -42802,10 +42778,9 @@ msgstr ""
 "\">Materialstudienterminal</link> zu studieren"
 
 #. STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME"
 msgid "<link=\"ATOMICRESEARCH\">Materials Science Research</link>"
-msgstr "<link=\"ATOMIC\">Materialwissenschaftliche Forschung</link>"
+msgstr "<link=\"ATOMICRESEARCH\">Materialwissenschaftliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION"
@@ -42829,10 +42804,9 @@ msgstr ""
 "dass überall Wasser austritt"
 
 #. STRINGS.DUPLICANTS.ROLES.PLUMBER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.PLUMBER.NAME"
 msgid "<link=\"BASEKEEPING2\">Plumbing</link>"
-msgstr "<link=\"LIQUIDPIPING\">Sanitärtechnik</link>"
+msgstr "<link=\"BASEKEEPING2\">Sanitärtechnik</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION"
@@ -42844,10 +42818,9 @@ msgstr ""
 "vorübergehend Steigerung der <style=\"KKeyword\">Ausgangsleistung</style>"
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.NAME"
 msgid "<link=\"TECHNICALS2\">Electrical Engineering</link>"
-msgstr "<link=\"POWERTECHNICIAN\">Elektro-Technik</link>"
+msgstr "<link=\"TECHNICALS2\">Elektro-Technik</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.RANCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.RANCHER.DESCRIPTION"
@@ -42858,10 +42831,9 @@ msgstr ""
 "umzugehen und sie zu pflegen"
 
 #. STRINGS.DUPLICANTS.ROLES.RANCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.RANCHER.NAME"
 msgid "<link=\"RANCHING1\">Critter Ranching I</link>"
-msgstr "<link=\"RANCHING\">Viehzucht I</link>"
+msgstr "<link=\"RANCHING1\">Viehzucht I</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION"
@@ -42873,10 +42845,9 @@ msgstr ""
 "Planetoiden und anderen geografischen Phänomenen durchführen"
 
 #. STRINGS.DUPLICANTS.ROLES.RESEARCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.NAME"
 msgid "<link=\"RESEARCHING2\">Field Research</link>"
-msgstr "<link=\"RESEARCHER\">Feldstudien</link>"
+msgstr "<link=\"RESEARCHING2\">Feldstudien</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.ROCKETPILOT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.ROCKETPILOT.DESCRIPTION"
@@ -42888,10 +42859,9 @@ msgstr ""
 "\">Raketenkontrollstation</link> zu bedienen und Raketen zu steuern"
 
 #. STRINGS.DUPLICANTS.ROLES.ROCKETPILOT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.ROCKETPILOT.NAME"
 msgid "<link=\"ROCKETPILOTING1\">Rocket Piloting</link>"
-msgstr "<link=\"PILOT\">Raketensteuerung</link>"
+msgstr "<link=\"ROCKETPILOTING1\">Raketensteuerung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
@@ -42899,10 +42869,9 @@ msgid "Enables a Duplicant to deconstruct Gravitas buildings"
 msgstr "Ermöglicht es einem Duplikanten, Gravitas-Gebäude zu zerlegen"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME"
 msgid "<link=\"BUILDING3\">Demolition</link>"
-msgstr "<link=\"SENIORBUILDER\">Demolierung</link>"
+msgstr "<link=\"BUILDING3\">Demolierung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.DESCRIPTION"
@@ -42910,10 +42879,9 @@ msgid "Further increases a Duplicant's farming skills"
 msgstr "Erhöht die landwirtschaftlichen Fertigkeiten eines Duplikanten weiter"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.NAME"
 msgid "<link=\"FARMING3\">Improved Farming II</link>"
-msgstr "<link=\"SENIORFARMER\">Verbesserte Landwirtschaft II</link>"
+msgstr "<link=\"FARMING3\">Verbesserte Landwirtschaft II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MEDIC.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MEDIC.DESCRIPTION"
@@ -42925,10 +42893,9 @@ msgstr ""
 "\">Krankenhauses</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MEDIC.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MEDIC.NAME"
 msgid "<link=\"MEDICINE3\">Advanced Medical Care</link>"
-msgstr "<link=\"MEDIC\">Fortschrittliche medizinische Versorgung</link>"
+msgstr "<link=\"MEDICINE3\">Fortschrittliche medizinische Versorgung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.DESCRIPTION"
@@ -42942,10 +42909,9 @@ msgstr ""
 "\"OBSIDIAN\">Obsidian</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.NAME"
 msgid "<link=\"MINING3\">Super-Duperhard Digging</link>"
-msgstr "<link=\"SENIORMINER\">Superduperschweres Graben</link>"
+msgstr "<link=\"MINING3\">Superduperschweres Graben</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.DESCRIPTION"
@@ -42954,10 +42920,9 @@ msgstr ""
 "Verbessert die <style=\"KKeyword\">Viehzuchtfertigkeit</style> eines Duplikanten"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.NAME"
 msgid "<link=\"RANCHING2\">Critter Ranching II</link>"
-msgstr "<link=\"RANCHING\">Viehzucht I</link>"
+msgstr "<link=\"RANCHING2\">Viehzucht II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION"
@@ -42969,10 +42934,9 @@ msgstr ""
 "studieren"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME"
 msgid "<link=\"ASTRONOMY\">Astronomy</link>"
-msgstr "<link=\"MUSHROOM\">Pilz</link>"
+msgstr "<link=\"ASTRONOMY\">Astronomie</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_ROCKETPILOT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_ROCKETPILOT.DESCRIPTION"
@@ -42981,10 +42945,9 @@ msgstr ""
 "Ermöglicht es Duplikanten das Steuern von Raketen mit Höchstgeschwindigkeit"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_ROCKETPILOT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_ROCKETPILOT.NAME"
 msgid "<link=\"ROCKETPILOTING2\">Rocket Piloting II</link>"
-msgstr "<link=\"SENIORPILOT\">Raketensteuerung II</link>"
+msgstr "<link=\"ROCKETPILOTING2\">Raketensteuerung II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION"
@@ -42996,10 +42959,9 @@ msgstr ""
 "des <link=\"ORBITALRESEARCHCENTER\">Orbitalen Mikrolabors</link> durchzuführen"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME"
 msgid "<link=\"SPACERESEARCH\">Orbital Researcher</link>"
-msgstr "<link=\"SPACERESEARCHER\">Weltraumforscher</link>"
+msgstr "<link=\"SPACERESEARCH\">Weltraumforscher</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION"
@@ -43007,10 +42969,9 @@ msgid "Eliminates the runspeed loss experienced while wearing exosuits"
 msgstr "Beseitigt den Geschwindigkeitsverlust beim Tragen von Schutzanzügen"
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME"
 msgid "<link=\"SUITS1\">Exosuit Training</link>"
-msgstr "<link=\"SUITEXPERT\">Schutzanzug-Training</link>"
+msgstr "<link=\"SUITS1\">Schutzanzug-Training</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.DESCRIPTION"
@@ -46089,10 +46050,9 @@ msgid "Teaches the most basic level of art skill"
 msgstr "Gewährt die grundlegendste Stufe der Kunstfertigkeit"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.NAME"
 msgid "Skilled: <link=\"ARTING1\">Art Fundamentals</link>"
-msgstr "Erfahren: <link=\"JUNIORARTIST\">Kunstgrundlagen</link>"
+msgstr "Erfahren: <link=\"ARTING1\">Kunstgrundlagen</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING1.SHORT_DESC"
@@ -46114,10 +46074,9 @@ msgid "Allows moderately attractive art to be created"
 msgstr "Ermöglicht die Schaffung von mäßig attraktiver Kunst"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.NAME"
 msgid "Skilled: <link=\"ARTING2\">Aesthetic Design</link>"
-msgstr "Erfahren: <link=\"MINER\">Superschweres Graben</link>"
+msgstr "Erfahren: <link=\"ARTING2\">Ästhetisches Design</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.SHORT_DESC"
@@ -46139,10 +46098,9 @@ msgid "Enables the painting and sculpting of masterpieces"
 msgstr "Ermöglicht das Malen und Modellieren von Meisterwerken"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.NAME"
 msgid "Skilled: <link=\"ARTING3\">Masterworks</link>"
-msgstr "Erfahren: <link=\"MASTERARTIST\">Meisterwerke</link>"
+msgstr "Erfahren: <link=\"ARTING3\">Meisterwerke</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING3.SHORT_DESC"
@@ -46168,10 +46126,9 @@ msgstr ""
 "\">Kommandomoduls</link> zur Steuerung eines Raketenschiffs"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.NAME"
 msgid "Skilled: <link=\"ASTRONAUTING1\">Rocket Piloting</link>"
-msgstr "Erfahren: <link=\"ASTRONAUTTRAINEE\">Raketensteuerung</link>"
+msgstr "Erfahren: <link=\"ASTRONAUTING1\">Raketensteuerung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC"
@@ -46194,10 +46151,9 @@ msgstr ""
 "Erhöht die Geschwindigkeit, mit der Raumfahrtmissionen abgeschlossen werden"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.NAME"
 msgid "Skilled: <link=\"ASTRONAUTING2\">Rocket Navigation</link>"
-msgstr "Erfahren: <link=\"ASTRONAUT\">Raketennavigation</link>"
+msgstr "Erfahren: <link=\"ASTRONAUTING2\">Raketennavigation</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING2.SHORT_DESC"
@@ -46219,10 +46175,9 @@ msgid "Minorly improves a Duplicant's physical strength"
 msgstr "Verbessert die physische Stärke eines Duplikanten geringfügig"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.NAME"
 msgid "Skilled: <link=\"BASEKEEPING1\">Improved Strength</link>"
-msgstr "Erfahren: <link=\"HANDYMAN\">Verbesserte Stärke</link>"
+msgstr "Erfahren: <link=\"BASEKEEPING1\">Verbesserte Stärke</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING1.SHORT_DESC"
@@ -46248,10 +46203,9 @@ msgstr ""
 "dass überall Wasser austritt"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.NAME"
 msgid "Skilled: <link=\"BASEKEEPING2\">Plumbing</link>"
-msgstr "Erfahren: <link=\"PLUMBER\">Klempnerei</link>"
+msgstr "Erfahren: <link=\"BASEKEEPING2\">Klempnerei</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BASEKEEPING2.SHORT_DESC"
@@ -46273,10 +46227,9 @@ msgid "Marginally improves a Duplicant's construction speeds"
 msgstr "Verbessert die Konstruktionsgeschwindigkeit eines Duplikanten geringfügig"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.NAME"
 msgid "Skilled: <link=\"BUILDING1\">Improved Construction I</link>"
-msgstr "Erfahren: <link=\"BUILDER\">Verbesserter Bau II</link>"
+msgstr "Erfahren: <link=\"BUILDING1\">Verbesserter Bau I</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING1.SHORT_DESC"
@@ -46298,10 +46251,9 @@ msgid "Further increases a Duplicant's construction speeds"
 msgstr "Erhöht die Baugeschwindigkeit eines Duplikanten weiter"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.NAME"
 msgid "Skilled: <link=\"BUILDING2\">Improved Construction II</link>"
-msgstr "Erfahren: <link=\"BUILDER\">Verbesserter Bau II</link>"
+msgstr "Erfahren: <link=\"BUILDING2\">Verbesserter Bau II</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING2.SHORT_DESC"
@@ -46323,10 +46275,9 @@ msgid "Enables a Duplicant to deconstruct Gravitas buildings"
 msgstr "Ermöglicht es einem Duplikanten, Gravitas-Gebäude zu zerlegen"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.NAME"
 msgid "Skilled: <link=\"BUILDING3\">Demolition</link>"
-msgstr "Erfahren: <link=\"SENIORBUILDER\">Abreisen</link>"
+msgstr "Erfahren: <link=\"BUILDING3\">Demolierung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.SHORT_DESC"
@@ -46351,10 +46302,9 @@ msgstr ""
 "Erlaubt Duplikanten das Kochen mit <link=\"COOKINGSTATION\">Elektrogrills</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.NAME"
 msgid "Skilled: <link=\"COOKING1\">Grilling</link>"
-msgstr "Erfahren: <link=\"COOK\">Grillen II</link>"
+msgstr "Erfahren: <link=\"COOKING1\">Grillen</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.SHORT_DESC"
@@ -46376,10 +46326,9 @@ msgid "Improves a Duplicant's cooking speed"
 msgstr "Verbessert die Kochgeschwindigkeit eines Duplikanten"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.NAME"
 msgid "Skilled: <link=\"COOKING2\">Grilling II</link>"
-msgstr "Erfahren: <link=\"COOK\">Grillen II</link>"
+msgstr "Erfahren: <link=\"COOKING2\">Grillen II</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.SHORT_DESC"
@@ -46405,10 +46354,9 @@ msgstr ""
 "\">Förderschienensystemen</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.NAME"
 msgid "Skilled: <link=\"ENGINEERING1\">Mechatronics Engineering</link>"
-msgstr "Erfahren: <link=\"MECHATRONICENGINEER\">Mechatronik-Technik</link>"
+msgstr "Erfahren: <link=\"ENGINEERING1\">Mechatronik-Technik</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ENGINEERING1.SHORT_DESC"
@@ -46435,10 +46383,9 @@ msgstr ""
 "ernten"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.NAME"
 msgid "Skilled: <link=\"FARMING1\">Improved Farming I</link>"
-msgstr "Erfahren: <link=\"JUNIORFARMER\">Verbesserte Landwirtschaft I</link>"
+msgstr "Erfahren: <link=\"FARMING1\">Verbesserte Landwirtschaft I</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING1.SHORT_DESC"
@@ -46464,10 +46411,9 @@ msgstr ""
 "Wachstumsgeschwindigkeit erhöht"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.NAME"
 msgid "Skilled: <link=\"FARMING2\">Crop Tending</link>"
-msgstr "Erfahren: <link=\"FARMER\">Pflanzenpflege</link>"
+msgstr "Erfahren: <link=\"FARMING2\">Pflanzenpflege</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING2.SHORT_DESC"
@@ -46489,10 +46435,9 @@ msgid "Further increases a Duplicant's farming skills"
 msgstr "Erhöht die landwirtschaftlichen Fertigkeiten eines Duplikanten weiter"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.NAME"
 msgid "Skilled: <link=\"FARMING3\">Improved Farming II</link>"
-msgstr "Erfahren: <link=\"SENIORFARMER\">Verbesserte Landwirtschaft II</link>"
+msgstr "Erfahren: <link=\"FARMING3\">Verbesserte Landwirtschaft II</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_FARMING3.SHORT_DESC"
@@ -46514,10 +46459,9 @@ msgid "Minorly increase a Duplicant's strength and carrying capacity"
 msgstr "Erhöht geringfügig die Stärke und Tragfähigkeit eines Duplikanten"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.NAME"
 msgid "Skilled: <link=\"HAULING1\">Improved Carrying I</link>"
-msgstr "Erfahren: <link=\"HAULER\">Verbesserte Tragfähigkeit I</link>"
+msgstr "Erfahren: <link=\"HAULING1\">Verbesserte Tragfähigkeit I</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING1.SHORT_DESC"
@@ -46543,10 +46487,9 @@ msgstr ""
 "Lieferungen"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.NAME"
 msgid "Skilled: <link=\"HAULING2\">Improved Carrying II</link>"
-msgstr "Erfahren: <link=\"HAULER\">Verbesserte Tragfähigkeit I</link>"
+msgstr "Erfahren: <link=\"HAULING2\">Verbesserte Tragfähigkeit II</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_HAULING2.SHORT_DESC"
@@ -46572,10 +46515,9 @@ msgstr ""
 "\"APOTHECARY\">Apotheke</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.NAME"
 msgid "Skilled: <link=\"MEDICINE1\">Medicine Compounding</link>"
-msgstr "Erfahren: <link=\"MEDIC\">Medizinische Präparation</link>"
+msgstr "Erfahren: <link=\"MEDICINE1\">Arzneimittelzubereitung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE1.SHORT_DESC"
@@ -46601,10 +46543,9 @@ msgstr ""
 "\"DOCTORSTATION\">Krankenstation</link> zu verabreichen"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.NAME"
 msgid "Skilled: <link=\"MEDICINE2\">Bedside Manner</link>"
-msgstr "Erfahren: <link=\"MEDIC\">Umgang mit Kranken</link>"
+msgstr "Erfahren: <link=\"MEDICINE2\">Umgang mit Kranken</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC"
@@ -46630,10 +46571,10 @@ msgstr ""
 "\">Krankenhauses</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.NAME"
 msgid "Skilled: <link=\"MEDICINE3\">Advanced Medical Care</link>"
-msgstr "Erfahren: <link=\"MEDIC\">Fortschrittliche medizinische Versorgung</link>"
+msgstr ""
+"Erfahren: <link=\"MEDICINE3\">Fortschrittliche medizinische Versorgung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE3.SHORT_DESC"
@@ -46659,10 +46600,9 @@ msgstr ""
 "wie <link=\"GRANITE\">Granit</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.NAME"
 msgid "Skilled: <link=\"MINING1\">Hard Digging</link>"
-msgstr "Erfahren: <link=\"JUNIORMINER\">Schweres Graben</link>"
+msgstr "Erfahren: <link=\"MINING1\">Schweres Graben</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING1.SHORT_DESC"
@@ -46685,10 +46625,9 @@ msgstr ""
 "Ermöglicht die Förderung des Elements <link=\"KATAIRITE\">Abyssalit</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.NAME"
 msgid "Skilled: <link=\"MINING2\">Superhard Digging</link>"
-msgstr "Erfahren: <link=\"MINER\">Superschweres Graben</link>"
+msgstr "Erfahren: <link=\"MINING2\">Superschweres Graben</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.SHORT_DESC"
@@ -46716,10 +46655,9 @@ msgstr ""
 "\"OBSIDIAN\">Obsidian</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.NAME"
 msgid "Skilled: <link=\"MINING3\">Super-Duperhard Digging</link>"
-msgstr "Erfahren: <link=\"SENIORMINER\">Superduperschweres Graben</link>"
+msgstr "Erfahren: <link=\"MINING3\">Superduperschweres Graben</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.SHORT_DESC"
@@ -46744,10 +46682,9 @@ msgstr ""
 "link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.NAME"
 msgid "Skilled: <link=\"MINING4\">Hazmat Digging</link>"
-msgstr "Erfahren: <link=\"JUNIORMINER\">Hazmat Graben</link>"
+msgstr "Erfahren: <link=\"MINING4\">Gefahrgut-Graben</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.SHORT_DESC"
@@ -46772,10 +46709,9 @@ msgstr ""
 "umzugehen und sie zu pflegen"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.NAME"
 msgid "Skilled: <link=\"RANCHING1\">Critter Ranching I</link>"
-msgstr "Erfahren: <link=\"RANCHING\">Viehzucht I</link>"
+msgstr "Erfahren: <link=\"RANCHING1\">Viehzucht I</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC"
@@ -46798,10 +46734,9 @@ msgstr ""
 "Verbessert die <style=\"KKeyword\">Viehzuchtfertigkeit</style> eines Duplikanten"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.NAME"
 msgid "Skilled: <link=\"RANCHING2\">Critter Ranching II</link>"
-msgstr "Erfahren: <link=\"RANCHING\">Viehzucht I</link>"
+msgstr "Erfahren: <link=\"RANCHING2\">Viehzucht II</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC"
@@ -46827,10 +46762,9 @@ msgstr ""
 "\">Supercomputer</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.NAME"
 msgid "Skilled: <link=\"RESEARCHING1\">Advanced Research</link>"
-msgstr "Erfahren: <link=\"JUNIORRESEARCHER\">Fortschrittliche Forschung</link>"
+msgstr "Erfahren: <link=\"RESEARCHING1\">Fortschrittliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.SHORT_DESC"
@@ -46856,10 +46790,9 @@ msgstr ""
 "Planetoiden und anderen geografischen Phänomenen durchführen"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.NAME"
 msgid "Skilled: <link=\"RESEARCHING2\">Field Research</link>"
-msgstr "Erfahren: <link=\"RESEARCHER\">Feldstudien</link>"
+msgstr "Erfahren: <link=\"RESEARCHING2\">Feldstudien</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.SHORT_DESC"
@@ -46885,10 +46818,9 @@ msgstr ""
 "studieren"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.NAME"
 msgid "Skilled: <link=\"ASTRONOMY\">Astronomy</link>"
-msgstr "Erfahren: <link=\"SENIORRESEARCHER\">Astronomie</link>"
+msgstr "Erfahren: <link=\"ASTRONOMY\">Astronomie</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.SHORT_DESC"
@@ -46914,11 +46846,10 @@ msgstr ""
 "\">Materialstudienterminal</link> zu studieren"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME"
 msgid "Skilled: <link=\"ATOMICRESEARCH\">Materials Science Research</link>"
 msgstr ""
-"Erfahren: <link=\"NUCLEARRESEARCHER\">Materialwissenschaftliche Forschung</link>"
+"Erfahren: <link=\"ATOMICRESEARCH\">Materialwissenschaftliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC"
@@ -46940,10 +46871,9 @@ msgid "Eliminates the runspeed loss experienced while wearing exosuits"
 msgstr "Beseitigt den Geschwindigkeitsverlust beim Tragen von Exosuits"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.NAME"
 msgid "Skilled: <link=\"SUITS1\">Exosuit Training</link>"
-msgstr "Erfahren: <link=\"SUITEXPERT\">Schutzanzug-Training</link>"
+msgstr "Erfahren: <link=\"SUITS1\">Schutzanzug-Training</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC"
@@ -46965,10 +46895,9 @@ msgid "Marginally improves a Duplicant's tinkering speeds"
 msgstr "Verbessert die Bastelgeschwindigkeiten eines Duplikanten geringfügig"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.NAME"
 msgid "Skilled: <link=\"TECHNICALS1\">Improved Tinkering</link>"
-msgstr "Erfahren: <link=\"MACHINETECHNICIAN\">Verbessertes Basteln</link>"
+msgstr "Erfahren: <link=\"TECHNICALS1\">Verbessertes Basteln</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.SHORT_DESC"
@@ -46994,10 +46923,9 @@ msgstr ""
 "vorübergehend Steigerung der <style=\"KKeyword\">Ausgangsleistung</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.NAME"
 msgid "Skilled: <link=\"TECHNICALS2\">Electrical Engineering</link>"
-msgstr "Erfahren: <link=\"POWERTECHNICIAN\">Elektro-Technik</link>"
+msgstr "Erfahren: <link=\"TECHNICALS2\">Elektro-Technik</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.SHORT_DESC"
