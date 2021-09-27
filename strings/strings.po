@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-26 22:17+0200\n"
+"PO-Revision-Date: 2021-09-27 21:39+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -47034,10 +47034,9 @@ msgid "Irritable Bowel"
 msgstr "Reizdarm"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.DESC"
 msgid "This Duplicant prefers solitary pursuits"
-msgstr "Dieser Duplikant ist schwer verletzt"
+msgstr "Dieser Duplikant bevorzugt einsame Beschäftigungen"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.NAME"
@@ -47045,20 +47044,18 @@ msgid "Loner"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC"
 msgid "Attribute bonuses while alone"
-msgstr "Attributboni bei Stress"
+msgstr "Attributboni, wenn man allein ist"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP"
 msgid ""
 "Only duplicant on a world: <b>+4</b> bonus to all <style=\"KKeyword"
 "\">Attributes</style>"
 msgstr ""
-"Mehr als 60% Stress: <b>+7</b> Bonus auf alle <style=\"KKeyword\">Attribute</"
-"style>"
+"Einziger Duplikant auf einer Welt: <b>+4</b> Bonus auf alle <style=\"KKeyword"
+"\">Attribute</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.DESC"
@@ -47422,16 +47419,14 @@ msgid "Sparkle Streaker"
 msgstr "Funken-Flitzer"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC"
 msgid "This Duplicant likes being in space"
-msgstr "Dieser Duplikant entspannt sich in der Sauna"
+msgstr "Dieser Duplikant ist gerne im Weltraum"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME"
 msgid "Starry Eyed"
-msgstr "Feuchte Augen"
+msgstr "Sternäugig"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC"
@@ -47439,10 +47434,9 @@ msgid "Morale bonus while in space"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC_TOOLTIP"
 msgid "In outer space: <b>+10</b> <style=\"KKeyword\">Morale</style>"
-msgstr "<b>{0}</b> <style=\"KKeyword\">{1}</style>"
+msgstr "Im Weltraum: <b>+10</b> <style=\"KKeyword\">Moral</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC"
@@ -54019,7 +54013,6 @@ msgid "Egg Shell"
 msgstr "Eierschale"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC"
 msgid ""
 "Specialized <link=\"FERTILIZER\">Fertilizer</link> mixed by a Duplicant with "
@@ -54029,7 +54022,7 @@ msgid ""
 "\">Plant</link>."
 msgstr ""
 "Spezialisierter <link=\"FERTILIZER\">Dünger</link> gemischt von einem "
-"Duplikanten mit der <link=\"FARMER\">Pflanzenpflege</link>-Fertigkeit.\n"
+"Duplikanten mit der <link=\"FARMING2\">Pflanzenpflege</link>-Fertigkeit.\n"
 "\n"
 "Erhöht die <style=\"KKeyword\">Wachstumsrate</style> einer <link=\"PLANTS"
 "\">Pflanze</link>."
@@ -54099,21 +54092,19 @@ msgstr ""
 "style>, erhöht die {0} um <b>{1}</b>."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.TINKER_REQUIREMENT_NAME
-#, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.TINKER_REQUIREMENT_NAME"
 msgid "Job: <link=\"ENGINEERING1\">Mechatronics Engineering</link>"
-msgstr "Beruf: <link=\"MECHATRONICENGINEER\">Mechatronik-Ingenieur</link>"
+msgstr "Beruf: <link=\"ENGINEERING1\">Mechatronik-Ingenieur</link>"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.TINKER_REQUIREMENT_TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.TINKER_REQUIREMENT_TOOLTIP"
 msgid ""
 "Can only be used by a Duplicant with <link=\"ENGINEERING1\">Mechatronics "
 "Engineering</link> to apply a <style=\"KKeyword\">Jerry Rig</style>."
 msgstr ""
-"Kann nur von einem Duplikanten mit <link=\"MECHATRONICENGINEER\">Mechatronik-"
-"Technik</link> verwendet werden, um <style=\"KKeyword\">Verbesserungen</style> "
+"Kann nur von einem Duplikanten mit <link=\"ENGINEERING1\">Mechatronik-Technik</"
+"link> verwendet werden, um <style=\"KKeyword\">Verbesserungen</style> "
 "durchzuführen."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC
@@ -54150,22 +54141,20 @@ msgstr ""
 "style>, erhöht die {0} um <b>{1}</b>."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.TINKER_REQUIREMENT_NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.TINKER_REQUIREMENT_NAME"
 msgid "Skill: <link=\"TECHNICALS2\">Electrical Engineering</link>"
-msgstr "Fertigkeit: <link=\"POWERTECHNICIAN\">Elektro-Technik</link>"
+msgstr "Fertigkeit: <link=\"TECHNICALS2\">Elektro-Technik</link>"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.TINKER_REQUIREMENT_TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.TINKER_REQUIREMENT_TOOLTIP"
 msgid ""
 "Can only be used by a Duplicant with <link=\"TECHNICALS2\">Electrical "
 "Engineering</link> to apply a <style=\"KKeyword\">Tune Up</style>."
 msgstr ""
-"Kann nur von einem Duplikanten mit <link=\"POWERTECHNICIAN\">Elektro-Technik</"
-"link> verwendet werden, um eine <style=\"KKeyword\">Feinabstimmung</style> "
+"Kann nur von einem Duplikanten mit <link=\"TECHNICALS2\">Elektro-Technik</link> "
+"verwendet werden, um eine <style=\"KKeyword\">Feinabstimmung</style> "
 "durchzuführen."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.REFINED_SUGAR.DESC
@@ -54282,7 +54271,6 @@ msgid "Serum Vial"
 msgstr "Serumphiole"
 
 #. STRINGS.ITEMS.PILLS.ADVANCEDCURE.RECIPEDESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.PILLS.ADVANCEDCURE.RECIPEDESC"
 msgid ""
 "An extremely powerful medication created to treat severe <link=\"DISEASE"
@@ -54296,8 +54284,8 @@ msgstr ""
 "\">Krankheiten</link>. Serumphiolen sind sehr wirksam gegen <link="
 "\"SLIMESICKNESS\">Schleimlunge</link>.\n"
 "\n"
-"Muss von einem Duplikanten mit der Fertigkeit <link=\"MEDIC\">fortschrittliche "
-"medizinische Versorgung</link> verwaltet werden."
+"Muss von einem Duplikanten mit der Fertigkeit <link="
+"\"MEDICINE3\">fortschrittliche medizinische Versorgung</link> verwaltet werden."
 
 #. STRINGS.ITEMS.PILLS.ANTIHISTAMINE.DESC
 msgctxt "STRINGS.ITEMS.PILLS.ANTIHISTAMINE.DESC"
@@ -54429,7 +54417,6 @@ msgid "Medical Pack"
 msgstr "Medizin-Packung"
 
 #. STRINGS.ITEMS.PILLS.INTERMEDIATECURE.RECIPEDESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.PILLS.INTERMEDIATECURE.RECIPEDESC"
 msgid ""
 "A doctor-administered cure for moderate <link=\"DISEASE\">Diseases</link>. "
@@ -54443,8 +54430,8 @@ msgstr ""
 "\">Erkrankungen</link>. Medizin-Packungen sind sehr effektiv gegen die <link="
 "\"SLIMESICKNESS\">Schleimlunge</link>.\n"
 "\n"
-"Muss von einem Duplikanten mit der <link=\"ROLES\">Fertigkeit</link> \"Umgang "
-"mit Kranken\" verabreicht werden."
+"Muss von einem Duplikanten mit der <link=\"MEDICINE2\">Fertigkeit</link> "
+"\"Umgang mit Kranken\" verabreicht werden."
 
 #. STRINGS.ITEMS.PILLS.INTERMEDIATERADPILL.DESC
 msgctxt "STRINGS.ITEMS.PILLS.INTERMEDIATERADPILL.DESC"
@@ -56920,7 +56907,6 @@ msgid "Pending Wrangle"
 msgstr "Einfangen ausstehend"
 
 #. STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP"
 msgid ""
 "Waiting for a Duplicant to capture this <style=\"KKeyword\">Critter</style>\n"
@@ -56931,8 +56917,8 @@ msgstr ""
 "Wartet auf einen Duplikanten, um dieses <style=\"KKeyword\">Tier</style> zu "
 "fangen\n"
 "------------------\n"
-"Nur Duplikanten mit der <link=\"RANCHER\">Viehzüchter I</link>-Fertigkeit "
-"können Tier ohne Fallen fangen"
+"Nur Duplikanten mit der <link=\"RANCHING1\">Viehzüchter-I</link>-Fertigkeit "
+"können Tiere ohne Fallen fangen"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.NAME"
@@ -65305,7 +65291,6 @@ msgstr ""
 "{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING"
 msgid ""
 "Reduces the <style=\"KKeyword\">Temperature</style> of piped <style=\"KKeyword"
@@ -65421,7 +65406,6 @@ msgstr ""
 "    • Wärmeleitfähigkeit"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
 msgid ""
 "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
@@ -65439,7 +65423,6 @@ msgstr ""
 "<b>{0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER"
 msgid ""
 "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword"
@@ -81152,7 +81135,6 @@ msgid "Glimmering Asteroid Field"
 msgstr "Schimmerndes Asteroidenfeld"
 
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.HELIUMCLOUD.DESC
-#, fuzzy
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.HELIUMCLOUD.DESC"
 msgid ""
 "A cloud of resources containing <link=\"WATER\">Water</link> and <link="
@@ -81161,8 +81143,8 @@ msgid ""
 "Harvesting resources requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
-"Eine Wolke von Ressourcen, die <link=\"WATER\">Wasser</link>, <link=\"HYDROGEN"
-"\">Wasserstoff</link> und <link=\"NIOBIUM\">Niobium</link> enthält.\n"
+"Eine Wolke von Ressourcen, die <link=\"WATER\">Wasser</link> und <link="
+"\"HYDROGEN\">Wasserstoff</link> enthält.\n"
 "\n"
 "Zum Sammeln der Ressourcen wird eine Rakete benötigt, die mit einem <link="
 "\"NOSECONEHARVEST\">Bohrkegel</link> ausgestattet ist."
@@ -82527,7 +82509,6 @@ msgid "Pilot boarded"
 msgstr "Pilot ist an Bord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.FAILURE
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.FAILURE"
 msgid ""
 "At least one crew member aboard the rocket must possess the <link="
@@ -82537,20 +82518,19 @@ msgid ""
 "the module's hatch"
 msgstr ""
 "Mindestens ein Besatzungsmitglied an Bord der Rakete muss die Fähigkeit <link="
-"\"PILOT\">Raketensteuerung</link> besitzen, um zu starten\n"
+"\"ROCKETPILOTING1\">Raketensteuerung</link> besitzen, um zu starten\n"
 "------------------\n"
 "Qualifizierte Duplikanten müssen der Raketenbesatzung zugewiesen werden und "
 "Zugang zur Luke des Moduls haben"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.READY
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.READY"
 msgid ""
 "A Duplicant with the <link=\"ROCKETPILOTING1\">Rocket Piloting</link> skill is "
 "currently onboard"
 msgstr ""
-"Ein Duplikant mit der Fertigkeit <link=\"PILOT\">Raketensteuerung</link> ist "
-"derzeit an Bord"
+"Ein Duplikant mit der Fertigkeit <link=\"ROCKETPILOTING1\">Raketensteuerung</"
+"link> ist derzeit an Bord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING"
@@ -90912,16 +90892,14 @@ msgid "Magma Channels"
 msgstr "Magmakanäle"
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION"
 msgid "Metallic caves description"
-msgstr "Fehlende Rezeptbeschreibung"
+msgstr "Metallhöhlen-Beschreibung"
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.NAME"
 msgid "Metallic Caves"
-msgstr "Metallisch"
+msgstr "Metallhöhlen"
 
 #. STRINGS.WORLD_TRAITS.METAL_POOR.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.METAL_POOR.DESCRIPTION"
@@ -90986,18 +90964,16 @@ msgstr ""
 "<i>Diese Welt ist beständig und hat keine ungewöhnlichen Eigenschaften.</i>"
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION"
 msgid ""
 "Deposits of <link=\"URANIUMORE\">Uranium Ore</link> are found in this world's "
 "crust."
-msgstr "<link=\"URANIUMORE\">Uranerz</link>"
+msgstr "In der Kruste gibt es Vorkommen von <link=\"URANIUMORE\">Uranerz</link>."
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME"
 msgid "Radioactive Crust"
-msgstr "Radioaktiver Komet"
+msgstr "Radioaktive Kruste"
 
 #. STRINGS.WORLD_TRAITS.SLIME_SPLATS.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.SLIME_SPLATS.DESCRIPTION"
