@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-27 21:39+0200\n"
+"PO-Revision-Date: 2021-09-28 22:02+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -4060,7 +4060,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.NAME"
 msgid "Babbling to no one."
-msgstr ""
+msgstr "Mit niemandem plaudernd."
 
 #. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.BABBLE.TOOLTIP"
@@ -4070,7 +4070,7 @@ msgstr "{Duplicant} musste sich nur bei niemandem Luft machen."
 #. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO"
 msgid "Talking to {Duplicant} on {Asteroid}"
-msgstr ""
+msgstr "Im Gespräch mit {Duplicant} auf {Asteroid}"
 
 #. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO_NUM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO_NUM"
@@ -41502,7 +41502,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.THRIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.THRIVER.NAME"
 msgid "Clutchy"
-msgstr ""
+msgstr "Umklammert"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.THRIVER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.THRIVER.TOOLTIP"
@@ -45998,21 +45998,23 @@ msgid ""
 "This Duplicant glows green with radiation, but has increased radiation "
 "resistance."
 msgstr ""
+"Dieser Duplikant leuchtet unter Strahlung grün, hat aber eine erhöhte "
+"Strahlungsresistenz."
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME"
 msgid "Glow Stick"
-msgstr ""
+msgstr "Glühstäbchen"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC"
 msgid "Emits low amounts of radiation and light"
-msgstr ""
+msgstr "Emittiert geringe Mengen an Strahlung und Licht"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP"
 msgid "Emits low amounts of radiation and light"
-msgstr ""
+msgstr "Emittiert geringe Mengen an Strahlung und Licht"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC"
@@ -47041,7 +47043,7 @@ msgstr "Dieser Duplikant bevorzugt einsame Beschäftigungen"
 #. STRINGS.DUPLICANTS.TRAITS.LONER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.NAME"
 msgid "Loner"
-msgstr ""
+msgstr "Eigenbrötler"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC"
@@ -47431,7 +47433,7 @@ msgstr "Sternäugig"
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC"
 msgid "Morale bonus while in space"
-msgstr ""
+msgstr "Moralbonus im Weltraum"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC_TOOLTIP"
@@ -90870,12 +90872,12 @@ msgstr "Irreguläres Öl"
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION"
 msgid "This world has a lush forest core."
-msgstr ""
+msgstr "Diese Welt hat einen üppigen Waldkern."
 
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.NAME"
 msgid "Lush Core"
-msgstr ""
+msgstr "Üppiger Kern"
 
 #. STRINGS.WORLD_TRAITS.MAGMA_VENTS.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.MAGMA_VENTS.DESCRIPTION"
