@@ -1312,13 +1312,15 @@ msgstr ""
 "Genesende Duplikanten müssen <style=\"KKeyword\">Nahrung</style> innerhalb von "
 "{0} Feldern zur Verfügung haben"
 
-#. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLINGn.NAME
-msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLINGn.NAME"
+#. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME"
 msgid "Cooling Contents: {UsedPower}"
 msgstr "Kühlt Inhalt: {UsedPower}"
 
-#. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLINGn.TOOLTIP
-msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLINGn.TOOLTIP"
+#. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP"
 msgid ""
 "{UsedPower} of {MaxPower} are being used to cool the contents of this food "
 "storage"
@@ -4931,6 +4933,7 @@ msgstr ""
 "Super-Computer schalten höhere Technologiestufen als Forschungsstationen frei."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCH\">Advanced Research</link> to unlock new "
@@ -4938,8 +4941,8 @@ msgid ""
 "\n"
 "Consumes <link=\"WATER\">Water</link>.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"JUNIORRESEARCHER\">Advanced "
-"Research</link> skill."
+"Assigned Duplicants must possess the <link=\"RESEARCHING1\">Advanced Research</"
+"link> skill."
 msgstr ""
 "Führt <link=\"RESEARCH\">fortgeschrittene Forschung</link> für verbesserte "
 "Technologien aus.\n"
@@ -5195,12 +5198,13 @@ msgstr ""
 "zu steuern."
 
 #. STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.EFFECT"
 msgid ""
-"Trains Duplicants to become <link=\"ASTRONAUT\">Astronauts</link>.\n"
+"Trains Duplicants to become <link=\"ROCKETPILOTING1\">Astronaut</link>.\n"
 "\n"
-"Duplicants must possess the <link=\"ASTRONAUTTRAINEE\">Astronaut-in-Training</"
-"link> trait to receive training."
+"Duplicants must possess the <link=\"ROCKETPILOTING1\">Astronaut</link> trait to "
+"receive training."
 msgstr ""
 "Trainiert Duplikanten, um <link=\"ASTRONAUT\">Astronauten</link> zu werden.\n"
 "\n"
@@ -5975,12 +5979,13 @@ msgstr ""
 "Raketenreisen zu anderen Welten."
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPE.EFFECT"
 msgid ""
 "Reveals visitable Planetoids in space.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"SENIORRESEARCHER\">Astronomy</"
-"link> skill.\n"
+"Assigned Duplicants must possess the <link=\"ASTRONOMY\">Astronomy</link> "
+"skill.\n"
 "\n"
 "Building must be exposed to space to function."
 msgstr ""
@@ -6092,9 +6097,10 @@ msgstr ""
 "zu steuern."
 
 #. STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.EFFECT"
 msgid ""
-"Contains passenger seating for Duplicant <link=\"ASTRONAUT\">Astronauts</"
+"Contains passenger seating for Duplicant <link=\"ASTRONAUTING1\">Astronauts</"
 "link>.\n"
 "\n"
 "A Command Capsule must be the last module installed at the top of a rocket."
@@ -6235,6 +6241,7 @@ msgstr ""
 "Orten."
 
 #. STRINGS.BUILDINGS.PREFABS.COSMICRESEARCHCENTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.COSMICRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCH\">Interstellar Research</link> to unlock new "
@@ -6243,8 +6250,7 @@ msgid ""
 "Consumes data from <link=\"TELESCOPE\">Telescopes</link> and <link="
 "\"RESEARCHMODULE\">Research Modules</link>.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"SENIORRESEARCHER\">Astronomy</"
-"link> skill."
+"Assigned Duplicants must possess the <link=\"ASTRONOMY\">Astronomy</link> skill."
 msgstr ""
 "Führt <link=\"RESEARCH\">Interstellare Forschung</link> durch, um neue "
 "Technologien zu erschließen.\n"
@@ -6753,12 +6759,13 @@ msgstr ""
 "Eiern aufrechterhalten."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT"
 msgid ""
 "Incubates <link=\"CRITTERS\">Critter</link> eggs until ready to hatch.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"RANCHER\">Critter Wrangling</link> "
-"trait."
+"Assigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</"
+"link> ."
 msgstr ""
 "Bebrütet die Eier von <link=\"CRITTERS\">Tieren</link>, bis diese schlüpfen "
 "können.\n"
@@ -6923,12 +6930,13 @@ msgid "This station only has an effect on crops grown within the same room."
 msgstr "Diese Station wirkt nur auf Pflanzen, die im selben Raum angebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMSTATION.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMSTATION.EFFECT"
 msgid ""
 "Produces <link=\"FARMSTATIONTOOLS\">Micronutrient Fertilizer</link> to increase "
 "<link=\"PLANTS\">Plant</link> growth rates.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"FARMER\">Crop Tending</link> "
+"Assigned Duplicants must possess the <link=\"FARMING2\">Crop Tending</link> "
 "trait.\n"
 "\n"
 "This building is a necessary component of the Greenhouse room."
@@ -8726,9 +8734,10 @@ msgstr ""
 "nach Bedarf zu kühlen."
 
 #. STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.EFFECT"
 msgid ""
-"Uses <link=\"ICE\">Ice</link> to dissipate a small amount of the <link=\"HEAT"
+"Uses <link=\"ICEORE\">Ice</link> to dissipate a small amount of the <link=\"HEAT"
 "\">Heat</link>."
 msgstr ""
 "Verwendet <link=\"ICE\">Eis</link>, um eine kleine Menge <link=\"HEAT\">Wärme</"
@@ -10949,6 +10958,55 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHAMMER.NAME"
 msgid "<link=\"LOGICHAMMER\">Hammer</link>"
 msgstr "<link=\"LOGICHAMMER\">Hammer</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.DESC
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.DESC"
+msgid "Radbolt sensors can send a signal when a Radbolt passes over them."
+msgstr ""
+"Leistungssensoren können ein Signal senden, wenn ein Gebäude ein- oder "
+"ausgeschaltet wurde."
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.EFFECT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.EFFECT"
+msgid ""
+"Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style="
+"\"logic_off\">Red Signal</style></b> when Radbolts detected enters the chosen "
+"range."
+msgstr ""
+"Sendet ein <b><style=\"logic_on\">grünes</style></b> oder ein <b><style="
+"\"logic_off\">rotes Signal</style></b>, wenn die verbrauchte <link=\"POWER"
+"\">Leistung</link> den gewählten Bereich erreicht."
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT"
+msgid "Detected Radbolts"
+msgstr "Keine Teilchenblitze emittieren"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_ACTIVE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_ACTIVE"
+msgid ""
+"Sends a <b><style=\"logic_on\">Green Signal</style></b> if detected Radbolts "
+"are within the selected range"
+msgstr ""
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn der Gasdruck "
+"innerhalb des gewählten Bereichs liegt"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_INACTIVE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr ""
+"Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.NAME"
+msgid "<link=\"LOGICHEPSENSOR\">Radbolt Sensor</link>"
+msgstr "<link=\"LOGICWATTSENSOR\">Leistungssensor</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.DESC"
 msgid "Receives automation signals from space."
@@ -12827,15 +12885,16 @@ msgid "Comes with a few ions thrown in, free of charge."
 msgstr "Ein paar Ionen werden kostenlos mitgeliefert."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT"
 msgid ""
-"Conducts <link=\"RESEARCHDCL1\">Materials Science Research</link> to unlock new "
+"Conducts <link=\"RESEARCHDLC1\">Materials Science Research</link> to unlock new "
 "technologies.\n"
 "\n"
 "Consumes Radbolts.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"ATOMICRESEARCHER\">Materials "
-"Science Research</link> skill."
+"Assigned Duplicants must possess the <link=\"ATOMICRESEARCH\">Materials Science "
+"Research</link> skill."
 msgstr ""
 "Führt <link=\"RESEARCHDCL1\">Materialwissenschaftliche Forschung</link> durch, "
 "um neue Technologien freizuschalten.\n"
@@ -12846,8 +12905,9 @@ msgstr ""
 "\">Materialwissenschaftliche Forschung</link> verfügen."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME"
-msgid "<link=\"NUCLEARLABORATORY\">Materials Study Terminal</link>"
+msgid "<link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link>"
 msgstr "<link=\"NUCLEARLABORATORY\">Materialstudienterminal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OBJECTDISPENSER.DESC
@@ -12966,6 +13026,7 @@ msgstr ""
 "durch."
 
 #. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCHDLC1\">Interstellar Research</link> to unlock new "
@@ -12974,7 +13035,7 @@ msgid ""
 "Consumes <link=\"POLYPROPYLENE\">Plastic</link> and <link=\"POWER\">Power</"
 "link>.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"COSMICRESEARCHER\">Orbital "
+"Assigned Duplicants must possess the <link=\"SPACERESEARCH\">Orbital "
 "Researcher</link> skill."
 msgstr ""
 "Führt <link=\"RESEARCHDLC1\">Interstellare Forschung</link> durch, um neue "
@@ -13560,12 +13621,13 @@ msgid "Only one Duplicant may be assigned to a station at a time."
 msgstr "Nur ein Duplikant kann gleichzeitig einer Station zugewiesen werden."
 
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.EFFECT"
 msgid ""
 "Produces <link=\"POWERSTATIONTOOLS\">Microchip</link> to increase the <link="
 "\"POWER\">Power</link> output of generators.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"POWERTECHNICIAN\">Tune Up</link> "
+"Assigned Duplicants must possess the <link=\"TECHNICALS2\">Tune Up</link> "
 "trait.\n"
 "\n"
 "This building is a necessary component of the Power Plant room."
@@ -14387,13 +14449,14 @@ msgstr ""
 "produzieren mehr."
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT"
 msgid ""
 "Allows the assigned <link=\"RANCHER\">Rancher</link> to care for <link="
 "\"CRITTERS\">Critters</link>.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"RANCHER\">Critter Wrangling</link> "
-"trait.\n"
+"Assigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</"
+"link> skill.\n"
 "\n"
 "This building is a necessary component of the Stable room."
 msgstr ""
@@ -14626,12 +14689,14 @@ msgstr ""
 "Bildschirmschoner angeht."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT"
 msgid ""
 "Allows Duplicants to use pilot-operated rockets and control access to interior "
 "buildings.\n"
 "\n"
-"Assigned Duplicants must have the <link=\"PILOT\">Rocket Piloting</link> skill."
+"Assigned Duplicants must have the <link=\"ROCKETPILOTING1\">Rocket Piloting</"
+"link> skill."
 msgstr ""
 "Erlaubt es den Duplikanten, Raketen zu steuern und die Kontrolle des Zugangs zu "
 "Gebäuden im Inneren.\n"
@@ -16697,12 +16762,13 @@ msgstr ""
 "durchzuführen."
 
 #. STRINGS.BUILDINGS.PREFABS.TELESCOPE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELESCOPE.EFFECT"
 msgid ""
 "Maps Starmap destinations.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"RESEARCHER\">Field Research</link> "
-"skill.\n"
+"Assigned Duplicants must possess the <link=\"RESEARCHING2\">Field Research</"
+"link> skill.\n"
 "\n"
 "Building must be exposed to space to function."
 msgstr ""
@@ -17095,13 +17161,14 @@ msgid "The tubes at the back disappear into nowhere."
 msgstr "Die Rohre auf der Rückseite verschwinden im Nichts."
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.EFFECT"
 msgid ""
 "A machine capable of teleporting <link=\"ELEMENTSLIQUID\">Liquid</link>, <link="
 "\"ELEMENTSSOLID\">Solid</link>, and <link=\"ELEMENTSGAS\">Gas</link> resources "
 "to another asteroid.\n"
 "\n"
-"It can be activated by a Duplicant with the <link=\"RESEARCHER\">Field "
+"It can be activated by a Duplicant with the <link=\"RRESEARCHING2\">Field "
 "Research</link> skill.\n"
 "\n"
 "This is the receiving side."
@@ -17126,13 +17193,14 @@ msgid "The tubes at the back disappear into nowhere."
 msgstr "Die Rohre auf der Rückseite verschwinden im Nichts."
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.EFFECT"
 msgid ""
 "A machine capable of teleporting <link=\"ELEMENTSLIQUID\">Liquid</link>, <link="
 "\"ELEMENTSSOLID\">Solid</link>, and <link=\"ELEMENTSGAS\">Gas</link> resources "
 "to another asteroid.\n"
 "\n"
-"It can be activated by a Duplicant with the <link=\"RESEARCHER\">Field "
+"It can be activated by a Duplicant with the <link=\"RESEARCHING2\">Field "
 "Research</link> skill.\n"
 "\n"
 "This is the transmitting side."
@@ -26626,6 +26694,7 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3
+#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3"
 msgid ""
 "Advanced research tasks require special research stations to generate the "
@@ -26641,7 +26710,7 @@ msgid ""
 "Computer</link>\n"
 "Interstellar Research is performed at the <link=\"ORBITALRESEARCHCENTER"
 "\">Orbital Microlab</link>\n"
-"Materials Science Research is performed at the <link=\"NUCLEARLABORATORY"
+"Materials Science Research is performed at the <link=\"NUCLEARRESEARCHCENTER"
 "\">Materials Study Terminal</link>\n"
 "\n"
 msgstr ""
@@ -42769,9 +42838,10 @@ msgid "<link=\"NOROLE\">Unemployed</link>"
 msgstr "<link=\"NOROLE\">Arbeitslos</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.DESCRIPTION"
 msgid ""
-"Enables Duplicants to study matter using the <link=\"NUCLEARLABORATORY"
+"Enables Duplicants to study matter using the <link=\"NUCLEARRESEARCHCENTER"
 "\">Materials Study Terminal</link>"
 msgstr ""
 "Ermöglicht Duplikanten Materie am <link=\"NUCLEARLABORATORY"
@@ -46839,9 +46909,10 @@ msgstr ""
 "ohne den Nachteil der erhöhten <style=\"KKeyword\">Moralanforderungen</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.DESC"
 msgid ""
-"Enables Duplicants to study matter using the <link=\"NUCLEARLABORATORY"
+"Enables Duplicants to study matter using the <link=\"NUCLEARRESEARCHCENTER"
 "\">Materials Study Terminal</link>"
 msgstr ""
 "Ermöglicht Duplikanten Materie am <link=\"NUCLEARLABORATORY"
@@ -47046,9 +47117,10 @@ msgid "Loner"
 msgstr "Eigenbrötler"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC"
-msgid "Attribute bonuses while alone"
-msgstr "Attributboni, wenn man allein ist"
+msgid "Attribute bonuses while <style=\"KKeyword\">Alone</style>"
+msgstr "Muss sich in einem <style=\"KKeyword\">Raum</style> befinden"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP"
@@ -47288,6 +47360,28 @@ msgstr "Die Arme des Duplikanten haben die Zugfestigkeit von verkochten Nudeln"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
 msgid "Noodle Arms"
 msgstr "Nudelarme"
+
+#. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC"
+msgid "This Duplicant can convert Radiation exposure into Calories."
+msgstr "Dieser Duplikant kann nicht an seinem aktuellen Standort atmen"
+
+#. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME"
+msgid "Radiation Eater"
+msgstr "Entwicklungsstrahlungsemitter"
+
+#. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC
+msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC"
+msgid "Converts Radiation exposure into Calories"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP"
+msgid "Converts Radiation exposure into Calories"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC"
@@ -57355,9 +57449,10 @@ msgid "Combustible Gas"
 msgstr "Brennbares Gas"
 
 #. STRINGS.MISC.TAGS.COMBUSTIBLELIQUID
+#, fuzzy
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLELIQUID"
-msgid "Combustible Liquid"
-msgstr "Brennbare Flüssigkeit"
+msgid "<link=\"COMBUSTIBLELIQUID\">Combustible Liquid</link>"
+msgstr "<link=\"ELEMENTSLIQUID\">Flüssigkeiten</link>"
 
 #. STRINGS.MISC.TAGS.COMBUSTIBLESOLID
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLESOLID"
@@ -57377,9 +57472,10 @@ msgid "{Item}"
 msgstr "{Item}"
 
 #. STRINGS.MISC.TAGS.COMPOSTABLE
+#, fuzzy
 msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE"
-msgid "Compostable"
-msgstr "Kompostierbar"
+msgid "<link=\"COMPOSTABLE\">Compostable</link>"
+msgstr "<link=\"COMPOST\">Kompost</link>"
 
 #. STRINGS.MISC.TAGS.COMPOSTBASICPLANTFOOD
 msgctxt "STRINGS.MISC.TAGS.COMPOSTBASICPLANTFOOD"
@@ -57477,9 +57573,10 @@ msgid "Farm Station"
 msgstr "Landwirt­schafts-Station"
 
 #. STRINGS.MISC.TAGS.FILTER
+#, fuzzy
 msgctxt "STRINGS.MISC.TAGS.FILTER"
-msgid "Filtration Medium"
-msgstr "Filtermaterial"
+msgid "<link=\"FILTER\">Filtration Medium</link>"
+msgstr "<link=\"ADVANCEDFILTRATION\">Filtration</link>"
 
 #. STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE
 msgctxt "STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE"
@@ -57502,9 +57599,10 @@ msgid "Habitat Module"
 msgstr "Habitat-Modul"
 
 #. STRINGS.MISC.TAGS.ICEORE
+#, fuzzy
 msgctxt "STRINGS.MISC.TAGS.ICEORE"
-msgid "Ice"
-msgstr "Eis"
+msgid "<link=\"ICEORE\">Ice</link>"
+msgstr "<link=\"ICE\">Eis</link>"
 
 #. STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT"
@@ -57677,9 +57775,10 @@ msgid "Precious Metal Ore"
 msgstr "Edelmetallerz"
 
 #. STRINGS.MISC.TAGS.REFINEDMETAL
+#, fuzzy
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
-msgid "Refined Metal"
-msgstr "Veredeltes Metall"
+msgid "<link=\"REFINEDMETAL\">Refined Metal</link>"
+msgstr "<link=\"REFINEDCARBON\">Veredelter Kohlenstoff</link>"
 
 #. STRINGS.MISC.TAGS.RELAXATION_POINT
 msgctxt "STRINGS.MISC.TAGS.RELAXATION_POINT"
@@ -62101,12 +62200,13 @@ msgid "Unlocks improved technologies."
 msgstr "Schaltet verbesserte Technologien frei."
 
 #. STRINGS.RESEARCH.TYPES.DELTA.DESC
+#, fuzzy
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.DESC"
 msgid ""
 "<link=\"RESEARCH\">Materials Science Research</link> is required to unlock "
 "materials science technologies.\n"
-"It can be conducted at a <link=\"NUCLEARLABORATORY\">Materials Study Terminal</"
-"link>."
+"It can be conducted at a <link=\"NUCLEARRESEARCHCENTER\">Materials Study "
+"Terminal</link>."
 msgstr ""
 "<link=\"RESEARCH\">Materialwissenschaftliche Forschung</link> wird für die "
 "Freischaltung von materialwissenschaftliche Technologien benötigt.\n"
@@ -66383,6 +66483,12 @@ msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTS"
 msgid "<link=\"ELEMENTS\">Elements</link>"
 msgstr "<link=\"ELEMENTS\">Elemente</link>"
 
+#. STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTSCLASSES
+#, fuzzy
+msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTSCLASSES"
+msgid "<link=\"ELEMENTSCLASSES\">Classes</link>"
+msgstr "<link=\"ELEMENTSGAS\">Gase</link>"
+
 #. STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTSGAS
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTSGAS"
 msgid "<link=\"ELEMENTSGAS\">Gases</link>"
@@ -68848,6 +68954,12 @@ msgstr "RAKETENTECHNIK"
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
 msgid "STATUS"
 msgstr "STATUS"
+
+#. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_WORLDTRAITS
+#, fuzzy
+msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_WORLDTRAITS"
+msgid "WORLD TRAITS"
+msgstr "EIGENSCHAFTEN"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
@@ -78581,8 +78693,9 @@ msgid "This job comes with no training"
 msgstr "Dieser Beruf benötigt keine Ausbildung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.NUCLEAR_RESEARCH.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.NUCLEAR_RESEARCH.DESCRIPTION"
-msgid "<link=\"NUCLEARLABORATORY\">Materials Study Terminal</link> Usage"
+msgid "<link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link> Usage"
 msgstr "<link=\"NUCLEARLABORATORY\">Materialstudienterminal</link> Verwendung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION
@@ -85890,6 +86003,12 @@ msgctxt "STRINGS.UI.UISIDESCREENS.HARVESTMODULESIDESCREEN.TITLE"
 msgid "Resource Gathering"
 msgstr "Ressourcen werden abgebaut"
 
+#. STRINGS.UI.UISIDESCREENS.HEPSWITCHSIDESCREEN.TITLE
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.HEPSWITCHSIDESCREEN.TITLE"
+msgid "Radbolt Threshold"
+msgstr "Teilchenblitz-Schwellenwert"
+
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_E
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_E"
@@ -87930,6 +88049,32 @@ msgstr ""
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_UNITS"
 msgid ""
 msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.HEPS
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.HEPS"
+msgid "Radbolt Reading"
+msgstr "Teilchenblitz-Erzeugung"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.HEPS_TOOLTIP_ABOVE
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.HEPS_TOOLTIP_ABOVE"
+msgid ""
+"Will send a <b><style=\"logic_on\">Green Signal</style></b> if the <style="
+"\"KKeyword\">Radbolts</style> is above <b>{0}</b>"
+msgstr ""
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn der <style="
+"\"KKeyword\">Druck</style> über <b>{0}</b> ist"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.HEPS_TOOLTIP_BELOW
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.HEPS_TOOLTIP_BELOW"
+msgid ""
+"Will send a <b><style=\"logic_on\">Green Signal</style></b> if the <style="
+"\"KKeyword\">Radbolts</style> is below <b>{0}</b>"
+msgstr ""
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn der <style="
+"\"KKeyword\">Druck</style> unter <b>{0}</b> ist"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE"
@@ -90964,6 +91109,11 @@ msgid "<i>This world is stable and has no unusual features.</i>"
 msgstr ""
 "<i>Diese Welt ist beständig und hat keine ungewöhnlichen Eigenschaften.</i>"
 
+#. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND
+msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND"
+msgid "No unusal features"
+msgstr ""
+
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION"
 msgid ""
@@ -91852,3 +92002,27 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
 msgstr "Wasser-Asteroid"
+
+#~ msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC"
+#~ msgid "Attribute bonuses while alone"
+#~ msgstr "Attributboni, wenn man allein ist"
+
+#~ msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLELIQUID"
+#~ msgid "Combustible Liquid"
+#~ msgstr "Brennbare Flüssigkeit"
+
+#~ msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE"
+#~ msgid "Compostable"
+#~ msgstr "Kompostierbar"
+
+#~ msgctxt "STRINGS.MISC.TAGS.FILTER"
+#~ msgid "Filtration Medium"
+#~ msgstr "Filtermaterial"
+
+#~ msgctxt "STRINGS.MISC.TAGS.ICEORE"
+#~ msgid "Ice"
+#~ msgstr "Eis"
+
+#~ msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
+#~ msgid "Refined Metal"
+#~ msgstr "Veredeltes Metall"
