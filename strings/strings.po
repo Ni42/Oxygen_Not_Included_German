@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-30 22:26+0200\n"
+"PO-Revision-Date: 2021-10-01 20:47+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -4075,7 +4075,7 @@ msgstr "Im Gespräch mit {Duplicant} auf {Asteroid}"
 #. STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO_NUM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TELEPHONE.CONVERSATION.TALKING_TO_NUM"
 msgid "Talking to {0} friends."
-msgstr ""
+msgstr "Spricht mit {0} Freunden."
 
 #. STRINGS.BUILDING.STATUSITEMS.TEMPORAL_TEAR_OPENER_INSUFFICIENT_COLONIES.NAME
 msgctxt ""
@@ -47346,12 +47346,12 @@ msgstr "Strahlenschlucker"
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC"
 msgid "Converts Radiation exposure into Calories"
-msgstr ""
+msgstr "Wandelt die Strahlenbelastung in Kalorien um"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP"
 msgid "Converts Radiation exposure into Calories"
-msgstr ""
+msgstr "Wandelt die Strahlenbelastung in Kalorien um"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC"
@@ -91069,7 +91069,7 @@ msgstr ""
 #. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND
 msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND"
 msgid "No unusal features"
-msgstr ""
+msgstr "Keine ungewöhnlichen Merkmale"
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION"
