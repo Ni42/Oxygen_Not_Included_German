@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-09-30 19:13+0200\n"
+"PO-Revision-Date: 2021-10-01 20:47+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -32143,7 +32143,7 @@ msgid ""
 "It will produce high quality <link=\"WORMSUPERFRUIT\">Grubfruits</link>."
 msgstr ""
 "Wühlfruchtpflanze, die gedeiht, nachdem sie von einem <link=\"DIVERGENTSPECIES"
-"\">Divergent</link> Tier gepflegt wurde.\n"
+"\">Divergent</link>-Tier gepflegt wurde.\n"
 "\n"
 "Sie produziert qualitativ hochwertige <link=\"WORMSUPERFRUIT\">Wühlfrüchte</"
 "link>."
@@ -33926,9 +33926,9 @@ msgid ""
 "This seed carries some unexpected genetic markers. Analyze it at the <link="
 "\"GENETICANALYSISSTATION\">Botanical Analyzer</link> to learn its secrets."
 msgstr ""
-"Dieser Samen trägt einige unerwartete genetische Marker. Analysieren Sie ihn "
-"mit dem <link=\"GENETICANALYSISSTATION\">Botanischen Analysator</link>, um "
-"seine Geheimnisse zu erfahren."
+"Dieser Samen trägt einige unerwartete genetische Marker. Analysiere ihn mit dem "
+"<link=\"GENETICANALYSISSTATION\">Botanischen Analysator</link>, um seine "
+"Geheimnisse zu erfahren."
 
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME"
@@ -69113,8 +69113,8 @@ msgstr ""
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.TUTORIAL_DISABLED"
 msgid "Click to enable this diagnostic -  Current State: <b>Tutorial Disabled</b>"
 msgstr ""
-"Klicken Sie hier, um diese Diagnose zu aktivieren - Aktueller Status: "
-"<b>Tutorial deaktiviert</b>"
+"Klicke hier, um diese Diagnose zu aktivieren - Aktueller Status: <b>Tutorial "
+"deaktiviert</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CRITERIA_ENABLED_COUNT
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CRITERIA_ENABLED_COUNT"
@@ -71273,7 +71273,7 @@ msgstr ""
 "Die Testversion dieser Erweiterung erlaubt derzeit keinen Wechsel zum "
 "Basisspiel.\n"
 "\n"
-"Im Moment können Sie den DLC über die DLC-Einstellungen für Oxygen Not Included "
+"Im Moment kannst du den DLC über die DLC-Einstellungen für Oxygen Not Included "
 "in Steam ein- und ausschalten."
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_TESTING_TITLE
@@ -71573,7 +71573,7 @@ msgstr ""
 "style>.\n"
 "\n"
 "Die Synchronisierung von {Client} kann aufgrund dieser Änderung länger als "
-"gewöhnlich dauern, wenn Sie das Spiel das nächste Mal verlassen."
+"gewöhnlich dauern, wenn du das Spiel das nächste Mal verlässt."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL"
@@ -71598,7 +71598,7 @@ msgstr ""
 "Speicherstände.\n"
 "\n"
 "Die Synchronisierung von {Client} kann aufgrund dieser Änderung länger als "
-"gewöhnlich dauern, wenn Sie das Spiel das nächste Mal verlassen."
+"gewöhnlich dauern, wenn du das Spiel das nächste Mal verlässt."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_WARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_WARNING"
@@ -71641,8 +71641,8 @@ msgstr ""
 "\n"
 "<b>{Error}</b>\n"
 "\n"
-"Bitte versuche Sie es noch einmal, oder posten Sie einen Fehler im Forum, falls "
-"dieses Problem weiterhin auftritt."
+"Bitte versuche es noch einmal, oder poste einen Fehler im Forum, falls dieses "
+"Problem weiterhin auftritt."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR_TITLE"
@@ -71766,8 +71766,8 @@ msgid ""
 "Please click the button below to automatically update your save file storage."
 msgstr ""
 "Wir haben den Aufbau der Speicherstände geändert!\n"
-"Bitte klicken Sie auf die Schaltfläche unten, um ihre Speicherstände "
-"automatisch zu aktualisieren."
+"Bitte klicke auf die Schaltfläche unten, um deine Speicherstände automatisch zu "
+"aktualisieren."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT"
@@ -71806,21 +71806,19 @@ msgid ""
 "    1. Try temporarily disabling virus scanners and malware\n"
 "         protection programs."
 msgstr ""
-"    1. Versuchen Sie Virenscanner und Malware-Schutzprogramme\n"
-"         vorübergehend zu deaktivieren.\n"
-"."
+"    1. Versuche Virenscanner und Malware-Schutzprogramme\n"
+"         vorübergehend zu deaktivieren."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM2
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM2"
 msgid "    2. Turn off file sync services such as OneDrive and DropBox."
 msgstr ""
-"    2. Deaktivieren Sie Dateisynchronisierungsdienste wie OneDrive und DropBox."
+"    2. Deaktiviere Dateisynchronisierungsdienste wie OneDrive und DropBox."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM3
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM3"
 msgid "    3. Restart the game to retry file migration."
-msgstr ""
-"    3. Starten Sie das Spiel neu, um die Datei-Migration erneut zu versuchen."
+msgstr "    3. Starte das Spiel neu, um die Datei-Migration erneut zu versuchen."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_POST
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_POST"
@@ -71830,9 +71828,8 @@ msgid ""
 "we will attempt to assist with your issue.</b>"
 msgstr ""
 "\n"
-"<b>Wenn das Problem damit immer noch nicht gelöst ist, posten Sie bitte einen "
-"Fehler in den Foren und wir werden versuchen ihnen bei Ihrem Problem zu helfen."
-"</b>"
+"<b>Wenn das Problem damit immer noch nicht gelöst ist, poste bitte einen Fehler "
+"in den Foren und wir werden versuchen dir bei deinem Problem zu helfen.</b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_PRE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_PRE"
@@ -71916,7 +71913,7 @@ msgstr "{0} Speicherstände  {1} Autosaves  {2}"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TEXT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TEXT"
 msgid "Access your save files using the options below."
-msgstr "Greifen Sie auf ihre Speicherstände mit den folgenden Optionen zu."
+msgstr "Greife auf deine Speicherstände mit den folgenden Optionen zu."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TITLE"
@@ -71926,7 +71923,7 @@ msgstr "SPEICHERINFORMATION"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TOOLTIP"
 msgid "Access your save file locations from here."
-msgstr "Greifen Sie von hier aus auf ihre Speicherorte der Speicherstände zu."
+msgstr "Greife von hier aus auf deine Speicherorte der Speicherstände zu."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT"
@@ -73028,7 +73025,7 @@ msgid ""
 msgstr ""
 "Koordinaten in die Zwischenablage kopieren\n"
 "\n"
-"Teilen Sie die Koordinaten mit einem Freund und er kann eine Kolonie auf einem "
+"Teile die Koordinaten mit einem Freund und er kann eine Kolonie auf einem "
 "identischen Asteroiden gründen!"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_TOOLTIP
@@ -73068,7 +73065,7 @@ msgctxt "STRINGS.UI.FRONTEND.RAILFORCEQUIT.SAVE_EXIT"
 msgid ""
 "Play time has expired and the game is exiting. Would you like to overwrite {0}?"
 msgstr ""
-"Die Spielzeit ist abgelaufen und das Spiel wird beendet. Möchten Sie {0} "
+"Die Spielzeit ist abgelaufen und das Spiel wird beendet. Möchtest du {0} "
 "überschreiben?"
 
 #. STRINGS.UI.FRONTEND.RAILFORCEQUIT.WARN_EXIT
@@ -73323,7 +73320,7 @@ msgstr "Abbestellen"
 #. STRINGS.UI.FRONTEND.SCENARIOS_MENU.UNSUBSCRIBE_CONFIRM
 msgctxt "STRINGS.UI.FRONTEND.SCENARIOS_MENU.UNSUBSCRIBE_CONFIRM"
 msgid "Are you sure you want to unsubscribe from this scenario?"
-msgstr "Möchten Sie dieses Szenario wirklich abbestellen?"
+msgstr "Möchtest du dieses Szenario wirklich abbestellen?"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.AUDIO_DRIVERS
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.AUDIO_DRIVERS"
@@ -82896,7 +82893,7 @@ msgstr "Die Rate mit der dieses Ziel seine Ressourcen regeneriert"
 #. STRINGS.UI.STARMAP.RESEARCH_DESCRIPTION
 msgctxt "STRINGS.UI.STARMAP.RESEARCH_DESCRIPTION"
 msgid "Gather Interstellar Research Data using Research Modules."
-msgstr "Sammeln Sie interstellare Forschungsdaten mit Forschungsmodulen."
+msgstr "Sammle interstellare Forschungsdaten mit Forschungsmodulen."
 
 #. STRINGS.UI.STARMAP.ROCKET_COUNT
 msgctxt "STRINGS.UI.STARMAP.ROCKET_COUNT"
