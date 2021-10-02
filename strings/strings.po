@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-01 20:47+0200\n"
+"PO-Revision-Date: 2021-10-02 12:19+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -8433,21 +8433,20 @@ msgstr ""
 "Raketenmodule hinzugefügt werden können."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.LOGIC_PORT_STORAGE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.LOGIC_PORT_STORAGE"
 msgid "Radbolt Storage"
-msgstr "Teilchenblitzeingang"
+msgstr "Teilchenblitzlager"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.LOGIC_PORT_STORAGE_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.LOGIC_PORT_STORAGE_ACTIVE"
 msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> when its Radbolt "
 "Storage is full"
-msgstr "Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn voll"
+msgstr ""
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn das "
+"Teilchenblitzlager voll ist"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.LOGIC_PORT_STORAGE_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.LOGIC_PORT_STORAGE_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
@@ -17160,7 +17159,6 @@ msgid "The tubes at the back disappear into nowhere."
 msgstr "Die Rohre auf der Rückseite verschwinden im Nichts."
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.EFFECT"
 msgid ""
 "A machine capable of teleporting <link=\"ELEMENTSLIQUID\">Liquid</link>, <link="
@@ -17177,7 +17175,7 @@ msgstr ""
 "Ressourcen auf andere Asteroiden teleportieren kann.\n"
 "\n"
 "Sie kann von einem Duplikanten mit der Fertigkeit <link="
-"\"RRESEARCHING2\">Feldforschung</link> aktiviert werden.\n"
+"\"RESEARCHING2\">Feldforschung</link> aktiviert werden.\n"
 "\n"
 "Dies ist die Empfangsseite."
 
@@ -17696,18 +17694,15 @@ msgid "Large Terra Cluster"
 msgstr "Großer Terra-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a frozen planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem größeren bewaldeten Planetoiden als "
-"Startpunkt."
+"Eine Ansammlung von Planeten mit einem gefrorenen Planetoiden als Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.NAME"
 msgid "Rime Cluster"
-msgstr "Terra-Cluster"
+msgstr "Rime-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION"
@@ -27907,10 +27902,9 @@ msgid "Enter an oil biome for the first time."
 msgstr "Betrete zum ersten Mal ein Ölbiom."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT"
 msgid "First Teleport of Call"
-msgstr "Teleportal"
+msgstr "Erste Teleportation"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT_DESCRIPTION"
@@ -27986,10 +27980,9 @@ msgid "Recover a Database entry by inspecting facility ruins."
 msgstr "Berge einen Datenbankeintrag durch Untersuchung von Anlagenruinen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS"
 msgid "Cluster Conquest"
-msgstr "Anzahl der Tiere"
+msgstr "Cluster-Eroberung"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS_DESCRIPTION
 msgctxt ""
@@ -28012,10 +28005,9 @@ msgstr ""
 "Lasse einen Duplikanten mit der Meisterwerk-Fertigkeit ein Meisterwerk malen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP"
 msgid "Mine the Gap"
-msgstr "Bergbau am Himmel."
+msgstr "Bergbau am Himmel"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP_DESCRIPTION"
@@ -28096,10 +28088,9 @@ msgid "Reduce the temperature of a building to 6 Kelvin."
 msgstr "Reduziere die Temperatur eines beliebigen Gebäudes auf 6 Kelvin."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH"
 msgid "Soft Launch"
-msgstr "Startbereit"
+msgstr "Weicher Start"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH_DESCRIPTION"
@@ -28107,10 +28098,9 @@ msgid "Build a launchpad on a world without a teleporter."
 msgstr ""
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ANALYZE_SEED
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ANALYZE_SEED"
 msgid "Analyze {0} mutant"
-msgstr "Analyse von {0} abgeschlossen"
+msgstr "Analysiere {0}-Mutant"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ARM_PERFORMANCE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ARM_PERFORMANCE"
@@ -28234,10 +28224,9 @@ msgid "Cycle: {0} / {1}"
 msgstr "Zyklus: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT"
 msgid "Defrost a Duplicant."
-msgstr "Muss ein Duplikant sein"
+msgstr "Einen Duplikanten auftauen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME"
@@ -28325,10 +28314,9 @@ msgstr ""
 "Sternenkartenziel gesendet"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MINE_SPACE_POI
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MINE_SPACE_POI"
 msgid "Mined: {0:n} / {1:n} kg"
-msgstr "Distanz: {0:n} m / {1:n} m"
+msgstr "Abgebaut: {0:n} / {1:n} kg"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MORALE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.MORALE"
@@ -28384,10 +28372,9 @@ msgid " or "
 msgstr " oder "
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL"
 msgid "Radbolts travelled: {0:n} m / {1:n} m."
-msgstr "Distanz: {0:n} m / {1:n} m"
+msgstr "Teilchenblitze gereist: {0:n} m / {1:n} m."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES"
@@ -28400,10 +28387,9 @@ msgid "Revealed: {0:0.##}% / {1:0.##}%"
 msgstr "Aufgedeckt: {0:0.##}% / {1:0.##}%"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RUN_A_REACTOR
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RUN_A_REACTOR"
 msgid "Reactor running for cycles: {0} / {1}"
-msgstr "Automatische Räumer übertrafen die Duplikanten an Zyklen: {0} / {1}"
+msgstr "Reaktor läuft für Zyklen: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SKILL_BRANCH
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SKILL_BRANCH"
@@ -28426,10 +28412,9 @@ msgid "Tech researched: {0} / {1}"
 msgstr "Technologie erforscht: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT"
 msgid "Teleport a Duplicant to another world."
-msgstr "Warte auf Duplikant für Automatisierung."
+msgstr "Teleportiere einen Duplikanten in eine andere Welt."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES"
@@ -28459,10 +28444,9 @@ msgid "Reach cycle 100 with at least one living Duplicant."
 msgstr "Erreiche den Zyklus 100 mit mindestens einem lebenden Duplikanten."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET"
 msgid "Morale High Ground"
-msgstr "Mäßige Verletzungen"
+msgstr "Moralische Höchstleistung"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION
 msgctxt ""
@@ -28484,10 +28468,9 @@ msgid "Reach cycle 365.25 with a single colony."
 msgstr "Erreiche den Zyklus 365,25 mit einer einzigen Kolonie."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY"
 msgid "Sweeter Than Honey"
-msgstr "Sweetle-Pflege"
+msgstr "Süßer als Honig"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION
 msgctxt ""
@@ -40580,10 +40563,9 @@ msgstr ""
 "gebastelt damit er kurzfristig schneller läuft"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MAJORIRRITATION.CAUSE
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MAJORIRRITATION.CAUSE"
 msgid "Obtained by exposure to a harsh liquid or gas"
-msgstr "Erhalten durch Berührung heißen Wassers"
+msgstr "Erhalten durch Einwirkung einer aggressiven Flüssigkeit oder eines Gases"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MAJORIRRITATION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MAJORIRRITATION.NAME"
@@ -40759,10 +40741,9 @@ msgstr ""
 "<style=\"KKeyword\">Kalorien</style> verbrennt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MINORIRRITATION.CAUSE
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MINORIRRITATION.CAUSE"
 msgid "Obtained by exposure to a harsh liquid or gas"
-msgstr "Erhalten durch Berührung heißen Wassers"
+msgstr "Erhalten durch Einwirkung einer aggressiven Flüssigkeit oder eines Gases"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MINORIRRITATION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MINORIRRITATION.NAME"
@@ -46258,7 +46239,6 @@ msgid "Glow Stick"
 msgstr "Glühstäbchen"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC"
 msgid "Emits low amounts of rads and light"
 msgstr "Emittiert geringe Mengen an Strahlung und Licht"
@@ -47298,10 +47278,9 @@ msgid "Loner"
 msgstr "Eigenbrötler"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC"
 msgid "Attribute bonuses while alone"
-msgstr "Attributboni bei Stress"
+msgstr "Attributboni, wenn man allein ist"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP"
@@ -57865,10 +57844,9 @@ msgid "Multitool"
 msgstr "Multiwerkzeug"
 
 #. STRINGS.MISC.TAGS.NONCRUSHABLE
-#, fuzzy
 msgctxt "STRINGS.MISC.TAGS.NONCRUSHABLE"
 msgid "Uncrushable"
-msgstr "Zerstoßbar"
+msgstr "Unzerstörbar"
 
 #. STRINGS.MISC.TAGS.OIL
 msgctxt "STRINGS.MISC.TAGS.OIL"
@@ -73057,7 +73035,6 @@ msgid "JOIN THE DISCUSSION"
 msgstr "DISKUTIERE MIT"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid ""
 "Welcome to the <b>UNEXPLAINED TRAITS UPDATE</b>\n"
@@ -73072,17 +73049,16 @@ msgid ""
 "\n"
 "   Check out the full patch notes for more details!"
 msgstr ""
-"Willkommen zum <b>KOSMISCHEN TELEFONIE-UPDATE</b>\n"
+"Willkommen zum <b>UNGEKLÄRTE EIGENSCHAFTEN-UPDATE</b>\n"
 "\n"
 "<b><i>Spaced Out!</i></b>\n"
-"•<indent=20px>Neue Gebäude ermöglichen die Übertragung von "
-"Automatisierungssignalen zwischen Asteroiden.</indent>\n"
-"•<indent=20px>Duplikanten können ihre Moral steigern, indem sie ein Gespräch "
-"über das neue Gemeinschaftstelefon führen.</indent>\n"
-"•<indent=20px>Teilchenblitze können durch einen neuen speziellen Typ von "
-"Wandkacheln hindurchgehen.</indent>\n"
-"•<indent=20px>Geschwindigkeiten und Reichweiten der Raketentriebwerke wurden "
-"neu ausbalanciert.</indent>\n"
+"•<indent=20px>Neue Welteigenschaften zum Weltgenerierungssystem hinzugefügt und "
+"alte Eigenschaften mit Spaced Out kompatibel gemacht!</indent>\n"
+"•<indent=20px>Neue Eigenschaften im Zusammenhang mit Raumfahrt und Strahlung "
+"für Duplikanten hinzugefügt.</indent>\n"
+"•<indent=20px>Hinzugefügt wurden Spaced Out! spezifische Errungenschaften.</"
+"indent>\n"
+"•<indent=20px>Änderungen und Verbesserungen der Codex-Kategorien.</indent>\n"
 "\n"
 "   Schau dir die vollständigen Patchnotizen für weitere Details an!"
 
@@ -91562,7 +91538,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.NAME"
 msgid "Swampy Asteroid"
 msgstr "Sumpfiger Asteroid"
