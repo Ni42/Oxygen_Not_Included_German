@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-02 12:19+0200\n"
+"PO-Revision-Date: 2021-10-02 18:47+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -27910,6 +27910,7 @@ msgstr "Erste Teleportation"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.FIRST_TELEPORT_DESCRIPTION"
 msgid "Teleport a Duplicant and defrost a Friend on another world."
 msgstr ""
+"Teleportiere einen Duplikanten und taue einen Freund auf einer anderen Welt auf."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GENERATOR_TUNEUP
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GENERATOR_TUNEUP"
@@ -27925,12 +27926,12 @@ msgstr "Führe {0} Feinabstimmungen an Stromgeneratoren durch."
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK"
 msgid "GMO A-OK"
-msgstr ""
+msgstr "GMO A-OK"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.GMO_OK_DESCRIPTION"
 msgid "Successfully analyze at least one seed of all mutatable plants."
-msgstr ""
+msgstr "Analysiere erfolgreich mindestens einen Samen aller mutierbaren Pflanzen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER"
@@ -27988,7 +27989,7 @@ msgstr "Cluster-Eroberung"
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.LAND_ON_ALL_WORLDS_DESCRIPTION"
 msgid "Land dupes or rovers on all worlds in the cluster."
-msgstr ""
+msgstr "Lande Duplikanten oder Rover auf allen Welten des Clusters."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MASTERPIECE_PAINTING
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MASTERPIECE_PAINTING"
@@ -28012,7 +28013,7 @@ msgstr "Bergbau am Himmel"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MINE_THE_GAP_DESCRIPTION"
 msgid "Mine 1,000,000kg from space POIs."
-msgstr ""
+msgstr "Baue 1.000.000 kg von Weltraum-POIs ab."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.NO_PLANTERBOX"
@@ -28046,12 +28047,12 @@ msgstr ""
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP"
 msgid "Radical Trip"
-msgstr ""
+msgstr "Strahlende Reise"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION"
 msgid "Have radbolts travel a cumulative {0}km."
-msgstr ""
+msgstr "Lasse Teilchenblitze einen kumulativen Weg von {0} km zurücklegen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION
 msgctxt ""
@@ -28069,12 +28070,12 @@ msgstr "Starte deine erste Rakete ins All."
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE"
 msgid "That's Rad!"
-msgstr ""
+msgstr "Das ist krass!"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACTOR_USAGE_DESCRIPTION"
 msgid "Run a Research Reactor at full capacity for {0} cycles."
-msgstr ""
+msgstr "Betreibe einen Forschungsreaktor mit voller Kapazität für {0} Zyklen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SIXKELVIN_BUILDING
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SIXKELVIN_BUILDING"
@@ -28095,7 +28096,7 @@ msgstr "Weicher Start"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SOFT_LAUNCH_DESCRIPTION"
 msgid "Build a launchpad on a world without a teleporter."
-msgstr ""
+msgstr "Baue eine Raketenplattform auf einer Welt ohne Teleporter."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ANALYZE_SEED
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ANALYZE_SEED"
@@ -28126,7 +28127,7 @@ msgstr "Einen Meteoriten mit einer Bunkertür abgewehrt"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD"
 msgid "Build a launchpad on a new world without a teleporter."
-msgstr ""
+msgstr "Baue eine Raketenplattform auf einer neuen Welt ohne Teleporter."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS"
@@ -28277,7 +28278,7 @@ msgstr "Energie erzeugt: {0} / {1}"
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING"
 msgid "Got uranium out of a beeta hive without getting stung."
-msgstr ""
+msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH"
@@ -28298,7 +28299,7 @@ msgstr "Kältestes Gebäude: {0:##0.#} K"
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAND_DUPES_ON_ALL_WORLDS"
 msgid "Duplicants or rovers landed on {0} of {1} planetoids."
-msgstr ""
+msgstr "Duplikanten oder Rover sind auf {0} von {1} Planetoiden gelandet."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET"
@@ -28399,7 +28400,7 @@ msgstr "Einen ganzen Zweig des Fertigkeitsbaums freigeschaltet"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE"
 msgid "Duplicant has survived with {0} morale for: {1} / {2}"
-msgstr ""
+msgstr "Der Duplikant hat mit {0} Moral überlebt für: {1} / {2}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER"
@@ -28455,6 +28456,8 @@ msgid ""
 "Have all Duplicants in a rocket survive in space for 10 cycles in a row with a "
 "morale of 25 or higher."
 msgstr ""
+"Alle Duplikanten in einer Rakete müssen 10 Zyklen hintereinander mit einer "
+"Moral von 25 oder mehr im Weltraum überstehen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR"
@@ -28476,7 +28479,7 @@ msgstr "Süßer als Honig"
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION"
 msgid "Get uranium out of a beeta hive without getting stung."
-msgstr ""
+msgstr "Hole Uran aus einem Bienenstock, ohne gestochen zu werden."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS"
@@ -73018,7 +73021,7 @@ msgstr "STEAM WORKSHOP"
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "UNEXPLAINED TRAITS"
-msgstr ""
+msgstr "UNGEKLÄRTE EIGENSCHAFTEN"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
