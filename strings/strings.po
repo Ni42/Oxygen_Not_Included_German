@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-02 18:47+0200\n"
+"PO-Revision-Date: 2021-10-03 10:48+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -91809,7 +91809,7 @@ msgstr "Schwefelreicher Asteroid"
 #. STRINGS.WORLDS.SURVIVAL_CHANCE.CLUSTERNAME
 msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.CLUSTERNAME"
 msgid "<b>Cluster Name</b>: {0}"
-msgstr "<b>Cluster Name:</b>: {0}"
+msgstr "<b>Cluster-Name</b>: {0}"
 
 #. STRINGS.WORLDS.SURVIVAL_CHANCE.HIGH
 msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.HIGH"
