@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-03 10:48+0200\n"
+"PO-Revision-Date: 2021-10-06 22:26+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -12890,7 +12890,6 @@ msgid "Comes with a few ions thrown in, free of charge."
 msgstr "Ein paar Ionen werden kostenlos mitgeliefert."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT"
 msgid ""
 "Conducts <link=\"RESEARCHDLC1\">Materials Science Research</link> to unlock new "
@@ -12907,7 +12906,7 @@ msgstr ""
 "Verbraucht Teilchenblitze.\n"
 "\n"
 "Zugewiesene Duplikanten müssen über die Fertigkeit <link=\"ATOMICRESEARCH"
-"\">Materialwissenschaftliche Forschung</link> verfügen."
+"\">Angewandte wissenschaftliche Forschung</link> verfügen."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME"
@@ -26702,7 +26701,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3"
 msgid ""
 "Advanced research tasks require special research stations to generate the "
@@ -26736,7 +26734,7 @@ msgstr ""
 "Computer</link> durchgeführt\n"
 "Interstellare Forschung wird im <link=\"COSMICRESEARCHCENTER\">Virtuellem "
 "Planetarium</link> durchgeführt\n"
-"Materialwissenschaftliche Forschung wird am <link=\"NUCLEARRESEARCHCENTER"
+"Angewandte wissenschaftliche Forschung wird am <link=\"NUCLEARRESEARCHCENTER"
 "\">Materialstudienterminal</link> durchgeführt\n"
 "\n"
 
@@ -28127,10 +28125,9 @@ msgid "Blocked a meteor with a Bunker Door"
 msgstr "Einen Meteoriten mit einer Bunkertür abgewehrt"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD"
 msgid "Build a launchpad on a new world without a teleporter"
-msgstr "Baue eine Raketenplattform auf einer neuen Welt ohne Teleporter."
+msgstr "Baue eine Raketenplattform auf einer neuen Welt ohne Teleporter"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS"
@@ -28228,10 +28225,9 @@ msgid "Cycle: {0} / {1}"
 msgstr "Zyklus: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT"
 msgid "Defrost a Duplicant"
-msgstr "Einen Duplikanten auftauen."
+msgstr "Einen Duplikanten auftauen"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME"
@@ -28279,17 +28275,15 @@ msgid "Energy generated: {0} / {1}"
 msgstr "Energie erzeugt: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING
-#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING"
 msgid "Got uranium out of a beeta hive without getting stung"
-msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein."
+msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HARVEST_HIVE
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HARVEST_HIVE"
 msgid "Uranium extracted from a Beeta hive without getting stung"
-msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein."
+msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH"
@@ -28307,11 +28301,10 @@ msgid "Coldest building: {0:##0.#}K"
 msgstr "Kältestes Gebäude: {0:##0.#} K"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAND_DUPES_ON_ALL_WORLDS
-#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAND_DUPES_ON_ALL_WORLDS"
 msgid "Duplicants or rovers landed on {0} of {1} planetoids"
-msgstr "Duplikanten oder Rover sind auf {0} von {1} Planetoiden gelandet."
+msgstr "Duplikanten oder Rover sind auf {0} von {1} Planetoiden gelandet"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET"
@@ -28385,10 +28378,9 @@ msgid " or "
 msgstr " oder "
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL"
 msgid "Radbolts travelled: {0:n} m / {1:n} m"
-msgstr "Teilchenblitze gereist: {0:n} m / {1:n} m."
+msgstr "Teilchenblitze reisten: {0:n} m / {1:n} m"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES"
@@ -28411,19 +28403,20 @@ msgid "Unlocked an entire branch of the skill tree"
 msgstr "Einen ganzen Zweig des Fertigkeitsbaums freigeschaltet"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE"
 msgid ""
 "Duplicants in {3} have ended each cycle in space with at least {0} morale for: "
 "{1} / {2} cycles"
-msgstr "Der Duplikant hat mit {0} Moral überlebt für: {1} / {2}"
+msgstr ""
+"Duplikanten in {3} haben jeden Zyklus im Weltraum mit mindestens {0} Moral "
+"beendet für: {1} / {2} Zyklen"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE_COMPLETE
-#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE_COMPLETE"
 msgid "Duplicants survived in space with at least {0} morale for {1} cycles."
-msgstr "Der Duplikant hat mit {0} Moral überlebt für: {1} / {2}"
+msgstr ""
+"Duplikanten überlebten im Weltraum mit mindestens {0} Moral für {1} Zyklen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER"
