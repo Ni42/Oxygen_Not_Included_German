@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-07 19:06+0200\n"
+"PO-Revision-Date: 2021-10-07 21:05+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -56950,7 +56950,7 @@ msgstr ""
 "Haltbarkeit erreichen\n"
 "\n"
 "Die Reparatur dieses Artikels kann in der entsprechenden Fertigungsstation "
-"durchgeführt werden."
+"durchgeführt werden"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
@@ -57416,7 +57416,7 @@ msgstr ""
 "Haltbarkeit erreichen\n"
 "\n"
 "Die Reparatur dieses Artikels kann in der entsprechenden Fertigungsstation "
-"durchgeführt werden."
+"durchgeführt werden"
 
 #. STRINGS.MISC.STATUSITEMS.STUDIED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.NAME"
@@ -91098,7 +91098,7 @@ msgstr "Kleine Felsbrocken"
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION"
 msgid "This world contains crashed radioactive satellites"
-msgstr ""
+msgstr "Diese Welt enthält abgestürzte radioaktive Satelliten"
 
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME"
@@ -91120,16 +91120,14 @@ msgid "Trapped Oil"
 msgstr "Eingeschlossenes Öl"
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION"
 msgid "This world contains a frozen friend from a long time ago"
-msgstr "Ein schwaches Signal, das vor langer Zeit entstand"
+msgstr "Diese Welt enthält einen eingefrorenen Freund von vor langer Zeit"
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME"
 msgid "Frozen Friend"
-msgstr "Ein gefrorener Freund"
+msgstr "Gefrorener Freund"
 
 #. STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION"
@@ -91234,10 +91232,9 @@ msgid "Magma Channels"
 msgstr "Magmakanäle"
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION"
 msgid "This world has caves of metal ore"
-msgstr "Diese Welt hat einen üppigen Waldkern"
+msgstr "Diese Welt hat Höhlen mit Metallerzen"
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.NAME"
