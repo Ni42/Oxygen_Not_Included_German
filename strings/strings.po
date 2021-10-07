@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-06 22:26+0200\n"
+"PO-Revision-Date: 2021-10-07 19:06+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -28429,10 +28429,9 @@ msgid "Tech researched: {0} / {1}"
 msgstr "Technologie erforscht: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT"
 msgid "Teleport a Duplicant to another world"
-msgstr "Teleportiere einen Duplikanten in eine andere Welt."
+msgstr "Teleportiere einen Duplikanten in eine andere Welt"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES"
@@ -28467,15 +28466,14 @@ msgid "Morale High Ground"
 msgstr "Moralische Höchstleistung"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION
-#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION"
 msgid ""
 "Have all Duplicants in a rocket survive in space for {0} cycles in a row with a "
 "morale of {1} or higher."
 msgstr ""
-"Alle Duplikanten in einer Rakete müssen 10 Zyklen hintereinander mit einer "
-"Moral von 25 oder mehr im Weltraum überstehen."
+"Alle Duplikanten in einer Rakete müssen {0} Zyklen hintereinander mit einer "
+"Moral von {1} oder mehr im Weltraum überstehen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR"
@@ -28494,11 +28492,10 @@ msgid "Sweeter Than Honey"
 msgstr "Süßer als Honig"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION
-#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION"
 msgid "Extract Uranium from a Beeta hive without getting stung."
-msgstr "Hole Uran aus einem Bienenstock, ohne gestochen zu werden."
+msgstr "Extrahiere Uran aus einem Bienenstock, ohne gestochen zu werden."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS"
@@ -41440,10 +41437,9 @@ msgstr ""
 "Dieser Duplikant hat kürzlich den Gestank einer gewissen Person ertragen müssen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.CAUSE
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.CAUSE"
 msgid "Obtained from submergence in liquid"
-msgstr "Erhalten durch Untertauchen in Flüssigkeit."
+msgstr "Erhalten durch Untertauchen in Flüssigkeit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME"
@@ -41986,10 +41982,9 @@ msgid "This Duplicant feels satisfied after having a big meal"
 msgstr "Dieser Duplikant fühlt sich nach einer großen Mahlzeit zufrieden"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.CAUSE
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.CAUSE"
 msgid "Obtained by walking through liquid"
-msgstr "Erhalten durch das Laufen durch Flüssigkeit."
+msgstr "Erhalten durch das Laufen durch Flüssigkeit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME"
@@ -43034,10 +43029,9 @@ msgstr ""
 "\">Materialstudienterminal</link> zu studieren"
 
 #. STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME"
 msgid "<link=\"ATOMICRESEARCH\">Applied Sciences Research</link>"
-msgstr "<link=\"ATOMICRESEARCH\">Materialwissenschaftliche Forschung</link>"
+msgstr "<link=\"ATOMICRESEARCH\">Angewandte wissenschaftliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION"
@@ -45888,12 +45882,13 @@ msgid "Allergens cause excessive sneezing fits"
 msgstr "Allergene verursachen exzessive Niesanfälle"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.DESC"
 msgid ""
 "This Duplicant has knowledge from the before times\n"
 "• Starts with 3 skill points"
-msgstr "Dieser Duplikant hatte eine angenehme Zeit mit Freunden"
+msgstr ""
+"Dieser Duplikant hat Wissen aus der Vorzeit\n"
+"• Beginnt mit 3 Fertigkeitspunkten"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.NAME"
@@ -46263,10 +46258,9 @@ msgid "Fussy"
 msgstr "Pingelig"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.DESC"
 msgid "This Duplicant is positively glowing"
-msgstr "Dieser Duplikant feiert hart"
+msgstr "Dieser Duplikant leuchtet förmlich"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME"
@@ -46279,7 +46273,6 @@ msgid "Emits low amounts of rads and light"
 msgstr "Emittiert geringe Mengen an Strahlung und Licht"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP"
 msgid "Emits low amounts of rads and light"
 msgstr "Emittiert geringe Mengen an Strahlung und Licht"
@@ -47116,11 +47109,10 @@ msgstr ""
 "\">Materialstudienterminal</link> zu studieren"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME"
 msgid "Skilled: <link=\"ATOMICRESEARCH\">Applied Sciences Research</link>"
 msgstr ""
-"Erfahren: <link=\"ATOMICRESEARCH\">Materialwissenschaftliche Forschung</link>"
+"Erfahren: <link=\"ATOMICRESEARCH\">Angewandte wissenschaftliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC"
@@ -47559,10 +47551,9 @@ msgid "Noodle Arms"
 msgstr "Nudelarme"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC"
 msgid "This Duplicant eats radiation for breakfast (and dinner)"
-msgstr "Dieser Duplikant hat ein paar Kratzer und Narben"
+msgstr "Dieser Duplikant isst Strahlung zum Frühstück (und Abendessen)"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME"
@@ -47570,13 +47561,11 @@ msgid "Radiation Eater"
 msgstr "Strahlenschlucker"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC"
 msgid "Converts radiation exposure into calories"
 msgstr "Wandelt die Strahlenbelastung in Kalorien um"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP"
 msgid "Converts radiation exposure into calories"
 msgstr "Wandelt die Strahlenbelastung in Kalorien um"
@@ -47713,10 +47702,9 @@ msgid "Sparkle Streaker"
 msgstr "Funken-Flitzer"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC"
 msgid "This Duplicant loves being in space"
-msgstr "Dieser Duplikant liebt es, im Weltraum zu sein!"
+msgstr "Dieser Duplikant liebt es, im Weltraum zu sein"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME"
@@ -56950,7 +56938,6 @@ msgid "Durability: {durability}"
 msgstr "Haltbarkeit: {durability}"
 
 #. STRINGS.MISC.STATUSITEMS.DURABILITY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.STATUSITEMS.DURABILITY.TOOLTIP"
 msgid ""
 "Items lose durability each time they are equipped, and can no longer be put on "
@@ -56962,8 +56949,8 @@ msgstr ""
 "und können nicht mehr von einem Duplikanten angelegt werden, sobald sie 0% "
 "Haltbarkeit erreichen\n"
 "\n"
-"Gegenstände können mit der <link=\"CRAFTINGTABLE\">Handwerksstation</link> "
-"repariert werden"
+"Die Reparatur dieses Artikels kann in der entsprechenden Fertigungsstation "
+"durchgeführt werden."
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
@@ -57417,7 +57404,6 @@ msgid "Durability: {durability}"
 msgstr "Haltbarkeit: {durability}"
 
 #. STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.TOOLTIP"
 msgid ""
 "Items lose durability each time they are equipped, and can no longer be put on "
@@ -57429,8 +57415,8 @@ msgstr ""
 "und können nicht mehr von einem Duplikanten angelegt werden, sobald sie 0% "
 "Haltbarkeit erreichen\n"
 "\n"
-"Gegenstände können mit der <link=\"CRAFTINGTABLE\">Handwerksstation</link> "
-"repariert werden"
+"Die Reparatur dieses Artikels kann in der entsprechenden Fertigungsstation "
+"durchgeführt werden."
 
 #. STRINGS.MISC.STATUSITEMS.STUDIED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.NAME"
@@ -62401,7 +62387,6 @@ msgid "Unlocks improved technologies."
 msgstr "Schaltet verbesserte Technologien frei."
 
 #. STRINGS.RESEARCH.TYPES.DELTA.DESC
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.DESC"
 msgid ""
 "<link=\"RESEARCH\">Applied Sciences Research</link> is required to unlock "
@@ -62409,16 +62394,15 @@ msgid ""
 "It can be conducted at a <link=\"NUCLEARRESEARCHCENTER\">Materials Study "
 "Terminal</link>."
 msgstr ""
-"<link=\"RESEARCH\">Materialwissenschaftliche Forschung</link> wird für die "
+"<link=\"RESEARCH\">Angewandte wissenschaftliche Forschung</link> wird für die "
 "Freischaltung von materialwissenschaftlichen Technologien benötigt.\n"
 "Sie wird an einem <link=\"NUCLEARRESEARCHCENTER\">Materialstudienterminal</"
 "link> durchgeführt."
 
 #. STRINGS.RESEARCH.TYPES.DELTA.NAME
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.NAME"
 msgid "Applied Sciences Research"
-msgstr "Materialwissenschaftliche Forschung"
+msgstr "Angewandte wissenschaftliche Forschung"
 
 #. STRINGS.RESEARCH.TYPES.DELTA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.RECIPEDESC"
@@ -91112,16 +91096,14 @@ msgid "Small Boulders"
 msgstr "Kleine Felsbrocken"
 
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION"
 msgid "Crashed relics from the past that emit radiation."
-msgstr "Schirmt Duplikanten vor gefährlichen Strahlungsdosen ab."
+msgstr "Abgestürzte Relikte aus der Vergangenheit, die Strahlung aussenden."
 
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME"
 msgid "Crashed Satellites"
-msgstr "Abgestürzter Satellit"
+msgstr "Abgestürzte Satelliten"
 
 #. STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION"
@@ -91143,10 +91125,9 @@ msgid "A faint signal originating from a long time ago"
 msgstr ""
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME"
 msgid "Distress Signal"
-msgstr "Grünes Signal"
+msgstr "Notrufsignal"
 
 #. STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION"
@@ -91227,10 +91208,9 @@ msgid "Irregular Oil"
 msgstr "Irreguläres Öl"
 
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION"
 msgid "This world has a lush forest core"
-msgstr "Diese Welt hat einen üppigen Waldkern."
+msgstr "Diese Welt hat einen üppigen Waldkern"
 
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.NAME"
@@ -91324,18 +91304,16 @@ msgstr ""
 "<i>Diese Welt ist beständig und hat keine ungewöhnlichen Eigenschaften.</i>"
 
 #. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND"
 msgid "No unusual features"
 msgstr "Keine ungewöhnlichen Merkmale"
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION"
 msgid ""
 "Deposits of <link=\"URANIUMORE\">Uranium Ore</link> are found in this world's "
 "crust"
-msgstr "In der Kruste gibt es Vorkommen von <link=\"URANIUMORE\">Uranerz</link>."
+msgstr "In der Kruste gibt es Vorkommen von <link=\"URANIUMORE\">Uranerz</link>"
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME"
@@ -91604,7 +91582,6 @@ msgid "Radioactive Terra Asteroid"
 msgstr "Radioaktiver Terra-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
 msgid ""
 "A large-ish, polluted swamp world.\n"
@@ -91615,15 +91592,14 @@ msgid ""
 msgstr ""
 "Eine große, verschmutzte Sumpfwelt.\n"
 "\n"
-"<smallcaps>Sumpfige Asteroiden sind eine große Masse aus gefrorenem Matsch und "
-"Ödland. Mit einer kurzen Entfernung zur Oberfläche können Reisen zwischen den "
-"Welten schnell erreicht werden.</smallcaps>"
+"<smallcaps>Mittelgroße Sumpf-Asteroiden sind voll von Sumpf- und Moorgebieten, "
+"enthalten aber auch eine Vielzahl anderer Biome, die vielfältig genug sind, um "
+"eine entschlossene Kolonie mit dem Nötigsten zu versorgen.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.NAME"
 msgid "Mid-Sized Swampy Asteroid"
-msgstr "Verstrahlter Sumpfasteroid"
+msgstr "Mittelgroßer Sumpfasteroid"
 
 #. STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION
 msgctxt "STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION"
