@@ -45893,7 +45893,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.NAME"
 msgid "Ancient Knowledge"
-msgstr ""
+msgstr "Uraltes Wissen"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
@@ -91122,7 +91122,7 @@ msgstr "Eingeschlossenes Öl"
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION"
 msgid "A faint signal originating from a long time ago"
-msgstr ""
+msgstr "Ein schwaches Signal, das vor langer Zeit entstand"
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME"
