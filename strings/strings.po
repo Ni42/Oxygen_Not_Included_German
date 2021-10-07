@@ -12897,7 +12897,7 @@ msgid ""
 "\n"
 "Consumes Radbolts.\n"
 "\n"
-"Assigned Duplicants must possess the <link=\"ATOMICRESEARCH\">Materials Science "
+"Assigned Duplicants must possess the <link=\"ATOMICRESEARCH\">Applied Sciences "
 "Research</link> skill."
 msgstr ""
 "Führt <link=\"RESEARCHDCL1\">Materialwissenschaftliche Forschung</link> durch, "
@@ -12906,7 +12906,7 @@ msgstr ""
 "Verbraucht Teilchenblitze.\n"
 "\n"
 "Zugewiesene Duplikanten müssen über die Fertigkeit <link=\"ATOMICRESEARCH"
-"\">Materialwissenschaftliche Forschung</link> verfügen."
+"\">Angewandte wissenschaftliche Forschung</link> verfügen."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME"
@@ -26716,7 +26716,7 @@ msgid ""
 "Computer</link>\n"
 "Interstellar Research is performed at the <link=\"ORBITALRESEARCHCENTER"
 "\">Orbital Microlab</link>\n"
-"Materials Science Research is performed at the <link=\"NUCLEARRESEARCHCENTER"
+"Applied Sciences Research is performed at the <link=\"NUCLEARRESEARCHCENTER"
 "\">Materials Study Terminal</link>\n"
 "\n"
 msgstr ""
@@ -26734,7 +26734,7 @@ msgstr ""
 "Computer</link> durchgeführt\n"
 "Interstellare Forschung wird im <link=\"COSMICRESEARCHCENTER\">Virtuellem "
 "Planetarium</link> durchgeführt\n"
-"Materialwissenschaftliche Forschung wird am <link=\"NUCLEARRESEARCHCENTER"
+"Angewandte wissenschaftliche Forschung wird am <link=\"NUCLEARRESEARCHCENTER"
 "\">Materialstudienterminal</link> durchgeführt\n"
 "\n"
 
@@ -28126,8 +28126,8 @@ msgstr "Einen Meteoriten mit einer Bunkertür abgewehrt"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILD_A_LAUNCHPAD"
-msgid "Build a launchpad on a new world without a teleporter."
-msgstr "Baue eine Raketenplattform auf einer neuen Welt ohne Teleporter."
+msgid "Build a launchpad on a new world without a teleporter"
+msgstr "Baue eine Raketenplattform auf einer neuen Welt ohne Teleporter"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.BUILING_BEDS"
@@ -28226,8 +28226,8 @@ msgstr "Zyklus: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.DEFROST_DUPLICANT"
-msgid "Defrost a Duplicant."
-msgstr "Einen Duplikanten auftauen."
+msgid "Defrost a Duplicant"
+msgstr "Einen Duplikanten auftauen"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.ENTER_OIL_BIOME"
@@ -28277,8 +28277,13 @@ msgstr "Energie erzeugt: {0} / {1}"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING"
-msgid "Got uranium out of a beeta hive without getting stung."
-msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein."
+msgid "Got uranium out of a beeta hive without getting stung"
+msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HARVEST_HIVE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HARVEST_HIVE"
+msgid "Uranium extracted from a Beeta hive without getting stung"
+msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HATCH_A_MORPH"
@@ -28298,8 +28303,8 @@ msgstr "Kältestes Gebäude: {0:##0.#} K"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAND_DUPES_ON_ALL_WORLDS
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAND_DUPES_ON_ALL_WORLDS"
-msgid "Duplicants or rovers landed on {0} of {1} planetoids."
-msgstr "Duplikanten oder Rover sind auf {0} von {1} Planetoiden gelandet."
+msgid "Duplicants or rovers landed on {0} of {1} planetoids"
+msgstr "Duplikanten oder Rover sind auf {0} von {1} Planetoiden gelandet"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.LAUNCHED_ROCKET"
@@ -28374,8 +28379,8 @@ msgstr " oder "
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.RADBOLT_TRAVEL"
-msgid "Radbolts travelled: {0:n} m / {1:n} m."
-msgstr "Teilchenblitze gereist: {0:n} m / {1:n} m."
+msgid "Radbolts travelled: {0:n} m / {1:n} m"
+msgstr "Teilchenblitze reisten: {0:n} m / {1:n} m"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.REMAINING_CYCLES"
@@ -28399,8 +28404,19 @@ msgstr "Einen ganzen Zweig des Fertigkeitsbaums freigeschaltet"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE"
-msgid "Duplicant has survived with {0} morale for: {1} / {2}"
-msgstr "Der Duplikant hat mit {0} Moral überlebt für: {1} / {2}"
+msgid ""
+"Duplicants in {3} have ended each cycle in space with at least {0} morale for: "
+"{1} / {2} cycles"
+msgstr ""
+"Duplikanten in {3} haben jeden Zyklus im Weltraum mit mindestens {0} Moral "
+"beendet für: {1} / {2} Zyklen"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE_COMPLETE
+msgctxt ""
+"STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.SURVIVE_SPACE_COMPLETE"
+msgid "Duplicants survived in space with at least {0} morale for {1} cycles."
+msgstr ""
+"Duplikanten überlebten im Weltraum mit mindestens {0} Moral für {1} Zyklen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TAME_A_CRITTER"
@@ -28414,8 +28430,8 @@ msgstr "Technologie erforscht: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TELEPORT_DUPLICANT"
-msgid "Teleport a Duplicant to another world."
-msgstr "Teleportiere einen Duplikanten in eine andere Welt."
+msgid "Teleport a Duplicant to another world"
+msgstr "Teleportiere einen Duplikanten in eine andere Welt"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.TRAVELED_IN_TUBES"
@@ -28453,11 +28469,11 @@ msgstr "Moralische Höchstleistung"
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION"
 msgid ""
-"Have all Duplicants in a rocket survive in space for 10 cycles in a row with a "
-"morale of 25 or higher."
+"Have all Duplicants in a rocket survive in space for {0} cycles in a row with a "
+"morale of {1} or higher."
 msgstr ""
-"Alle Duplikanten in einer Rakete müssen 10 Zyklen hintereinander mit einer "
-"Moral von 25 oder mehr im Weltraum überstehen."
+"Alle Duplikanten in einer Rakete müssen {0} Zyklen hintereinander mit einer "
+"Moral von {1} oder mehr im Weltraum überstehen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_ONE_YEAR"
@@ -28478,8 +28494,8 @@ msgstr "Süßer als Honig"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SWEETER_THAN_HONEY_DESCRIPTION"
-msgid "Get uranium out of a beeta hive without getting stung."
-msgstr "Hole Uran aus einem Bienenstock, ohne gestochen zu werden."
+msgid "Extract Uranium from a Beeta hive without getting stung."
+msgstr "Extrahiere Uran aus einem Bienenstock, ohne gestochen zu werden."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.TAME_BASIC_CRITTERS"
@@ -41422,8 +41438,8 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.CAUSE"
-msgid "Obtained from submergence in liquid."
-msgstr "Erhalten durch Untertauchen in Flüssigkeit."
+msgid "Obtained from submergence in liquid"
+msgstr "Erhalten durch Untertauchen in Flüssigkeit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME"
@@ -41967,8 +41983,8 @@ msgstr "Dieser Duplikant fühlt sich nach einer großen Mahlzeit zufrieden"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.CAUSE"
-msgid "Obtained by walking through liquid."
-msgstr "Erhalten durch das Laufen durch Flüssigkeit."
+msgid "Obtained by walking through liquid"
+msgstr "Erhalten durch das Laufen durch Flüssigkeit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME"
@@ -43014,8 +43030,8 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME"
-msgid "<link=\"ATOMICRESEARCH\">Materials Science Research</link>"
-msgstr "<link=\"ATOMICRESEARCH\">Materialwissenschaftliche Forschung</link>"
+msgid "<link=\"ATOMICRESEARCH\">Applied Sciences Research</link>"
+msgstr "<link=\"ATOMICRESEARCH\">Angewandte wissenschaftliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION"
@@ -45865,6 +45881,20 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.ALLERGIES.SHORT_DESC_TOOLTIP"
 msgid "Allergens cause excessive sneezing fits"
 msgstr "Allergene verursachen exzessive Niesanfälle"
 
+#. STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.DESC
+msgctxt "STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.DESC"
+msgid ""
+"This Duplicant has knowledge from the before times\n"
+"• Starts with 3 skill points"
+msgstr ""
+"Dieser Duplikant hat Wissen aus der Vorzeit\n"
+"• Beginnt mit 3 Fertigkeitspunkten"
+
+#. STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.NAME
+msgctxt "STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.NAME"
+msgid "Ancient Knowledge"
+msgstr "Uraltes Wissen"
+
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
 msgid "This Duplicant has trouble keeping up with the others"
@@ -46229,12 +46259,8 @@ msgstr "Pingelig"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.DESC"
-msgid ""
-"This Duplicant glows green with radiation, but has increased radiation "
-"resistance."
-msgstr ""
-"Dieser Duplikant leuchtet unter Strahlung grün, hat aber eine erhöhte "
-"Strahlungsresistenz."
+msgid "This Duplicant is positively glowing"
+msgstr "Dieser Duplikant leuchtet förmlich"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME"
@@ -46248,7 +46274,7 @@ msgstr "Emittiert geringe Mengen an Strahlung und Licht"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP"
-msgid "Emits low amounts of radiation and light"
+msgid "Emits low amounts of rads and light"
 msgstr "Emittiert geringe Mengen an Strahlung und Licht"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC
@@ -47084,9 +47110,9 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME"
-msgid "Skilled: <link=\"ATOMICRESEARCH\">Materials Science Research</link>"
+msgid "Skilled: <link=\"ATOMICRESEARCH\">Applied Sciences Research</link>"
 msgstr ""
-"Erfahren: <link=\"ATOMICRESEARCH\">Materialwissenschaftliche Forschung</link>"
+"Erfahren: <link=\"ATOMICRESEARCH\">Angewandte wissenschaftliche Forschung</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC"
@@ -47526,8 +47552,8 @@ msgstr "Nudelarme"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC"
-msgid "This Duplicant can convert Radiation exposure into Calories."
-msgstr "Dieser Duplikant kann die Strahlenbelastung in Kalorien umwandeln."
+msgid "This Duplicant eats radiation for breakfast (and dinner)"
+msgstr "Dieser Duplikant isst Strahlung zum Frühstück (und Abendessen)"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME"
@@ -47536,12 +47562,12 @@ msgstr "Strahlenschlucker"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC"
-msgid "Converts Radiation exposure into Calories"
+msgid "Converts radiation exposure into calories"
 msgstr "Wandelt die Strahlenbelastung in Kalorien um"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP"
-msgid "Converts Radiation exposure into Calories"
+msgid "Converts radiation exposure into calories"
 msgstr "Wandelt die Strahlenbelastung in Kalorien um"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC
@@ -47677,8 +47703,8 @@ msgstr "Funken-Flitzer"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC"
-msgid "This Duplicant likes being in space"
-msgstr "Dieser Duplikant ist gerne im Weltraum"
+msgid "This Duplicant loves being in space"
+msgstr "Dieser Duplikant liebt es, im Weltraum zu sein"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME"
@@ -56917,14 +56943,14 @@ msgid ""
 "Items lose durability each time they are equipped, and can no longer be put on "
 "by a Duplicant once they reach 0% durability\n"
 "\n"
-"Items can be repaired using the <link=\"CRAFTINGTABLE\">Crafting Station</link>"
+"Repair of this item can be done in the appropriate fabrication station"
 msgstr ""
 "Gegenstände verlieren jedes Mal, wenn sie ausgerüstet werden, an Haltbarkeit "
 "und können nicht mehr von einem Duplikanten angelegt werden, sobald sie 0% "
 "Haltbarkeit erreichen\n"
 "\n"
-"Gegenstände können mit der <link=\"CRAFTINGTABLE\">Handwerksstation</link> "
-"repariert werden"
+"Die Reparatur dieses Artikels kann in der entsprechenden Fertigungsstation "
+"durchgeführt werden."
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
@@ -57383,14 +57409,14 @@ msgid ""
 "Items lose durability each time they are equipped, and can no longer be put on "
 "by a Duplicant once they reach 0% durability\n"
 "\n"
-"Items can be repaired using the <link=\"CRAFTINGTABLE\">Crafting Station</link>"
+"Repair of this item can be done in the appropriate fabrication station"
 msgstr ""
 "Gegenstände verlieren jedes Mal, wenn sie ausgerüstet werden, an Haltbarkeit "
 "und können nicht mehr von einem Duplikanten angelegt werden, sobald sie 0% "
 "Haltbarkeit erreichen\n"
 "\n"
-"Gegenstände können mit der <link=\"CRAFTINGTABLE\">Handwerksstation</link> "
-"repariert werden"
+"Die Reparatur dieses Artikels kann in der entsprechenden Fertigungsstation "
+"durchgeführt werden."
 
 #. STRINGS.MISC.STATUSITEMS.STUDIED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.NAME"
@@ -62363,20 +62389,20 @@ msgstr "Schaltet verbesserte Technologien frei."
 #. STRINGS.RESEARCH.TYPES.DELTA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.DESC"
 msgid ""
-"<link=\"RESEARCH\">Materials Science Research</link> is required to unlock "
+"<link=\"RESEARCH\">Applied Sciences Research</link> is required to unlock "
 "materials science technologies.\n"
 "It can be conducted at a <link=\"NUCLEARRESEARCHCENTER\">Materials Study "
 "Terminal</link>."
 msgstr ""
-"<link=\"RESEARCH\">Materialwissenschaftliche Forschung</link> wird für die "
+"<link=\"RESEARCH\">Angewandte wissenschaftliche Forschung</link> wird für die "
 "Freischaltung von materialwissenschaftlichen Technologien benötigt.\n"
 "Sie wird an einem <link=\"NUCLEARRESEARCHCENTER\">Materialstudienterminal</"
 "link> durchgeführt."
 
 #. STRINGS.RESEARCH.TYPES.DELTA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.NAME"
-msgid "Materials Science Research"
-msgstr "Materialwissenschaftliche Forschung"
+msgid "Applied Sciences Research"
+msgstr "Angewandte wissenschaftliche Forschung"
 
 #. STRINGS.RESEARCH.TYPES.DELTA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.RECIPEDESC"
@@ -91069,6 +91095,16 @@ msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_SMALL.NAME"
 msgid "Small Boulders"
 msgstr "Kleine Felsbrocken"
 
+#. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION"
+msgid "Crashed relics from the past that emit radiation."
+msgstr "Abgestürzte Relikte aus der Vergangenheit, die Strahlung aussenden."
+
+#. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME
+msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME"
+msgid "Crashed Satellites"
+msgstr "Abgestürzte Satelliten"
+
 #. STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION"
 msgid ""
@@ -91082,6 +91118,16 @@ msgstr ""
 msgctxt "STRINGS.WORLD_TRAITS.DEEP_OIL.NAME"
 msgid "Trapped Oil"
 msgstr "Eingeschlossenes Öl"
+
+#. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION
+msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION"
+msgid "A faint signal originating from a long time ago"
+msgstr "Ein schwaches Signal, das vor langer Zeit entstand"
+
+#. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME
+msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME"
+msgid "Distress Signal"
+msgstr "Notrufsignal"
 
 #. STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION"
@@ -91163,8 +91209,8 @@ msgstr "Irreguläres Öl"
 
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION"
-msgid "This world has a lush forest core."
-msgstr "Diese Welt hat einen üppigen Waldkern."
+msgid "This world has a lush forest core"
+msgstr "Diese Welt hat einen üppigen Waldkern"
 
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.NAME"
@@ -91259,15 +91305,15 @@ msgstr ""
 
 #. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND
 msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND"
-msgid "No unusal features"
+msgid "No unusual features"
 msgstr "Keine ungewöhnlichen Merkmale"
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION"
 msgid ""
 "Deposits of <link=\"URANIUMORE\">Uranium Ore</link> are found in this world's "
-"crust."
-msgstr "In der Kruste gibt es Vorkommen von <link=\"URANIUMORE\">Uranerz</link>."
+"crust"
+msgstr "In der Kruste gibt es Vorkommen von <link=\"URANIUMORE\">Uranerz</link>"
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME"
@@ -91538,12 +91584,22 @@ msgstr "Radioaktiver Terra-Asteroid"
 #. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
 msgid ""
+"A large-ish, polluted swamp world.\n"
+"\n"
+"<smallcaps>Mid-sized Swampy Asteroids are full of swampy and marshy areas, but "
+"also contain a variety of other biomes diverse enough to keep a determined "
+"colony supplied with essentials.</smallcaps>"
 msgstr ""
+"Eine große, verschmutzte Sumpfwelt.\n"
+"\n"
+"<smallcaps>Mittelgroße Sumpf-Asteroiden sind voll von Sumpf- und Moorgebieten, "
+"enthalten aber auch eine Vielzahl anderer Biome, die vielfältig genug sind, um "
+"eine entschlossene Kolonie mit dem Nötigsten zu versorgen.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.NAME
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.NAME"
-msgid "Swampy Asteroid"
-msgstr "Sumpfiger Asteroid"
+msgid "Mid-Sized Swampy Asteroid"
+msgstr "Mittelgroßer Sumpfasteroid"
 
 #. STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION
 msgctxt "STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION"
