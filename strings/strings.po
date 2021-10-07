@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-03 10:48+0200\n"
+"PO-Revision-Date: 2021-10-07 19:06+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1339,7 +1339,7 @@ msgid ""
 "Energy Saver mode has been automatically activated using only {UsedPower} of "
 "{MaxPower}"
 msgstr ""
-"DDer Inhalt dieses Lebensmittelbehälters hat die richtige Kühltemperatur\n"
+"Der Inhalt dieses Lebensmittelbehälters hat die richtige Kühltemperatur\n"
 "\n"
 "Der Energiesparmodus wurde automatisch aktiviert und verwendet nur {UsedPower} "
 "von {MaxPower}"
@@ -3802,7 +3802,7 @@ msgid ""
 "This container is storing <b>{Stored}{Units}</b> of a maximum <b>{Capacity}"
 "{Units}</b>"
 msgstr ""
-"In diesem Behälter lagern <b>{Stored} {Units}</b> von maximal <b>{Capacity} "
+"In diesem Behälter lagern <b>{Stored}{Units}</b> von maximal <b>{Capacity}"
 "{Units}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGEUNREACHABLE.NAME
@@ -39177,7 +39177,7 @@ msgid ""
 "style> was left on where they were trying to sleep"
 msgstr ""
 "Dieser Duplikant hat sich die ganze Nacht hin und her gewälzt, da an seinem "
-"Schlafplatz ein <style=\"KKeyword\">Light</style> angelassen wurde"
+"Schlafplatz ein <style=\"KKeyword\">Licht</style> angelassen wurde"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPAFRAIDOFDARK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPAFRAIDOFDARK.NAME"
@@ -44215,22 +44215,22 @@ msgstr "Aktuelle Exposition gegenüber {element} mit {rate} Augenreizung"
 #. STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_EXPOSURE_LEVEL
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_EXPOSURE_LEVEL"
 msgid "Time Remaining: {time}"
-msgstr "Verbleibende Zeit: {0}"
+msgstr "Verbleibende Zeit: {time}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_RATE_DECREASE
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_RATE_DECREASE"
 msgid "decreasing"
-msgstr "abnehmend"
+msgstr "abnehmender"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_RATE_INCREASE
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_RATE_INCREASE"
 msgid "increasing"
-msgstr "steigend"
+msgstr "steigender"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_RATE_STAYS
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_RATE_STAYS"
 msgid "maintaining"
-msgstr "beibehaltend"
+msgstr "gleich bleibender"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME"
@@ -48071,8 +48071,8 @@ msgid ""
 "Carbon Fiber is a <link=\"REFINEDMINERAL\">Manufactured Material</link> with "
 "high tensile strength."
 msgstr ""
-"Kohlenstofffaser ist ein <link=\"REFINEDMINERAL\">hergestelltes Material/</"
-"link> mit hoher Zugfestigkeit."
+"Kohlenstofffaser ist ein <link=\"REFINEDMINERAL\">hergestelltes Material</link> "
+"mit hoher Zugfestigkeit."
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
