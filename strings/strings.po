@@ -91097,8 +91097,8 @@ msgstr "Kleine Felsbrocken"
 
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION"
-msgid "Crashed relics from the past that emit radiation."
-msgstr "Abgestürzte Relikte aus der Vergangenheit, die Strahlung aussenden."
+msgid "This world contains crashed radioactive satellites"
+msgstr ""
 
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME"
@@ -91120,14 +91120,16 @@ msgid "Trapped Oil"
 msgstr "Eingeschlossenes Öl"
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION"
-msgid "A faint signal originating from a long time ago"
+msgid "This world contains a frozen friend from a long time ago"
 msgstr "Ein schwaches Signal, das vor langer Zeit entstand"
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME
+#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME"
-msgid "Distress Signal"
-msgstr "Notrufsignal"
+msgid "Frozen Friend"
+msgstr "Ein gefrorener Freund"
 
 #. STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION"
@@ -91232,9 +91234,10 @@ msgid "Magma Channels"
 msgstr "Magmakanäle"
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION"
-msgid "Metallic caves description"
-msgstr "Metallhöhlen-Beschreibung"
+msgid "This world has caves of metal ore"
+msgstr "Diese Welt hat einen üppigen Waldkern"
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.NAME"
