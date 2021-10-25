@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-25 21:36+0200\n"
+"PO-Revision-Date: 2021-10-25 22:04+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -13055,6 +13055,9 @@ msgid ""
 "Orbital Data Collection Labs record data while orbiting a Planetoid and write "
 "it to a <link=\"ORBITALRESEARCHDATABANK\">Data Bank</link>"
 msgstr ""
+"Orbitale Datenerfassungslabore zeichnen Daten auf, während sie einen "
+"Planetoiden umkreisen, und schreiben sie in eine <link=\"ORBITALRESEARCHDATABANK"
+"\">Datenbank</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT"
@@ -13066,6 +13069,12 @@ msgid ""
 "Consumes <link=\"POLYPROPYLENE\">Plastic</link> and <link=\"POWER\">Power</"
 "link>."
 msgstr ""
+"Erzeugt <link=\"ORBITALRESEARCHDATABANK\">Datenbanken</link>, die in einem "
+"<link=\"DLC1COSMICRESEARCHCENTER\">virtuellen Planetarium</link> genutzt werden "
+"können, um neue Technologien zu erschließen.\n"
+"\n"
+"Verbraucht <link=\"POLYPROPYLENE\">Plastik</link> und <link=\"POWER\">Strom</"
+"link>."
 
 #. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.NAME"
@@ -17656,7 +17665,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME"
 msgid "Fractured - The Badlands (experimental)"
-msgstr ""
+msgstr "Zerbrochen - Das Ödland (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION"
@@ -17666,7 +17675,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME"
 msgid "Fractured - Flipped (experimental)"
-msgstr ""
+msgstr "Zerbrochen - Umgedreht (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION"
@@ -17676,7 +17685,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME"
 msgid "Fractured - Frozen Forest (experimental)"
-msgstr ""
+msgstr "Zerbrochen - Gefrorener Wald (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION"
@@ -17690,7 +17699,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME"
 msgid "Fractured - Metallic Swampy (experimental)"
-msgstr ""
+msgstr "Zerbrochen - Metallisch sumpfig (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION"
@@ -17700,7 +17709,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME"
 msgid "Fractured - Radioactive Ocean (experimental)"
-msgstr ""
+msgstr "Zerbrochener - Radioaktiver Ozean (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION"
@@ -54502,6 +54511,12 @@ msgid ""
 "Used by the <link=\"DLC1COSMICRESEARCHCENTER\">Virtual Planetarium</link> to "
 "conduct research."
 msgstr ""
+"Datenbanken mit Rohdaten, die bei der Erkundung entstehen, entweder durch die "
+"Erkundung neuer Gebiete mit Duplikanten oder durch die Verwendung eines <link="
+"\"ORBITALRESEARCHCENTER\">Orbitalen Datenerfassungslabors</link>.\n"
+"\n"
+"Wird vom <link=\"DLC1COSMICRESEARCHCENTER\">Virtuellen Planetarium</link> zur "
+"Durchführung von Forschungsarbeiten verwendet."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC"
@@ -57756,7 +57771,7 @@ msgstr "<link=\"COMBUSTIBLELIQUID\">Brennbare Flüssigkeit</link>"
 #. STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC"
 msgid "This is a description of Combustible Liquids."
-msgstr ""
+msgstr "Dies ist eine Beschreibung von brennbaren Flüssigkeiten."
 
 #. STRINGS.MISC.TAGS.COMBUSTIBLESOLID
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLESOLID"
@@ -57904,6 +57919,24 @@ msgid ""
 "filtering material has been consumed. Once the Filtering Material has been "
 "resupplied to the filtering building it will start working again."
 msgstr ""
+"Filtermaterialien sind Materialien, die einigen Filtrationsgebäuden zugeführt "
+"werden, die dazu dienen, gereinigte <link=\"ELEMENTSGASSES\">Gase</link> oder "
+"<link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> von ihren verschmutzten Formen zu "
+"trennen.\n"
+"\n"
+"Beispiele sind das Filtern von <link=\"WATER\">Wasser</link> aus <link="
+"\"DIRTYWATER\">Verschmutztem Wasser</link> mit einem <link=\"WATERPURIFIER"
+"\">Flüssigkeits­filter</link> oder ein <link=\"AIRFILTER\">Lufterfrischer</"
+"link>, der <link=\"OXYGEN\">Sauerstoff</link> aus <link=\"CONTAMINATEDOXYGEN"
+"\">Verschmutztem Sauerstoff</link> reinigt.\n"
+"\n"
+"Filtermaterialien sind ein Verbrauchsmaterial, das durch den Filterprozess "
+"umgewandelt wird, um ein Nebenprodukt zu erzeugen, so wie <link=\"TOXICSAND"
+"\">Verschmutzte Erde</link> das Ergebnis ist, nachdem <link=\"SAND\">Sand</"
+"link> verwendet wurde, um verschmutztes Wasser zu filtern. Das Filtergebäude "
+"stellt seine Funktion ein, wenn das Filtermaterial verbraucht ist. Sobald das "
+"Filtermaterial dem Filtergebäude wieder zugeführt wird, nimmt es seine Arbeit "
+"wieder auf."
 
 #. STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE
 msgctxt "STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE"
@@ -57944,6 +57977,17 @@ msgid ""
 "element has a different freezing and melting point based upon their composition "
 "and state."
 msgstr ""
+"Eis ist eine Klasse von Materialien, die größtenteils (wenn nicht sogar "
+"vollständig) aus <link=\"WATER\">Wasser</link> in gefrorener oder teilweise "
+"gefrorener Form bestehen.\n"
+"\n"
+"Als Material in einem kalten festen oder halbfesten Zustand sind diese Elemente "
+"sehr nützlich, um die Umgebung kostengünstig zu kühlen.\n"
+"\n"
+"Beim Erhitzen schmilzt Eis in seine ursprüngliche verflüssigte Form (d. h. "
+"<link=\"BRINEICE\">Sole-Eis</link> verflüssigt sich zu <link=\"BRINE\">Sole</"
+"link>). Jedes Eiselement hat einen anderen Gefrier- und Schmelzpunkt, der von "
+"seiner Zusammensetzung und seinem Zustand abhängt."
 
 #. STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT"
@@ -58136,6 +58180,14 @@ msgid ""
 "Metal ore can be refined in either the <link=\"ROCKCRUSHER\">Rock Crusher</"
 "link> or the <link=\"METALREFINERY\">Metal Refinery</link>."
 msgstr ""
+"Veredelte Metalle sind gereinigte Formen von Metallen, die häufig in "
+"höherwertigen elektronischen Geräten verwendet werden, da sie bei der "
+"Herstellung von Drähten höheren Temperaturen standhalten können. Zu den "
+"weiteren Vorteilen gehört der höhere Dekorwert einiger Metalle, der das "
+"Wohlergehen einer Kolonie erheblich steigern kann.\n"
+"\n"
+"Metallerze können entweder im <link=\"ROCKCRUSHER\">Steinbrecher</link> oder in "
+"der <link=\"METALREFINERY\">Metallraffinerie</link> raffiniert werden."
 
 #. STRINGS.MISC.TAGS.RELAXATION_POINT
 msgctxt "STRINGS.MISC.TAGS.RELAXATION_POINT"
@@ -70681,7 +70733,7 @@ msgstr "{0} Eigenschaften"
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAITS_HEADER
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAITS_HEADER"
 msgid "World Traits"
-msgstr ""
+msgstr "Welt-Eigenschaften"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT.NAME
 msgctxt ""
@@ -91845,7 +91897,7 @@ msgstr ""
 #. STRINGS.WORLDS.MINIBADLANDS.NAME
 msgctxt "STRINGS.WORLDS.MINIBADLANDS.NAME"
 msgid "The Badlands Asteroid (experimental)"
-msgstr ""
+msgstr "Der Ödland-Asteroid (experimentell)"
 
 #. STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION"
@@ -91856,6 +91908,12 @@ msgid ""
 "rocketry program.</smallcaps>\n"
 "\n"
 msgstr ""
+"Ein Asteroid, dessen Oberfläche glühend heiß ist, während der Kern bewohnbar "
+"ist.\n"
+"\n"
+"<smallcaps>Die Oberfläche eines umgekippten Asteroiden wird es schwierig "
+"machen, ein Raketenprogramm zu starten.</smallcaps>\n"
+"\n"
 
 #. STRINGS.WORLDS.MINIFLIPPED.NAME
 msgctxt "STRINGS.WORLDS.MINIFLIPPED.NAME"
