@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-07 21:05+0200\n"
+"PO-Revision-Date: 2021-10-25 22:16+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -28572,7 +28572,7 @@ msgid ""
 "Imperative."
 msgstr ""
 "Sichere das Vermächtnis deiner Kolonie, indem du die Anforderungen des Flucht-"
-"Imperative erfüllst."
+"Imperativs erfüllst."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_STAY
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_STAY"
@@ -28587,7 +28587,7 @@ msgid ""
 "Imperative."
 msgstr ""
 "Errichte dein dauerhaftes Zuhause, indem du die Anforderungen des "
-"kolonisatorischen Imperativ erfüllst."
+"kolonisatorischen Imperativs erfüllst."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.NOT_ACHIEVED_EVER
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.NOT_ACHIEVED_EVER"
@@ -90194,7 +90194,7 @@ msgstr "<i>Basisspiel</i>"
 #. STRINGS.UI.VICTORYSCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.VICTORYSCREEN.DESCRIPTION"
 msgid "I have fulfilled the conditions of one of my Hardwired Imperatives"
-msgstr "Ich habe die Anforderungen eines vorgegebenen Imperatives erfüllt"
+msgstr "Ich habe die Anforderungen eines vorgegebenen Imperativs erfüllt"
 
 #. STRINGS.UI.VICTORYSCREEN.DISMISSBUTTON
 msgctxt "STRINGS.UI.VICTORYSCREEN.DISMISSBUTTON"
