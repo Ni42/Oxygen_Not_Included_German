@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-24 23:16+0200\n"
+"PO-Revision-Date: 2021-10-25 21:36+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -79082,10 +79082,10 @@ msgid "<link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link> Usage"
 msgstr "<link=\"NUCLEARRESEARCHCENTER\">Materialstudienterminal</link> Verwendung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION"
 msgid "<link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link> Usage"
-msgstr "<link=\"ORBITALRESEARCHCENTER\">Orbitales-Mikrolabor</link>-Nutzung"
+msgstr ""
+"<link=\"ORBITALRESEARCHCENTER\">Orbitales-Datenerfassungslabor</link>-Nutzung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING"
@@ -91656,7 +91656,6 @@ msgid "Verdante"
 msgstr "Verdante"
 
 #. STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION"
 msgid ""
 "A small moon with a forest start.\n"
@@ -91667,15 +91666,14 @@ msgid ""
 msgstr ""
 "Ein kleiner Mond mit einem Waldstart.\n"
 "\n"
-"<smallcaps>Waldmondchen haben viel organisches Material, aber Duplikanten "
+"<smallcaps>Waldasteroiden haben viel organisches Material, aber Duplikanten "
 "müssen sich schnell außerhalb ihres Startbioms begeben, um Metall zu finden.</"
 "smallcaps>"
 
 #. STRINGS.WORLDS.FORESTMOONLET.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.FORESTMOONLET.NAME"
 msgid "Forest Asteroid"
-msgstr "Wald-Cluster"
+msgstr "Waldasteroid"
 
 #. STRINGS.WORLDS.HELICONA.DESCRIPTION
 msgctxt "STRINGS.WORLDS.HELICONA.DESCRIPTION"
@@ -91828,7 +91826,6 @@ msgid "Irradiated Marsh Asteroid"
 msgstr "Verstrahlter Sumpfasteroid"
 
 #. STRINGS.WORLDS.MINIBADLANDS.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIBADLANDS.DESCRIPTION"
 msgid ""
 "A barren location with an overabundance of mineral resources and oil.\n"
@@ -91838,7 +91835,7 @@ msgid ""
 "challenging.</smallcaps>\n"
 "\n"
 msgstr ""
-"Ein karger Ort mit einem Überfluss an Bodenschätzen.\n"
+"Ein karger Ort mit einem Überfluss an Bodenschätzen und Öl.\n"
 "\n"
 "<smallcaps>Das felsige Terrain des Ödlandes stellt keine unmittelbare Bedrohung "
 "dar, aber durch die spärliche Ressourcenverfügbarkeit wird die Expansion und "
@@ -91861,13 +91858,11 @@ msgid ""
 msgstr ""
 
 #. STRINGS.WORLDS.MINIFLIPPED.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIFLIPPED.NAME"
 msgid "Flipped Asteroid (experimental)"
-msgstr "Vergoldetes Asteroidenfeld"
+msgstr "Umgedrehter Asteroid (experimentell)"
 
 #. STRINGS.WORLDS.MINIFORESTFROZEN.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIFORESTFROZEN.DESCRIPTION"
 msgid ""
 "A frigid location marked by inhospitably low temperatures throughout.\n"
@@ -91876,22 +91871,19 @@ msgid ""
 "establishing farms or ranches problematic.</smallcaps>\n"
 "\n"
 msgstr ""
-"Ein kalter Ort der sich durch die unbewohnbar kalten Temperaturen auszeichnet.\n"
+"Ein eisiger Ort, der durchweg von unwirtlich niedrigen Temperaturen geprägt "
+"ist.\n"
 "\n"
-"<smallcaps>Die kalten Temperaturen auf Rime machen die Suche nach Wasser und "
-"den Aufbau von Farmen oder Viehzuchten problematisch. Allerdings gibt es ein "
-"weites Spektrum an Material und die kühle Umgebung erlaubt die Etablierung "
-"größerer Industrien.</smallcaps>\n"
+"<smallcaps>Die niedrigen Temperaturen des Gefrorenen Waldes erschweren die "
+"Suche nach Wasser und die Errichtung von Farmen oder Viehzuchten.</smallcaps>\n"
 "\n"
 
 #. STRINGS.WORLDS.MINIFORESTFROZEN.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIFORESTFROZEN.NAME"
 msgid "Frozen Forest Asteroid (experimental)"
-msgstr "Gefrorenes Erz-Asteroidenfeld"
+msgstr "Gefrorener Wald-Asteroid (experimentell)"
 
 #. STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION"
 msgid ""
 "A small swampy world with an abudnance of metal.\n"
@@ -91899,20 +91891,17 @@ msgid ""
 "<smallcaps>Metallic Swampy Asteroids have a high concentration of metal.</"
 "smallcaps>"
 msgstr ""
-"Eine kleine sumpfige Welt mit einem radioaktiven Kern.\n"
+"Eine kleine sumpfige Welt mit einer großen Menge an Metall.\n"
 "\n"
-"<smallcaps>Die verstrahlten Sümpfe haben eine hohe Konzentration an seltenen "
-"sumpfigen und radioaktiven Ressourcen, sind aber auch voller Gefahren.</"
-"smallcaps>"
+"<smallcaps>Metallische Sumpf-Asteroiden haben eine hohe Konzentration von "
+"Metall.</smallcaps>"
 
 #. STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME"
 msgid "Metallic Swampy Asteroid (experimental)"
-msgstr "Metallisches Asteroidenfeld"
+msgstr "Metallischer Sumpf-Asteroid (experimentell)"
 
 #. STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.DESCRIPTION"
 msgid ""
 "WIP\n"
@@ -91920,16 +91909,15 @@ msgid ""
 "<smallcaps>WIP</smallcaps>\n"
 "\n"
 msgstr ""
-"Dieser Ort rockt wirklich.\n"
+"Im Bau befindlich\n"
 "\n"
-"<smallcaps></smallcaps>\n"
+"<smallcaps>Im Bau befindlich</smallcaps>\n"
 "\n"
 
 #. STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.NAME"
 msgid "Radioactive Ocean Asteroid (experimental)"
-msgstr "Radioaktives Asteroidenfeld"
+msgstr "Radioaktiver Ozean-Asteroid (experimentell)"
 
 #. STRINGS.WORLDS.MOOMOONLET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MOOMOONLET.DESCRIPTION"
