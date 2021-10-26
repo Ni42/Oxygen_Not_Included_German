@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-25 22:16+0200\n"
+"PO-Revision-Date: 2021-10-26 22:45+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -12055,7 +12055,6 @@ msgid "<link=\"MANUALGENERATOR\">Manual Generator</link>"
 msgstr "<link=\"MANUALGENERATOR\">Hamsterrad</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.DESC"
 msgid "Radbolts are necessary for producing Materials Science research."
 msgstr ""
@@ -12063,23 +12062,22 @@ msgstr ""
 "betreiben."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.EFFECT"
 msgid ""
 "Refines radioactive ores to generate Radbolts.\n"
 "\n"
 "Emits generated Radbolts in the direction of your choosing."
 msgstr ""
-"Zieht die nahegelegene <link=\"RADIATION\">Strahlung</link> an und erzeugt "
-"<style=\"KKeyword\">Teilchenblitze</style>.\n"
+"Veredelt radioaktive Erze zur Erzeugung von Teilchenblitzen.\n"
 "\n"
 "Sendet die erzeugten Teilchenblitze in die gewählte Richtung aus."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.NAME"
 msgid "<link=\"MANUALHIGHENERGYPARTICLESPAWNER\">Manual Radbolt Generator</link>"
-msgstr "<link=\"HIGHENERGYPARTICLESPAWNER\">Teilchenblitz-Generator</link>"
+msgstr ""
+"<link=\"MANUALHIGHENERGYPARTICLESPAWNER\">Manueller Teilchenblitz-Generator</"
+"link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.RECIPE_DESCRIPTION
 msgctxt ""
@@ -17693,70 +17691,59 @@ msgid "Planetary System"
 msgstr "Planetensystem"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.DESCRIPTION"
 msgid "A cluster of visitable planetoids with a Badlands starting world."
-msgstr ""
-"Eine Ansammlung von Planeten mit einem gefrorenen Planetoiden als Ausgangspunkt."
+msgstr "Eine Ansammlung von besuchbaren Planetoiden mit einer Ödland-Startwelt."
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME"
 msgid "Moonlet Cluster - The Badlands (experimental)"
-msgstr "Zerbrochen - Das Ödland (experimentell)"
+msgstr "Kleiner Cluster - Das Ödland (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION"
 msgid "A cluster of visitable planetoids with an inverted starting world"
-msgstr ""
-"Eine Ansammlung von Planeten mit einem gefrorenen Planetoiden als Ausgangspunkt."
+msgstr "Eine Ansammlung besuchbarer Planetoiden mit einer umgekehrten Startwelt"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME"
 msgid "Moonlet Cluster - Flipped (experimental)"
-msgstr "Zerbrochen - Umgedreht (experimentell)"
+msgstr "Kleiner Cluster - Umgedreht (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION"
 msgid "A cluster of visitable planetoids with a Frozen Forest starting world."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem gefrorenen Planetoiden als Ausgangspunkt."
+"Eine Ansammlung besuchbarer Planetoiden mit einer Startwelt aus gefrorenem Wald."
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME"
 msgid "Moonlet Cluster - Frozen Forest (experimental)"
-msgstr "Zerbrochen - Gefrorener Wald (experimentell)"
+msgstr "Kleiner Cluster - Gefrorener Wald (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION"
 msgid "A cluster of visitable planetoids with a Metallic Swampy starting world."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem größeren sumpfigen Planetoiden als "
-"Startpunkt."
+"Eine Ansammlung besuchbarer Planetoiden mit einer metallischen, sumpfigen "
+"Startwelt."
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME"
 msgid "Moonlet Cluster - Metallic Swampy (experimental)"
-msgstr "Zerbrochen - Metallisch sumpfig (experimentell)"
+msgstr "Kleiner Cluster - Metallisch sumpfig (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION"
 msgid "A cluster of visitable planetoids with a Radioactive Ocean starting world"
 msgstr ""
-"Eine Ansammlung von Planeten mit einem gefrorenen Planetoiden als Ausgangspunkt."
+"Eine Ansammlung besuchbarer Planetoiden mit einem radioaktiven Ozean als "
+"Startwelt"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME"
 msgid "Moonlet Cluster - Radioactive Ocean (experimental)"
-msgstr "Zerbrochener - Radioaktiver Ozean (experimentell)"
+msgstr "Kleiner Cluster - Radioaktiver Ozean (experimentell)"
 
 #. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION"
@@ -17805,37 +17792,32 @@ msgstr ""
 "Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.NAME"
 msgid "Verdante Cluster"
-msgstr "Terra-Cluster"
+msgstr "Verdante-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a larger desolate planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem größeren erdähnlichen Planetoiden als "
-"Startpunkt."
+"Eine Ansammlung von Planeten mit einem größeren trostlosen Planetoiden als "
+"Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.NAME"
 msgid "Oasisse Cluster"
-msgstr "Rime-Cluster"
+msgstr "Oasisse-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a salty planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem gefrorenen Planetoiden als Ausgangspunkt."
+"Eine Ansammlung von Planeten mit einem salzigen Planetoiden als Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.NAME"
 msgid "Oceania Cluster"
-msgstr "Terra-Cluster"
+msgstr "Ozean-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.DESCRIPTION"
@@ -28622,7 +28604,6 @@ msgid "Morale High Ground"
 msgstr "Moralische Höchstleistung"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION
-#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.SURVIVE_IN_A_ROCKET_DESCRIPTION"
 msgid ""
@@ -61397,11 +61378,11 @@ msgid "<link=\"ADVANCEDFILTRATION\">Filtration</link>"
 msgstr "<link=\"ADVANCEDFILTRATION\">Filtration</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.DESC
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.DESC"
 msgid "Harness sub-atomic particles to study the properties of matter, but more."
 msgstr ""
-"Nutzt subatomare Teilchen, um die Eigenschaften der Materie zu untersuchen."
+"Nutzt subatomare Teilchen, um die Eigenschaften der Materie zu erforschen, aber "
+"auch mehr."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.NAME
 #, fuzzy
