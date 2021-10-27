@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-26 22:45+0200\n"
+"PO-Revision-Date: 2021-10-27 21:15+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -61385,10 +61385,9 @@ msgstr ""
 "auch mehr."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.NAME
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.NAME"
 msgid "<link=\"ATOMIC\">More Materials Science Research</link>"
-msgstr "<link=\"ATOMIC\">Materialwissenschaftliche Forschung</link>"
+msgstr "<link=\"ATOMIC\">weitere Materialwissenschaftliche Forschung</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.DESC"
@@ -73411,7 +73410,6 @@ msgid "JOIN THE DISCUSSION"
 msgstr "DISKUTIERE MIT"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid ""
 "Welcome to the <b>RAD NEW WORLDS UPDATE!</b>\n"
@@ -73427,16 +73425,16 @@ msgid ""
 "\n"
 "   Check out the full patch notes for more details!"
 msgstr ""
-"Willkommen zum <b>UNGEKLÄRTE EIGENSCHAFTEN-UPDATE</b>\n"
+"Willkommen zum <b>TOLLE-NEUE-WELTEN-UPDATE</b>\n"
 "\n"
 "<b><i>Spaced Out!</i></b>\n"
-"•<indent=20px>Neue Welteigenschaften zum Weltgenerierungssystem hinzugefügt und "
-"alte Eigenschaften mit Spaced Out kompatibel gemacht!</indent>\n"
-"•<indent=20px>Neue Eigenschaften im Zusammenhang mit Raumfahrt und Strahlung "
-"für Duplikanten hinzugefügt.</indent>\n"
-"•<indent=20px>Hinzugefügt wurden Spaced Out! spezifische Errungenschaften.</"
-"indent>\n"
-"•<indent=20px>Änderungen und Verbesserungen der Codex-Kategorien.</indent>\n"
+"•<indent=20px>Einige neue Cluster-Optionen sind in den Stilkategorien Classic "
+"und Spaced Out! verfügbar. </indent>\n"
+"•<indent=20px>Neue manuelle Teilchenblitz-Generator- und Strahlungslampen-"
+"Gebäude </indent>\n"
+"•<indent=20px>Große Überarbeitungen der kosmischen Forschung, um mehr "
+"Möglichkeiten zum Sammeln von Forschungsdaten zu bieten.</indent>\n"
+"•<indent=20px>Fehlerbehebungen</indent>\n"
 "\n"
 "   Schau dir die vollständigen Patchnotizen für weitere Details an!"
 
@@ -87811,17 +87809,15 @@ msgid "{3} {0} to {4} {1} and {5} {2}"
 msgstr "{3} {0} zu {4} {1} und {5} {2}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP"
 msgid "{0} to <link=\"HEP\">Radbolts</link> and {1}"
-msgstr "<link=\"HEPENGINE\">Teilchenblitz-Triebwerk</link>"
+msgstr "{0} zu <link=\"HEP\">Teilchenblitze</link> und {1}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP_INCLUDE_AMOUNTS
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP_INCLUDE_AMOUNTS"
 msgid "{2} {0} to {3} <link=\"HEP\">Radbolts</link> and {4} {1}"
-msgstr "Zerkleinert {1} in <link=\"SAND\">Sand</link> und reines {0}."
+msgstr "{2} {0} zu {3} <link=\"HEP\">Teilchenblitze</link> und {4} {1}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_INCLUDE_AMOUNTS
 msgctxt ""
@@ -92005,7 +92001,6 @@ msgid "The Badlands Asteroid (experimental)"
 msgstr "Der Ödland-Asteroid (experimentell)"
 
 #. STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION"
 msgid ""
 "An asteroid in which the surface is molten hot lava and the core is livable.\n"
@@ -92014,8 +92009,8 @@ msgid ""
 "start a rocketry program.</smallcaps>\n"
 "\n"
 msgstr ""
-"Ein Asteroid, dessen Oberfläche glühend heiß ist, während der Kern bewohnbar "
-"ist.\n"
+"Ein Asteroid, dessen Oberfläche aus geschmolzener heißer Lava besteht und "
+"dessen Kern bewohnbar ist.\n"
 "\n"
 "<smallcaps>Die Oberfläche eines umgekippten Asteroiden wird es schwierig "
 "machen, ein Raketenprogramm zu starten.</smallcaps>\n"
@@ -92048,7 +92043,6 @@ msgid "Frozen Forest Asteroid (experimental)"
 msgstr "Gefrorener Wald-Asteroid (experimentell)"
 
 #. STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION"
 msgid ""
 "A small swampy world with an abudnance of renewable metal.\n"
@@ -92056,10 +92050,10 @@ msgid ""
 "<smallcaps>Metallic Swampy Asteroids have a high concentration of metal mixed "
 "with a swampy polluted atmosphere.</smallcaps>"
 msgstr ""
-"Eine kleine sumpfige Welt mit einer großen Menge an Metall.\n"
+"Eine kleine sumpfige Welt mit einer Fülle von erneuerbarem Metall.\n"
 "\n"
-"<smallcaps>Metallische Sumpf-Asteroiden haben eine hohe Konzentration von "
-"Metall.</smallcaps>"
+"<smallcaps>Metallische Sumpf-Asteroiden haben eine hohe Konzentration an "
+"Metall, gemischt mit einer sumpfigen, verschmutzten Atmosphäre.</smallcaps>"
 
 #. STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME
 msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME"
@@ -92578,7 +92572,6 @@ msgid "Verdante"
 msgstr "Verdante"
 
 #. STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION"
 msgid ""
 "A desolate location with a cache of life-sustaining water trapped beneath the "
@@ -92588,22 +92581,20 @@ msgid ""
 "the resources of a colony on Oasisse. However, surviving the challenge should "
 "present great industrial opportunities.</smallcaps>"
 msgstr ""
-"Ein trostloser Ort mit einer lebensnotwendigen Wasserader unter der "
-"Oberfläche.\n"
+"Ein trostloser Ort mit einem Vorrat an lebenserhaltendem Wasser, das unter der "
+"Oberfläche eingeschlossen ist.\n"
 "\n"
-"<smallcaps>Eine große Untergrundwüste birgt Temperaturrisiken und strapaziert "
-"die Ressourcen deiner Kolonie. Durchsteht man aber die Herausforderung, "
-"präsentieren sich große industrielle Gelegenheiten.</smallcaps>\n"
-"\n"
+"<smallcaps>Eine weite unterirdische Wüste stellt eine Temperaturbedrohung dar "
+"und belastet die Ressourcen einer Kolonie auf Oasisse. Das Überleben dieser "
+"Herausforderung sollte jedoch große industrielle Möglichkeiten bieten.</"
+"smallcaps>"
 
 #. STRINGS.WORLDS.VANILLAOASIS.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAOASIS.NAME"
 msgid "Oasisse Asteroid"
-msgstr "Öliger Asteroid"
+msgstr "Oasisse-Asteroid"
 
 #. STRINGS.WORLDS.VANILLAOCEANIA.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAOCEANIA.DESCRIPTION"
 msgid ""
 "A location with vast quantities of unpotable salt water.\n"
@@ -92612,19 +92603,16 @@ msgid ""
 "area is covered in a saltwater ocean. Careful expansion and resource usage "
 "should lead to a successful colony.</smallcaps>"
 msgstr ""
-"Ein Ort mit riesigen untrinkbaren Salzwassermengen.\n"
+"Ein Ort mit großen Mengen an nicht trinkbarem Salzwasser.\n"
 "\n"
-"<smallcaps>Ozeanien ist recht stabil und ressourcenreich, allerdings ist ein "
-"Großteil des Gebietes mit Salzwasser bedeckt. Nur vorsichtige Erweiterungen und "
-"gewissenhafter Ressourcenverbrauch führen zu einer erfolgreichen Kolonie.</"
-"smallcaps>\n"
-"\n"
+"<smallcaps>Ozeanien ist recht stabil und ressourcenreich, aber der größte Teil "
+"des Gebiets ist von einem Salzwasserozean bedeckt. Sorgfältige Expansion und "
+"Ressourcennutzung sollten zu einer erfolgreichen Kolonie führen.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLAOCEANIA.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAOCEANIA.NAME"
 msgid "Oceania Asteroid"
-msgstr "Öliger Asteroid"
+msgstr "Ozeanien-Asteroid"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION"
@@ -92649,7 +92637,6 @@ msgid "Terra"
 msgstr "Terra"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION"
 msgid ""
 "A frigid location marked by inhospitably low temperatures throughout.\n"
@@ -92658,19 +92645,18 @@ msgid ""
 "farms or ranches problematic. However, the wide spectrum of minerals and cool "
 "environment could lead to thriving industry.</smallcaps>"
 msgstr ""
-"Ein kalter Ort der sich durch die unbewohnbar kalten Temperaturen auszeichnet.\n"
+"Ein kalter Ort, der durchweg von unwirtlich niedrigen Temperaturen geprägt "
+"ist.\n"
 "\n"
-"<smallcaps>Die kalten Temperaturen auf Rime machen die Suche nach Wasser und "
-"den Aufbau von Farmen oder Viehzuchten problematisch. Allerdings gibt es ein "
-"weites Spektrum an Material und die kühle Umgebung erlaubt die Etablierung "
-"größerer Industrien.</smallcaps>\n"
-"\n"
+"<smallcaps>Die niedrigen Temperaturen von Rime machen es schwierig, Wasser zu "
+"finden und Farmen oder Viehzuchten zu errichten. Das breite Spektrum an "
+"Mineralien und die kühle Umgebung könnten jedoch zu einer florierenden "
+"Industrie führen.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEFROZEN.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEFROZEN.NAME"
 msgid "Rime Asteroid"
-msgstr "Vergoldeter Asteroid"
+msgstr "Rime-Asteroid"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION"
