@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-27 21:28+0200\n"
+"PO-Revision-Date: 2021-10-27 22:21+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -6481,7 +6481,6 @@ msgid "Crushes refined carbon into diamond."
 msgstr "Zerkleinert veredelten Kohlenstoff zu Diamant."
 
 #. STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.EFFECT"
 msgid ""
 "Uses <link=\"POWER\">Power</link> and <link=\"RADIATION\">Radbolts</link> to "
@@ -6491,9 +6490,9 @@ msgid ""
 "Duplicants will not fabricate items unless recipes are queued and <link="
 "\"REFINEDCARBON\">Refined Carbon</link> has been discovered."
 msgstr ""
-"Verwendet <link=\"POWER\">Energie</link> und <link=\"HEP\">Teilchenblitze</"
-"link>, um <link=\"REFINEDCARBON\">veredelten Kohlenstoff</link> in <link="
-"\"DIAMOND\">Diamant</link> zu zerkleinern.\n"
+"Verwendet <link=\"POWER\">Energie</link> und <link=\"RADIATION"
+"\">Teilchenblitze</link>, um <link=\"REFINEDCARBON\">veredelten Kohlenstoff</"
+"link> in <link=\"DIAMOND\">Diamant</link> zu zerkleinern.\n"
 "\n"
 "Duplikanten stellen keine Gegenstände her, es sei denn, es stehen Rezepte in "
 "der Warteschlange und <link=\"REFINEDCARBON\">veredelter Kohlenstoff</link> "
@@ -8416,14 +8415,13 @@ msgid "Allows Radbolts to pass through walls."
 msgstr "Ermöglicht den Durchgang von Teilchenblitzen durch Wände."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.EFFECT"
 msgid ""
 "Receives <link=\"RADIATION\">Radbolts</link> from <link="
 "\"HIGHENERGYPARTICLESPAWNER\">Radbolt Generators</link> and directs them "
 "through walls. All other materials and elements will be blocked from passage."
 msgstr ""
-"Empfängt <link=\"HEP\">Teilchenblitze</link> von <link="
+"Empfängt <link=\"RADIATION\">Teilchenblitze</link> von <link="
 "\"HIGHENERGYPARTICLESPAWNER\">Teilchenblitzgeneratoren</link> und leitet sie "
 "durch Wände. Alle anderen Materialien und Elemente werden am Durchgang "
 "gehindert."
@@ -8441,7 +8439,6 @@ msgstr ""
 "außergewöhnlich weit."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT"
 msgid ""
 "Injects <link=\"RADIATION\">Radbolts</link> into a reaction chamber to propel "
@@ -8453,7 +8450,7 @@ msgid ""
 "The engine of a rocket must be built first before more rocket modules can be "
 "added."
 msgstr ""
-"Injiziert <link=\"HEP\">Teilchenblitze</link> in eine Reaktionskammer, um "
+"Injiziert <link=\"RADIATION\">Teilchenblitze</link> in eine Reaktionskammer, um "
 "Raketen für die Langstrecken-Weltraumerkundung anzutreiben.\n"
 "\n"
 "Teilchenblitz-Triebwerke sind schneller als <link=\"HYDROGENENGINE"
@@ -12083,15 +12080,14 @@ msgstr ""
 "link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.RECIPE_DESCRIPTION
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.RECIPE_DESCRIPTION"
 msgid ""
 "Creates <link=\"RADIATION\">Radbolts</link> by processing {0}. Also creates {1} "
 "as a byproduct."
 msgstr ""
-"Erzeugt <link=\"HEP\">Teilchenblitze</link> durch Verarbeitung von {0}. Erzeugt "
-"auch {1} als Nebenprodukt."
+"Erzeugt <link=\"RADIATION\">Teilchenblitze</link> durch Verarbeitung von {0}. "
+"Erzeugt auch {1} als Nebenprodukt."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.DESC"
@@ -49353,10 +49349,9 @@ msgid "<b>Resource Effects:</b>"
 msgstr "<b>Ressourceneffekte:</b>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD"
 msgid "<link=\"RADIATION\">Excellent Radiation Shield</link>"
-msgstr "<link=\"RADIATION\">Strahlung</link>"
+msgstr "<link=\"RADIATION\">Ausgezeichneter Strahlenschutz</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY"
@@ -68709,10 +68704,9 @@ msgid "<b>Today's Net Stress: {0}%</b>"
 msgstr "<b>Heutige Belastung: {0}%</b>"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.NAME"
 msgid "Radiation Blocking: {0}"
-msgstr "Verdampfungspunkt: {0}"
+msgstr "Strahlungsblockierung: {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.TOOLTIP"
@@ -87872,17 +87866,15 @@ msgid "{3} {0} to {4} {1} and {5} {2}"
 msgstr "{3} {0} zu {4} {1} und {5} {2}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP"
 msgid "{0} to <link=\"RADIATION\">Radbolts</link> and {1}"
-msgstr "{0} zu <link=\"HEP\">Teilchenblitze</link> und {1}"
+msgstr "{0} zu <link=\"RADIATION\">Teilchenblitze</link> und {1}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP_INCLUDE_AMOUNTS
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP_INCLUDE_AMOUNTS"
 msgid "{2} {0} to {3} <link=\"RADIATION\">Radbolts</link> and {4} {1}"
-msgstr "{2} {0} zu {3} <link=\"HEP\">Teilchenblitze</link> und {4} {1}"
+msgstr "{2} {0} zu {3} <link=\"RADIATION\">Teilchenblitze</link> und {4} {1}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_INCLUDE_AMOUNTS
 msgctxt ""
