@@ -6481,11 +6481,12 @@ msgid "Crushes refined carbon into diamond."
 msgstr "Zerkleinert veredelten Kohlenstoff zu Diamant."
 
 #. STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIAMONDPRESS.EFFECT"
 msgid ""
-"Uses <link=\"POWER\">Power</link> and <link=\"HEP\">Radbolts</link> to crush "
-"<link=\"REFINEDCARBON\">Refined Carbon</link> into <link=\"DIAMOND\">Diamond</"
-"link>.\n"
+"Uses <link=\"POWER\">Power</link> and <link=\"RADIATION\">Radbolts</link> to "
+"crush <link=\"REFINEDCARBON\">Refined Carbon</link> into <link=\"DIAMOND"
+"\">Diamond</link>.\n"
 "\n"
 "Duplicants will not fabricate items unless recipes are queued and <link="
 "\"REFINEDCARBON\">Refined Carbon</link> has been discovered."
@@ -8415,11 +8416,12 @@ msgid "Allows Radbolts to pass through walls."
 msgstr "Ermöglicht den Durchgang von Teilchenblitzen durch Wände."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.EFFECT"
 msgid ""
-"Receives <link=\"HEP\">Radbolts</link> from <link=\"HIGHENERGYPARTICLESPAWNER"
-"\">Radbolt Generators</link> and directs them through walls. All other "
-"materials and elements will be blocked from passage."
+"Receives <link=\"RADIATION\">Radbolts</link> from <link="
+"\"HIGHENERGYPARTICLESPAWNER\">Radbolt Generators</link> and directs them "
+"through walls. All other materials and elements will be blocked from passage."
 msgstr ""
 "Empfängt <link=\"HEP\">Teilchenblitze</link> von <link="
 "\"HIGHENERGYPARTICLESPAWNER\">Teilchenblitzgeneratoren</link> und leitet sie "
@@ -8439,10 +8441,11 @@ msgstr ""
 "außergewöhnlich weit."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT"
 msgid ""
-"Injects <link=\"HEP\">Radbolts</link> into a reaction chamber to propel rockets "
-"for long-range space exploration.\n"
+"Injects <link=\"RADIATION\">Radbolts</link> into a reaction chamber to propel "
+"rockets for long-range space exploration.\n"
 "\n"
 "Radbolt Engines are faster than <link=\"HYDROGENENGINE\">Hydrogen Engines</"
 "link> but with a more restrictive height allowance.\n"
@@ -12080,11 +12083,12 @@ msgstr ""
 "link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.RECIPE_DESCRIPTION
+#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.MANUALHIGHENERGYPARTICLESPAWNER.RECIPE_DESCRIPTION"
 msgid ""
-"Creates <link=\"HEP\">Radbolts</link> by processing {0}. Also creates {1} as a "
-"byproduct."
+"Creates <link=\"RADIATION\">Radbolts</link> by processing {0}. Also creates {1} "
+"as a byproduct."
 msgstr ""
 "Erzeugt <link=\"HEP\">Teilchenblitze</link> durch Verarbeitung von {0}. Erzeugt "
 "auch {1} als Nebenprodukt."
@@ -12653,8 +12657,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.NAME"
 msgid ""
 "<link=\"MODULARLAUNCHPADPORTLIQUIDUNLOADER\">Liquid Rocket Port Unloader</link>"
 msgstr ""
-"<link=\"MODULARLAUNCHPADPORTLIQUIDUNLOADER\">Flüssigkeits-"
-"Raketenent­ladeanschluss</link>"
+"<link=\"MODULARLAUNCHPADPORTLIQUIDUNLOADER\">Flüssigkeits-Raketenent­"
+"ladeanschluss</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLID.DESC"
@@ -49348,6 +49352,12 @@ msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EFFECTS_HEADER"
 msgid "<b>Resource Effects:</b>"
 msgstr "<b>Ressourceneffekte:</b>"
 
+#. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD
+#, fuzzy
+msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD"
+msgid "<link=\"RADIATION\">Excellent Radiation Shield</link>"
+msgstr "<link=\"RADIATION\">Strahlung</link>"
+
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY"
 msgid "<link=\"HEAT\">Slow Heating</link>"
@@ -49386,6 +49396,16 @@ msgstr ""
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER"
 msgid "Buildings constructed from this material will have these properties"
 msgstr "Gebäude aus diesem Material haben folgende Eigenschaften"
+
+#. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EXCELLENT_RADIATION_SHIELD
+msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EXCELLENT_RADIATION_SHIELD"
+msgid ""
+"<style=\"KKeyword\">Excellent Radiation Shield</style> radiation has a hard "
+"time passing through materials with a high <style=\"KKeyword\">Radiation "
+"Absorption Factor</style> value. \n"
+"\n"
+"Radiation Absorption Factor: {1}"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.HIGH_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.HIGH_SPECIFIC_HEAT_CAPACITY"
@@ -50006,6 +50026,13 @@ msgstr ""
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
 msgid "<link=\"PROPANE\">Propane</link>"
 msgstr "<link=\"PROPANE\">Propan</link>"
+
+#. STRINGS.ELEMENTS.RADIATIONPROPERTIES
+msgctxt "STRINGS.ELEMENTS.RADIATIONPROPERTIES"
+msgid ""
+"Radiation Absorption Factor: {0}\n"
+"Radiation Emission/1000kg: {1}"
+msgstr ""
 
 #. STRINGS.ELEMENTS.RADIUM.DESC
 msgctxt "STRINGS.ELEMENTS.RADIUM.DESC"
@@ -68681,6 +68708,17 @@ msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS"
 msgid "<b>Today's Net Stress: {0}%</b>"
 msgstr "<b>Heutige Belastung: {0}%</b>"
 
+#. STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.NAME
+#, fuzzy
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.NAME"
+msgid "Radiation Blocking: {0}"
+msgstr "Verdampfungspunkt: {0}"
+
+#. STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.RADIATIONABSORPTIONFACTOR.TOOLTIP"
+msgid "This object will block approximately {0} of radiation."
+msgstr ""
+
 #. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
 msgid "None"
@@ -77760,6 +77798,11 @@ msgstr "Extreme Gefährdung"
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.RANGES.VERY_LOW"
 msgid "Mostly Safe"
 msgstr "Weitgehend sicher"
+
+#. STRINGS.UI.OVERLAYS.RADIATION.SHIELDING_DESC
+msgctxt "STRINGS.UI.OVERLAYS.RADIATION.SHIELDING_DESC"
+msgid "Radiation Blocking: {radiationAbsorptionFactor}"
+msgstr ""
 
 #. STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.HIGH
 msgctxt "STRINGS.UI.OVERLAYS.RADIATION.TOOLTIPS.HIGH"
@@ -87829,14 +87872,16 @@ msgid "{3} {0} to {4} {1} and {5} {2}"
 msgstr "{3} {0} zu {4} {1} und {5} {2}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP"
-msgid "{0} to <link=\"HEP\">Radbolts</link> and {1}"
+msgid "{0} to <link=\"RADIATION\">Radbolts</link> and {1}"
 msgstr "{0} zu <link=\"HEP\">Teilchenblitze</link> und {1}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP_INCLUDE_AMOUNTS
+#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_HEP_INCLUDE_AMOUNTS"
-msgid "{2} {0} to {3} <link=\"HEP\">Radbolts</link> and {4} {1}"
+msgid "{2} {0} to {3} <link=\"RADIATION\">Radbolts</link> and {4} {1}"
 msgstr "{2} {0} zu {3} <link=\"HEP\">Teilchenblitze</link> und {4} {1}"
 
 #. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO_INCLUDE_AMOUNTS
@@ -87937,8 +87982,13 @@ msgstr "Tausche dieses Raketenmodul gegen das darunterliegende aus"
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEDOWN.INVALID
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEDOWN.INVALID"
-msgid "No module below may be swapped"
-msgstr "Das darunterliegende Modul kann nicht getauscht werden"
+msgid ""
+"No module below may be swapped.\n"
+"\n"
+"    • A module below may be unable to have modules placed below it.\n"
+"    • A module below may be unable to fit into the space above it.\n"
+"    • This module may be unable to fit into the space below it."
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.DESC"
@@ -87948,8 +87998,13 @@ msgstr "Tausche dieses Raketenmodul gegen das darüberliegenden aus"
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.INVALID
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.INVALID"
-msgid "No module above may be swapped"
-msgstr "Das darüberliegende Modul kann nicht getauscht werden"
+msgid ""
+"No module above may be swapped.\n"
+"\n"
+"    • A module above may be unable to have modules placed above it.\n"
+"    • A module above may be unable to fit into the space below it.\n"
+"    • This module may be unable to fit into the space above it."
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONVIEWEXTERIOR.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONVIEWEXTERIOR.DESC"
