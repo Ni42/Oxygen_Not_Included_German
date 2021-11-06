@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-10-28 19:15+0200\n"
+"PO-Revision-Date: 2021-11-06 13:04+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -456,7 +456,6 @@ msgid "Local Colony Lacks {Skills}"
 msgstr "Lokaler Kolonie fehlt {Skills}-Fähigkeit"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
 msgid ""
 "{Skills} Skill required to operate\n"
@@ -467,7 +466,7 @@ msgid ""
 msgstr ""
 "{Skills}-Fähigkeit zur Bedienung erforderlich\n"
 "------------------\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> um einem "
+"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> um einem "
 "Duplikanten {Skills} zu lehren, oder bringe einen Duplikanten mit der Fähigkeit "
 "von einem anderen Planetoiden hier her"
 
@@ -501,7 +500,6 @@ msgid "Colony Lacks {Skills}"
 msgstr "Kolonie fehlt {Skills}-Fähigkeit"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
 msgid ""
 "{Skills} Skill required to operate\n"
@@ -511,7 +509,7 @@ msgid ""
 msgstr ""
 "{Skills}-Fähigkeit zur Bedienung erforderlich\n"
 "------------------\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> um einem "
+"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> um einem "
 "Duplikanten {Skills} zu lehren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
@@ -847,7 +845,6 @@ msgid "Scan Quality: {Quality}"
 msgstr "Scanqualität: {Quality}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP"
 msgid ""
 "This scanner dish is currently scanning at <b>{Quality}</b> effectiveness\n"
@@ -859,7 +856,7 @@ msgstr ""
 "Diese Scannerschüssel scannt aktuell mit <b>{Quality}</b> Effektivität.\n"
 "\n"
 "Niedrige Effektivität kann folgende Gründe haben:\n"
-"    • Störung durch in der Nähe befindliche schwere Maschinen\n"
+"    • Störung durch in der Nähe befindliche industrielle Maschinen\n"
 "    • Stein oder Ziegel, die die Sichtlinie der Schüssel in den Weltraum "
 "behindern"
 
@@ -9318,19 +9315,17 @@ msgstr ""
 "\">Raketenanschlüssen</link>, die auf beiden Seiten der Plattform gebaut werden."
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET"
 msgid "Landed Rocket"
-msgstr "Rakete landen"
+msgstr "Gelandete Rakete"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_ACTIVE"
 msgid "Sends a Green Signal when its rocket is on the launch pad"
-msgstr "Sendet ein grünes Signal, wenn die Rakete startklar ist"
+msgstr ""
+"Sendet ein grünes Signal, wenn sich die Rakete auf der Startrampe befindet"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_INACTIVE"
 msgid "Otherwise, sends a Red Signal"
 msgstr "Andernfalls wird ein Rotes Signal gesendet"
@@ -17808,46 +17803,40 @@ msgid "Two Small Worlds"
 msgstr "Zwei kleine Welten"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a temperate foresty planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem größeren bewaldeten Planetoiden als "
-"Startpunkt."
+"Eine Gruppe von Planeten mit einem gemäßigt bewaldeten Planetoiden als "
+"Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME"
 msgid "Arboria Cluster"
-msgstr "Terra-Cluster"
+msgstr "Arboria-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a hot foresty planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem größeren bewaldeten Planetoiden als "
-"Startpunkt."
+"Eine Ansammlung von Planeten mit einem heißen, waldigen Planetoiden als "
+"Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME"
 msgid "Aridio Cluster"
-msgstr "Rime-Cluster"
+msgstr "Aridio-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a larger barren planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem größeren erdähnlichen Planetoiden als "
-"Startpunkt."
+"Eine Ansammlung von Planeten mit einem größeren unfruchtbaren Planetoiden als "
+"Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME"
 msgid "Badlands Cluster"
-msgstr "Verdante-Cluster"
+msgstr "Ödland-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION"
@@ -17920,17 +17909,16 @@ msgid "Large Swamp Cluster"
 msgstr "Großer Sumpf-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with molten lava planetoid to start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem gefrorenen Planetoiden als Ausgangspunkt."
+"Eine Ansammlung von Planeten mit einem geschmolzenen Lavaplanetoiden als "
+"Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME"
 msgid "Volcanea Cluster"
-msgstr "Ozean-Cluster"
+msgstr "Volcanea-Cluster"
 
 #. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2"
@@ -26727,7 +26715,6 @@ msgstr ""
 "keine Strahlenkrankheit erleiden."
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_2"
 msgid ""
 "Duplicants who are exposed to Radioactive Contaminants will need to wear "
@@ -26755,6 +26742,9 @@ msgstr ""
 "Der Verzehr von Jodpräparaten und Meeresfrüchten wird die Strahlenresistenz "
 "eines Duplikanten vorbeugend erhöhen, aber die Strahlenkrankheit eines "
 "Duplikanten nicht heilen, wenn er einmal erkrankt ist.\n"
+"\n"
+"Andererseits tötet die Strahlenbelastung Lebensmittelvergiftungen, Schleimlunge "
+"und Zombiesporen auf Oberflächen (einschließlich Duplikanten).\n"
 "\n"
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_3
@@ -28385,25 +28375,24 @@ msgid "Duplicants in clothing: {0} / {1}"
 msgstr "Duplikanten die Kleidung tragen: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_ARTIFACTS
-#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_ARTIFACTS"
 msgid ""
 "Study different Terrestrial Artifacts at the Artifact Analysis Station.\n"
 "Unique Terrestrial Artifacts studied: {collectedCount} / {neededCount}"
 msgstr ""
-"Studiere terrestrische Artefakte an der Artefaktanalysestation.\n"
-"Untersuchte terrestrische Artefakte: {collectedCount} / {neededCount}"
+"Studiere verschiedene terrestrische Artefakte an der Artefaktanalysestation.\n"
+"Einzigartige untersuchte terrestrische Artefakte: {collectedCount} / "
+"{neededCount}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_SPACE_ARTIFACTS
-#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_SPACE_ARTIFACTS"
 msgid ""
 "Study different Space Artifacts at the Artifact Analysis Station.\n"
 "Unique Space Artifacts studied: {collectedCount} / {neededCount}"
 msgstr ""
-"Studiere Weltraumartefakte an der Artefaktanalysestation.\n"
-"Untersuchte Weltraumartefakte: {collectedCount} / {neededCount}"
+"Studiere verschiedene Weltraumartefakte an der Artefaktanalysestation.\n"
+"Einzigartige untersuchte Weltraumartefakte: {collectedCount} / {neededCount}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_CALORIES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_CALORIES"
@@ -43442,10 +43431,9 @@ msgid "Suits equipped by this duplicant lose durability 25% slower."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_DURABILITY.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_DURABILITY.NAME"
 msgid "<link=\"SUITDURABILITY\">Suit Sustainability Training</link>"
-msgstr "<link=\"SUITS1\">Schutzanzug-Training</link>"
+msgstr "<link=\"SUITDURABILITY\">Schutzanzug-Nachhaltigkeitsschulung</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION"
@@ -61343,7 +61331,6 @@ msgid "No Researchers assigned"
 msgstr "Kein Forscher zugewiesen"
 
 #. STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP"
 msgid ""
 "The selected research focus requires {ResearchType} to complete\n"
@@ -61353,9 +61340,8 @@ msgid ""
 msgstr ""
 "Der ausgewählte Forschungsschwerpunkt erfordert {ResearchType} zum Abschluss\n"
 "\n"
-"Öffnen das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> und "
-"weisen einem Duplikanten die Fertigkeit {ResearchType} zu, um dieses Gebäude zu "
-"nutzen"
+"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> und weise "
+"einem Duplikanten die Fertigkeit {ResearchType} zu, um dieses Gebäude zu nutzen"
 
 #. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
 msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
@@ -79383,10 +79369,9 @@ msgid "<link=\"SOLIDCONDUIT\">Conveyor Rail</link> Construction"
 msgstr "<link=\"SOLIDCONDUIT\">Förderschienen</link>-Konstruktion"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION"
 msgid "Slows <link=\"EXOSUIT\">Exosuit</link> Durability Damage"
-msgstr "Nachteilreduzierung mit <link=\"EXOSUIT\">Schutzanzügen</link>"
+msgstr "Verringert Haltbarkeitsschäden an <link=\"EXOSUIT\">Schutzanzügen</link>."
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
