@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-06 13:04+0100\n"
+"PO-Revision-Date: 2021-11-07 11:36+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -79371,7 +79371,7 @@ msgstr "<link=\"SOLIDCONDUIT\">Förderschienen</link>-Konstruktion"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION"
 msgid "Slows <link=\"EXOSUIT\">Exosuit</link> Durability Damage"
-msgstr "Verringert Haltbarkeitsschäden an <link=\"EXOSUIT\">Schutzanzügen</link>."
+msgstr "Verringert Haltbarkeitsschäden an <link=\"EXOSUIT\">Schutzanzügen</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
@@ -83309,40 +83309,34 @@ msgid "Non-crew exited"
 msgstr "Nicht-Besatzung ausgestiegen"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.FAILURE
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.FAILURE"
 msgid "Not on a launch pad"
-msgstr "Freier Startpfad"
+msgstr "Nicht auf einer Startrampe"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.READY
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.READY"
 msgid "On a launch pad"
-msgstr "Freier Startpfad"
+msgstr "Auf einer Startrampe"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.WARNING
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.WARNING"
 msgid "No launch pad"
-msgstr "Freier Startpfad"
+msgstr "Keine Startrampe"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.FAILURE
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.FAILURE"
 msgid "Not on a launch pad"
-msgstr "Freier Startpfad"
+msgstr "Nicht auf einer Startrampe"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.READY
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.READY"
 msgid "On a launch pad"
-msgstr "Freier Startpfad"
+msgstr "Auf einer Startrampe"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.WARNING
-#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.WARNING"
 msgid "No launch pad"
-msgstr "Freier Startpfad"
+msgstr "Keine Startrampe"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.FAILURE"
@@ -85881,12 +85875,11 @@ msgid "Select the first available landing site"
 msgstr "Wähle die erste verfügbare Landestelle"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PAD_DISABLED
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN."
 "DROPDOWN_TOOLTIP_PAD_DISABLED"
 msgid "Landing pad is disabled"
-msgstr "Kein Landeplatz verfügbar"
+msgstr "Landeplatz ist deaktiviert"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PATH_OBSTRUCTED
 msgctxt ""
@@ -92143,7 +92136,6 @@ msgid "Radioactive Forest Asteroid"
 msgstr "Radioaktiver Wald-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION"
 msgid ""
 "A large-ish forested asteroid with a frozen radioactive core.\n"
@@ -92154,13 +92146,12 @@ msgstr ""
 "Ein großer bewaldeter Asteroid mit einem gefrorenen radioaktiven Kern.\n"
 "\n"
 "<smallcaps>Radioaktive Wald-Asteroiden sind zwar größtenteils bewaldet, "
-"enthalten aber auch eine Menge Rost und Ozean.</smallcaps>"
+"enthalten aber auch eine Menge Rost und Ödland.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME"
 msgid "Radioactive Foresty Wasteland Asteroid"
-msgstr "Radioaktiver Wald-Asteroid"
+msgstr "Radioaktiver bewaldeter Ödland-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
@@ -92199,7 +92190,6 @@ msgid "Radioactive Terra Asteroid"
 msgstr "Radioaktiver Terra-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION"
 msgid ""
 "A large-ish terra world with a radioactive core.\n"
@@ -92207,16 +92197,16 @@ msgid ""
 "<smallcaps>The Radioactive Terra Swampy Asteroid is fairly dry and sandy, but "
 "does contain areas of Swampy with a frozen partially frozen surface.</smallcaps>"
 msgstr ""
-"Eine große Welt mit einem radioaktiven Kern.\n"
+"Eine großräumige Terra-Welt mit einem radioaktiven Kern.\n"
 "\n"
-"<smallcaps>Der radioaktive Terra-Asteroid ist ziemlich trocken und sandig, hat "
-"jedoch Dschungelgebiete.</smallcaps>"
+"<smallcaps>Der radioaktive Terra-Sumpf-Asteroid ist ziemlich trocken und "
+"sandig, enthält aber auch sumpfige Gebiete mit einer teilweise gefrorenen "
+"Oberfläche.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME"
 msgid "Radioactive Terra Swampy Asteroid"
-msgstr "Radioaktiver Terra-Asteroid"
+msgstr "Radioaktiver Terra-Sumpf-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
@@ -92833,7 +92823,6 @@ msgid "Tiny Twin Asteroid FOR DEVS"
 msgstr "Winziger Zwillings-Asteroid FÜR ENTWICKLER"
 
 #. STRINGS.WORLDS.VANILLAARBORIA.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAARBORIA.DESCRIPTION"
 msgid ""
 "A location with a natural abundance of trees.\n"
@@ -92846,17 +92835,14 @@ msgstr ""
 "\n"
 "<smallcaps>Eine Kolonie auf Arboria wird von Beginn an eine umsichtige Planung "
 "erfordern. Aufgrund der fehlenden Metallvorkommnisse werden biologische "
-"Lösungen zu vielen Problemen nötig.</smallcaps>\n"
-"\n"
+"Lösungen zu vielen Problemen nötig.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLAARBORIA.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAARBORIA.NAME"
 msgid "Arboria Asteroid"
-msgstr "Kohlenstoffreicher Asteroid"
+msgstr "Arboria-Asteroid"
 
 #. STRINGS.WORLDS.VANILLAARIDIO.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAARIDIO.DESCRIPTION"
 msgid ""
 "A location with oppressively hot temperatures.\n"
@@ -92868,18 +92854,16 @@ msgstr ""
 "Ein Ort mit bedrückend heißen Temperaturen.\n"
 "\n"
 "<smallcaps>Die Temperaturen auf Aridio sind viel heißer als erwartet. Auch wenn "
-"es reichhaltige Ressourcen gibt, könnte die Nahrungsversorung und Infrastruktur "
-"aufgrund der Erwärmung der Kolonie zu einem Problem werden.</smallcaps>\n"
-"\n"
+"es reichhaltige Ressourcen gibt, könnte die Nahrungsversorgung und "
+"Infrastruktur aufgrund der Erwärmung der Kolonie zu einem Problem werden.</"
+"smallcaps>"
 
 #. STRINGS.WORLDS.VANILLAARIDIO.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAARIDIO.NAME"
 msgid "Aridio Asteroid"
-msgstr "Oxidierter Planetoid"
+msgstr "Aridio-Asteroid"
 
 #. STRINGS.WORLDS.VANILLABADLANDS.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLABADLANDS.DESCRIPTION"
 msgid ""
 "A barren location with an overabundance of mineral resources.\n"
@@ -92892,14 +92876,12 @@ msgstr ""
 "\n"
 "<smallcaps>Das felsige Terrain des Ödlandes stellt keine unmittelbare Bedrohung "
 "dar, aber durch die spärliche Ressourcenverfügbarkeit wird die Expansion und "
-"der technologischen Fortschritt schwierig werden.</smallcaps>\n"
-"\n"
+"der technologischen Fortschritt schwierig werden.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLABADLANDS.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLABADLANDS.NAME"
 msgid "The Badlands Asteroid"
-msgstr "Der Ödland-Asteroid (experimentell)"
+msgstr "Der Ödland-Asteroid"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION"
@@ -92920,10 +92902,9 @@ msgstr ""
 "\n"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME"
 msgid "Verdante Asteroid"
-msgstr "Verdante-Cluster"
+msgstr "Verdante-Asteroid"
 
 #. STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION"
@@ -92986,10 +92967,9 @@ msgstr ""
 "\n"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME"
 msgid "Terra Asteroid"
-msgstr "Tundra-Asteroid"
+msgstr "Terra-Asteroid"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION"
@@ -93034,7 +93014,6 @@ msgid "Swampy Asteroid"
 msgstr "Sumpfiger Asteroid"
 
 #. STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION"
 msgid ""
 "A location rife with molten lava pockets and intense heat.\n"
@@ -93043,18 +93022,16 @@ msgid ""
 "carefully and managing the temperatures in our colony will be essential to "
 "success.</smallcaps>"
 msgstr ""
-"Ein Ort mit geschmolzenen Lavataschen und intensiver Hitze.\n"
+"Ein Ort voller geschmolzenen Lavataschen und intensiver Hitze.\n"
 "\n"
 "<smallcaps>Volcanea wäre perfekt, wenn es keine Vulkane gäbe. Wir müssen "
 "vorsichtig graben und auf die Temperaturen achten, wenn wir erfolgreich sein "
-"wollen.</smallcaps>\n"
-"\n"
+"wollen.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLAVOLCANIC.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.NAME"
 msgid "Volcanea Asteroid"
-msgstr "Ozeanien-Asteroid"
+msgstr "Volcanea-Asteroid"
 
 #. STRINGS.WORLDS.VOLCANIC.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VOLCANIC.DESCRIPTION"
