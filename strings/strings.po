@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-06 21:58+0100\n"
+"PO-Revision-Date: 2021-11-07 11:46+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -460,13 +460,13 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTI
 msgid ""
 "{Skills} Skill required to operate\n"
 "------------------\n"
-"Open the <b>Skills Panel</b> <b><color=#F44A4A>[L]</b></color> to teach "
+"Open the <b>Skills Panel</b> <b><color=#F44A4A>[J]</b></color> to teach "
 "{Skills} to a Duplicant, or bring a Duplicant with the skill from another "
 "Planetoid"
 msgstr ""
 "{Skills}-Fähigkeit zur Bedienung erforderlich\n"
 "------------------\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> um einem "
+"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> um einem "
 "Duplikanten {Skills} zu lehren, oder bringe einen Duplikanten mit der Fähigkeit "
 "von einem anderen Planetoiden hier her"
 
@@ -504,12 +504,12 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
 msgid ""
 "{Skills} Skill required to operate\n"
 "------------------\n"
-"Open the <b>Skills Panel</b> <b><color=#F44A4A>[L]</b></color> to teach "
+"Open the <b>Skills Panel</b> <b><color=#F44A4A>[J]</b></color> to teach "
 "{Skills} to a Duplicant"
 msgstr ""
 "{Skills}-Fähigkeit zur Bedienung erforderlich\n"
 "------------------\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> um einem "
+"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> um einem "
 "Duplikanten {Skills} zu lehren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
@@ -850,13 +850,13 @@ msgid ""
 "This scanner dish is currently scanning at <b>{Quality}</b> effectiveness\n"
 "\n"
 "Decreased scan quality may be due to:\n"
-"    • Interference from nearby heavy machinery\n"
+"    • Interference from nearby industrial machinery\n"
 "    • Rock or tile obstructing the dish's line of sight on space"
 msgstr ""
 "Diese Scannerschüssel scannt aktuell mit <b>{Quality}</b> Effektivität.\n"
 "\n"
 "Niedrige Effektivität kann folgende Gründe haben:\n"
-"    • Störung durch in der Nähe befindliche schwere Maschinen\n"
+"    • Störung durch in der Nähe befindliche industrielle Maschinen\n"
 "    • Stein oder Ziegel, die die Sichtlinie der Schüssel in den Weltraum "
 "behindern"
 
@@ -9313,6 +9313,22 @@ msgstr ""
 "\n"
 "Verbindet sich automatisch mit <link=\"MODULARLAUNCHPADPORTSOLID"
 "\">Raketenanschlüssen</link>, die auf beiden Seiten der Plattform gebaut werden."
+
+#. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET"
+msgid "Landed Rocket"
+msgstr "Gelandete Rakete"
+
+#. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_ACTIVE"
+msgid "Sends a Green Signal when its rocket is on the launch pad"
+msgstr ""
+"Sendet ein grünes Signal, wenn sich die Rakete auf der Startrampe befindet"
+
+#. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_INACTIVE"
+msgid "Otherwise, sends a Red Signal"
+msgstr "Andernfalls wird ein Rotes Signal gesendet"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH"
@@ -17786,6 +17802,42 @@ msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.NAME"
 msgid "Two Small Worlds"
 msgstr "Zwei kleine Welten"
 
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a temperate foresty planetoid to start on."
+msgstr ""
+"Eine Gruppe von Planeten mit einem gemäßigt bewaldeten Planetoiden als "
+"Ausgangspunkt."
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME"
+msgid "Arboria Cluster"
+msgstr "Arboria-Cluster"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a hot foresty planetoid to start on."
+msgstr ""
+"Eine Ansammlung von Planeten mit einem heißen, waldigen Planetoiden als "
+"Ausgangspunkt."
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME"
+msgid "Aridio Cluster"
+msgstr "Aridio-Cluster"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with a larger barren planetoid to start on."
+msgstr ""
+"Eine Ansammlung von Planeten mit einem größeren unfruchtbaren Planetoiden als "
+"Ausgangspunkt."
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME"
+msgid "Badlands Cluster"
+msgstr "Ödland-Cluster"
+
 #. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION"
 msgid "A cluster of planets with a larger foresty planetoid to start on."
@@ -17855,6 +17907,18 @@ msgstr ""
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
 msgid "Large Swamp Cluster"
 msgstr "Großer Sumpf-Cluster"
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION"
+msgid "A cluster of planets with molten lava planetoid to start on."
+msgstr ""
+"Eine Ansammlung von Planeten mit einem geschmolzenen Lavaplanetoiden als "
+"Startpunkt."
+
+#. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME
+msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME"
+msgid "Volcanea Cluster"
+msgstr "Volcanea-Cluster"
 
 #. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2"
@@ -24079,44 +24143,40 @@ msgstr "Pflanzenmutationen"
 
 #. STRINGS.CODEX.GENETICS.HEADER_2
 msgctxt "STRINGS.CODEX.GENETICS.HEADER_2"
-msgid "Breeding"
-msgstr "Zucht"
-
-#. STRINGS.CODEX.GENETICS.HEADER_3
-msgctxt "STRINGS.CODEX.GENETICS.HEADER_3"
-msgid "Dangers"
-msgstr "Gefahren"
+msgid "Cultivating Mutated Seeds"
+msgstr "Kultivierung mutierten Saatguts"
 
 #. STRINGS.CODEX.GENETICS.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.GENETICS.PARAGRAPH_1"
 msgid ""
-"When selecting a seed to plant, a variety of mutations will be available to "
-"choose from that will affect how the plant develops.\n"
+"Plants exposed to radiation sometimes drop mutated seeds when they are "
+"harvested. Each type of mutation has its own efficiencies and trade-offs.\n"
 "\n"
-"Different plants and critters have different mutations which allow them to "
-"thrive in different situations and produce different materials for harvest.\n"
+"Mutated seeds can be planted once they have been analyzed in the Botanical "
+"Analyzer, but the resulting plants will produce no seeds of their own unless "
+"they are uprooted.\n"
 "\n"
 msgstr ""
-"Wenn du einen Samen zum Anpflanzen auswählst, kannst du aus einer Vielzahl von "
-"Mutationen wählen, die sich auf die Entwicklung der Pflanze auswirken.\n"
+"Pflanzen, die der Strahlung ausgesetzt sind, geben manchmal mutierte Samen ab, "
+"wenn sie geerntet werden. Jede Art von Mutation hat ihre eigenen Vorteile und "
+"Nachteile.\n"
 "\n"
-"Verschiedene Pflanzen und Tiere haben unterschiedliche Mutationen, die es ihnen "
-"ermöglichen, in verschiedenen Situationen zu gedeihen und verschiedene "
-"Materialien für die Ernte zu produzieren.\n"
+"Mutierte Samen können nach der Analyse im Botanischen Analysator eingepflanzt "
+"werden, aber die daraus entstehenden Pflanzen produzieren keine eigenen Samen, "
+"wenn sie nicht entwurzelt werden.\n"
 "\n"
 
 #. STRINGS.CODEX.GENETICS.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.GENETICS.PARAGRAPH_2"
-msgid "This is where the breeding information will go"
-msgstr "Hier werden die Zuchtinformationen abgelegt"
-
-#. STRINGS.CODEX.GENETICS.PARAGRAPH_3
-msgctxt "STRINGS.CODEX.GENETICS.PARAGRAPH_3"
 msgid ""
-"This is where the part about dangers will go\n"
+"Once mutated seeds have been analyzed in the Botanical Analyzer, they are ready "
+"to be planted. Continued exposure to naturally occurring radiation or a "
+"Radiation Lamp is necessary to prevent wilting.\n"
 "\n"
 msgstr ""
-"An dieser Stelle wird der Teil über Gefahren stehen\n"
+"Sobald die mutierten Samen im Botanischen Analysator analysiert wurden, können "
+"sie gepflanzt werden. Sie müssen weiterhin der natürlichen Strahlung oder einer "
+"Strahlungslampe ausgesetzt werden, um ein Verwelken zu verhindern.\n"
 "\n"
 
 #. STRINGS.CODEX.GENETICS.TITLE
@@ -26680,6 +26740,9 @@ msgid ""
 "Duplicant's radiation resistance, but will not cure a Duplicant's Radiation "
 "Sickness once they have become infected.\n"
 "\n"
+"On the other hand, exposure to radiation will kill food poisoning, slimelung "
+"and zombie spores on surfaces (including Duplicants).\n"
+"\n"
 msgstr ""
 "Duplikanten, die radioaktiven Schadstoffen ausgesetzt sind, müssen einen Schutz "
 "tragen, sonst besteht die Gefahr, dass sie an der Strahlenkrankheit erkranken.\n"
@@ -26691,6 +26754,9 @@ msgstr ""
 "Der Verzehr von Jodpräparaten und Meeresfrüchten wird die Strahlenresistenz "
 "eines Duplikanten vorbeugend erhöhen, aber die Strahlenkrankheit eines "
 "Duplikanten nicht heilen, wenn er einmal erkrankt ist.\n"
+"\n"
+"Andererseits tötet die Strahlenbelastung Lebensmittelvergiftungen, Schleimlunge "
+"und Zombiesporen auf Oberflächen (einschließlich Duplikanten).\n"
 "\n"
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_3
@@ -28323,21 +28389,22 @@ msgstr "Duplikanten die Kleidung tragen: {0} / {1}"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_ARTIFACTS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_ARTIFACTS"
 msgid ""
-"Study Terrestrial Artifacts at the Artifact Analysis Station.\n"
-"Terrestrial Artifacts studied: {collectedCount} / {neededCount}"
+"Study different Terrestrial Artifacts at the Artifact Analysis Station.\n"
+"Unique Terrestrial Artifacts studied: {collectedCount} / {neededCount}"
 msgstr ""
-"Studiere terrestrische Artefakte an der Artefaktanalysestation.\n"
-"Untersuchte terrestrische Artefakte: {collectedCount} / {neededCount}"
+"Studiere verschiedene terrestrische Artefakte an der Artefaktanalysestation.\n"
+"Einzigartige untersuchte terrestrische Artefakte: {collectedCount} / "
+"{neededCount}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_SPACE_ARTIFACTS
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.COLLECT_SPACE_ARTIFACTS"
 msgid ""
-"Study Space Artifacts at the Artifact Analysis Station.\n"
-"Space Artifacts studied: {collectedCount} / {neededCount}"
+"Study different Space Artifacts at the Artifact Analysis Station.\n"
+"Unique Space Artifacts studied: {collectedCount} / {neededCount}"
 msgstr ""
-"Studiere Weltraumartefakte an der Artefaktanalysestation.\n"
-"Untersuchte Weltraumartefakte: {collectedCount} / {neededCount}"
+"Studiere verschiedene Weltraumartefakte an der Artefaktanalysestation.\n"
+"Einzigartige untersuchte Weltraumartefakte: {collectedCount} / {neededCount}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_CALORIES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_CALORIES"
@@ -43370,6 +43437,18 @@ msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME"
 msgid "<link=\"SPACERESEARCH\">Data Analysis Researcher</link>"
 msgstr "<link=\"SPACERESEARCH\">Forscher für Datenanalyse</link>"
 
+#. STRINGS.DUPLICANTS.ROLES.SUIT_DURABILITY.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_DURABILITY.DESCRIPTION"
+msgid "Suits equipped by this duplicant lose durability 25% slower."
+msgstr ""
+"Anzüge, die von diesen Duplikanten ausgerüstet werden, verlieren 25% langsamer "
+"an Haltbarkeit."
+
+#. STRINGS.DUPLICANTS.ROLES.SUIT_DURABILITY.NAME
+msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_DURABILITY.NAME"
+msgid "<link=\"SUITDURABILITY\">Suit Sustainability Training</link>"
+msgstr "<link=\"SUITDURABILITY\">Schutzanzug-Nachhaltigkeitsschulung</link>"
+
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION"
 msgid "Eliminates the runspeed loss experienced while wearing exosuits"
@@ -43379,16 +43458,6 @@ msgstr "Beseitigt den Geschwindigkeitsverlust beim Tragen von Schutzanzügen"
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME"
 msgid "<link=\"SUITS1\">Exosuit Training</link>"
 msgstr "<link=\"SUITS1\">Schutzanzug-Training</link>"
-
-#. STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.DESCRIPTION"
-msgid "Work in progress skill"
-msgstr "Fertigkeit \"In Arbeit befindlich\""
-
-#. STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.THERMAL_SUIT_WEARER.NAME"
-msgid "W.I.P. Skill"
-msgstr "\"In Arbeit\"-Fertigkeit"
 
 #. STRINGS.DUPLICANTS.ROLES.USELESSSKILL.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.USELESSSKILL.DESCRIPTION"
@@ -60942,6 +61011,23 @@ msgctxt "STRINGS.NAMEGEN.WORLD.PLANETOID_PREFIX"
 msgid "Planetoid: "
 msgstr "Planetoid: "
 
+#. STRINGS.NAMEGEN.WORLD.ROOTS.FLIPPED
+msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.FLIPPED"
+msgid ""
+"Revers\n"
+"Inver\n"
+"Err\n"
+"Flipp\n"
+"Upsid\n"
+"Bottom\n"
+"Retr\n"
+"Contr\n"
+"Jumbel\n"
+"Discor\n"
+"Awr\n"
+"Abnorm\n"
+msgstr ""
+
 #. STRINGS.NAMEGEN.WORLD.ROOTS.FOREST
 msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.FOREST"
 msgid ""
@@ -60954,6 +61040,16 @@ msgid ""
 "Herb\n"
 "Grow\n"
 "Verd\n"
+"Sylv\n"
+"Abund\n"
+"Arbor\n"
+"Twig\n"
+"Canop\n"
+"Perenn\n"
+"Lush\n"
+"Root\n"
+"Sap\n"
+"Cultiv\n"
 "Bark\n"
 msgstr ""
 
@@ -61108,6 +61204,16 @@ msgid ""
 "Yuck\n"
 "Reek\n"
 "Blag\n"
+"Sogg\n"
+"Dripp\n"
+"Ugh\n"
+"Pustul\n"
+"Ick\n"
+"Curd\n"
+"Slop\n"
+"Phlegm\n"
+"Gurg\n"
+"Smear\n"
 "Ooz\n"
 msgstr ""
 
@@ -61123,6 +61229,16 @@ msgid ""
 "Idyll\n"
 "Halcy\n"
 "Pastor\n"
+"Allur\n"
+"Flor\n"
+"Nutril\n"
+"Viv\n"
+"Perseph\n"
+"Sanct\n"
+"Exquis\n"
+"Haven\n"
+"Paix\n"
+"Bloom\n"
 "Vital\n"
 msgstr ""
 
@@ -61233,14 +61349,13 @@ msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP"
 msgid ""
 "The selected research focus requires {ResearchType} to complete\n"
 "\n"
-"Open the <b>Skills Panel</b> <b><color=#F44A4A>[L]</b></color> and teach a "
+"Open the <b>Skills Panel</b> <b><color=#F44A4A>[J]</b></color> and teach a "
 "Duplicant the {ResearchType} Skill to use this building"
 msgstr ""
 "Der ausgewählte Forschungsschwerpunkt erfordert {ResearchType} zum Abschluss\n"
 "\n"
-"Öffnen das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[L]</b></color> und "
-"weisen einem Duplikanten die Fertigkeit {ResearchType} zu, um dieses Gebäude zu "
-"nutzen"
+"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> und weise "
+"einem Duplikanten die Fertigkeit {ResearchType} zu, um dieses Gebäude zu nutzen"
 
 #. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
 msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
@@ -79267,6 +79382,11 @@ msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
 msgid "<link=\"SOLIDCONDUIT\">Conveyor Rail</link> Construction"
 msgstr "<link=\"SOLIDCONDUIT\">Förderschienen</link>-Konstruktion"
 
+#. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION
+msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION"
+msgid "Slows <link=\"EXOSUIT\">Exosuit</link> Durability Damage"
+msgstr "Verringert Haltbarkeitsschäden an <link=\"EXOSUIT\">Schutzanzügen</link>"
+
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
 msgid "<link=\"EXOSUIT\">Exosuit</link> Penalty Reduction"
@@ -83202,6 +83322,36 @@ msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.NO_EXTRA_PASSENGERS.WARNING"
 msgid "Non-crew exited"
 msgstr "Nicht-Besatzung ausgestiegen"
 
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.FAILURE
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.FAILURE"
+msgid "Not on a launch pad"
+msgstr "Nicht auf einer Startrampe"
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.READY
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.READY"
+msgid "On a launch pad"
+msgstr "Auf einer Startrampe"
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.WARNING
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.STATUS.WARNING"
+msgid "No launch pad"
+msgstr "Keine Startrampe"
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.FAILURE
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.FAILURE"
+msgid "Not on a launch pad"
+msgstr "Nicht auf einer Startrampe"
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.READY
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.READY"
+msgid "On a launch pad"
+msgstr "Auf einer Startrampe"
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.WARNING
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ON_LAUNCHPAD.TOOLTIP.WARNING"
+msgid "No launch pad"
+msgstr "Keine Startrampe"
+
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.FAILURE"
 msgid "Pilot boarded"
@@ -85737,6 +85887,13 @@ msgctxt ""
 "DROPDOWN_TOOLTIP_FIRST_AVAILABLE"
 msgid "Select the first available landing site"
 msgstr "Wähle die erste verfügbare Landestelle"
+
+#. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PAD_DISABLED
+msgctxt ""
+"STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN."
+"DROPDOWN_TOOLTIP_PAD_DISABLED"
+msgid "Landing pad is disabled"
+msgstr "Landeplatz ist deaktiviert"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_PATH_OBSTRUCTED
 msgctxt ""
@@ -91992,6 +92149,24 @@ msgctxt "STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.NAME"
 msgid "Radioactive Forest Asteroid"
 msgstr "Radioaktiver Wald-Asteroid"
 
+#. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION"
+msgid ""
+"A large-ish forested asteroid with a frozen radioactive core.\n"
+"\n"
+"<smallcaps>While Radioactive Forest Asteroid are largely foresty, they also "
+"contain a great deal of rust and wasteland.</smallcaps>"
+msgstr ""
+"Ein großer bewaldeter Asteroid mit einem gefrorenen radioaktiven Kern.\n"
+"\n"
+"<smallcaps>Radioaktive Wald-Asteroiden sind zwar größtenteils bewaldet, "
+"enthalten aber auch eine Menge Rost und Ödland.</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME"
+msgid "Radioactive Foresty Wasteland Asteroid"
+msgstr "Radioaktiver bewaldeter Ödland-Asteroid"
+
 #. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
 msgid ""
@@ -92027,6 +92202,25 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYRADIOACTIVEVANILLAWARPPLANET.NAME"
 msgid "Radioactive Terra Asteroid"
 msgstr "Radioaktiver Terra-Asteroid"
+
+#. STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION
+msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION"
+msgid ""
+"A large-ish terra world with a radioactive core.\n"
+"\n"
+"<smallcaps>The Radioactive Terra Swampy Asteroid is fairly dry and sandy, but "
+"does contain areas of Swampy with a frozen partially frozen surface.</smallcaps>"
+msgstr ""
+"Eine großräumige Terra-Welt mit einem radioaktiven Kern.\n"
+"\n"
+"<smallcaps>Der radioaktive Terra-Sumpf-Asteroid ist ziemlich trocken und "
+"sandig, enthält aber auch sumpfige Gebiete mit einer teilweise gefrorenen "
+"Oberfläche.</smallcaps>"
+
+#. STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME
+msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME"
+msgid "Radioactive Terra Swampy Asteroid"
+msgstr "Radioaktiver Terra-Sumpf-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
@@ -92642,6 +92836,67 @@ msgctxt "STRINGS.WORLDS.TWINMOONLET.NAME"
 msgid "Tiny Twin Asteroid FOR DEVS"
 msgstr "Winziger Zwillings-Asteroid FÜR ENTWICKLER"
 
+#. STRINGS.WORLDS.VANILLAARBORIA.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAARBORIA.DESCRIPTION"
+msgid ""
+"A location with a natural abundance of trees.\n"
+"\n"
+"<smallcaps>Colonizing Arboria will require careful planning right from the "
+"start. Because of its lack of metals, finding biological solutions to problems "
+"is a must.</smallcaps>"
+msgstr ""
+"Ein Ort mit einer Fülle an Bäumen.\n"
+"\n"
+"<smallcaps>Eine Kolonie auf Arboria wird von Beginn an eine umsichtige Planung "
+"erfordern. Aufgrund der fehlenden Metallvorkommnisse werden biologische "
+"Lösungen zu vielen Problemen nötig.</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAARBORIA.NAME
+msgctxt "STRINGS.WORLDS.VANILLAARBORIA.NAME"
+msgid "Arboria Asteroid"
+msgstr "Arboria-Asteroid"
+
+#. STRINGS.WORLDS.VANILLAARIDIO.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAARIDIO.DESCRIPTION"
+msgid ""
+"A location with oppressively hot temperatures.\n"
+"\n"
+"<smallcaps>Temperatures on Aridio are much higher than expected. While "
+"resources are abundant, maintaining food and infrastructure could be difficult "
+"as our colony warms.</smallcaps>"
+msgstr ""
+"Ein Ort mit bedrückend heißen Temperaturen.\n"
+"\n"
+"<smallcaps>Die Temperaturen auf Aridio sind viel heißer als erwartet. Auch wenn "
+"es reichhaltige Ressourcen gibt, könnte die Nahrungsversorgung und "
+"Infrastruktur aufgrund der Erwärmung der Kolonie zu einem Problem werden.</"
+"smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAARIDIO.NAME
+msgctxt "STRINGS.WORLDS.VANILLAARIDIO.NAME"
+msgid "Aridio Asteroid"
+msgstr "Aridio-Asteroid"
+
+#. STRINGS.WORLDS.VANILLABADLANDS.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLABADLANDS.DESCRIPTION"
+msgid ""
+"A barren location with an overabundance of mineral resources.\n"
+"\n"
+"<smallcaps>The rocky terrain of The Badlands poses no immediate threats, but "
+"sparse resource availability will make expansion and technological progress "
+"challenging.</smallcaps>"
+msgstr ""
+"Ein karger Ort mit einem Überfluss an Bodenschätzen.\n"
+"\n"
+"<smallcaps>Das felsige Terrain des Ödlandes stellt keine unmittelbare Bedrohung "
+"dar, aber durch die spärliche Ressourcenverfügbarkeit wird die Expansion und "
+"der technologischen Fortschritt schwierig werden.</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLABADLANDS.NAME
+msgctxt "STRINGS.WORLDS.VANILLABADLANDS.NAME"
+msgid "The Badlands Asteroid"
+msgstr "Der Ödland-Asteroid"
+
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION"
 msgid ""
@@ -92662,8 +92917,8 @@ msgstr ""
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME"
-msgid "Verdante"
-msgstr "Verdante"
+msgid "Verdante Asteroid"
+msgstr "Verdante-Asteroid"
 
 #. STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAOASIS.DESCRIPTION"
@@ -92727,8 +92982,8 @@ msgstr ""
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME"
-msgid "Terra"
-msgstr "Terra"
+msgid "Terra Asteroid"
+msgstr "Terra-Asteroid"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEFROZEN.DESCRIPTION"
@@ -92771,6 +93026,26 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
 msgid "Swampy Asteroid"
 msgstr "Sumpfiger Asteroid"
+
+#. STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION
+msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION"
+msgid ""
+"A location rife with molten lava pockets and intense heat.\n"
+"\n"
+"<smallcaps>Volcanea would be perfect if it wasn't for the volcanoes. Digging "
+"carefully and managing the temperatures in our colony will be essential to "
+"success.</smallcaps>"
+msgstr ""
+"Ein Ort voller geschmolzenen Lavataschen und intensiver Hitze.\n"
+"\n"
+"<smallcaps>Volcanea wäre perfekt, wenn es keine Vulkane gäbe. Wir müssen "
+"vorsichtig graben und auf die Temperaturen achten, wenn wir erfolgreich sein "
+"wollen.</smallcaps>"
+
+#. STRINGS.WORLDS.VANILLAVOLCANIC.NAME
+msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.NAME"
+msgid "Volcanea Asteroid"
+msgstr "Volcanea-Asteroid"
 
 #. STRINGS.WORLDS.VOLCANIC.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VOLCANIC.DESCRIPTION"
