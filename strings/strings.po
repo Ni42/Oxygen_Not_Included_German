@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-07 11:46+0100\n"
+"PO-Revision-Date: 2021-11-11 20:04+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -62526,22 +62526,9 @@ msgid "<link=\"ATOMIC\">Materials Science Research</link>"
 msgstr "<link=\"ATOMIC\">Materialwissenschaftliche Forschung</link>"
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-07 11:46+0100\n"
-"Last-Translator: CarstenG\n"
-"Language-Team: \n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 2.4.2\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME
 #, fuzzy
@@ -93336,39 +93323,3 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
 msgstr "Wasser-Asteroid"
-
-#~ msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME"
-#~ msgid "Forest Cluster"
-#~ msgstr "Wald-Cluster"
-
-#~ msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME"
-#~ msgid "Large Terra Cluster"
-#~ msgstr "Großer Terra-Cluster"
-
-#~ msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
-#~ msgid "Large Swamp Cluster"
-#~ msgstr "Großer Sumpf-Cluster"
-
-#~ msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE"
-#~ msgid "Radbolt Threshold"
-#~ msgstr "Teilchenblitz-Schwellenwert"
-
-#~ msgctxt "STRINGS.WORLDS.FORESTMOONLET.NAME"
-#~ msgid "Forest Asteroid"
-#~ msgstr "Waldasteroid"
-
-#~ msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME"
-#~ msgid "Radioactive Foresty Wasteland Asteroid"
-#~ msgstr "Radioaktiver bewaldeter Ödland-Asteroid"
-
-#~ msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME"
-#~ msgid "Radioactive Terra Swampy Asteroid"
-#~ msgstr "Radioaktiver Terra-Sumpf-Asteroid"
-
-#~ msgctxt "STRINGS.WORLDS.TERRAMOONLET.NAME"
-#~ msgid "Sandstone Asteroid"
-#~ msgstr "Sandstein-Asteroid"
-
-#~ msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
-#~ msgid "Swampy Asteroid"
-#~ msgstr "Sumpfiger Asteroid"
