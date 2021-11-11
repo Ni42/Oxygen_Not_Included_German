@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-11 20:04+0100\n"
+"PO-Revision-Date: 2021-11-11 22:14+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -2063,10 +2063,9 @@ msgid "Honestly, Morbs could've done better"
 msgstr "Ehrlich gesagt könnten es Morbs besser"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.NAME"
 msgid "Radbolt Decay"
-msgstr "Teilchenblitz-Ablesung"
+msgstr "Teilchenblitz-Zerfall"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP"
@@ -6017,7 +6016,6 @@ msgstr ""
 "können."
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.DESC"
 msgid ""
 "Telescopes are necessary for studying space, allowing rocket travel to other "
@@ -6027,7 +6025,6 @@ msgstr ""
 "Raketenreisen zu anderen Welten."
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.EFFECT"
 msgid ""
 "Reveals visitable Planetoids in space... in comfort!\n"
@@ -6037,7 +6034,7 @@ msgid ""
 "\n"
 "Building must be exposed to space to function."
 msgstr ""
-"Zeigt besuchbare Planetoiden im Weltraum an.\n"
+"Zeigt besuchbare Planetoiden im Weltraum an... in aller Bequemlichkeit!\n"
 "\n"
 "Zugewiesene Duplikanten müssen die Fertigkeit <link=\"ASTRONOMY\">Astronomie</"
 "link> haben.\n"
@@ -6045,13 +6042,11 @@ msgstr ""
 "Das Gebäude muss dem Weltraum zugewandt sein."
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME"
 msgid "<link=\"TELESCOPE\">Enclosed Telescope</link>"
-msgstr "<link=\"TELESCOPE\">Teleskop</link>"
+msgstr "<link=\"TELESCOPE\">Verschlossenes Teleskop</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.REQUIREMENT_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.REQUIREMENT_TOOLTIP"
 msgid "A steady {0} supply is required to sustain working Duplicants."
 msgstr ""
@@ -8481,20 +8476,17 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT"
 msgid "Do not emit Radbolts"
 msgstr "Keine Teilchenblitze emittieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Emit Radbolts"
 msgstr ""
 "<b><style=\"logic_on\">Grünes Signal</style></b>: Teilchenblitze emittieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Do not emit Radbolts"
 msgstr ""
@@ -8502,13 +8494,11 @@ msgstr ""
 "emittieren"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE"
 msgid "Radbolt Storage"
 msgstr "Teilchenblitzlager"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_ACTIVE"
 msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> when its Radbolt "
@@ -8518,17 +8508,15 @@ msgstr ""
 "Teilchenblitzlager voll ist"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_INACTIVE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
 "Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.NAME"
 msgid "<link=\"HEPBATTERY\">Radbolt Chamber</link>"
-msgstr "<link=\"BATTERY\">Batterie</link>"
+msgstr "<link=\"HEPBATTERY\">Teilchenblitzlager</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.DESC"
@@ -8653,7 +8641,6 @@ msgstr ""
 "betreiben."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT"
 msgid ""
 "Attracts nearby <link=\"RADIATION\">Radiation</link> to generate Radbolts.\n"
@@ -8667,7 +8654,11 @@ msgstr ""
 "Zieht die nahegelegene <link=\"RADIATION\">Strahlung</link> an und erzeugt "
 "<style=\"KKeyword\">Teilchenblitze</style>.\n"
 "\n"
-"Sendet die erzeugten Teilchenblitze in die gewählte Richtung aus."
+"Sendet die erzeugten Teilchenblitze in die gewählte Richtung, wenn der "
+"eingestellte Teilchenblitz-Schwellenwert erreicht ist.\n"
+"\n"
+"Gelagerte Teilchenblitze zerfallen schnell, wenn das Gebäude deaktiviert oder "
+"nicht mit Strom versorgt ist."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.LOGIC_PORT"
@@ -17820,10 +17811,9 @@ msgstr ""
 "anomalen Planeten entstanden sind."
 
 #. STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME"
 msgid "Folia Cluster"
-msgstr "Arboria-Cluster"
+msgstr "Folia-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION"
@@ -17900,10 +17890,9 @@ msgstr ""
 "anomalen Planeten entstanden sind."
 
 #. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME"
 msgid "Terrania Cluster"
-msgstr "Terra-Cluster"
+msgstr "Terrania-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.DESCRIPTION"
@@ -17915,7 +17904,6 @@ msgstr ""
 "anomalen Planeten entstanden sind."
 
 #. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME"
 msgid "Swampy Cluster"
 msgstr "Sumpf-Cluster"
@@ -17963,7 +17951,6 @@ msgstr ""
 "Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME"
 msgid "The Badlands Cluster"
 msgstr "Ödland-Cluster"
@@ -18011,7 +17998,6 @@ msgstr ""
 "Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME"
 msgid "Terra Cluster"
 msgstr "Terra-Cluster"
@@ -18035,10 +18021,9 @@ msgstr ""
 "Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME
-#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
 msgid "Squelchy Cluster"
-msgstr "Rime-Cluster"
+msgstr "Sumpfiger Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION"
@@ -62531,10 +62516,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME"
 msgid "<link=\"ATOMIC\">Radbolt Containment</link>"
-msgstr "<link=\"RADIATIONSICKNESS\">Radioaktive Kontaminanten</link>"
+msgstr "<link=\"ATOMIC\">Teilchenblitz-Eindämmung</link>"
 
 #. STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.DESC"
@@ -62941,10 +62925,9 @@ msgid "Power"
 msgstr "Strom"
 
 #. STRINGS.RESEARCH.TREES.TITLE_RADIATIONTECH
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TREES.TITLE_RADIATIONTECH"
 msgid "Radiation Technologies"
-msgstr "Strahlungsschmerzen"
+msgstr "Strahlungstechnologien"
 
 #. STRINGS.RESEARCH.TREES.TITLE_ROCKETS
 msgctxt "STRINGS.RESEARCH.TREES.TITLE_ROCKETS"
