@@ -2062,6 +2062,18 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP"
 msgid "Honestly, Morbs could've done better"
 msgstr "Ehrlich gesagt könnten es Morbs besser"
 
+#. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.NAME"
+msgid "Radbolt Decay"
+msgstr "Teilchenblitz-Ablesung"
+
+#. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP"
+msgid ""
+"This building is unable to maintain the integrity of the radbolts it is storing"
+msgstr ""
+
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME"
 msgid "Charging Up"
@@ -6004,6 +6016,48 @@ msgstr ""
 "Eine kontinuierliche Zufuhr von {0} ist notwendig, damit Duplikanten arbeiten "
 "können."
 
+#. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.DESC
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.DESC"
+msgid ""
+"Telescopes are necessary for studying space, allowing rocket travel to other "
+"worlds."
+msgstr ""
+"Teleskope sind für die Erforschung des Weltraums notwendig und ermöglichen "
+"Raketenreisen zu anderen Welten."
+
+#. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.EFFECT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.EFFECT"
+msgid ""
+"Reveals visitable Planetoids in space... in comfort!\n"
+"\n"
+"Assigned Duplicants must possess the <link=\"ASTRONOMY\">Astronomy</link> "
+"skill.\n"
+"\n"
+"Building must be exposed to space to function."
+msgstr ""
+"Zeigt besuchbare Planetoiden im Weltraum an.\n"
+"\n"
+"Zugewiesene Duplikanten müssen die Fertigkeit <link=\"ASTRONOMY\">Astronomie</"
+"link> haben.\n"
+"\n"
+"Das Gebäude muss dem Weltraum zugewandt sein."
+
+#. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME"
+msgid "<link=\"TELESCOPE\">Enclosed Telescope</link>"
+msgstr "<link=\"TELESCOPE\">Teleskop</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.REQUIREMENT_TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.REQUIREMENT_TOOLTIP"
+msgid "A steady {0} supply is required to sustain working Duplicants."
+msgstr ""
+"Eine kontinuierliche Zufuhr von {0} ist notwendig, damit Duplikanten arbeiten "
+"können."
+
 #. STRINGS.BUILDINGS.PREFABS.CO2ENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.DESC"
 msgid ""
@@ -8409,6 +8463,73 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.HEATCOMPRESSOR.NAME"
 msgid "<link=\"HEATCOMPRESSOR\">Liquid Heatquilizer</link>"
 msgstr "<link=\"HEATCOMPRESSOR\">Flüssigkeits­wärmer</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.DESC"
+msgid "Particles ready to go."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.EFFECT"
+msgid ""
+"Stores Radbolts in a high energy state ready for transport.\n"
+"\n"
+"Requires a <b><style=\"logic_on\">Green Signal</style></b> to release radbolts "
+"from storage when the Radbolt threshold is reached.\n"
+"\n"
+"Radbolts in storage will rapidly decay while this building is disabled or "
+"unpowered."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT"
+msgid "Do not emit Radbolts"
+msgstr "Keine Teilchenblitze emittieren"
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_ACTIVE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Emit Radbolts"
+msgstr ""
+"<b><style=\"logic_on\">Grünes Signal</style></b>: Teilchenblitze emittieren"
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_INACTIVE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Do not emit Radbolts"
+msgstr ""
+"<b><style=\"logic_off\">Rotes Signal</style></b>: keine Teilchenblitze "
+"emittieren"
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE"
+msgid "Radbolt Storage"
+msgstr "Teilchenblitzlager"
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_ACTIVE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_ACTIVE"
+msgid ""
+"Sends a <b><style=\"logic_on\">Green Signal</style></b> when its Radbolt "
+"Storage is full"
+msgstr ""
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn das "
+"Teilchenblitzlager voll ist"
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_INACTIVE
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT_STORAGE_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr ""
+"Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
+
+#. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.NAME"
+msgid "<link=\"HEPBATTERY\">Radbolt Chamber</link>"
+msgstr "<link=\"BATTERY\">Batterie</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBRIDGETILE.DESC"
 msgid "Allows Radbolts to pass through walls."
@@ -8532,11 +8653,16 @@ msgstr ""
 "betreiben."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.EFFECT"
 msgid ""
 "Attracts nearby <link=\"RADIATION\">Radiation</link> to generate Radbolts.\n"
 "\n"
-"Emits generated Radbolts in the direction of your choosing."
+"Emits generated Radbolts in the direction of your choosing when the set Radbolt "
+"threshold is reached.\n"
+"\n"
+"Radbolts in storage will rapidly decay while this building is disabled or "
+"unpowered."
 msgstr ""
 "Zieht die nahegelegene <link=\"RADIATION\">Strahlung</link> an und erzeugt "
 "<style=\"KKeyword\">Teilchenblitze</style>.\n"
@@ -17694,9 +17820,10 @@ msgstr ""
 "anomalen Planeten entstanden sind."
 
 #. STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME
+#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME"
-msgid "Forest Cluster"
-msgstr "Wald-Cluster"
+msgid "Folia Cluster"
+msgstr "Arboria-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MILKYWAY.DESCRIPTION"
@@ -17773,8 +17900,9 @@ msgstr ""
 "anomalen Planeten entstanden sind."
 
 #. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME
+#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME"
-msgid "Terra Cluster"
+msgid "Terrania Cluster"
 msgstr "Terra-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.DESCRIPTION
@@ -17787,8 +17915,9 @@ msgstr ""
 "anomalen Planeten entstanden sind."
 
 #. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME
+#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME"
-msgid "Swamp Cluster"
+msgid "Swampy Cluster"
 msgstr "Sumpf-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION
@@ -17834,8 +17963,9 @@ msgstr ""
 "Ausgangspunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME
+#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME"
-msgid "Badlands Cluster"
+msgid "The Badlands Cluster"
 msgstr "Ödland-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION
@@ -17881,9 +18011,10 @@ msgstr ""
 "Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME
+#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME"
-msgid "Large Terra Cluster"
-msgstr "Großer Terra-Cluster"
+msgid "Terra Cluster"
+msgstr "Terra-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION"
@@ -17904,9 +18035,10 @@ msgstr ""
 "Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME
+#, fuzzy
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
-msgid "Large Swamp Cluster"
-msgstr "Großer Sumpf-Cluster"
+msgid "Squelchy Cluster"
+msgstr "Rime-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION"
@@ -62393,6 +62525,30 @@ msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARRESEARCH.NAME"
 msgid "<link=\"ATOMIC\">Materials Science Research</link>"
 msgstr "<link=\"ATOMIC\">Materialwissenschaftliche Forschung</link>"
 
+#. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC
+#, fuzzy
+msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC"
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-11-07 11:46+0100\n"
+"Last-Translator: CarstenG\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME
+#, fuzzy
+msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME"
+msgid "<link=\"ATOMIC\">Radbolt Containment</link>"
+msgstr "<link=\"RADIATIONSICKNESS\">Radioaktive Kontaminanten</link>"
+
 #. STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.PARALLELAUTOMATION.DESC"
 msgid "Multi-wire automation at a fraction of the space."
@@ -62796,6 +62952,12 @@ msgstr "Medizin"
 msgctxt "STRINGS.RESEARCH.TREES.TITLE_POWER"
 msgid "Power"
 msgstr "Strom"
+
+#. STRINGS.RESEARCH.TREES.TITLE_RADIATIONTECH
+#, fuzzy
+msgctxt "STRINGS.RESEARCH.TREES.TITLE_RADIATIONTECH"
+msgid "Radiation Technologies"
+msgstr "Strahlungsschmerzen"
 
 #. STRINGS.RESEARCH.TREES.TITLE_ROCKETS
 msgctxt "STRINGS.RESEARCH.TREES.TITLE_ROCKETS"
@@ -68021,6 +68183,57 @@ msgstr "<b>Raketentreibstoff</b>"
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETFUELDIAGNOSTIC.WARNING"
 msgid "    • This rocket has no fuel"
 msgstr "    • Diese Rakete hat keinen Treibstoff"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.ALL_NAME
+#, fuzzy
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.ALL_NAME"
+msgid "Rockets in Orbit"
+msgstr "Raketen im Orbit"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.CRITERIA.CHECKORBIT
+#, fuzzy
+msgctxt ""
+"STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.CRITERIA.CHECKORBIT"
+msgid "Check Orbiting Rockets"
+msgstr "Rakete besteigen"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_IN_ORBIT
+#, fuzzy
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_IN_ORBIT"
+msgid "    • There are {0} in orbit waiting to land"
+msgstr "    • Es sind keine Duplikanten auf diesem {0}"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_NO_ROCKETS
+#, fuzzy
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_NO_ROCKETS"
+msgid "    • No rockets waiting to land"
+msgstr "    •Keine Pflanzen angebaut"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_ONE_IN_ORBIT
+msgctxt ""
+"STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_ONE_IN_ORBIT"
+msgid "    • {0} is in orbit waiting to land"
+msgstr ""
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.TOOLTIP_NAME
+#, fuzzy
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.TOOLTIP_NAME"
+msgid "<b>Rockets in Orbit</b>"
+msgstr "Raketen im Orbit"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ONE_ROCKETS_STRANDED
+#, fuzzy
+msgctxt ""
+"STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC."
+"WARNING_ONE_ROCKETS_STRANDED"
+msgid "    • No launch pads present. {0} stranded."
+msgstr "    • Derzeit stecken keine Duplikanten fest"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ROCKETS_STRANDED
+msgctxt ""
+"STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ROCKETS_STRANDED"
+msgid "    • No launch pads present. {0} rockets stranded."
+msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.ALL_NAME"
@@ -86011,6 +86224,11 @@ msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DISABLED"
 msgid "Ineligible"
 msgstr "Ungeeignet"
 
+#. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE
+msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE"
+msgid "Dupe-made Ballistics"
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER"
 msgid "Sends automation signal when selected object is detected"
@@ -86814,43 +87032,6 @@ msgstr "Ausgewählte Richtung: {0}"
 msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.TITLE"
 msgid "Emitting Particle Direction"
 msgstr "Richtung der emittierenden Partikel"
-
-#. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.CURRENT_THRESHOLD
-msgctxt ""
-"STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.CURRENT_THRESHOLD"
-msgid "Current Threshold: {0}%"
-msgstr "Aktueller Schwellenwert: {0}%"
-
-#. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_LABEL
-msgctxt ""
-"STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_LABEL"
-msgid "Radbolt Generation"
-msgstr "Teilchenblitz-Erzeugung"
-
-#. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.PROGRESS_BAR_TOOLTIP
-msgctxt ""
-"STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN."
-"PROGRESS_BAR_TOOLTIP"
-msgid ""
-"The building will emit a <style=\"KKeyword\">Radbolt</style> in the chosen "
-"direction when fully charged"
-msgstr ""
-"Das Gebäude sendet bei voller Aufladung einen <style=\"KKeyword"
-"\">Teilchenblitz</style> in die gewählte Richtung aus"
-
-#. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE
-msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE"
-msgid "Radbolt Threshold"
-msgstr "Teilchenblitz-Schwellenwert"
-
-#. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TOOLTIP
-msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TOOLTIP"
-msgid ""
-"Releases a <style=\"KKeyword\">Radbolt</style> when stored Radbolts exceed "
-"<b>{0}</b>"
-msgstr ""
-"Sendet einen <style=\"KKeyword\">Teilchenblitz</style> aus, wenn die "
-"gespeicherten Teilchenblitze <b>{0}</b> überschreiten"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.CANCEL_LAND_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.CANCEL_LAND_BUTTON"
@@ -87947,6 +88128,44 @@ msgstr "{0}"
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST"
 msgid "{0} {1} per harvest"
 msgstr "{0} {1} pro Ernte"
+
+#. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.CURRENT_THRESHOLD
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.CURRENT_THRESHOLD"
+msgid "Current Threshold: {0}%"
+msgstr "Aktueller Schwellenwert: {0}%"
+
+#. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_LABEL
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_LABEL"
+msgid "Radbolt Generation"
+msgstr "Teilchenblitz-Erzeugung"
+
+#. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_TOOLTIP"
+msgid ""
+"The building will emit a <style=\"KKeyword\">Radbolt</style> in the chosen "
+"direction when fully charged"
+msgstr ""
+"Das Gebäude sendet bei voller Aufladung einen <style=\"KKeyword"
+"\">Teilchenblitz</style> in die gewählte Richtung aus"
+
+#. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TITLE
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TITLE"
+msgid "Radbolt Threshold"
+msgstr "Teilchenblitz-Schwellenwert"
+
+#. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TOOLTIP"
+msgid ""
+"Releases a <style=\"KKeyword\">Radbolt</style> when stored Radbolts exceed "
+"<b>{0}</b>"
+msgstr ""
+"Sendet einen <style=\"KKeyword\">Teilchenblitz</style> aus, wenn die "
+"gespeicherten Teilchenblitze <b>{0}</b> überschreiten"
 
 #. STRINGS.UI.UISIDESCREENS.RADIATIONSWITCHSIDESCREEN.ACTIVATE_IF
 msgctxt "STRINGS.UI.UISIDESCREENS.RADIATIONSWITCHSIDESCREEN.ACTIVATE_IF"
@@ -92054,11 +92273,12 @@ msgid "Verdante"
 msgstr "Verdante"
 
 #. STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION"
 msgid ""
 "A small moon with a forest start.\n"
 "\n"
-"<smallcaps>Forest Asteroids have plenty of organic material but Duplicants will "
+"<smallcaps>Folia Asteroids have plenty of organic material but Duplicants will "
 "have to venture outside their starting biome quickly to find any metal.</"
 "smallcaps>"
 msgstr ""
@@ -92069,9 +92289,10 @@ msgstr ""
 "smallcaps>"
 
 #. STRINGS.WORLDS.FORESTMOONLET.NAME
+#, fuzzy
 msgctxt "STRINGS.WORLDS.FORESTMOONLET.NAME"
-msgid "Forest Asteroid"
-msgstr "Waldasteroid"
+msgid "Folia Asteroid"
+msgstr "Arboria-Asteroid"
 
 #. STRINGS.WORLDS.HELICONA.DESCRIPTION
 msgctxt "STRINGS.WORLDS.HELICONA.DESCRIPTION"
@@ -92150,11 +92371,12 @@ msgid "Radioactive Forest Asteroid"
 msgstr "Radioaktiver Wald-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION"
 msgid ""
 "A large-ish forested asteroid with a frozen radioactive core.\n"
 "\n"
-"<smallcaps>While Radioactive Forest Asteroid are largely foresty, they also "
+"<smallcaps>While Glowood Wasteland Asteroids are largely foresty, they also "
 "contain a great deal of rust and wasteland.</smallcaps>"
 msgstr ""
 "Ein großer bewaldeter Asteroid mit einem gefrorenen radioaktiven Kern.\n"
@@ -92163,9 +92385,10 @@ msgstr ""
 "enthalten aber auch eine Menge Rost und Ödland.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME
+#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME"
-msgid "Radioactive Foresty Wasteland Asteroid"
-msgstr "Radioaktiver bewaldeter Ödland-Asteroid"
+msgid "Glowood Wasteland Asteroid"
+msgstr "Vergoldeter Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
@@ -92204,12 +92427,13 @@ msgid "Radioactive Terra Asteroid"
 msgstr "Radioaktiver Terra-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION"
 msgid ""
-"A large-ish terra world with a radioactive core.\n"
+"A mid-sized terra world with a radioactive core.\n"
 "\n"
-"<smallcaps>The Radioactive Terra Swampy Asteroid is fairly dry and sandy, but "
-"does contain areas of Swampy with a frozen partially frozen surface.</smallcaps>"
+"<smallcaps>The Radioactive Terrabog Asteroid is fairly dry and sandy, but does "
+"contain swampy areas with a partially frozen surface.</smallcaps>"
 msgstr ""
 "Eine großräumige Terra-Welt mit einem radioaktiven Kern.\n"
 "\n"
@@ -92218,9 +92442,10 @@ msgstr ""
 "Oberfläche.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME
+#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME"
-msgid "Radioactive Terra Swampy Asteroid"
-msgstr "Radioaktiver Terra-Sumpf-Asteroid"
+msgid "Radioactive Terrabog Asteroid"
+msgstr "Radioaktiver Terra-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
@@ -92445,9 +92670,10 @@ msgid "Oasisse"
 msgstr "Oase"
 
 #. STRINGS.WORLDS.OCEANIA.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLDS.OCEANIA.DESCRIPTION"
 msgid ""
-"A location with vast quantities of unpotable salt water.\n"
+"A location with vast quantities of undrinkable salt water.\n"
 "\n"
 "<smallcaps>Oceania is quite stable and resource rich, but the majority of the "
 "area is covered in a saltwater ocean. Careful expansion and resource usage "
@@ -92709,11 +92935,12 @@ msgid "Irradiated Swampy Asteroid"
 msgstr "Verstrahlter Sumpfasteroid"
 
 #. STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION"
 msgid ""
-"A balanced variety of resources on a smaller world.\n"
+"A balanced variety of resources on a smaller sandstone world.\n"
 "\n"
-"<smallcaps>Terra Asteroids have everything needed to start a colony in a "
+"<smallcaps>Terrania Asteroids have everything needed to start a colony in a "
 "compact area. With a short distance to the surface, inter-world travel can be "
 "achieved quickly.</smallcaps>"
 msgstr ""
@@ -92724,9 +92951,10 @@ msgstr ""
 "können Reisen zwischen den Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.TERRAMOONLET.NAME
+#, fuzzy
 msgctxt "STRINGS.WORLDS.TERRAMOONLET.NAME"
-msgid "Sandstone Asteroid"
-msgstr "Sandstein-Asteroid"
+msgid "Terrania Asteroid"
+msgstr "Terra-Asteroid"
 
 #. STRINGS.WORLDS.THE_ROCK.DESCRIPTION
 msgctxt "STRINGS.WORLDS.THE_ROCK.DESCRIPTION"
@@ -93008,11 +93236,12 @@ msgid "Rime Asteroid"
 msgstr "Rime-Asteroid"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION"
 msgid ""
 "A large, polluted swamp world.\n"
 "\n"
-"<smallcaps>Swampy Asteroids are a great mass of frozen slush and wasteland. "
+"<smallcaps>Squelchy Asteroids are a great mass of frozen slush and wasteland. "
 "With a short distance to the surface, inter-world travel can be achieved "
 "quickly.</smallcaps>"
 msgstr ""
@@ -93023,9 +93252,10 @@ msgstr ""
 "Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME
+#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
-msgid "Swampy Asteroid"
-msgstr "Sumpfiger Asteroid"
+msgid "Squelchy Asteroid"
+msgstr "Öliger Asteroid"
 
 #. STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION"
@@ -93106,3 +93336,39 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
 msgstr "Wasser-Asteroid"
+
+#~ msgctxt "STRINGS.CLUSTER_NAMES.FOREST_START_CLUSTER.NAME"
+#~ msgid "Forest Cluster"
+#~ msgstr "Wald-Cluster"
+
+#~ msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME"
+#~ msgid "Large Terra Cluster"
+#~ msgstr "Großer Terra-Cluster"
+
+#~ msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
+#~ msgid "Large Swamp Cluster"
+#~ msgstr "Großer Sumpf-Cluster"
+
+#~ msgctxt "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLESPAWNERSIDESCREEN.TITLE"
+#~ msgid "Radbolt Threshold"
+#~ msgstr "Teilchenblitz-Schwellenwert"
+
+#~ msgctxt "STRINGS.WORLDS.FORESTMOONLET.NAME"
+#~ msgid "Forest Asteroid"
+#~ msgstr "Waldasteroid"
+
+#~ msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME"
+#~ msgid "Radioactive Foresty Wasteland Asteroid"
+#~ msgstr "Radioaktiver bewaldeter Ödland-Asteroid"
+
+#~ msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME"
+#~ msgid "Radioactive Terra Swampy Asteroid"
+#~ msgstr "Radioaktiver Terra-Sumpf-Asteroid"
+
+#~ msgctxt "STRINGS.WORLDS.TERRAMOONLET.NAME"
+#~ msgid "Sandstone Asteroid"
+#~ msgstr "Sandstein-Asteroid"
+
+#~ msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
+#~ msgid "Swampy Asteroid"
+#~ msgstr "Sumpfiger Asteroid"
