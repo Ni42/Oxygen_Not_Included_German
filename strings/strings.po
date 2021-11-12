@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-11 22:14+0100\n"
+"PO-Revision-Date: 2021-11-12 20:49+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -68155,29 +68155,25 @@ msgid "    • This rocket has no fuel"
 msgstr "    • Diese Rakete hat keinen Treibstoff"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.ALL_NAME
-#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.ALL_NAME"
 msgid "Rockets in Orbit"
 msgstr "Raketen im Orbit"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.CRITERIA.CHECKORBIT
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.CRITERIA.CHECKORBIT"
 msgid "Check Orbiting Rockets"
-msgstr "Rakete besteigen"
+msgstr "Kontrolle der Raketen in der Umlaufbahn"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_IN_ORBIT
-#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_IN_ORBIT"
 msgid "    • There are {0} in orbit waiting to land"
-msgstr "    • Es sind keine Duplikanten auf diesem {0}"
+msgstr "    • Es gibt {0} in der Umlaufbahn, die auf die Landung warten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_NO_ROCKETS
-#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_NO_ROCKETS"
 msgid "    • No rockets waiting to land"
-msgstr "    •Keine Pflanzen angebaut"
+msgstr "    • Keine Raketen, die auf die Landung warten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_ONE_IN_ORBIT
 msgctxt ""
@@ -68186,18 +68182,16 @@ msgid "    • {0} is in orbit waiting to land"
 msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.TOOLTIP_NAME
-#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.TOOLTIP_NAME"
 msgid "<b>Rockets in Orbit</b>"
-msgstr "Raketen im Orbit"
+msgstr "<b>Raketen im Orbit</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ONE_ROCKETS_STRANDED
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC."
 "WARNING_ONE_ROCKETS_STRANDED"
 msgid "    • No launch pads present. {0} stranded."
-msgstr "    • Derzeit stecken keine Duplikanten fest"
+msgstr "    • Keine Startrampen vorhanden. {0} gestrandet."
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ROCKETS_STRANDED
 msgctxt ""
@@ -88100,19 +88094,16 @@ msgid "{0} {1} per harvest"
 msgstr "{0} {1} pro Ernte"
 
 #. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.CURRENT_THRESHOLD
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.CURRENT_THRESHOLD"
 msgid "Current Threshold: {0}%"
 msgstr "Aktueller Schwellenwert: {0}%"
 
 #. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_LABEL
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_LABEL"
 msgid "Radbolt Generation"
 msgstr "Teilchenblitz-Erzeugung"
 
 #. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.PROGRESS_BAR_TOOLTIP"
 msgid ""
 "The building will emit a <style=\"KKeyword\">Radbolt</style> in the chosen "
@@ -88122,13 +88113,11 @@ msgstr ""
 "\">Teilchenblitz</style> in die gewählte Richtung aus"
 
 #. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TITLE"
 msgid "Radbolt Threshold"
 msgstr "Teilchenblitz-Schwellenwert"
 
 #. STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.RADBOLTTHRESHOLDSIDESCREEN.TOOLTIP"
 msgid ""
 "Releases a <style=\"KKeyword\">Radbolt</style> when stored Radbolts exceed "
@@ -92243,7 +92232,6 @@ msgid "Verdante"
 msgstr "Verdante"
 
 #. STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.FORESTMOONLET.DESCRIPTION"
 msgid ""
 "A small moon with a forest start.\n"
@@ -92254,15 +92242,14 @@ msgid ""
 msgstr ""
 "Ein kleiner Mond mit einem Waldstart.\n"
 "\n"
-"<smallcaps>Waldasteroiden haben viel organisches Material, aber Duplikanten "
+"<smallcaps>Folia-Asteroiden haben viel organisches Material, aber Duplikanten "
 "müssen sich schnell außerhalb ihres Startbioms begeben, um Metall zu finden.</"
 "smallcaps>"
 
 #. STRINGS.WORLDS.FORESTMOONLET.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.FORESTMOONLET.NAME"
 msgid "Folia Asteroid"
-msgstr "Arboria-Asteroid"
+msgstr "Folia-Asteroid"
 
 #. STRINGS.WORLDS.HELICONA.DESCRIPTION
 msgctxt "STRINGS.WORLDS.HELICONA.DESCRIPTION"
@@ -92341,7 +92328,6 @@ msgid "Radioactive Forest Asteroid"
 msgstr "Radioaktiver Wald-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.DESCRIPTION"
 msgid ""
 "A large-ish forested asteroid with a frozen radioactive core.\n"
@@ -92351,14 +92337,13 @@ msgid ""
 msgstr ""
 "Ein großer bewaldeter Asteroid mit einem gefrorenen radioaktiven Kern.\n"
 "\n"
-"<smallcaps>Radioaktive Wald-Asteroiden sind zwar größtenteils bewaldet, "
-"enthalten aber auch eine Menge Rost und Ödland.</smallcaps>"
+"<smallcaps>Die Asteroiden der Glutholz-Wüste sind zwar größtenteils bewaldet, "
+"enthalten aber auch viel Rost und Ödland.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMFORESTYWASTELAND.NAME"
 msgid "Glowood Wasteland Asteroid"
-msgstr "Vergoldeter Asteroid"
+msgstr "Asteroid der Glutholz-Wüste"
 
 #. STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION"
@@ -92397,7 +92382,6 @@ msgid "Radioactive Terra Asteroid"
 msgstr "Radioaktiver Terra-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION"
 msgid ""
 "A mid-sized terra world with a radioactive core.\n"
@@ -92405,17 +92389,16 @@ msgid ""
 "<smallcaps>The Radioactive Terrabog Asteroid is fairly dry and sandy, but does "
 "contain swampy areas with a partially frozen surface.</smallcaps>"
 msgstr ""
-"Eine großräumige Terra-Welt mit einem radioaktiven Kern.\n"
+"Eine mittelgroße Terra-Welt mit einem radioaktiven Kern.\n"
 "\n"
-"<smallcaps>Der radioaktive Terra-Sumpf-Asteroid ist ziemlich trocken und "
-"sandig, enthält aber auch sumpfige Gebiete mit einer teilweise gefrorenen "
-"Oberfläche.</smallcaps>"
+"<smallcaps>der radioaktive Asteroid Terrabog ist ziemlich trocken und sandig, "
+"enthält aber auch sumpfige Gebiete mit einer teilweise gefrorenen Oberfläche.</"
+"smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSANDYSWAMP.NAME"
 msgid "Radioactive Terrabog Asteroid"
-msgstr "Radioaktiver Terra-Asteroid"
+msgstr "Radioaktiver Terrabog-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
@@ -92640,7 +92623,6 @@ msgid "Oasisse"
 msgstr "Oase"
 
 #. STRINGS.WORLDS.OCEANIA.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.OCEANIA.DESCRIPTION"
 msgid ""
 "A location with vast quantities of undrinkable salt water.\n"
@@ -92905,7 +92887,6 @@ msgid "Irradiated Swampy Asteroid"
 msgstr "Verstrahlter Sumpfasteroid"
 
 #. STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION"
 msgid ""
 "A balanced variety of resources on a smaller sandstone world.\n"
@@ -92914,17 +92895,16 @@ msgid ""
 "compact area. With a short distance to the surface, inter-world travel can be "
 "achieved quickly.</smallcaps>"
 msgstr ""
-"Eine ausgewogene Vielfalt an Ressourcen auf einer kleineren Welt.\n"
+"Eine ausgewogene Vielfalt an Ressourcen auf einer kleineren Sandsteinwelt.\n"
 "\n"
-"<smallcaps>Terra-Asteroiden haben alles, was man braucht, um eine Kolonie auf "
-"einem kompakten Gebiet zu gründen. Mit einem kurzen Abstand zur Oberfläche "
+"<smallcaps>Terrania-Asteroiden haben alles, was man braucht, um eine Kolonie "
+"auf einem kompakten Gebiet zu gründen. Mit einem kurzen Abstand zur Oberfläche "
 "können Reisen zwischen den Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.TERRAMOONLET.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.TERRAMOONLET.NAME"
 msgid "Terrania Asteroid"
-msgstr "Terra-Asteroid"
+msgstr "Terrania-Asteroid"
 
 #. STRINGS.WORLDS.THE_ROCK.DESCRIPTION
 msgctxt "STRINGS.WORLDS.THE_ROCK.DESCRIPTION"
@@ -93206,7 +93186,6 @@ msgid "Rime Asteroid"
 msgstr "Rime-Asteroid"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION"
 msgid ""
 "A large, polluted swamp world.\n"
@@ -93222,10 +93201,9 @@ msgstr ""
 "Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
 msgid "Squelchy Asteroid"
-msgstr "Öliger Asteroid"
+msgstr "Sumpfiger Asteroid"
 
 #. STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION"
