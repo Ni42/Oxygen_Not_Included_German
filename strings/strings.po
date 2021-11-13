@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-12 20:49+0100\n"
+"PO-Revision-Date: 2021-11-13 11:30+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -2072,6 +2072,8 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP"
 msgid ""
 "This building is unable to maintain the integrity of the radbolts it is storing"
 msgstr ""
+"Dieses Gebäude ist nicht in der Lage, die Stabilität der dort gelagerten "
+"Teilchenblitze aufrechtzuerhalten"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME"
@@ -8461,7 +8463,7 @@ msgstr "<link=\"HEATCOMPRESSOR\">Flüssigkeits­wärmer</link>"
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.DESC"
 msgid "Particles ready to go."
-msgstr ""
+msgstr "Teilchenblitze bereit zum Mitnehmen."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.EFFECT"
@@ -8474,6 +8476,14 @@ msgid ""
 "Radbolts in storage will rapidly decay while this building is disabled or "
 "unpowered."
 msgstr ""
+"Speichert Teilchenblitze in einem hochenergetischen Zustand für den Transport.\n"
+"\n"
+"Erfordert ein <b><style=\"logic_on\">Grünes Signal</style></b>, um "
+"Teilchenblitze aus dem Lager freizugeben, wenn die Teilchenblitz-Schwellenwert "
+"erreicht ist.\n"
+"\n"
+"Die gelagerten Teilchenblitze zerfallen schnell, wenn das Gebäude deaktiviert "
+"oder nicht mit Strom versorgt wird."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.LOGIC_PORT"
@@ -68179,7 +68189,7 @@ msgstr "    • Keine Raketen, die auf die Landung warten"
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_ONE_IN_ORBIT"
 msgid "    • {0} is in orbit waiting to land"
-msgstr ""
+msgstr "    • {0} ist im Orbit und wartet auf die Landung"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.TOOLTIP_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.TOOLTIP_NAME"
@@ -68197,7 +68207,7 @@ msgstr "    • Keine Startrampen vorhanden. {0} gestrandet."
 msgctxt ""
 "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ROCKETS_STRANDED"
 msgid "    • No launch pads present. {0} rockets stranded."
-msgstr ""
+msgstr "    • Keine Startrampen vorhanden. {0} Raketen gestrandet."
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.ALL_NAME"
@@ -86191,7 +86201,7 @@ msgstr "Ungeeignet"
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE"
 msgid "Dupe-made Ballistics"
-msgstr ""
+msgstr "duplikantengemachte Ballistik"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER"
