@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-13 11:30+0100\n"
+"PO-Revision-Date: 2021-11-14 10:33+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -70410,7 +70410,8 @@ msgstr "Kalorienerzeugung:"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid ""
 "{0} of <link=\"FOOD\">Food</link> was consumed by {1} over the course of the day"
-msgstr "{0} <link=\"FOOD\">Nahrung</link> wurde im Laufe des Tages verbraucht"
+msgstr ""
+"{0} <link=\"FOOD\">Nahrung</link> wurde von {1} im Laufe des Tages verbraucht"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
@@ -70427,7 +70428,7 @@ msgstr "Aufträge:"
 #. STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.NEGATIVE_TOOLTIP"
 msgid "{0} errands were completed over the course of the day by {1}"
-msgstr "{0} Besorgungen wurden im Laufe des Tages von {1} erledigt."
+msgstr "{0} Besorgungen wurden im Laufe des Tages von {1} erledigt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.POSITIVE_TOOLTIP"
@@ -70562,15 +70563,15 @@ msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid ""
 "{0} of <link=\"POWER\">Power</link> was consumed by {1} over the course of the "
 "day"
-msgstr "{0} <link=\"POWER\">Strom</link> verbraucht von{1} im Laufe des Tages"
+msgstr ""
+"{0} <link=\"POWER\">Strom</link> wurde von {1} im Laufe des Tages verbraucht"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid ""
 "{0} of <link=\"POWER\">Power</link> was created by {1} over the course of the "
 "day"
-msgstr ""
-"{0} <link=\"POWER\">Strom</link> erzeugt von {1} im Laufe des Tages erzeugt"
+msgstr "{0} <link=\"POWER\">Strom</link> wurde von {1} im Laufe des Tages erzeugt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
@@ -70583,7 +70584,7 @@ msgid ""
 "{0} of <link=\"POWER\">Power</link> was lost today due to battery runoff and "
 "overproduction in {1}"
 msgstr ""
-"{0} <link=\"POWER\">Strom</link> wurde heute aufgrund von Batterieverlust und "
+"{0} <link=\"POWER\">Strom</link> wurde heute aufgrund von Batterieentladung und "
 "Überproduktion in {1} verloren"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
@@ -70594,7 +70595,7 @@ msgstr "Wartezeit:"
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "On average, {0} of {1}'s time was spent idling"
-msgstr "Im Durchschnitt verbrachte {1} insgesamt {0} seiner Zeit mit Nichtstun"
+msgstr "Im Durchschnitt verbrachte {1} insgesamt {0} der Zeit mit Nichtstun"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
@@ -70609,7 +70610,7 @@ msgstr "Heute {1} gewann insgesamt {0} Fertigkeitsstufen"
 #. STRINGS.UI.ENDOFDAYREPORT.MY_COLONY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.MY_COLONY"
 msgid "my colony"
-msgstr "meine Kolonie"
+msgstr "meine(r) Kolonie"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
@@ -70694,7 +70695,7 @@ msgstr "{0}"
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED"
 msgid "Rotten {0}"
-msgstr "Verfault {0}"
+msgstr "Verfaultes {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT"
@@ -70764,7 +70765,7 @@ msgid ""
 "{0} of <link=\"OXYGEN\">Oxygen</link> was consumed by {1} over the course of "
 "the day"
 msgstr ""
-"{0} <link=\"OXYGEN\">Sauerstoff</link> wurde im Laufe des Tages von {1} "
+"{0} <link=\"OXYGEN\">Sauerstoff</link> wurde von {1} im Laufe des Tages "
 "verbraucht"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
@@ -70858,7 +70859,7 @@ msgstr "Reisezeit:"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid "On average, {1} spent {0} of their time traveling between tasks"
 msgstr ""
-"Im Durchschnitt verbrachte {1} {0} seiner Zeit mit dem Reisen zwischen Auftr"
+"Im Durchschnitt verbrachte {1} {0} ihrer Zeit mit dem Reisen zwischen Aufträgen"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVELTIMEWARNING.WARNING_MESSAGE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVELTIMEWARNING.WARNING_MESSAGE"
@@ -86201,7 +86202,7 @@ msgstr "Ungeeignet"
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.DUPEMADE"
 msgid "Dupe-made Ballistics"
-msgstr "duplikantengemachte Ballistik"
+msgstr "Duplikantengemachte Ballistik"
 
 #. STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.COMETDETECTORSIDESCREEN.HEADER"
