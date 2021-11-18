@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-14 10:33+0100\n"
+"PO-Revision-Date: 2021-11-18 18:39+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -8282,6 +8282,11 @@ msgstr "<link=\"GRAVE\">Stilvolle Gedenkstätte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT"
 msgid "An office door to an office that no longer exists."
 msgstr "Eine Bürotür zu einem Büro, das nicht mehr existiert."
 
@@ -8462,24 +8467,23 @@ msgstr "<link=\"HEATCOMPRESSOR\">Flüssigkeits­wärmer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.DESC"
-msgid "Particles ready to go."
+msgid "Particles packed up and ready to go."
 msgstr "Teilchenblitze bereit zum Mitnehmen."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPBATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPBATTERY.EFFECT"
 msgid ""
-"Stores Radbolts in a high energy state ready for transport.\n"
+"Stores Radbolts in a high-energy state, ready for transport.\n"
 "\n"
 "Requires a <b><style=\"logic_on\">Green Signal</style></b> to release radbolts "
 "from storage when the Radbolt threshold is reached.\n"
 "\n"
-"Radbolts in storage will rapidly decay while this building is disabled or "
-"unpowered."
+"Radbolts in storage will rapidly decay while this building is disabled."
 msgstr ""
 "Speichert Teilchenblitze in einem hochenergetischen Zustand für den Transport.\n"
 "\n"
 "Erfordert ein <b><style=\"logic_on\">Grünes Signal</style></b>, um "
-"Teilchenblitze aus dem Lager freizugeben, wenn die Teilchenblitz-Schwellenwert "
+"Teilchenblitze aus dem Lager freizugeben, wenn der Teilchenblitz-Schwellenwert "
 "erreicht ist.\n"
 "\n"
 "Die gelagerten Teilchenblitze zerfallen schnell, wenn das Gebäude deaktiviert "
@@ -8658,8 +8662,7 @@ msgid ""
 "Emits generated Radbolts in the direction of your choosing when the set Radbolt "
 "threshold is reached.\n"
 "\n"
-"Radbolts in storage will rapidly decay while this building is disabled or "
-"unpowered."
+"Radbolts collected will rapidly decay while this building is disabled."
 msgstr ""
 "Zieht die nahegelegene <link=\"RADIATION\">Strahlung</link> an und erzeugt "
 "<style=\"KKeyword\">Teilchenblitze</style>.\n"
@@ -14362,6 +14365,11 @@ msgstr "Labor-Schreibtisch"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT"
 msgid "A regular wall that once existed in a working lab."
 msgstr "Eine normale Wand, die einmal in einem Arbeitslabor stand."
 
@@ -14372,6 +14380,11 @@ msgstr "Laborwand"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT"
 msgid "A lab window. Formerly a portal to the outside world."
 msgstr "Ein Laborfenster. Ehemals ein Portal zur Außenwelt."
 
@@ -14382,6 +14395,11 @@ msgstr "Laborfenster"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.EFFECT"
 msgid ""
 "A lab window.\n"
 "\n"
@@ -14424,6 +14442,11 @@ msgstr "Regal"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT"
 msgid "The granite wall of a once great scientific facility."
 msgstr "Die Granitwand einer einst großen wissenschaftlichen Einrichtung."
 
@@ -17837,13 +17860,13 @@ msgstr "Planetensystem"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.DESCRIPTION"
-msgid "A cluster of visitable planetoids with a Badlands starting world."
+msgid "A cluster of visitable planetoids with a Desolands starting world."
 msgstr "Eine Ansammlung von besuchbaren Planetoiden mit einer Ödland-Startwelt."
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_BADLANDSSTART.NAME"
-msgid "Moonlet Cluster - The Badlands (experimental)"
-msgstr "Kleiner Cluster - Das Ödland (experimentell)"
+msgid "Moonlet Cluster - The Desolands"
+msgstr "Kleiner Cluster - Das Ödland"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.DESCRIPTION"
@@ -17852,8 +17875,8 @@ msgstr "Eine Ansammlung besuchbarer Planetoiden mit einer umgekehrten Startwelt"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FLIPPEDSTART.NAME"
-msgid "Moonlet Cluster - Flipped (experimental)"
-msgstr "Kleiner Cluster - Umgedreht (experimentell)"
+msgid "Moonlet Cluster - Flipped"
+msgstr "Kleiner Cluster - Umgedreht"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.DESCRIPTION"
@@ -17863,8 +17886,8 @@ msgstr ""
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME"
-msgid "Moonlet Cluster - Frozen Forest (experimental)"
-msgstr "Kleiner Cluster - Gefrorener Wald (experimentell)"
+msgid "Moonlet Cluster - Frozen Forest"
+msgstr "Kleiner Cluster - Gefrorener Wald"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION"
@@ -17875,8 +17898,8 @@ msgstr ""
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME"
-msgid "Moonlet Cluster - Metallic Swampy (experimental)"
-msgstr "Kleiner Cluster - Metallisch sumpfig (experimentell)"
+msgid "Moonlet Cluster - Metallic Swampy"
+msgstr "Kleiner Cluster - Metallisch sumpfig"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION"
@@ -17887,8 +17910,8 @@ msgstr ""
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME"
-msgid "Moonlet Cluster - Radioactive Ocean (experimental)"
-msgstr "Kleiner Cluster - Radioaktiver Ozean (experimentell)"
+msgid "Moonlet Cluster - Radioactive Ocean"
+msgstr "Kleiner Cluster - Radioaktiver Ozean"
 
 #. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION"
@@ -17915,8 +17938,8 @@ msgstr ""
 
 #. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME"
-msgid "Swampy Cluster"
-msgstr "Sumpf-Cluster"
+msgid "Quagmiris Cluster"
+msgstr "Quagmiris-Cluster"
 
 #. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION"
@@ -18037,10 +18060,12 @@ msgstr "Sumpfiger Cluster"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION"
-msgid "A cluster of planets with molten lava planetoid to start on."
+msgid ""
+"A cluster of planets with a toasty planetoid full of molten lava pockets to "
+"start on."
 msgstr ""
-"Eine Ansammlung von Planeten mit einem geschmolzenen Lavaplanetoiden als "
-"Startpunkt."
+"Eine Ansammlung von Planeten mit einem heißen Planetoiden voller geschmolzener "
+"Lavataschen als Startpunkt."
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME"
@@ -24279,31 +24304,33 @@ msgid ""
 "Plants exposed to radiation sometimes drop mutated seeds when they are "
 "harvested. Each type of mutation has its own efficiencies and trade-offs.\n"
 "\n"
-"Mutated seeds can be planted once they have been analyzed in the Botanical "
-"Analyzer, but the resulting plants will produce no seeds of their own unless "
-"they are uprooted.\n"
+"Mutated seeds can be planted once they have been analyzed in the <link="
+"\"GENETICANALYSISSTATION\">Botanical Analyzer</link>, but the resulting plants "
+"will produce no seeds of their own unless they are uprooted.\n"
 "\n"
 msgstr ""
 "Pflanzen, die der Strahlung ausgesetzt sind, geben manchmal mutierte Samen ab, "
 "wenn sie geerntet werden. Jede Art von Mutation hat ihre eigenen Vorteile und "
 "Nachteile.\n"
 "\n"
-"Mutierte Samen können nach der Analyse im Botanischen Analysator eingepflanzt "
-"werden, aber die daraus entstehenden Pflanzen produzieren keine eigenen Samen, "
-"wenn sie nicht entwurzelt werden.\n"
+"Mutierte Samen können nach der Analyse im <link=\"GENETICANALYSISSTATION"
+"\">Botanischen Analysator</link> eingepflanzt werden, aber die daraus "
+"entstehenden Pflanzen produzieren keine eigenen Samen, wenn sie nicht "
+"entwurzelt werden.\n"
 "\n"
 
 #. STRINGS.CODEX.GENETICS.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.GENETICS.PARAGRAPH_2"
 msgid ""
 "Once mutated seeds have been analyzed in the Botanical Analyzer, they are ready "
-"to be planted. Continued exposure to naturally occurring radiation or a "
-"Radiation Lamp is necessary to prevent wilting.\n"
+"to be planted. Continued exposure to naturally occurring radiation or a <link="
+"\"RADIATIONLIGHT\">Radiation Lamp</link> is necessary to prevent wilting.\n"
 "\n"
 msgstr ""
 "Sobald die mutierten Samen im Botanischen Analysator analysiert wurden, können "
 "sie gepflanzt werden. Sie müssen weiterhin der natürlichen Strahlung oder einer "
-"Strahlungslampe ausgesetzt werden, um ein Verwelken zu verhindern.\n"
+"<link=\"RADIATIONLIGHT\">Strahlungslampe</link> ausgesetzt werden, um ein "
+"Verwelken zu verhindern.\n"
 "\n"
 
 #. STRINGS.CODEX.GENETICS.TITLE
@@ -37687,7 +37714,7 @@ msgstr "Tierpflege"
 #. STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP"
 msgid ""
-"This Duplicant is tending to a <style=\"KKeyword\">Critter</style>'s wellbeing"
+"This Duplicant is tending to a <style=\"KKeyword\">Critter</style>'s well-being"
 msgstr ""
 "Dieser Duplikant sorgt für das Wohl eines <style=\"KKeyword\">Tieres</style>"
 
@@ -56226,7 +56253,7 @@ msgstr ""
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY"
 msgid ""
 "The temperature of an environment can have positive or negative effects on the "
-"wellbeing of my Duplicants, as well as the plants and critters in my colony. "
+"well-being of my Duplicants, as well as the plants and critters in my colony. "
 "Selecting <b><color=#F44A4A>[F3]</b></color> will open the Temperature Overlay "
 "where I can check for any hot or cold spots.\n"
 "\n"
@@ -58055,12 +58082,12 @@ msgstr "<link=\"COMBUSTIBLELIQUID\">Brennbare Flüssigkeit</link>"
 #. STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC"
 msgid ""
-"Combustible Liquids are liquids that are able to be burned as fuel to be used "
-"in energy production such as in a <link=\"PETROLEUMGENERATOR\">Petroleum "
-"Generator</link> or a <link=\"KEROSENEENGINE\">Petroleum Engine</link>.\n"
+"Combustible Liquids are liquids that can be burned as fuel to be used in energy "
+"production such as in a <link=\"PETROLEUMGENERATOR\">Petroleum Generator</link> "
+"or a <link=\"KEROSENEENGINE\">Petroleum Engine</link>.\n"
 "\n"
 "Though these liquids have other uses, such as fertilizer for growing a <link="
-"\"BEANPLANTSEED\">Nosh Bean</link> their primary usefulness lies in their "
+"\"BEANPLANTSEED\">Nosh Bean</link>, their primary usefulness lies in their "
 "ability to be burned for <link=\"POWER\">power</link>."
 msgstr ""
 "Brennbare Flüssigkeiten sind Flüssigkeiten, die als Brennstoff für die "
@@ -58291,7 +58318,7 @@ msgid ""
 "\n"
 "When heated, ice will melt into its original liquified form (ie.<link=\"BRINEICE"
 "\">Brine Ice</link> will liquify into <link=\"BRINE\">Brine</link>). Each ice "
-"element has a different freezing and melting point based upon their composition "
+"element has a different freezing and melting point based upon its composition "
 "and state."
 msgstr ""
 "Eis ist eine Klasse von Materialien, die größtenteils (wenn nicht sogar "
@@ -58489,10 +58516,10 @@ msgstr "<link=\"REFINEDMETAL\">Veredeltes Metall</link>"
 #. STRINGS.MISC.TAGS.REFINEDMETAL_DESC
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL_DESC"
 msgid ""
-"Refined metals are purified forms of metal often used in higher tier "
+"Refined metals are purified forms of metal often used in higher-tier "
 "electronics due to their tendency to be able to withstand higher temperatures "
-"when they are made into wires. Other benefits include the higher decor value "
-"for some metals which can greatly increase the wellbeing of a colony.\n"
+"when they are made into wires. Other benefits include the increased decor value "
+"for some metals which can greatly improve the well-being of a colony.\n"
 "\n"
 "Metal ore can be refined in either the <link=\"ROCKCRUSHER\">Rock Crusher</"
 "link> or the <link=\"METALREFINERY\">Metal Refinery</link>."
@@ -58501,7 +58528,7 @@ msgstr ""
 "höherwertigen elektronischen Geräten verwendet werden, da sie bei der "
 "Herstellung von Drähten höheren Temperaturen standhalten können. Zu den "
 "weiteren Vorteilen gehört der höhere Dekorwert einiger Metalle, der das "
-"Wohlergehen einer Kolonie erheblich steigern kann.\n"
+"Wohlergehen einer Kolonie erheblich verbessern kann.\n"
 "\n"
 "Metallerze können entweder im <link=\"ROCKCRUSHER\">Steinbrecher</link> oder in "
 "der <link=\"METALREFINERY\">Metallraffinerie</link> raffiniert werden."
@@ -61670,10 +61697,10 @@ msgstr "<link=\"ADVANCEDFILTRATION\">Filtration</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.DESC"
-msgid "Harness sub-atomic particles to study the properties of matter, but more."
+msgid "Harness sub-atomic particles to study the properties of matter even more."
 msgstr ""
-"Nutzt subatomare Teilchen, um die Eigenschaften der Materie zu erforschen, aber "
-"auch mehr."
+"Nutzt subatomare Teilchen, um die Eigenschaften der Materie noch besser zu "
+"erforschen."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.NAME"
@@ -62522,8 +62549,8 @@ msgstr "<link=\"ATOMIC\">Materialwissenschaftliche Forschung</link>"
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC"
-msgid ""
-msgstr ""
+msgid "Build a quality cache of radbolts."
+msgstr "Lege einen hochwertigen Vorrat an Teilchenblitzen an."
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME"
@@ -64297,7 +64324,7 @@ msgid ""
 "\n"
 "Though my Duplicants appear more than happy to work in the Tundra Biome for "
 "short periods of time, I will need to provide proper <link=\"EQUIPMENT"
-"\">equipment</link> for them to avoid adverse affects to their wellbeing if "
+"\">equipment</link> for them to avoid adverse affects to their well-being if "
 "they are working here for longer periods."
 msgstr ""
 "Dieses Biom ist weit davon entfernt, ohne Leben zu sein, und enthält einige "
@@ -67014,6 +67041,16 @@ msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.NAME"
 msgid "Height: {0}/{1}"
 msgstr "Höhe: {0} / {1}"
 
+#. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.NAME_MAX_SUPPORTED
+msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.NAME_MAX_SUPPORTED"
+msgid "Maximum supported rocket height: "
+msgstr "Maximal unterstützte Raketenhöhe: "
+
+#. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.NAME_RAW
+msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.NAME_RAW"
+msgid "Height: "
+msgstr "Größe: "
+
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MAX_HEIGHT.TOOLTIP"
 msgid "The {0} can support a total rocket height {1}"
@@ -67033,6 +67070,11 @@ msgstr "Das {0} kann {1} Raketenmodule unterstützen, plus sich selbst"
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.NAME"
 msgid "Module Stats: "
 msgstr "Modulstatistik: "
+
+#. STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.NAME_HEADER
+msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.NAME_HEADER"
+msgid "Module Stats"
+msgstr "Modulstatistik"
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.TOOLTIP
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.MODULE_STATS.TOOLTIP"
@@ -73754,8 +73796,8 @@ msgstr "STEAM WORKSHOP"
 
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
-msgid "RAD NEW WORLDS"
-msgstr "TOLLE NEUE WELTEN"
+msgid "BUFF AND SHINE"
+msgstr "PUTZEN UND POLIEREN"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -73774,29 +73816,28 @@ msgstr "DISKUTIERE MIT"
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid ""
-"Welcome to the <b>RAD NEW WORLDS UPDATE!</b>\n"
+"Welcome to the <b>BUFF AND SHINE UPDATE!</b>\n"
 "\n"
 "<b><i>Spaced Out!</i></b>\n"
-"•<indent=20px>Several new clusters options are available in both the Classic "
-"and Spaced Out! style categories. </indent>\n"
-"•<indent=20px>New Manual Radbolt Generator and Radiation Lamp buildings.</"
+"•<indent=20px>Significant changes to radiation and radbolt tuning.</indent>\n"
+"•<indent=20px>Added the new Radbolt Chamber building for storing radbolts.</"
 "indent>\n"
-"•<indent=20px>Major revisions to Cosmic Research to allow for more ways of "
-"gathering research data.</indent>\n"
-"•<indent=20px>Bug fixes</indent>\n"
+"•<indent=20px>Restored the Space Scanner and Enclosed Telescope to Spaced Out!</"
+"indent>\n"
+"•<indent=20px>Bug fixes and polish work.</indent>\n"
 "\n"
 "   Check out the full patch notes for more details!"
 msgstr ""
-"Willkommen zum <b>TOLLE-NEUE-WELTEN-UPDATE</b>\n"
+"Willkommen zum <b>PUTZEN-UND-POLIEREN-UPDATE</b>\n"
 "\n"
 "<b><i>Spaced Out!</i></b>\n"
-"•<indent=20px>Einige neue Cluster-Optionen sind in den Stilkategorien Classic "
-"und Spaced Out! verfügbar. </indent>\n"
-"•<indent=20px>Neue manuelle Teilchenblitz-Generator- und Strahlungslampen-"
-"Gebäude </indent>\n"
-"•<indent=20px>Große Überarbeitungen der kosmischen Forschung, um mehr "
-"Möglichkeiten zum Sammeln von Forschungsdaten zu bieten.</indent>\n"
-"•<indent=20px>Fehlerbehebungen</indent>\n"
+"•<indent=20px>Wesentliche Änderungen an der Strahlung und der "
+"Teilchenblitzabstimmung.</indent>\n"
+"•<indent=20px>Das neue Radbolzenkammer-Gebäude zur Lagerung von Radbolzen wurde "
+"hinzugefügt.</indent>\n"
+"•<indent=20px>Der Weltraum-Scanner und das geschlossene Teleskop wurden in den "
+"Weltraum verlagert!</indent>\n"
+"•<indent=20px>Bugfixes und Feinschliff</indent>\n"
 "\n"
 "   Schau dir die vollständigen Patchnotizen für weitere Details an!"
 
@@ -92454,22 +92495,22 @@ msgctxt "STRINGS.WORLDS.MINIBADLANDS.DESCRIPTION"
 msgid ""
 "A barren location with an overabundance of mineral resources and oil.\n"
 "\n"
-"<smallcaps>The rocky terrain of The Badlands poses no immediate threats, but "
-"sparse resource availability will make expansion and technological progress "
+"<smallcaps>The rocky terrain of The Desolands poses no immediate threats, but "
+"the limited variety of resources will make expansion and technological progress "
 "challenging.</smallcaps>\n"
 "\n"
 msgstr ""
 "Ein karger Ort mit einem Überfluss an Bodenschätzen und Öl.\n"
 "\n"
-"<smallcaps>Das felsige Terrain des Ödlandes stellt keine unmittelbare Bedrohung "
-"dar, aber durch die spärliche Ressourcenverfügbarkeit wird die Expansion und "
-"der technologischen Fortschritt schwierig werden.</smallcaps>\n"
+"<smallcaps>Das felsige Terrain der Ödlands stellt keine unmittelbare Bedrohung "
+"dar, aber die begrenzte Vielfalt an Ressourcen wird die Expansion und den "
+"technologischen Fortschritt zu einer Herausforderung machen.</smallcaps>\n"
 "\n"
 
 #. STRINGS.WORLDS.MINIBADLANDS.NAME
 msgctxt "STRINGS.WORLDS.MINIBADLANDS.NAME"
-msgid "The Badlands Asteroid (experimental)"
-msgstr "Der Ödland-Asteroid (experimentell)"
+msgid "The Desolands Asteroid"
+msgstr "Der Ödland-Asteroid"
 
 #. STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MINIFLIPPED.DESCRIPTION"
@@ -92489,47 +92530,48 @@ msgstr ""
 
 #. STRINGS.WORLDS.MINIFLIPPED.NAME
 msgctxt "STRINGS.WORLDS.MINIFLIPPED.NAME"
-msgid "Flipped Asteroid (experimental)"
-msgstr "Umgedrehter Asteroid (experimentell)"
+msgid "Flipped Asteroid"
+msgstr "Umgedrehter Asteroid"
 
 #. STRINGS.WORLDS.MINIFORESTFROZEN.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MINIFORESTFROZEN.DESCRIPTION"
 msgid ""
 "A frigid location marked by inhospitably low temperatures throughout.\n"
 "\n"
-"<smallcaps>Frozen Forest's low temperatures will make finding water and "
-"establishing farms or ranches problematic.</smallcaps>\n"
+"<smallcaps>The Frozen Forest Asteroid's low temperatures will make finding "
+"water and establishing farms or ranches problematic.</smallcaps>\n"
 "\n"
 msgstr ""
 "Ein eisiger Ort, der durchweg von unwirtlich niedrigen Temperaturen geprägt "
 "ist.\n"
 "\n"
-"<smallcaps>Die niedrigen Temperaturen des Gefrorenen Waldes erschweren die "
-"Suche nach Wasser und die Errichtung von Farmen oder Viehzuchten.</smallcaps>\n"
+"<smallcaps>Die niedrigen Temperaturen des Gefrorener-Wald-Asteroiden erschweren "
+"die Suche nach Wasser und die Errichtung von Farmen oder Viehzuchten.</"
+"smallcaps>\n"
 "\n"
 
 #. STRINGS.WORLDS.MINIFORESTFROZEN.NAME
 msgctxt "STRINGS.WORLDS.MINIFORESTFROZEN.NAME"
-msgid "Frozen Forest Asteroid (experimental)"
-msgstr "Gefrorener Wald-Asteroid (experimentell)"
+msgid "Frozen Forest Asteroid"
+msgstr "Gefrorener Wald-Asteroid"
 
 #. STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.DESCRIPTION"
 msgid ""
-"A small swampy world with an abudnance of renewable metal.\n"
+"A small swampy world with an abundance of renewable metal.\n"
 "\n"
-"<smallcaps>Metallic Swampy Asteroids have a high concentration of metal mixed "
-"with a swampy polluted atmosphere.</smallcaps>"
+"<smallcaps>Metallic Swampy Asteroids have a high concentration of metal and a "
+"swampy, polluted atmosphere.</smallcaps>"
 msgstr ""
 "Eine kleine sumpfige Welt mit einer Fülle von erneuerbarem Metall.\n"
 "\n"
-"<smallcaps>Metallische Sumpf-Asteroiden haben eine hohe Konzentration an "
-"Metall, gemischt mit einer sumpfigen, verschmutzten Atmosphäre.</smallcaps>"
+"<smallcaps>Metallische Sumpf-Asteroiden haben eine hohe Metallkonzentration und "
+"eine sumpfige, verschmutzte Atmosphäre.</smallcaps>"
 
 #. STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME
 msgctxt "STRINGS.WORLDS.MINIMETALLICSWAMPY.NAME"
-msgid "Metallic Swampy Asteroid (experimental)"
-msgstr "Metallischer Sumpf-Asteroid (experimentell)"
+msgid "Metallic Swampy Asteroid"
+msgstr "Metallischer Sumpf-Asteroid"
 
 #. STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.DESCRIPTION"
@@ -92549,8 +92591,8 @@ msgstr ""
 
 #. STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.NAME
 msgctxt "STRINGS.WORLDS.MINIRADIOACTIVEOCEAN.NAME"
-msgid "Radioactive Ocean Asteroid (experimental)"
-msgstr "Radioaktiver Ozean-Asteroid (experimentell)"
+msgid "Radioactive Ocean Asteroid"
+msgstr "Radioaktiver Ozean-Asteroid"
 
 #. STRINGS.WORLDS.MOOMOONLET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.MOOMOONLET.DESCRIPTION"
@@ -92863,20 +92905,20 @@ msgctxt "STRINGS.WORLDS.SWAMPMOONLET.DESCRIPTION"
 msgid ""
 "A large, polluted swamp world.\n"
 "\n"
-"<smallcaps>Swampy Asteroids are a great mass of frozen slush and wasteland. "
+"<smallcaps>Quagmiris Asteroids are a great mass of frozen slush and wasteland. "
 "With a short distance to the surface, inter-world travel can be achieved "
 "quickly.</smallcaps>"
 msgstr ""
 "Eine große, verschmutzte Sumpfwelt.\n"
 "\n"
-"<smallcaps>Sumpfige Asteroiden sind eine große Masse aus gefrorenem Matsch und "
+"<smallcaps>Quagmiris-Asteroiden sind eine große Masse aus gefrorenem Matsch und "
 "Ödland. Mit einer kurzen Entfernung zur Oberfläche können Reisen zwischen den "
 "Welten schnell erreicht werden.</smallcaps>"
 
 #. STRINGS.WORLDS.SWAMPMOONLET.NAME
 msgctxt "STRINGS.WORLDS.SWAMPMOONLET.NAME"
-msgid "Swampy Asteroid"
-msgstr "Sumpfiger Asteroid"
+msgid "Quagmiris Asteroid"
+msgstr "Quagmiris-Asteroid"
 
 #. STRINGS.WORLDS.SWAMPYLANDINGSITE.DESCRIPTION
 msgctxt "STRINGS.WORLDS.SWAMPYLANDINGSITE.DESCRIPTION"
