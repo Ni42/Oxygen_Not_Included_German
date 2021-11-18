@@ -4928,7 +4928,7 @@ msgstr ""
 "Ermöglicht es Duplikanten, kranken Duplikanten wirksame Therapien zu "
 "verabreichen.\n"
 "\n"
-"Duplikanten müssen,um Kollegen zu behandeln, die <link=\"ROLES\">Fertigkeit</"
+"Duplikanten müssen, um Kollegen zu behandeln, die <link=\"ROLES\">Fertigkeit</"
 "link> fortschrittliche medizinische Versorgung innehaben."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDDOCTORSTATION.NAME
@@ -61678,7 +61678,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDNUCLEARRESEARCH.NAME"
 msgid "<link=\"ATOMIC\">More Materials Science Research</link>"
-msgstr "<link=\"ATOMIC\">weitere Materialwissenschaftliche Forschung</link>"
+msgstr "<link=\"ATOMIC\">Mehr Materialwissenschaftliche Forschung</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.DESC"
