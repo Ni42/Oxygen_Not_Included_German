@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-17 21:40+0100\n"
+"PO-Revision-Date: 2021-11-18 18:39+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -62550,7 +62550,7 @@ msgstr "<link=\"ATOMIC\">Materialwissenschaftliche Forschung</link>"
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC"
 msgid "Build a quality cache of radbolts."
-msgstr ""
+msgstr "Lege einen hochwertigen Vorrat an Teilchenblitzen an."
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME"
@@ -73797,7 +73797,7 @@ msgstr "STEAM WORKSHOP"
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "BUFF AND SHINE"
-msgstr ""
+msgstr "PUTZEN UND POLIEREN"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
