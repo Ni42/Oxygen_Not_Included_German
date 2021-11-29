@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-29 19:01+0100\n"
+"PO-Revision-Date: 2021-11-29 20:02+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -71921,7 +71921,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER."
 "NAME"
 msgid "Easier"
-msgstr ""
+msgstr "Leichter"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER.TOOLTIP
 msgctxt ""
@@ -71931,6 +71931,8 @@ msgid ""
 "Duplicants can be exposed to much more radiation before they get sick and "
 "recover from radiation much exposure faster"
 msgstr ""
+"Duplikanten können viel mehr Strahlung ausgesetzt werden, bevor sie krank "
+"werden, und erholen sich viel schneller von der Strahlenbelastung"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -71944,7 +71946,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST."
 "NAME"
 msgid "Easiest"
-msgstr ""
+msgstr "Am leichtesten"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.TOOLTIP
 msgctxt ""
@@ -71954,6 +71956,8 @@ msgid ""
 "Duplicants are essentially invulnerable to radiation sickness, and recover from "
 "radiation exposure very quickly"
 msgstr ""
+"Duplikanten sind im Wesentlichen unverwundbar gegenüber der Strahlenkrankheit "
+"und erholen sich sehr schnell von der Strahlenbelastung."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -71967,7 +71971,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER."
 "NAME"
 msgid "Harder"
-msgstr ""
+msgstr "Schwerer"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.TOOLTIP
 msgctxt ""
@@ -71975,6 +71979,8 @@ msgctxt ""
 "TOOLTIP"
 msgid "Duplicants get sick sooner and recover from radiation exposure slower"
 msgstr ""
+"Duplikanten werden früher krank und erholen sich langsamer von der "
+"Strahlenbelastung"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -71988,7 +71994,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST."
 "NAME"
 msgid "Hardest"
-msgstr ""
+msgstr "Am schwersten"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST.TOOLTIP
 msgctxt ""
@@ -71997,6 +72003,8 @@ msgctxt ""
 msgid ""
 "Duplicants get sick much sooner and recover from radiation exposure much slower"
 msgstr ""
+"Duplikanten werden viel früher krank und erholen sich viel langsamer von der "
+"Strahlenbelastung"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.NAME"
@@ -72009,6 +72017,9 @@ msgid ""
 "Affects how much radiation a duplicant can be exposed to before they become "
 "sick, and how quickly a duplicant can recover from radiation exposure"
 msgstr ""
+"Beeinflusst, wie viel Strahlung ein Duplikant ausgesetzt werden kann, bevor er "
+"krank wird, und wie schnell sich ein Duplikant von der Strahlenbelastung "
+"erholen kann"
 
 # TODO: Hier steht bewusst nicht "Objekt", damit es platztechnisch passt.
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.DISABLED.NAME
@@ -80250,7 +80261,7 @@ msgstr "Moral einstellen"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.TOOLTIP"
 msgid "Bonus Morale adjustent"
-msgstr ""
+msgstr "Bonus-Moral-Anpassung"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.RADIATION.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.RADIATION.NAME"
