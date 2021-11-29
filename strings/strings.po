@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-18 18:39+0100\n"
+"PO-Revision-Date: 2021-11-29 19:01+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -27432,22 +27432,19 @@ msgid "Smooth Hatch"
 msgstr "Glatt-Hatch"
 
 #. STRINGS.CODEX.SO_LAUNCH_TRAILER.BODY.CONTAINER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.BODY.CONTAINER1"
 msgid "Spaced Out Trailer"
-msgstr "Spaced Out!"
+msgstr "Spaced Out Trailer"
 
 #. STRINGS.CODEX.SO_LAUNCH_TRAILER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.SUBTITLE"
 msgid "Spaced Out Trailer"
-msgstr "Spaced Out!"
+msgstr "Spaced Out Trailer"
 
 #. STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE"
 msgid "Spaced Out Trailer"
-msgstr "Spaced Out!"
+msgstr "Spaced Out Trailer"
 
 #. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1"
@@ -35632,12 +35629,13 @@ msgid "Determines how long it takes a Duplicant to complete a space mission."
 msgstr "Beeinflusst wie lang ein Duplikant für eine Weltraummission braucht."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.DLC1_DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.DLC1_DESC"
 msgid ""
 "Determines how much of a speed bonus a Duplicant provides to a rocket they are "
 "piloting."
-msgstr "Beeinflusst wie lang ein Duplikant für sein \"Geschäft\" braucht."
+msgstr ""
+"Bestimmt, wie viel Geschwindigkeitsbonus ein Duplikant einer Rakete gibt, die "
+"er steuert."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.NAME"
@@ -35645,10 +35643,9 @@ msgid "Piloting"
 msgstr "Pilotieren"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.SPEED_MODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.SPEED_MODIFIER"
 msgid "{0} Rocket Speed"
-msgstr "Raketengeschwindigkeit: "
+msgstr "{0} Raketengeschwindigkeit"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
@@ -41667,17 +41664,17 @@ msgid "Rotting"
 msgstr "Verrottet"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SANDBOXMORALEADJUSTMENT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SANDBOXMORALEADJUSTMENT.NAME"
 msgid "Sandbox Morale Adjustment"
-msgstr "Sandkasten Element kopieren"
+msgstr "Sandkasten Moralanpassung"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SANDBOXMORALEADJUSTMENT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SANDBOXMORALEADJUSTMENT.TOOLTIP"
 msgid ""
 "This Duplicant has had their Morale adjusted temporarily with the Sandbox Tools."
-msgstr "Dieser Duplikant hat Schwierigkeiten, mit den anderen Schritt zu halten"
+msgstr ""
+"Die Moral dieses Duplikanten wurde vorübergehend mit den Sandkasten-Tools "
+"angepasst."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SAUNA.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SAUNA.NAME"
@@ -43622,15 +43619,13 @@ msgid "<link=\"ROCKETPILOTING2\">Rocket Piloting II</link>"
 msgstr "<link=\"ROCKETPILOTING2\">Raketensteuerung II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION"
 msgid ""
 "Enables Duplicants to conduct research using the <link="
 "\"DLC1COSMICRESEARCHCENTER\">Virtual Planetarium</link>"
 msgstr ""
-"Ermöglicht Duplikanten die Forschung aus einer Rakete heraus unter Verwendung "
-"des <link=\"ORBITALRESEARCHCENTER\">Orbitalen Datenerfassungslabors</link> "
-"durchzuführen"
+"Ermöglicht Duplikanten die Durchführung von Forschungsarbeiten mit dem <link="
+"\"DLC1COSMICRESEARCHCENTER\">Virtuellen Planetarium</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.NAME"
@@ -52806,10 +52801,9 @@ msgid "Cinematic Camera"
 msgstr "Filmkamera"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCHEEREMOTE
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCHEEREMOTE"
 msgid "Debug Cheer Emote"
-msgstr "Debug Teleport"
+msgstr "Debug Jubel-Emote"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCOLLECTGARBAGE
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGCOLLECTGARBAGE"
@@ -54851,13 +54845,12 @@ msgstr ""
 "durchzuführen."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.DESC"
 msgid ""
 "Raw Data that can be processed into <link=\"RESEARCH\">Data Analysis Research</"
 "link> points."
 msgstr ""
-"Rohdaten, die zu <style=\"KKeyword\">Datenanalyse-Forschungspunkten</style> "
+"Rohdaten, die zu <link=\"RESEARCH\">Datenanalyse-Forschungspunkten</link> "
 "verarbeitet werden können."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.NAME
@@ -54957,13 +54950,12 @@ msgid "Refined Sugar"
 msgstr "Raffinierter Zucker"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.DESC"
 msgid ""
 "Raw data that can be processed into <link=\"RESEARCH\">Interstellar Research</"
 "link> points."
 msgstr ""
-"Rohdaten, die zu <style=\"KKeyword\">interstellare Forschungspunkten</style> "
+"Rohdaten, die zu <link=\"RESEARCH\">interstellare Forschungspunkten</link> "
 "verarbeitet werden können."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.NAME
@@ -67189,7 +67181,6 @@ msgid "Rocket Speed: "
 msgstr "Raketengeschwindigkeit: "
 
 #. STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.TOOLTIP"
 msgid ""
 "<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by <b>Burden</"
@@ -67201,7 +67192,9 @@ msgstr ""
 "Die <b>Raketengeschwindigkeit</b> wird berechnet, indem man die "
 "<b>Triebwerksleistung</b> durch die <b>Belastung</b> teilt.\n"
 "Raketen, die mit Autopilot betrieben werden, haben eine reduzierte "
-"Geschwindigkeit."
+"Geschwindigkeit.\n"
+"Die Geschwindigkeit der Rakete kann durch die Fähigkeiten des Duplikanten, der "
+"die Rakete fliegt, weiter erhöht werden."
 
 #. STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.SELECT_DESTINATION"
@@ -67436,10 +67429,9 @@ msgid "<link=\"JOURNALS\">Journals</link>"
 msgstr "<link=\"JOURNALS\">Protokolle</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.MEDIA
-#, fuzzy
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.MEDIA"
 msgid "<link=\"MEDIA\">Media</link>"
-msgstr "<link=\"MEAT\">Fleisch</link>"
+msgstr "<link=\"MEDIA\">Medien</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.MISCELLANEOUSITEMS
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.MISCELLANEOUSITEMS"
@@ -70183,12 +70175,11 @@ msgstr ""
 "Aktueller Status: <b>Immer sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.TUTORIAL_DISABLED
-#, fuzzy
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.TUTORIAL_DISABLED"
 msgid ""
 "Click to enable this diagnostic -  Current State: <b>Temporarily disabled</b>"
 msgstr ""
-"Klicke hier, um diese Diagnose zu aktivieren - Aktueller Status: <b>Tutorial "
+"Klicke hier, um diese Diagnose zu aktivieren - Aktueller Status: <b>Zeitweilig "
 "deaktiviert</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CRITERIA_ENABLED_COUNT
@@ -71905,7 +71896,6 @@ msgstr ""
 "Duplikanten zu vermeiden"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.DEFAULT.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.DEFAULT."
 "NAME"
@@ -71913,20 +71903,18 @@ msgid "Default"
 msgstr "Standard"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.DEFAULT.TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.DEFAULT."
 "TOOLTIP"
 msgid "Default radiation settings"
-msgstr "Ziel festgelegt"
+msgstr "Standard-Strahlungseinstellung"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER.ATTRIBUTE_MODIFIER_NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Radiation Shielded (Difficulty Down)"
-msgstr "Fasten (niedrige Schwierigkeit)"
+msgstr "Strahlung abgeschirmt (niedrige Schwierigkeit)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER.NAME
 msgctxt ""
@@ -71945,12 +71933,11 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.ATTRIBUTE_MODIFIER_NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Radiation Protection (Lowest Difficulty)"
-msgstr "Drakonisch (Höchste Schwierigkeit)"
+msgstr "Strahlungsschutz (Höchste Schwierigkeit)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.NAME
 msgctxt ""
@@ -71969,12 +71956,11 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.ATTRIBUTE_MODIFIER_NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Radiation Vulnerable (Difficulty Up)"
-msgstr "Ein wenig pingelig (Höhere Schwierigkeit)"
+msgstr "Strahlungsempfindlich (Höhere Schwierigkeit)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.NAME
 msgctxt ""
@@ -71991,12 +71977,11 @@ msgid "Duplicants get sick sooner and recover from radiation exposure slower"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST.ATTRIBUTE_MODIFIER_NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Super Radiation (Highest Difficulty)"
-msgstr "Drakonisch (Höchste Schwierigkeit)"
+msgstr "Superstrahlung (Höchste Schwierigkeit)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST.NAME
 msgctxt ""
@@ -72014,7 +71999,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.NAME"
 msgid "Radiation"
 msgstr "Strahlung"
@@ -79824,10 +79808,9 @@ msgid "<link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link> Usage"
 msgstr "<link=\"NUCLEARRESEARCHCENTER\">Materialstudienterminal</link> Verwendung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION"
 msgid "<link=\"DLC1COSMICRESEARCHCENTER\">Virtual Planetarium</link> Usage"
-msgstr "<link=\"COSMICRESEARCHCENTER\">Virtuelles Planetarium</link>-Nutzung"
+msgstr "<link=\"DLC1COSMICRESEARCHCENTER\">Virtuelles Planetarium</link>-Nutzung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING"
@@ -80029,7 +80012,6 @@ msgid "Common Substances"
 msgstr "Übliche Stoffe"
 
 #. STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.ARTIFACTS
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.ARTIFACTS"
 msgid "Artifacts"
 msgstr "Artefakte"
@@ -80261,10 +80243,9 @@ msgid "Adjust mass"
 msgstr "Masse einstellen"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.NAME"
 msgid "Adjust Morale"
-msgstr "Masse einstellen"
+msgstr "Moral einstellen"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.TOOLTIP"
@@ -80337,28 +80318,24 @@ msgid "Paint elements into the simulation using noise {Hotkey}"
 msgstr "Malt Elemente mit Rauschen in die Simulation {Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS.NAME"
 msgid "Stress"
 msgstr "Stress"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS.TOOLTIP"
 msgid "Add or remove stress from Duplicants {Hotkey}"
-msgstr "Zeigt angenehme Temperaturen für Duplikanten an {Hotkey}"
+msgstr "Stress von Duplikanten hinzufügen oder entfernen {Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS_ADDITIVE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS_ADDITIVE.NAME"
 msgid "Reduce Stress"
 msgstr "Stressabbau"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS_ADDITIVE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS_ADDITIVE.TOOLTIP"
 msgid "Adjust stress reduction"
-msgstr "Absolute Strahlung einstellen"
+msgstr "Stressreduktion einstellen"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.TEMPERATURE.NAME"
@@ -85095,16 +85072,14 @@ msgid "Sprinkle"
 msgstr "Sprühen"
 
 #. STRINGS.UI.TOOLS.SANDBOX.STRESSTOOL.HOVERACTION
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.STRESSTOOL.HOVERACTION"
 msgid "PAINT CALM"
-msgstr "FARBE SIMULIEREN"
+msgstr "GELASSENHEIT MALEN"
 
 #. STRINGS.UI.TOOLS.SANDBOX.STRESSTOOL.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.STRESSTOOL.NAME"
 msgid "Happy Tool"
-msgstr "Glücklich"
+msgstr "Glückswerkzeug"
 
 #. STRINGS.UI.TOOLS.TOOL_AREA_FMT
 msgctxt "STRINGS.UI.TOOLS.TOOL_AREA_FMT"
@@ -92693,7 +92668,6 @@ msgid "Radioactive Terrabog Asteroid"
 msgstr "Radioaktiver Terrabog-Asteroid"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.DESCRIPTION"
 msgid ""
 "A large-ish, polluted swamp world.\n"
@@ -92704,15 +92678,14 @@ msgid ""
 msgstr ""
 "Eine große, verschmutzte Sumpfwelt.\n"
 "\n"
-"<smallcaps>Mittelgroße Sumpf-Asteroiden sind voll von Sumpf- und Moorgebieten, "
+"<smallcaps>Stinkende Sumpf-Asteroiden sind voll von Sumpf- und Moorgebieten, "
 "enthalten aber auch eine Vielzahl anderer Biome, die vielfältig genug sind, um "
 "eine entschlossene Kolonie mit dem Nötigsten zu versorgen.</smallcaps>"
 
 #. STRINGS.WORLDS.MEDIUMSWAMPY.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.MEDIUMSWAMPY.NAME"
 msgid "Stinko Swamp Asteroid"
-msgstr "Öliger Sumpf-Asteroid"
+msgstr "Stinkender Sumpf-Asteroid"
 
 #. STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION
 msgctxt "STRINGS.WORLDS.METALHEAVYLANDINGSITE.DESCRIPTION"
