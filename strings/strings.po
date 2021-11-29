@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-18 18:39+0100\n"
+"PO-Revision-Date: 2021-11-29 19:53+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -9515,7 +9515,7 @@ msgstr ""
 "Speichert <link=\"LEADSUIT\">Bleianzüge</link> und betankt sie mit <link="
 "\"OXYGEN\">Sauerstoff</link>.\n"
 "\n"
-"Entleert <link=\"DIRTYWATER\">Verschmutztes Wasser</link>.\n"
+"Befreit Anzüge von <link=\"DIRTYWATER\">Verschmutztem Wasser</link>.\n"
 "\n"
 "Neben einer <link=\"LEADSUITMARKER\">Bleianzug-Kontrollstelle</link> bauen, "
 "damit Duplikanten beim Vorbeigehen in den Anzug steigen."
@@ -76108,7 +76108,7 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.BUILDMENUTITLE"
 msgid "Ore Transport"
-msgstr "Erztansport"
+msgstr "Erztransport"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.NAME"
@@ -78642,12 +78642,12 @@ msgstr "Raketen"
 #. STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.TILE
 msgctxt "STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.TILE"
 msgid "Tiles"
-msgstr "Kachel"
+msgstr "Ziegel"
 
 #. STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.TRANSPORT
 msgctxt "STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.TRANSPORT"
 msgid "Transport"
-msgstr "Tansport"
+msgstr "Transport"
 
 #. STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.WATER
 msgctxt "STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.WATER"
@@ -79589,7 +79589,7 @@ msgstr "Geographische Analyse"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_CLUSTER_TELESCOPE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_CLUSTER_TELESCOPE.DESCRIPTION"
 msgid "<link=\"TELESCOPE\">Telescope</link> Usage"
-msgstr "<link=\"TELESCOPE\">Teleskop</link> Verwendung"
+msgstr "<link=\"TELESCOPE\">Teleskop</link>-Verwendung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
@@ -79634,7 +79634,7 @@ msgstr "Dieser Beruf benötigt keine Ausbildung"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.NUCLEAR_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.NUCLEAR_RESEARCH.DESCRIPTION"
 msgid "<link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link> Usage"
-msgstr "<link=\"NUCLEARRESEARCHCENTER\">Materialstudienterminal</link> Verwendung"
+msgstr "<link=\"NUCLEARRESEARCHCENTER\">Materialstudienterminal</link>-Verwendung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ORBITAL_RESEARCH.DESCRIPTION"
