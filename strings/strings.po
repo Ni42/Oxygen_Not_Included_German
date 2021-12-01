@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-11-29 20:02+0100\n"
+"PO-Revision-Date: 2021-12-01 21:25+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -41416,16 +41416,15 @@ msgstr ""
 "verletzte sich im Mund"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.NAME"
 msgid "Deadly Radiation Sickness"
-msgstr "Strahlenkrankheit"
+msgstr "Tödliche Strahlenkrankheit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.TOOLTIP"
 msgid "Extreme Radiation exposure has incapacitated this Duplicant"
-msgstr "Eine extreme Strahlenbelastung schadet diesem Duplikanten"
+msgstr ""
+"Eine extreme Strahlenbelastung hat diesen Duplikanten außer Gefecht gesetzt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREEXTREME.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREEXTREME.NAME"
@@ -50344,7 +50343,6 @@ msgid "<link=\"REFINEDCARBON\">Refined Carbon</link>"
 msgstr "<link=\"REFINEDCARBON\">Veredelter Kohlenstoff</link>"
 
 #. STRINGS.ELEMENTS.REGOLITH.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.REGOLITH.DESC"
 msgid ""
 "Regolith is a sandy substance composed of the various particles that collect "
@@ -50355,7 +50353,7 @@ msgstr ""
 "Regolith ist eine sandige Substanz aus den unterschiedlichen Partikeln die sich "
 "auf irdischen Objekten ablagern.\n"
 "\n"
-"Es ist nützlich als <style=\"KKeyword\">Filtermaterial</style>."
+"Es ist nützlich als <link=\"REGOLITH\">Filtermaterial</link>."
 
 #. STRINGS.ELEMENTS.REGOLITH.NAME
 msgctxt "STRINGS.ELEMENTS.REGOLITH.NAME"
@@ -50465,7 +50463,6 @@ msgid "<link=\"SALTWATER\">Salt Water</link>"
 msgstr "<link=\"SALTWATER\">Salzwasser</link>"
 
 #. STRINGS.ELEMENTS.SAND.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
 msgid ""
 "Sand is a composite of granular rock.\n"
@@ -50474,7 +50471,7 @@ msgid ""
 msgstr ""
 "Sand ist ein Gemisch aus körnigem Gestein.\n"
 "\n"
-"Er ist nützlich als <style=\"KKeyword\">Filtermaterial</style>."
+"Er ist nützlich als <link=\"FILTER\">Filtermaterial</link>."
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
@@ -53561,10 +53558,9 @@ msgid "Sandbox Sprinkle"
 msgstr "Sandkasten Sprenkeln"
 
 #. STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTRESSTOOL
-#, fuzzy
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTRESSTOOL"
 msgid "Sandbox Happy Tool"
-msgstr "Glückswerkzeug"
+msgstr "Sandbox-Glückswerkzeug"
 
 #. STRINGS.INPUT_BINDINGS.SANDBOX.TOGGLESANDBOXTOOLS
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.TOGGLESANDBOXTOOLS"
@@ -67905,10 +67901,9 @@ msgid "    • One or more farm plots are inoperable"
 msgstr "    • Ein oder mehrere Farmen sind nicht funktionsfähig"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE
-#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE"
 msgid "    • No farm plots"
-msgstr "    • Die Kolonie betreibt keine Landwirtschaft"
+msgstr "    • keine landwirtschaftlichen Anpflanzungen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE_PLANTED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE_PLANTED"
@@ -91485,12 +91480,13 @@ msgid "Diseases"
 msgstr "Krankheiten"
 
 #. STRINGS.UI.VITALSSCREEN.SICKNESS_REMAINING
-#, fuzzy
 msgctxt "STRINGS.UI.VITALSSCREEN.SICKNESS_REMAINING"
 msgid ""
 "{0}\n"
 "({1})"
-msgstr "{0} ({1})"
+msgstr ""
+"{0}\n"
+"({1})"
 
 #. STRINGS.UI.VITALSSCREEN.STRESS
 msgctxt "STRINGS.UI.VITALSSCREEN.STRESS"
