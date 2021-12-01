@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-12-01 21:25+0100\n"
+"PO-Revision-Date: 2021-12-01 21:28+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -74195,7 +74195,7 @@ msgstr "Welterzeugungsschlüssel"
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP"
 msgid "View the full patch notes online"
-msgstr ""
+msgstr "Die kompletten Patchnotizen online ansehen"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
