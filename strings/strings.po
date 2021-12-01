@@ -41415,6 +41415,18 @@ msgstr ""
 "Dieser Duplikant aß eine rohe <link=\"PRICKLEFRUIT\">Dornenbeere</link> und "
 "verletzte sich im Mund"
 
+#. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.NAME"
+msgid "Deadly Radiation Sickness"
+msgstr "Strahlenkrankheit"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREDEADLY.TOOLTIP"
+msgid "Extreme Radiation exposure has incapacitated this Duplicant"
+msgstr "Eine extreme Strahlenbelastung schadet diesem Duplikanten"
+
 #. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREEXTREME.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREEXTREME.NAME"
 msgid "Extreme Radiation Sickness"
@@ -50332,12 +50344,13 @@ msgid "<link=\"REFINEDCARBON\">Refined Carbon</link>"
 msgstr "<link=\"REFINEDCARBON\">Veredelter Kohlenstoff</link>"
 
 #. STRINGS.ELEMENTS.REGOLITH.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.REGOLITH.DESC"
 msgid ""
 "Regolith is a sandy substance composed of the various particles that collect "
 "atop terrestrial objects.\n"
 "\n"
-"It is useful as a <style=\"KKeyword\">Filtration Medium</style>."
+"It is useful as a <link=\"REGOLITH\">Filtration Medium</link>."
 msgstr ""
 "Regolith ist eine sandige Substanz aus den unterschiedlichen Partikeln die sich "
 "auf irdischen Objekten ablagern.\n"
@@ -50452,11 +50465,12 @@ msgid "<link=\"SALTWATER\">Salt Water</link>"
 msgstr "<link=\"SALTWATER\">Salzwasser</link>"
 
 #. STRINGS.ELEMENTS.SAND.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
 msgid ""
 "Sand is a composite of granular rock.\n"
 "\n"
-"It is useful as a <style=\"KKeyword\">Filtration Medium</style>."
+"It is useful as a <link=\"FILTER\">Filtration Medium</link>."
 msgstr ""
 "Sand ist ein Gemisch aus körnigem Gestein.\n"
 "\n"
@@ -53545,6 +53559,12 @@ msgstr "Sandkasten Entity erzeugen"
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSPRINKLE"
 msgid "Sandbox Sprinkle"
 msgstr "Sandkasten Sprenkeln"
+
+#. STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTRESSTOOL
+#, fuzzy
+msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTRESSTOOL"
+msgid "Sandbox Happy Tool"
+msgstr "Glückswerkzeug"
 
 #. STRINGS.INPUT_BINDINGS.SANDBOX.TOGGLESANDBOXTOOLS
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.TOGGLESANDBOXTOOLS"
@@ -67885,8 +67905,9 @@ msgid "    • One or more farm plots are inoperable"
 msgstr "    • Ein oder mehrere Farmen sind nicht funktionsfähig"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE
+#, fuzzy
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE"
-msgid "    • Colony has no farm plots"
+msgid "    • No farm plots"
 msgstr "    • Die Kolonie betreibt keine Landwirtschaft"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE_PLANTED
@@ -74175,6 +74196,11 @@ msgstr "Sandbox-Modus freischalten"
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN"
 msgid "World Generation Key"
 msgstr "Welterzeugungsschlüssel"
+
+#. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP
+msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP"
+msgid "View the full patch notes online"
+msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -91459,8 +91485,11 @@ msgid "Diseases"
 msgstr "Krankheiten"
 
 #. STRINGS.UI.VITALSSCREEN.SICKNESS_REMAINING
+#, fuzzy
 msgctxt "STRINGS.UI.VITALSSCREEN.SICKNESS_REMAINING"
-msgid "{0} ({1})"
+msgid ""
+"{0}\n"
+"({1})"
 msgstr "{0} ({1})"
 
 #. STRINGS.UI.VITALSSCREEN.STRESS
