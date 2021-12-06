@@ -46255,7 +46255,7 @@ msgstr "Bodenloser Magen"
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
 msgid "Cannot do <b>{0} Errands</b>"
-msgstr "Kann <b>{0} Aufträge</b> nicht durchführen"
+msgstr "Kann <b>{0}-Aufträge</b> nicht durchführen"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK_TOOLTIP"
@@ -47839,7 +47839,7 @@ msgstr "Tierliebhaber"
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid "Cannot do<b>{0} Errands</b>"
-msgstr "Kann <b>{0} Aufträge</b> nicht durchführen"
+msgstr "Kann <b>{0}-Aufträge</b> nicht durchführen"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC"
@@ -73632,7 +73632,7 @@ msgstr "ÜBERLEBEN"
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.DISABLED_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.DISABLED_CONTENT"
 msgid " - <b>Not compatible with <i>{Content}</i></b>"
-msgstr " - <b>Nicht kompatibel mit<i>{Content}</i></b>"
+msgstr " - <b>Nicht kompatibel mit <i>{Content}</i></b>"
 
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.NO_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.NO_CONTENT"
@@ -80457,7 +80457,7 @@ msgstr "Schichten zurücksetzen"
 #. STRINGS.UI.SCHEDULESCREEN.RESET_SETTINGS_TOOLTIP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.RESET_SETTINGS_TOOLTIP"
 msgid "Restore this schedule to default shifts"
-msgstr "Stellen den Zeitplan auf Standardschichten zurück"
+msgstr "Diesen Zeitplan auf die Standardschichten zurücksetzen"
 
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DOWNTIME_MORALE
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DOWNTIME_MORALE"
@@ -80467,7 +80467,7 @@ msgstr "Duplikanten erhalten {0} Moral von der geplanten Freizeit"
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DROPDOWN_ASSIGNED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DROPDOWN_ASSIGNED"
 msgid "{0} (Assigned)"
-msgstr "{0} Zugewiesen"
+msgstr "{0} (Zugewiesen)"
 
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DROPDOWN_BLANK
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_DROPDOWN_BLANK"
@@ -80542,7 +80542,7 @@ msgstr "{0} <b>kann nicht</b> {1} lernen"
 #. STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.HAS_MASTERED
 msgctxt "STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.HAS_MASTERED"
 msgid "{0} has <b>already learned</b> {1}"
-msgstr "{0} hat bereits {1} <b>gelernen</b>"
+msgstr "{0} hat bereits {1} <b>gelernt</b>"
 
 #. STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.PREVENTED_BY_TRAIT
 msgctxt ""
@@ -80593,7 +80593,7 @@ msgid ""
 "cause unnecessary <style=\"KKeyword\">Stress</style>!"
 msgstr ""
 "Das Lernen von {0} wird {1} in ein <style=\"KKeyword\">Moraldefizit</style> "
-"bringen unnötigen <style=\"KKeyword\">Stress</style> verursachen!"
+"bringen und unnötigen <style=\"KKeyword\">Stress</style> verursachen!"
 
 #. STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.SKILLGROUP_ENABLED.DESCRIPTION
 msgctxt ""
