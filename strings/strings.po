@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-12-06 19:18+0100\n"
+"PO-Revision-Date: 2021-12-06 20:03+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -66829,6 +66829,8 @@ msgid ""
 "Collected\n"
 "Recharge: {0}"
 msgstr ""
+"Eingesammelt\n"
+"Nachladen: {0}"
 
 #. STRINGS.UI.CLUSTERMAP.POI.MASS_REMAINING
 msgctxt "STRINGS.UI.CLUSTERMAP.POI.MASS_REMAINING"
@@ -88982,7 +88984,7 @@ msgstr "Riss eingeben"
 #. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CANCEL
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CANCEL"
 msgid "Actually... I need to prepare."
-msgstr ""
+msgstr "Eigentlich... Ich muss mich vorbereiten."
 
 #. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CONFIRM
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CONFIRM"
