@@ -6033,6 +6033,7 @@ msgstr ""
 "seltene Ressourcen zu bergen."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT"
 msgid ""
 "Uses pressurized <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> to propel rockets "
@@ -6041,8 +6042,8 @@ msgid ""
 "Carbon Dioxide Engines are relatively fast engine for their size but with "
 "limited height restrictions.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+"Engine must be built via Rocket Platform. Once the engine has been built, more "
+"rocket modules can be added."
 msgstr ""
 "Verwendet unter Druck stehendes <link=\"CARBONDIOXIDE\">Kohlenstoffdioxid</link> "
 "zum Antrieb von Raketen für die Kurzstreckenweltraumerkundung.\n"
@@ -8514,6 +8515,7 @@ msgstr ""
 "außergewöhnlich weit."
 
 #. STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT"
 msgid ""
 "Injects <link=\"RADIATION\">Radbolts</link> into a reaction chamber to propel "
@@ -8522,8 +8524,8 @@ msgid ""
 "Radbolt Engines are faster than <link=\"HYDROGENENGINE\">Hydrogen Engines</link> "
 "but with a more restrictive height allowance.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+"Engine must be built via Rocket Platform. Once the engine has been built, more "
+"rocket modules can be added."
 msgstr ""
 "Injiziert <link=\"RADIATION\">Teilchenblitze</link> in eine Reaktionskammer, um "
 "Raketen für die Langstrecken-Weltraumerkundung anzutreiben.\n"
@@ -8737,6 +8739,7 @@ msgstr ""
 "Petroleumtriebwerke."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.EFFECT"
 msgid ""
 "Burns <link=\"LIQUIDHYDROGEN\">Liquid Hydrogen</link> to propel rockets for long-"
@@ -8745,8 +8748,7 @@ msgid ""
 "Hydrogen Engines have the same generous height restrictions as <link="
 "\"KEROSENEENGINE\">Petroleum Engines</link> but are slightly faster.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+"The engine must be built first before more rocket modules can be added."
 msgstr ""
 "Verbrennt <link=\"LIQUIDHYDROGEN\">flüssigen Wasserstoff</link>, um Raketen für "
 "die Langstreckenweltraumerkundung anzutreiben.\n"
@@ -8771,6 +8773,7 @@ msgstr ""
 "Petroleumtriebwerke."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT"
 msgid ""
 "Burns <link=\"LIQUIDHYDROGEN\">Liquid Hydrogen</link> to propel rockets for long-"
@@ -8779,8 +8782,8 @@ msgid ""
 "Hydrogen Engines have the same generous height restrictions as <link="
 "\"KEROSENEENGINE\">Petroleum Engines</link> but are slightly faster.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+"Engine must be built via Rocket Platform. Once the engine has been built, more "
+"rocket modules can be added."
 msgstr ""
 "Verbrennt <link=\"LIQUIDHYDROGEN\">flüssigen Wasserstoff</link>, um Raketen für "
 "die Langstreckenweltraumerkundung anzutreiben.\n"
@@ -9146,6 +9149,7 @@ msgstr ""
 "seltene Ressourcen zu bergen."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINE.EFFECT"
 msgid ""
 "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for mid-range space "
@@ -9154,8 +9158,7 @@ msgid ""
 "Petroleum Engines have generous height restrictions, ideal for hauling many "
 "modules.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+"The engine must be built first before more rocket modules can be added."
 msgstr ""
 "Verbrennt <link=\"PETROLEUM\">Petroleum</link>, um Raketen für die "
 "Mittelstreckenweltraumerkundung anzutreiben.\n"
@@ -9177,6 +9180,7 @@ msgid "More powerful rocket engines can propel heavier burdens."
 msgstr "Stärkere Raketentriebwerke können schwerere Lasten antreiben."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT"
 msgid ""
 "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for mid-range space "
@@ -9185,8 +9189,8 @@ msgid ""
 "Petroleum Engines have generous height restrictions, ideal for hauling many "
 "modules.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+"Engine must be built via Rocket Platform. Once the engine has been built, more "
+"rocket modules can be added."
 msgstr ""
 "Verbrennt <link=\"PETROLEUM\">Petroleum</link>, um Raketen für die "
 "Mittelstreckenweltraumerkundung anzutreiben.\n"
@@ -9211,6 +9215,7 @@ msgstr ""
 "seltene Ressourcen zu bergen."
 
 #. STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.EFFECT"
 msgid ""
 "Burns <link=\"PETROLEUM\">Petroleum</link> to propel rockets for mid-range space "
@@ -9219,8 +9224,8 @@ msgid ""
 "Small Petroleum Engines possess the same speed as a <link=\"KEROSENEENGINE"
 "\">Petroleum Engines</link> but have smaller height restrictions.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+"Engine must be built via Rocket Platform. Once the engine has been built, more "
+"rocket modules can be added."
 msgstr ""
 "Verbrennt <link=\"PETROLEUM\">Petroleum</link>, um Raketen für die "
 "Mittelstreckenweltraumerkundung anzutreiben.\n"
@@ -16283,12 +16288,13 @@ msgstr ""
 "seltene Ressourcen zu bergen."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.EFFECT"
 msgid ""
 "Utilizes <link=\"STEAM\">Steam</link> to propel rockets for space exploration.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules may be "
-"added."
+"Engine must be built via Rocket Platform. Once the engine has been built, more "
+"rocket modules can be added."
 msgstr ""
 "Verwendet <link=\"STEAM\">Dampf</link>, um Raketen für die Weltraumforschung "
 "anzutreiben.\n"
@@ -16496,6 +16502,7 @@ msgstr ""
 "schmackhafteste."
 
 #. STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT"
 msgid ""
 "Burns <link=\"SUCROSE\">Sucrose</link> to propel rockets for short range space "
@@ -16504,8 +16511,8 @@ msgid ""
 "Sugar Engines have higher height restrictions than <link=\"CO2ENGINE\">Carbon "
 "Dioxide Engines</link>, but move slower.\n"
 "\n"
-"The engine of a rocket must be built first before more rocket modules can be "
-"added."
+" Engine must be built via Rocket Platform. Once the engine has been built, more "
+"rocket modules can be added."
 msgstr ""
 "Verbrennt <link=\"SUCROSE\">Saccharose</link>, um Raketen für die "
 "Kurzstreckeweltraumerkundung anzutreiben.\n"
@@ -23052,14 +23059,16 @@ msgid "Balm Lily"
 msgstr "Balsamlilien"
 
 #. STRINGS.CODEX.BEETA.BODY.CONTAINER1
+#, fuzzy
 msgctxt "STRINGS.CODEX.BEETA.BODY.CONTAINER1"
 msgid ""
-"Beetas are insectiod creatures that enjoy a symbiotic relationship with the "
+"Beetas are insectoid creatures that enjoy a symbiotic relationship with the "
 "radioactive environment they thrive in.\n"
 "\n"
 "Much like the honey bee gathers nectar and processes it to honey, the Beeta "
-"turns Uranium into Enriched Uranium through a complex process of isotope "
-"separation inside the Beeta Hive.\n"
+"turns <link=\"URANIUMORE\">Uranium</link> into <link=\"ENRICHEDURANIUM"
+"\">Enriched Uranium</link> through a complex process of isotope separation "
+"inside the Beeta Hive.\n"
 "\n"
 "When first observing the Beeta's enrichment process, many scientists note with "
 "surprise just how much more efficient the cooperative combination of insect and "
@@ -24077,10 +24086,14 @@ msgid "<link=\"EXOBASES\">Space Travel</link>"
 msgstr "<link=\"EXOBASES\">Weltraumreisen</link>"
 
 #. STRINGS.CODEX.EXPERIMENT52B.BODY.CONTAINER1
+#, fuzzy
 msgctxt "STRINGS.CODEX.EXPERIMENT52B.BODY.CONTAINER1"
 msgid ""
-"Experiment 52B is an aggressive, yet sessile creature that consumes calories and "
-"discharges resin.\n"
+"Experiment 52B is an aggressive, yet sessile creature that produces {amount of "
+"resin} kilograms of resin per {amount of food} calories it consumes.\n"
+"\n"
+"Duplicants would do well to maintain a safe distance when delivering food to "
+"Experiment 52B.\n"
 "\n"
 "While this creature may look like a tree, its taxonomy more closely resembles a "
 "giant land-based coral with cybernetic implants.\n"
@@ -25181,6 +25194,7 @@ msgid "Cluster of Worlds"
 msgstr "Cluster von Welten"
 
 #. STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.DUPLICANTDEATH.BODY"
 msgid ""
 "I lost my first Duplicant today. Duplicants form strong bonds with each other, "
@@ -25191,7 +25205,7 @@ msgid ""
 "and I failed. All I can do now is move forward and resolve to better protect "
 "those remaining in my colony from here on out.\n"
 "\n"
-"Rest in peace, dear, little friend.\n"
+"Rest in peace, dear little friend.\n"
 "\n"
 msgstr ""
 "Ich habe heute meinen ersten Duplikanten verloren. Duplikanten bilden starke "
@@ -25319,6 +25333,7 @@ msgid "Cycle 15"
 msgstr "Zyklus 15"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.BODY"
 msgid ""
 "As my Duplicants venture out into the neighbouring worlds, there is an ever "
@@ -25328,8 +25343,8 @@ msgid ""
 "such adverse environments.\n"
 "\n"
 "These first few cycles have been occupied with building the basics for my "
-"colony, but now is time I should start planning for the future. We cannot merely "
-"life day-to-day without purpose. If we are to survive for any significant time, "
+"colony, but now it is time I start planning for the future. We cannot merely "
+"live day-to-day without purpose. If we are to survive for any significant time, "
 "we must strive for a purpose.\n"
 "\n"
 msgstr ""
@@ -25424,13 +25439,14 @@ msgid "Cycle 2500"
 msgstr "Zyklus 2500"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG6.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG6.BODY"
 msgid ""
 "I get brief flashes of a past life every now and then.\n"
 "\n"
 "A clock in the office with a disruptive tick.\n"
 "\n"
-"The strong smell of cleaning products and artifical lemon.\n"
+"The strong smell of cleaning products and artificial lemon.\n"
 "\n"
 "A woman with thick glasses who had a secret taste for gingersnaps.\n"
 "\n"
@@ -25574,10 +25590,11 @@ msgid "VA[?]...C"
 msgstr "VA[?]...C"
 
 #. STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.ONEDUPELEFT.BODY"
 msgid ""
-"My colony is in a dire state. All but one of my Duplicants has perished, leaving "
-"a single worker to perform all the tasks that maintain the colony.\n"
+"My colony is in a dire state. All but one of my Duplicants have perished, "
+"leaving a single worker to perform all the tasks that maintain the colony.\n"
 "\n"
 "Given enough time I could print more Duplicants to replenish the population, "
 "but... should this Duplicant die before then, protocol will force me to enter a "
@@ -25701,9 +25718,10 @@ msgid "Regional Analysis"
 msgstr "Regionale Analyse"
 
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY"
 msgid ""
-"Echo from another time force their way into my mind. Make me listen. Like "
+"Echoes from another time force their way into my mind. Make me listen. Like "
 "vengeful ghosts they claw their way out from under the gravity of that dead "
 "planet.\n"
 "\n"
@@ -25839,6 +25857,7 @@ msgid "Strange Relics"
 msgstr "Seltsame Relikte"
 
 #. STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.SURFACEBREACH.BODY"
 msgid ""
 "My Duplicants have done the impossible and excavated their way to the surface, "
@@ -25847,8 +25866,8 @@ msgid ""
 "As I had begun to suspect, we are not on the target location but on an asteroid "
 "with a highly unusual diversity of elements and resources.\n"
 "\n"
-"Further, my Duplicants have spotted a damaged planet on the horizon visible with "
-"the naked eye that bares a striking resemblance to my historical data on the "
+"Further, my Duplicants have spotted a damaged planet on the horizon, visible to "
+"the naked eye, that bears a striking resemblance to my historical data on the "
 "planet of our origin.\n"
 "\n"
 "I will need some time to assess the data the Duplicants have gathered for me and "
@@ -25910,6 +25929,7 @@ msgid "Duplicant Teleportation"
 msgstr "Duplikanten Teleportation"
 
 #. STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.BODY"
 msgid ""
 "In their interplanetary travels throughout this system, my Duplicants have "
@@ -25921,12 +25941,12 @@ msgid ""
 "erected in nearby worlds.\n"
 "\n"
 "However, I've determined that using the Temporal Bow to operate a Printing Pod "
-"was what led Gravitas down the disasterous path which eventually lead to the "
-"destruction of our home planet. My calculations seem to indicate that the size "
-"of that planet may have been a contributing factor in its destruction and in all "
-"probability opening the Temporal Tear in our current situation will not cause "
-"such a cataclysmic event. However, as with everything in science, one can never "
-"know all the outcomes of a situation until we perform an experiment.\n"
+"was what propelled Gravitas down the disasterous path which eventually led to "
+"the destruction of our home planet. My calculations seem to indicate that the "
+"size of that planet may have been a contributing factor in its destruction, and "
+"in all probability opening the Temporal Tear in our current situation will not "
+"cause such a cataclysmic event. However, as with everything in science, we can "
+"never know all the outcomes of a situation until we perform an experiment.\n"
 "\n"
 "Dare we tempt fate again?"
 msgstr ""
@@ -25955,11 +25975,12 @@ msgid "Temporal Potential"
 msgstr "Temporales Potenzial"
 
 #. STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY
+#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.BODY"
 msgid ""
 "My Duplicants' space research has made a startling discovery.\n"
 "\n"
-"Far, far off on the horizon their telescopes have spotted an anomaly that I "
+"Far, far off on the horizon, their telescopes have spotted an anomaly that I "
 "could only possibly call a \"Temporal Tear\". Neutronium is detected in its "
 "readings, suggesting that it's related to the Neutronium that encases most of "
 "our asteroid.\n"
@@ -27969,6 +27990,18 @@ msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.VIDEO_TEXT_DLC1.SECO
 msgid "DLC1"
 msgstr "DLC1"
 
+#. STRINGS.COLONY_ACHIEVEMENTS.DLC.EXPANSION1
+#, fuzzy
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DLC.EXPANSION1"
+msgid ""
+"<style=\"KKeyword\">\n"
+"\n"
+"<i>Spaced Out!</i></style> DLC Achievement"
+msgstr ""
+"<style=\"KKeyword\">\n"
+"\n"
+"<i>Spaced Out!</i></style> DLC Inhalt"
+
 #. STRINGS.COLONY_ACHIEVEMENTS.FAILED_THIS_COLONY
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.FAILED_THIS_COLONY"
 msgid "The current colony cannot fulfill this Initiative"
@@ -28532,9 +28565,10 @@ msgid "Energy generated: {0} / {1}"
 msgstr "Energie erzeugt: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING
+#, fuzzy
 msgctxt ""
 "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.GET_URANIUM_WITHOUT_STING"
-msgid "Got uranium out of a beeta hive without getting stung"
+msgid "Got uranium out of a Beeta hive without getting stung"
 msgstr "Uran aus einem Bienenstock geholt, ohne gestochen worden zu sein"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.HARVEST_HIVE
@@ -29950,14 +29984,15 @@ msgid "<link=\"BEE\">Beetiny</link>"
 msgstr "<link=\"BEE\">Beeta-Baby</link>"
 
 #. STRINGS.CREATURES.SPECIES.BEE.DESC
+#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.BEE.DESC"
 msgid ""
 "Beetas are hostile critters that thrive in <link=\"RADIATION\">Radioactive</"
 "link> environments.\n"
 "\n"
-"They commonly gather <link=\"URANIUM\">Uranium</link> for their <link=\"BEEHIVE"
-"\">Beeta Hives</link> to produce <link=\"ENRICHEDURANIUM\">Enriched Uranium</"
-"link>."
+"They commonly gather <link=\"URANIUMORE\">Uranium</link> for their <link="
+"\"BEEHIVE\">Beeta Hives</link> to produce <link=\"ENRICHEDURANIUM\">Enriched "
+"Uranium</link>."
 msgstr ""
 "Beetas sind feindliche Tiere, die in <link=\"RADIATION\">radioaktiven</link> "
 "Umgebungen gedeihen.\n"
@@ -31988,12 +32023,14 @@ msgid "<link=\"SALTPLANT\">Dasha Saltvine</link>"
 msgstr "<link=\"SALTPLANT\">Dasha-Salzranke</link>"
 
 #. STRINGS.CREATURES.SPECIES.SAPTREE.DESC
+#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SAPTREE.DESC"
 msgid ""
-"An <link=\"RESIN\">Resin</link>-producing, cybernetic tree that shows signs of "
+"A <link=\"RESIN\">Resin</link>-producing cybernetic tree that shows signs of "
 "sentience.\n"
 "\n"
-"It is rooted firmly in place, and appears to have been here for some time."
+"It is rooted firmly in place, and is waiting for some brave soul to bring it "
+"food."
 msgstr ""
 "Ein <link=\"RESIN\">Harz</link>-produzierender, kybernetischer Baum, der "
 "Anzeichen von Empfindungsfähigkeit zeigt.\n"
@@ -33786,6 +33823,18 @@ msgstr ""
 "Durch dauerhafte ideale Bedingungen konnte diese Pflanze einen großen Ertrag "
 "bringen\n"
 "{Effects}"
+
+#. STRINGS.CREATURES.STATUSITEMS.HIVE_DIGESTING.NAME
+#, fuzzy
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HIVE_DIGESTING.NAME"
+msgid "Digesting"
+msgstr "Verdaut"
+
+#. STRINGS.CREATURES.STATUSITEMS.HIVE_DIGESTING.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HIVE_DIGESTING.TOOLTIP"
+msgid "Digesting yummy food!"
+msgstr "Liefert Nahrung"
 
 #. STRINGS.CREATURES.STATUSITEMS.HIVEHUNGRY.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HIVEHUNGRY.NAME"
@@ -66798,8 +66847,10 @@ msgstr "Verfügbar"
 
 #. STRINGS.UI.CLUSTERMAP.POI.ARTIFACTS_DEPLETED
 msgctxt "STRINGS.UI.CLUSTERMAP.POI.ARTIFACTS_DEPLETED"
-msgid "Collected"
-msgstr "Eingesammelt"
+msgid ""
+"Collected\n"
+"Recharge: {0}"
+msgstr ""
 
 #. STRINGS.UI.CLUSTERMAP.POI.MASS_REMAINING
 msgctxt "STRINGS.UI.CLUSTERMAP.POI.MASS_REMAINING"
@@ -69037,6 +69088,19 @@ msgstr "Atmosphärischer Druck bewirkt die Vermehrung von Keimen"
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.TITLE"
 msgid "    • Current pressure {0}: {1}"
 msgstr "    • Aktueller Druck {0}: {1}"
+
+#. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RADIATION.DIE_TOOLTIP
+#, fuzzy
+msgctxt ""
+"STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RADIATION.DIE_TOOLTIP"
+msgid "Radiation exposure is causing germs to die off"
+msgstr "Diese Atmosphäre lässt die Keime absterben"
+
+#. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RADIATION.TITLE
+#, fuzzy
+msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RADIATION.TITLE"
+msgid "    • Exposed to {0} Rads: {1}"
+msgstr "    • Geschwindigkeit: {0} ({1})"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RATE_OF_CHANGE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RATE_OF_CHANGE"
@@ -80009,8 +80073,9 @@ msgid "Adjust Morale"
 msgstr "Moral einstellen"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.MORALE.TOOLTIP"
-msgid "Bonus Morale adjustent"
+msgid "Bonus Morale adjustment"
 msgstr "Bonus-Moral-Anpassung"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.RADIATION.NAME
@@ -88938,6 +89003,29 @@ msgstr "Riss geschlossen"
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.BUTTON_OPEN"
 msgid "Enter Tear"
 msgstr "Riss eingeben"
+
+#. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CANCEL
+msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CANCEL"
+msgid "Actually... I need to prepare."
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CONFIRM
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CONFIRM"
+msgid "Fire!"
+msgstr "Feuer!"
+
+#. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_MESSAGE
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_MESSAGE"
+msgid "Are you sure you want to fire this?"
+msgstr "Bist du dir sicher, dass du {0} überschreiben willst?"
+
+#. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_TITLE
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_TITLE"
+msgid "Temporal Tear Opener"
+msgstr "Zeitrissöffner"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.TITLE"
