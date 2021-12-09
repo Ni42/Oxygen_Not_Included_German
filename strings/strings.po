@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-12-09 18:33+0100\n"
+"PO-Revision-Date: 2021-12-09 18:45+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -80204,8 +80204,8 @@ msgstr "Stress"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS.TOOLTIP"
-msgid "Add or remove stress from Duplicants {Hotkey}"
-msgstr "Stress von Duplikanten hinzufügen oder entfernen {Hotkey}"
+msgid "Manage Duplicants' stress levels {Hotkey}"
+msgstr "Stresslevel der Duplikanten verwalten {Hotkey}"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS_ADDITIVE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.STRESS_ADDITIVE.NAME"
