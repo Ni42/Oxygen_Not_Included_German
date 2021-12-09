@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-12-08 21:21+0100\n"
+"PO-Revision-Date: 2021-12-09 18:33+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -17079,12 +17079,12 @@ msgstr "<link=\"TEMPERATURECONTROLLEDSWITCH\">Temperatur-Schalter</link>"
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.DESC"
 msgid "Infinite possibilities, with a complimentary side of meteor showers."
-msgstr ""
+msgstr "Unendliche Möglichkeiten, mit einer Gratisbeilage an Meteoritenschauern."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.EFFECT"
 msgid "A powerful mechanism capable of tearing through the fabric of reality."
-msgstr ""
+msgstr "Ein mächtiger Mechanismus, der das Gewebe der Realität zerreißen kann."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.NAME"
@@ -89066,7 +89066,7 @@ msgstr "Nein, ich brauche mehr Zeit für die Vorbereitung."
 #. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CONFIRM
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_CONFIRM"
 msgid "Yes, I'm ready for a meteor shower."
-msgstr ""
+msgstr "Ja, ich bin bereit für einen Meteoritenschauer."
 
 #. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_MESSAGE
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.CONFIRM_POPUP_MESSAGE"
