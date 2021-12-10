@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-12-09 18:45+0100\n"
+"PO-Revision-Date: 2021-12-10 19:01+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -43214,7 +43214,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME"
 msgid "<link=\"COOKING1\">Grilling</link>"
-msgstr "<link=\"COOKING1\">Grillen II</link>"
+msgstr "<link=\"COOKING1\">Grillen</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION"
