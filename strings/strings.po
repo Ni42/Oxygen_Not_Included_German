@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-12-10 20:45+0100\n"
-"Last-Translator: CarstenG\n"
+"PO-Revision-Date: 2021-12-11 10:36+0100\n"
+"Last-Translator: Eisberge <22561095+Eisberge@users.noreply.github.com>\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -88697,7 +88697,7 @@ msgctxt ""
 "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT."
 "FAILED_NO_ENGINE"
 msgid "    • Rocket requires space for an engine"
-msgstr "    • Rakete braucht Platz für eine Triebwerk"
+msgstr "    • Rakete braucht Platz für ein Triebwerk"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE
 msgctxt ""
@@ -88799,12 +88799,12 @@ msgstr "Modul auswählen"
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT"
 msgid "ABANDON SHIP!"
-msgstr "SCHIFF VERLASSEN!"
+msgstr "SCHIFF AUFGEBEN!"
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT_CONFIRM
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TEXT_CONFIRM"
 msgid "CONFIRM ABANDON SHIP"
-msgstr "SCHIFF VERLASSEN BESTÄTIGEN"
+msgstr "SCHIFF AUFGEBEN BESTÄTIGEN"
 
 #. STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.SELFDESTRUCTSIDESCREEN.BUTTON_TOOLTIP"
