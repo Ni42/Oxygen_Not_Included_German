@@ -4988,7 +4988,7 @@ msgstr "<link=\"AIRCONDITIONER\">Klimagerät</link>"
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid "Oh! Citrus scented!"
-msgstr "Oh! Mit Zitronengeruch!"
+msgstr "Oh! Mit Zitrusduft!"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
