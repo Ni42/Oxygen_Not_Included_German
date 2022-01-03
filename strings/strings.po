@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-12-23 20:13+0100\n"
-"Last-Translator: Eisberge <22561095+Eisberge@users.noreply.github.com>\n"
+"PO-Revision-Date: 2022-01-03 13:36+0100\n"
+"Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -34765,7 +34765,7 @@ msgid ""
 "\">Plants</style>."
 msgstr ""
 "Bestimmt, wie schnell und effizient ein Duplikant <style=\"KKeyword\">Pflanzen</"
-"style>kultiviert."
+"style> kultiviert."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER"
@@ -35028,7 +35028,7 @@ msgid ""
 msgstr ""
 "Ein Nahrungsmittelmoralbonus erlaubt es Duplikanten durch <style=\"KKeyword"
 "\">Nahrung</style> von geringerer Qualität einen <style=\"KKeyword\">Moralbonus</"
-"style> zu erhalten <style=\"KKeyword\">Food</style>.\n"
+"style> zu erhalten.\n"
 "\n"
 "Die Aufrechterhaltung hoher <style=\"KKeyword\">Moral</style> ermöglicht es "
 "Duplikanten mehr <style=\"KKeyword\">Fertigkeiten</style> zu lernen."
@@ -35560,7 +35560,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SCALDINGTHRESHOLD.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SCALDINGTHRESHOLD.NAME"
 msgid "Scalding Threshold"
-msgstr "Skalierungsschwelle"
+msgstr "Verbrühungsschwelle"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC"
@@ -79514,7 +79514,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION"
 msgid "<link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link> Usage"
-msgstr "<link=\"ADVANCEDRESEARCHCENTER\">Super-Computer</link> Nutzung"
+msgstr "<link=\"ADVANCEDRESEARCHCENTER\">Super-Computer</link>-Nutzung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ATTRIBUTE_EFFECT_FMT
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ATTRIBUTE_EFFECT_FMT"
@@ -79568,7 +79568,7 @@ msgstr "<link=\"KATAIRITE\">Abyssalit</link>-Bergbau"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_RADIOACTIVE_MATERIALS.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_RADIOACTIVE_MATERIALS.DESCRIPTION"
 msgid "<link=\"CORIUM\">Corium</link> Mining"
-msgstr "<link=\"NIOBIUM\">Corium</link> Bergbau"
+msgstr "<link=\"CORIUM\">Corium</link>-Bergbau"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_SUPER_SUPER_HARD.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_SUPER_SUPER_HARD.DESCRIPTION"
@@ -79645,7 +79645,7 @@ msgstr "<link=\"TELESCOPE\">Teleskop</link>-Verwendung"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
 msgid "Grooming Station Usage"
-msgstr "Pflege-Station Nutzung"
+msgstr "Pflege-Station-Nutzung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_ROCKETS.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_ROCKETS.DESCRIPTION"
