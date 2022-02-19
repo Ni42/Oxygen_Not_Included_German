@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-19 12:52+0100\n"
+"PO-Revision-Date: 2022-02-19 14:43+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -2746,24 +2746,22 @@ msgid "No <link=\"TECH\">Research Focus</link> selected"
 msgstr "Kein <link=\"TECH\">Forschungsschwerpunkt</link> ausgewählt"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid ""
 "Open the <b>Research Tree</b> {Hotkey/ManageResearch} to select a new <link="
 "\"TECH\">Research</link> project"
 msgstr ""
-"Öffne den <b>Forschungsbaum</b> <b><color=#F44A4A>[R]</b></color>, um ein neues "
-"<link=\"TECH\">Forschungsprojekt</link> zu wählen"
+"Öffne den <b>Forschungsbaum</b> {Hotkey/ManageResearch}, um ein neues <link="
+"\"TECH\">Forschungsprojekt</link> zu wählen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
 msgid ""
 "Open the <b>Research Tree</b> {Hotkey/ManageResearch} to select a new <link="
 "\"TECH\">Research</link> project"
 msgstr ""
-"Öffne den <b>Forschungsbaum</b> <b><color=#F44A4A>[R]</b></color>, um ein neues "
-"<link=\"TECH\">Forschungsprojekt</link> zu wählen"
+"Öffne den <b>Forschungsbaum</b> {Hotkey/ManageResearch}, um ein neues <link="
+"\"TECH\">Forschungsprojekt</link> zu wählen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME"
@@ -2850,7 +2848,6 @@ msgid "Outside of room"
 msgstr "Außerhalb des Raums"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINANYROOM.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINANYROOM.TOOLTIP"
 msgid ""
 "This building must be built inside a <style=\"KKeyword\">Room</style> for full "
@@ -2862,8 +2859,8 @@ msgstr ""
 "Dieses Gebäude muss innerhalb eines <style=\"KKeyword\">Raums</style> gebaut "
 "werden, um die volle Funktionalität zu erhalten\n"
 "\n"
-"Öffne das <b>Raum-Overlay</b> <b><color=#F44A4A>[F11]</b></color>, um den <style="
-"\"KKeyword\">Raumstatus</style> anzuzeigen"
+"Öffne das <b>Raum-Overlay</b> {Hotkey/Overlay11}, um den <style=\"KKeyword"
+"\">Raumstatus</style> anzuzeigen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME"
@@ -2871,7 +2868,6 @@ msgid "Outside of {0}"
 msgstr "Außerhalb von {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP"
 msgid ""
 "It is recommended to build this building inside a {0}\n"
@@ -2881,8 +2877,8 @@ msgid ""
 msgstr ""
 "Es wird empfohlen, dieses Gebäude innerhalb eines/einer {0} zu bauen\n"
 "\n"
-"Öffne das <b>Raum-Overlay</b> <color=#F44A47><b>[F11]</b></color>, um den <style="
-"\"KKeyword\">Raumstatus</style> anzuzeigen"
+"Öffne das <b>Raum-Overlay</b> {Hotkey/Overlay11}, um den <style=\"KKeyword"
+"\">Raumstatus</style> anzuzeigen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME"
@@ -2890,7 +2886,6 @@ msgid "Outside of {0}"
 msgstr "Außerhalb von {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.TOOLTIP"
 msgid ""
 "This building must be built inside a {0} for full functionality\n"
@@ -2901,8 +2896,8 @@ msgstr ""
 "Dieses Gebäude muss innerhalb eines/einer {0} gebaut werden, um die volle "
 "Funktionalität zu erhalten\n"
 "\n"
-"Öffne das <b>Raum-Overlay</b> <b><color=#F44A4A>[F11]</b></color>, um den <style="
-"\"KKeyword\">Raumstatus</style> anzuzeigen"
+"Öffne das <b>Raum-Overlay</b> {Hotkey/Overlay11}, um den <style=\"KKeyword"
+"\">Raumstatus</style> anzuzeigen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTLINKEDTOHEAD.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTLINKEDTOHEAD.NAME"
@@ -3265,7 +3260,6 @@ msgid "Function Suspended"
 msgstr "Funktion ausgesetzt"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP"
 msgid ""
 "This building has been toggled off\n"
@@ -3273,8 +3267,8 @@ msgid ""
 "resume its use"
 msgstr ""
 "Diese Einrichtung ist ausgeschaltet\n"
-"Drücke <style=\"KKeyword\">Aktivieren</style> <b><color=#F44A4A>[ENTER]</b></"
-"color>, um es weiter zu verwenden"
+"Drücke <style=\"KKeyword\">Aktivieren</style> {Hotkey/ToggleEnabled}, um es "
+"weiter zu verwenden"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERLOOPDETECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERLOOPDETECTED.NAME"
@@ -4476,7 +4470,6 @@ msgid "Awaiting Radbolts"
 msgstr "Warte auf Teilchenblitze"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.TOOLTIP"
 msgid ""
 "This building requires Radbolts to function\n"
@@ -4486,8 +4479,8 @@ msgid ""
 msgstr ""
 "Dieses Gebäude benötigt Teilchenblitze, um zu funktionieren\n"
 "------------------\n"
-"Öffne das <b>Strahlungs-Overlay</b> <b><color=#F44A4A>[L-SHIFT + F4]</b></color> "
-"um den Strahlungseingang dieses Gebäudes anzuzeigen"
+"Öffne das <b>Strahlungs-Overlay</b> {Hotkey/Overlay15} um den Strahlungseingang "
+"dieses Gebäudes anzuzeigen"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM"
@@ -13129,7 +13122,6 @@ msgstr ""
 "Gebäude nutzbar."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.EFFECT"
 msgid ""
 "Uses <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> to produce <link="
@@ -13141,7 +13133,8 @@ msgstr ""
 "Verwendet <link=\"ENRICHEDURANIUM\">angereichertes Uran</link> zur Erzeugung von "
 "<link=\"RADIATION\">Strahlung</link> zur Teilchenblitzerzeugung.\n"
 "\n"
-"Erzeugt eine gewaltige Menge an <link=\"HEAT\">Wärme</link>."
+"Erzeugt eine gewaltige Menge an <link=\"HEAT\">Wärme</link>. Eine Überhitzung "
+"führt zu einer explosiven Kernschmelze."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.INPUT_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.INPUT_PORT_ACTIVE"
@@ -24134,7 +24127,6 @@ msgid "Space Transport"
 msgstr "Weltraumtransport"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_1"
 msgid ""
 "Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket "
@@ -24145,7 +24137,7 @@ msgid ""
 "Command Module and a nosecone.\n"
 "\n"
 msgstr ""
-"Um eine Rakete zu bauen, musst du zunächst eine <link=\"LAUNCHPLATFORM"
+"Um eine Rakete zu bauen, musst du zunächst eine <link=\"LAUNCHPAD"
 "\">Raketenplattform</link> konstruieren und Module aus dem Menü hinzufügen. Alle "
 "Raketen benötigen ein Triebwerk, einen Nasenkonus und ein Kommandomodul, das von "
 "einem Duplikanten mit der Fähigkeit <link=\"ASTRONAUTTRAINEE\">Raketensteuerung</"
@@ -24154,7 +24146,6 @@ msgstr ""
 "Nasenkonus funktioniert.\n"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_2"
 msgid ""
 "To scan space and see nearby intersteller destinations a <link=\"TELESCOPE"
@@ -24179,14 +24170,13 @@ msgstr ""
 "\n"
 "Überprüfe immer den Treibstoff, um festzustellen, ob deine Rakete ihr Ziel "
 "erreichen kann. Beachte, dass Raketen nur auf Planetoiden landen können, wenn "
-"diese eine <link=\"LAUNCHPLATFORM\">Raketenplattform</link> haben, wobei einige "
+"diese eine <link=\"LAUNCHPAD\">Raketenplattform</link> haben, wobei einige "
 "Module wie <link=\"SCOUTMODULE\">Rover-Module</link> und <link=\"PIONEERMODULE"
 "\">Pionier-Landefähren</link> von einer Rakete im Orbit auf die Oberfläche eines "
 "Planetoiden geschickt werden können.\n"
 "\n"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_3"
 msgid ""
 "Goods can be teleported between worlds with connected Supply Teleporters through "
@@ -24209,14 +24199,14 @@ msgstr ""
 "\n"
 "Planetoiden, die nicht durch Versorgungsteleporter verbunden sind, können "
 "Raketen zum Transport von Gütern verwenden, entweder durch Landung auf einer "
-"<link=\"LAUNCHPLATFORM\">Raketenplattform</link> oder einem <link="
-"\"ORBITALCARGOMODULE\">Orbitalen Frachtmodul</link>, das von einer Rakete im "
-"Orbit ausgesetzt wird. Zusätzlich kann die <link=\"RAILGUN\">Interplanetare "
-"Abschussrampe</link> <link=\"RAILGUNPAYLOAD\">Interplanetare Nutzlasten</link> "
-"voller Güter durch den Weltraum schicken, muss aber von einem <link="
-"\"RAILGUNPAYLOADOPENER\">Nutzlastöffner</link> geöffnet werden. Ein <link="
-"\"LANDINGBEACON\">Zielfeuer</link> kann Nutzlasten und Orbitalmodule zur Landung "
-"an einer bestimmten Stelle auf einer Planetoidenoberfläche leiten."
+"<link=\"LAUNCHPAD\">Raketenplattform</link> oder einem <link=\"ORBITALCARGOMODULE"
+"\">Orbitalen Frachtmodul</link>, das von einer Rakete im Orbit ausgesetzt wird. "
+"Zusätzlich kann die <link=\"RAILGUN\">Interplanetare Abschussrampe</link> <link="
+"\"RAILGUNPAYLOAD\">Interplanetare Nutzlasten</link> voller Güter durch den "
+"Weltraum schicken, muss aber von einem <link=\"RAILGUNPAYLOADOPENER"
+"\">Nutzlastöffner</link> geöffnet werden. Ein <link=\"LANDINGBEACON\">Zielfeuer</"
+"link> kann Nutzlasten und Orbitalmodule zur Landung an einer bestimmten Stelle "
+"auf einer Planetoidenoberfläche leiten."
 
 #. STRINGS.CODEX.EXOBASES.TITLE
 msgctxt "STRINGS.CODEX.EXOBASES.TITLE"
@@ -26795,7 +26785,6 @@ msgid "Priority Tool"
 msgstr "Prioritäts-Werkzeug"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_1"
 msgid ""
 "Duplicants prioritize their errands based on several factors. Some of these can "
@@ -26811,8 +26800,8 @@ msgstr ""
 "einige Aufträge (z.B. die Suche nach atembaren <link=\"OXYGEN\">Sauerstoff</"
 "link>) sind so wichtig, dass sie nicht verzögert werden können. Die "
 "Auftragspriorität kann hauptsächlich durch die Priorisierung der Auftragsart "
-"gesteuert und dann durch das <b>Prioritätswerkzeug</b> <b><color=#F44A4A>[P]</"
-"b></color> weiter verfeinert werden.\n"
+"gesteuert und dann durch das <b>Prioritätswerkzeug</b> {Hotkey/Prioritize} "
+"weiter verfeinert werden.\n"
 "\n"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_2
@@ -26841,7 +26830,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_3"
 msgid ""
 "The priority of errands can often be modified using the <b>Priority tool</b> "
@@ -26851,13 +26839,12 @@ msgid ""
 "with a higher priority setting as applied by the tool.\n"
 "\n"
 msgstr ""
-"Die Priorität von Besorgungen kann oft mit dem <b>Prioritätswerkzeug</b> "
-"<b><color=#F44A4A>[P]</b></color> geändert werden. Die von diesem Werkzeug "
-"angewendeten Werte haben immer einen geringeren Einfluss als die oben "
-"beschriebenen Prioritäten für den Aufgabentyp. Wenn einem Duplikanten zwei "
-"Aufgaben mit gleicher Priorität für den Aufgabentyp zur Verfügung stehen, wählt "
-"er die Besorgung mit einer höheren Prioritätseinstellung aus, die vom Werkzeug "
-"festgelegt wird.\n"
+"Die Priorität von Besorgungen kann oft mit dem <b>Prioritätswerkzeug</b> {Hotkey/"
+"Prioritize} geändert werden. Die von diesem Werkzeug angewendeten Werte haben "
+"immer einen geringeren Einfluss als die oben beschriebenen Prioritäten für den "
+"Aufgabentyp. Wenn einem Duplikanten zwei Aufgaben mit gleicher Priorität für den "
+"Aufgabentyp zur Verfügung stehen, wählt er die Besorgung mit einer höheren "
+"Prioritätseinstellung aus, die vom Werkzeug festgelegt wird.\n"
 "\n"
 
 #. STRINGS.CODEX.PRIORITY.TITLE
@@ -35543,7 +35530,6 @@ msgid "Absorbed Radiation Dose"
 msgstr "Absorbierte Strahlendosis"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.RADIATIONBALANCEDELTA.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.RADIATIONBALANCEDELTA.TOOLTIP"
 msgid ""
 "Duplicants accumulate Rads in areas with <style=\"KKeyword\">Radiation</style> "
@@ -35555,8 +35541,8 @@ msgstr ""
 "Duplikanten akkumulieren Strahlung in Bereichen mit <style=\"KKeyword"
 "\">Strahlung</style> und erholen sich nur sehr langsam\n"
 "\n"
-"Öffne das <b>Strahlungs-Overlay</b> <b><color=#F44A4A>[L-SHIFT + F4]</b></"
-"color>, um die aktuellen <style=\"KKeyword\">Strahlungs</style>werte anzuzeigen"
+"Öffne das <b>Strahlungs-Overlay</b> {Hotkey/Overlay15}, um die aktuellen <style="
+"\"KKeyword\">Strahlungs</style>werte anzuzeigen"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.RADIATIONRECOVERY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.RADIATIONRECOVERY.DESC"
@@ -43794,7 +43780,6 @@ msgid "Decor"
 msgstr "Dekoration"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid ""
 "Duplicants become stressed in areas with <style=\"KKeyword\">Decor</style> lower "
@@ -43806,8 +43791,8 @@ msgstr ""
 "Duplikanten werden gestresst in Räumen mit <style=\"KKeyword"
 "\">Dekorationswerten</style> unter ihren Erwartungen\n"
 "\n"
-"Öffne das <b>Dekorations-Overlay</b> <b><color=#F44A4A>[F8]</b></color>, um "
-"aktuelle <style=\"KKeyword\">Dekorationswerte</style> anzuzeigen"
+"Öffne das <b>Dekorations-Overlay</b> {Hotkey/Overlay8}, um aktuelle <style="
+"\"KKeyword\">Dekorationswerte</style> anzuzeigen"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP_AVERAGE_TODAY
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP_AVERAGE_TODAY"
@@ -43889,7 +43874,6 @@ msgid "Absorbed Rad Dose"
 msgstr "Absorbierte Strahlendosis"
 
 #. STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP"
 msgid ""
 "Duplicants accumulate Rads in areas with <style=\"KKeyword\">Radiation</style> "
@@ -43898,14 +43882,13 @@ msgid ""
 "Open the <b>Radiation Overlay</b> {Hotkey/Overlay15} to view current <style="
 "\"KKeyword\">Rad</style> readings"
 msgstr ""
-"Duplikanten werden in Bereichen mit <style=\"KKeyword\">Strahlung</style> "
-"belastet und erholen sich beim Benutzen der Toilette.\n"
+"Duplikanten akkumulieren Strahlung in Bereichen mit <style=\"KKeyword"
+"\">Strahlung</style> und erholen sich beim Benutzen der Toilette\n"
 "\n"
-"Öffne das <b>Strahlungs-Overlay</b> <b><color=#F44A4A>[L-SHIFT + F4]</b></"
-"color>, um die aktuellen <style=\"KKeyword\">Strahlungs</style>werte anzuzeigen"
+"Öffne das <b>Strahlungs-Overlay</b> {Hotkey/Overlay15}, um die aktuellen <style="
+"\"KKeyword\">Strahlungs</style>werte anzuzeigen"
 
 #. STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP_CURRENT_BALANCE
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP_CURRENT_BALANCE"
 msgid ""
 "Duplicants accumulate Rads in areas with <style=\"KKeyword\">Radiation</style> "
@@ -43917,8 +43900,8 @@ msgstr ""
 "Duplikanten akkumulieren Strahlung in Bereichen mit <style=\"KKeyword"
 "\">Strahlung</style> und erholen sich beim Benutzen der Toilette\n"
 "\n"
-"Öffne das <b>Strahlungs-Overlay</b> <b><color=#F44A4A>[L-SHIFT + F4]</b></"
-"color>, um die aktuellen <style=\"KKeyword\">Strahlungs</style>werte anzuzeigen"
+"Öffne das <b>Strahlungs-Overlay</b> {Hotkey/Overlay15}, um die aktuellen <style="
+"\"KKeyword\">Strahlungs</style>werte anzuzeigen"
 
 #. STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME"
@@ -45171,7 +45154,6 @@ msgid "No Outhouses built"
 msgstr "Kein Plumpsklo gebaut"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP"
 msgid ""
 "<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> "
@@ -45179,13 +45161,12 @@ msgid ""
 "------------------\n"
 "These Duplicants are in need of an <link=\"OUTHOUSE\">Outhouse</link>:"
 msgstr ""
-"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>Sanitär-Tab</b> "
-"<color=#F44A4A><b>[5]</b></color> gebaut werden.\n"
+"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>Sanitär-Tab</b> {Hotkey/Plan5} "
+"gebaut werden.\n"
 "------------------\n"
-"Diese Duplikanten benötigen einen <link=\"OUTHOUSE\">Plumpsklo</link>:"
+"Diese Duplikanten benötigen ein <link=\"OUTHOUSE\">Plumpsklo</link>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP"
 msgid ""
 "There are no <link=\"OUTHOUSE\">Outhouses</link> available for this Duplicant\n"
@@ -45196,8 +45177,8 @@ msgstr ""
 "Für diesen Duplikanten sind keine <link=\"OUTHOUSE\">Plumpsklos</link> "
 "vorhanden\n"
 "------------------\n"
-"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>SANITÄRTAB</b> "
-"<b><color=#F44A4A>[5]</b></color> gebaut werden"
+"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>Sanitär-Tab</b> {Hotkey/Plan5} "
+"gebaut werden"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
@@ -45352,15 +45333,14 @@ msgid "Radiation vomiting"
 msgstr "Erbrechen durch Strahlung"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RADIATIONVOMITING.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RADIATIONVOMITING.NOTIFICATION_TOOLTIP"
 msgid ""
 "The <b>Mop Tool</b> {Hotkey/Mop} can clean up Duplicant-related \"spills\"\n"
 "------------------\n"
 "Radiation sickness caused these Duplicants to throw up:"
 msgstr ""
-"Das <b>Wisch-Werkzeug</b> <b><color=F44A4A>[M]</b></color> kann verwendet "
-"werden, um duplikantbezogene \"Leckagen\" zu beseitigen\n"
+"Das <b>Wisch-Werkzeug</b> {Hotkey/Mop} kann verwendet werden, um "
+"duplikantbezogene \"Leckagen\" zu beseitigen\n"
 "------------------\n"
 "Durch die Strahlenkrankheit mussten sich diese Duplikanten übergeben:"
 
