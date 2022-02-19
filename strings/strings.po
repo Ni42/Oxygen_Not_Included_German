@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-14 18:49+0100\n"
-"Last-Translator: jls17\n"
+"PO-Revision-Date: 2022-02-19 12:52+0100\n"
+"Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -317,14 +317,13 @@ msgid "Building Disabled"
 msgstr "Maschine ausgeschaltet"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid ""
 "Press <style=\"KKeyword\">Enable Building</style> {Hotkey/ToggleEnabled} to "
 "resume use"
 msgstr ""
-"Drücke <style=\"KKeyword\">Gebäude aktivieren</style> <b><color=#F44A4A>[ENTER]</"
-"b></color>, um die Nutzung fortzusetzen"
+"Drücke <style=\"KKeyword\">Gebäude aktivieren</style> {Hotkey/ToggleEnabled}, um "
+"die Nutzung fortzusetzen"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME"
@@ -457,7 +456,6 @@ msgid "Local Colony Lacks {Skills}"
 msgstr "Lokaler Kolonie fehlt {Skills}-Fähigkeit"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
 msgid ""
 "{Skills} Skill required to operate\n"
@@ -467,9 +465,9 @@ msgid ""
 msgstr ""
 "{Skills}-Fähigkeit zur Bedienung erforderlich\n"
 "------------------\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> um einem "
-"Duplikanten {Skills} zu lehren, oder bringe einen Duplikanten mit der Fähigkeit "
-"von einem anderen Planetoiden hier her"
+"Öffne das <b>Fertigkeiten-Panel</b> {Hotkey/ManageSkills} um einem Duplikanten "
+"{Skills} zu lehren, oder bringe einen Duplikanten mit der Fähigkeit von einem "
+"anderen Planetoiden hier her"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.NAME"
@@ -501,7 +499,6 @@ msgid "Colony Lacks {Skills}"
 msgstr "Kolonie fehlt {Skills}-Fähigkeit"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
 msgid ""
 "{Skills} Skill required to operate\n"
@@ -511,8 +508,8 @@ msgid ""
 msgstr ""
 "{Skills}-Fähigkeit zur Bedienung erforderlich\n"
 "------------------\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> um einem "
-"Duplikanten {Skills} zu lehren"
+"Öffne das <b>Fertigkeiten-Panel</b> {Hotkey/ManageSkills} um einem Duplikanten "
+"{Skills} zu lehren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
@@ -1065,14 +1062,13 @@ msgid "Emitting Light"
 msgstr "Leuchtet"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
 msgid ""
 "Open the <b>Light Overlay</b> {Hotkey/Overlay5} to view this light's visibility "
 "radius"
 msgstr ""
-"Öffne das <b>Licht-Overlay</b> <b><color=#F44A4A>[{LightGridOverlay}]</b></"
-"color>, um den Radius dieser Lampe zu sehen"
+"Öffne das <b>Licht-Overlay</b> {Hotkey/Overlay5}, um den Radius dieser Lampe zu "
+"sehen"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
@@ -2181,18 +2177,16 @@ msgid "Missing Tile"
 msgstr "Fehlender Ziegel"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid ""
 "Build <style=\"KKeyword\">Tile</style> beneath this building to regain function\n"
 "------------------\n"
 "Tile can be found in the <b>Base Tab</b> {Hotkey/Plan1} of the Build Menu"
 msgstr ""
-"Baue <link=\"TILE\">Ziegel</link> unter diesem Objekt, damit es wieder "
+"Baue <link=\"KKeyword\">Ziegel</link> unter diesem Objekt, damit es wieder "
 "funktioniert\n"
 "------------------\n"
-"Ziegel können im <b>Basis-Tab</b> <b><color=#F44A4A>[1]</b></color> im Baumenü "
-"gefunden werden"
+"Ziegel können im <b>Basis-Tab</b> {Hotkey/Plan1} im Baumenü gefunden werden"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.NAME"
@@ -2444,7 +2438,6 @@ msgid "No Conveyor Loader"
 msgstr "Kein Förderschienen-Belader"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP"
 msgid ""
 "Material cannot be fed onto this Conveyor system for transport\n"
@@ -2455,9 +2448,8 @@ msgstr ""
 "Material kann nicht auf dieses Förderschienensystem für den Transport aufgegeben "
 "werden\n"
 "------------------\n"
-"Gehe auf die <b>Transport-Tab</b> <b><color=#F44A4A>[7]</b></color> des "
-"Baumenüs, um einen <link=\"SOLIDCONDUITINBOX\">Förderschienen-Belader</link> zu "
-"bauen und anzuschließen"
+"Gehe auf den <b>Transport-Tab</b> {Hotkey/Plan13} des Baumenüs, um einen <style="
+"\"KKeyword\">Förderschienen-Belader</style> zu bauen und anzuschließen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME"
@@ -2465,7 +2457,6 @@ msgid "No Conveyor Receptacle"
 msgstr "Kein Förderbehälter vorhanden"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP"
 msgid ""
 "Material cannot be offloaded from this Conveyor system and will backup the "
@@ -2477,9 +2468,8 @@ msgstr ""
 "Das Material kann nicht von diesem Fördersystem abgeladen werden und verstopft "
 "die Schienen\n"
 "------------------\n"
-"Gehe auf die <b>Transport-Tab</b> <b><color=#F44A4A>[7]</b></color> des "
-"Baumenüs, um einen <link=\"SOLIDCONDUITOUTBOX\">Förderbehälter</link> zu bauen "
-"und anzuschließen"
+"Gehe auf den <b>Transport-Tab</b> {Hotkey/Plan13} des Baumenüs, um einen <style="
+"\"KKeyword\">Förderbehälter</style> zu bauen und anzuschließen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.NAME"
@@ -2527,14 +2517,13 @@ msgid "New Printables are available"
 msgstr "Neue Druckerzeugnisse sind verfügbar"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid ""
 "The Printing Pod {Hotkey/Plan1} is ready to print a new Duplicant or care "
 "package.\n"
 "I'll need to select a blueprint:"
 msgstr ""
-"Der Biodrucker <b><color=#F44A4A>[H]</b></color> ist bereit, einen neues "
+"Der Biodrucker {Hotkey/Plan1} ist bereit, einen neuen Duplikanten oder ein neues "
 "Hilfspaket zu drucken.\n"
 "Ich muss eine Blaupause auswählen:"
 
@@ -2561,14 +2550,13 @@ msgid "These buildings require an analysis focus:"
 msgstr "Diese Gebäude erfordern einen Analysefokus:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.TOOLTIP"
 msgid ""
 "Select an unknown destination from the <b>Starmap</b> {Hotkey/ManageStarmap} to "
 "begin analysis"
 msgstr ""
-"Wähle ein unbekanntes Ziel in der <b>Sternenkarte</b> <color=#F44A4A><b>[Z]</b></"
-"color> aus, um eine Analyse zu starten"
+"Wähle ein unbekanntes Ziel in der <b>Sternenkarte</b> {Hotkey/ManageStarmap} "
+"aus, um eine Analyse zu starten"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME"
@@ -2737,7 +2725,6 @@ msgstr ""
 "<b><color=#F44A4A>[Z]</b></color>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP"
 msgid ""
 "Select a <link=\"TECH\">Research</link> project in the <b>Research Tree</b> "
@@ -2745,8 +2732,8 @@ msgid ""
 "ManageStarmap}"
 msgstr ""
 "Wähle ein <link=\"TECH\">Forschungs</link>-Projekt im <b>Forschungsbaum</b> "
-"<b><color=#F44A4A>{Hotkey}</b></color> oder ein Ziel in der <b>Sternenkarte</b> "
-"<b><color=#F44A4A>[Z]</b></color>"
+"{Hotkey/ManageResearch} oder ein Ziel in der <b>Sternenkarte</b> {Hotkey/"
+"ManageStarmap}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
@@ -41460,7 +41447,7 @@ msgid ""
 "Duplicant wish they'd never been printed"
 msgstr ""
 "Der Duplikant wünscht sich aufgrund gefährlich hoher <style=\"KKeyword"
-"\">Strahlenbelastung</style>, er wäre nie gedruckt wurden."
+"\">Strahlenbelastung</style>, er wäre nie gedruckt wurden"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREMAJOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREMAJOR.NAME"
@@ -41474,7 +41461,7 @@ msgid ""
 "Duplicant totally exhausted"
 msgstr ""
 "Wegen signifikater <style=\"KKeyword\">Strahlenbelastung</style> fühlt sich "
-"dieser Duplikant total erschöpft."
+"dieser Duplikant total erschöpft"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREMINOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RADIATIONEXPOSUREMINOR.NAME"
@@ -41716,7 +41703,7 @@ msgid ""
 "adjusted using the Sandbox tools"
 msgstr ""
 "Die <style=\"KKeyword\">Moral</style> dieses Duplikanten wurde vorübergehend mit "
-"den Sandkasten-Tools angepasst."
+"den Sandkasten-Tools angepasst"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SAUNA.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SAUNA.NAME"
@@ -68343,8 +68330,7 @@ msgctxt ""
 "WARNING_ONE_ROCKETS_STRANDED"
 msgid "    • No <link=\"LAUNCHPAD\">Rocket Platform</link> present. {0} stranded"
 msgstr ""
-"    • Keine <link=\"LAUNCHPAD\">Raketenplattform</link> vorhanden. {0} "
-"gestrandet."
+"    • Keine <link=\"LAUNCHPAD\">Raketenplattform</link> vorhanden. {0} gestrandet"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ROCKETS_STRANDED
 msgctxt ""
@@ -68352,8 +68338,8 @@ msgctxt ""
 msgid ""
 "    • No <link=\"LAUNCHPAD\">Rocket Platform</link> present. {0} rockets stranded"
 msgstr ""
-"    • Keine <link=\"LAUNCHPAD\">RocketRaketenplattform</link> vorhanden. {0} "
-"Raketen gestrandet."
+"    • Keine <link=\"LAUNCHPAD\">Raketenplattform</link> vorhanden. {0} Raketen "
+"gestrandet"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.ALL_NAME"
@@ -68408,7 +68394,7 @@ msgstr "Toiletten"
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.CRITERIA.CHECKBLADDERS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.CRITERIA.CHECKBLADDERS"
 msgid "Check Duplicants really need to use the toilet"
-msgstr "Überprüfung, ob Duplikaten wirklich dringend eine Toilette benötigen."
+msgstr "Überprüfung, ob Duplikaten wirklich dringend eine Toilette benötigen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.CRITERIA.CHECKENOUGHTOILETS
 msgctxt ""
@@ -74043,7 +74029,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.FAILURE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.FAILURE"
 msgid "Mod upload failed."
-msgstr "Upload der Mod ist fehlgeschlagen"
+msgstr "Upload der Mod ist fehlgeschlagen."
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.SUCCESS
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.SUCCESS"
