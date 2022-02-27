@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-27 11:26+0100\n"
+"PO-Revision-Date: 2022-02-27 12:06+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -6499,23 +6499,25 @@ msgstr "Dev-Generator"
 #. STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.DESC"
 msgid "Keeps Duplicants cozy and breathing."
-msgstr ""
+msgstr "Hält Duplicants gemütlich und atmungsaktiv."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.EFFECT"
 msgid "Generates warm, oxygen-rich air."
-msgstr ""
+msgstr "Erzeugt warme, sauerstoffreiche Luft."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.NAME"
 msgid "Dev Life Support"
-msgstr ""
+msgstr "Entwicklungslebenserhaltung"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.DESC"
 msgid ""
 "Piping a pump's output to a building's intake will send gas to that building."
 msgstr ""
+"Wird der Ausgang einer Pumpe mit dem Eingang eines Gebäudes verbunden, wird das "
+"Gas in dieses Gebäude geleitet."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.EFFECT"
@@ -6525,17 +6527,23 @@ msgid ""
 "\n"
 "Must be immersed in <link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Saugt <link=\"ELEMENTSGAS\">Gas</link> an und leitet es durch <link=\"GASPIPING"
+"\">Rohre</link>.\n"
+"\n"
+"Muss in <link=\"ELEMENTSGAS\">Gas</link> eingetaucht werden."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.NAME"
 msgid "<link=\"DEVPUMPGAS\">Dev Pump Gas</link>"
-msgstr ""
+msgstr "<link=\"DEVPUMPGAS\">Entwicklungspumpengas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVPUMPLIQUID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVPUMPLIQUID.DESC"
 msgid ""
 "Piping a pump's output to a building's intake will send liquid to that building."
 msgstr ""
+"Wird der Ausgang einer Pumpe mit dem Eingang eines Gebäudes verbunden, wird die "
+"Flüssigkeit in dieses Gebäude geleitet."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVPUMPLIQUID.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVPUMPLIQUID.EFFECT"
@@ -6545,11 +6553,15 @@ msgid ""
 "\n"
 "Must be submerged in <link=\"ELEMENTSLIQUID\">Liquid</link>."
 msgstr ""
+"Saugt <link=\"ELEMENTSLIQUID\">Flüssigkeit</link> ein und leitet sie durch <link="
+"\"LIQUIDPIPING\">Rohre</link>.\n"
+"\n"
+"Muss in <link=\"ELEMENTSLIQUID\">Flüssigkeit</link> eingetaucht werden."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVPUMPLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVPUMPLIQUID.NAME"
 msgid "<link=\"DEVPUMPLIQUID\">Dev Pump Liquid</link>"
-msgstr ""
+msgstr "<link=\"DEVPUMPLIQUID\">Entwicklungspumpenflüssigkeit</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.DESC"
@@ -73926,7 +73938,7 @@ msgstr "Durchsuchen"
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.CONTENT_FOLDER
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.CONTENT_FOLDER"
 msgid "Content Folder Path"
-msgstr ""
+msgstr "Pfad des Inhaltsordners"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.DESCRIPTION"
@@ -73980,7 +73992,7 @@ msgstr "Upload der Mod war erfolgreich."
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.NAME
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.NAME"
 msgid "Mod Name"
-msgstr ""
+msgstr "Mod-Name"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.PREVIEW_IMAGE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.PREVIEW_IMAGE"
@@ -74019,7 +74031,7 @@ msgstr "Mod hochladen"
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.VERSION
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.VERSION"
 msgid "Version Number"
-msgstr ""
+msgstr "Versionsnummer"
 
 #. STRINGS.UI.FRONTEND.MODS.REQUIRES_RESTART
 msgctxt "STRINGS.UI.FRONTEND.MODS.REQUIRES_RESTART"
@@ -74112,7 +74124,7 @@ msgstr "VERÖFFENTLICHT!"
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT_EXPANSION1"
 msgid "LAUNCHED!"
-msgstr ""
+msgstr "VERÖFFENTLICHT!"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CANCEL
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CANCEL"
@@ -85412,7 +85424,7 @@ msgstr "Muss sich in einem <style=\"KKeyword\">Raum</style> befinden"
 #. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY"
 msgid "Press {Hotkey/RotateBuilding} to Rotate"
-msgstr ""
+msgstr "Drücke {Hotkey/RotateBuilding} zum Drehen"
 
 #. STRINGS.UI.TOOLTIPS.HELP_TUBELOCATION_NO_UTURNS
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_TUBELOCATION_NO_UTURNS"
@@ -86232,17 +86244,17 @@ msgstr "Erzeuge Duplikant vor dem Gebäude"
 #. STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.PIPES.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.PIPES.TOOLTIP"
 msgid "Add Dev Pumps and Pipes"
-msgstr ""
+msgstr "Entwickler-Pumpen und -Rohre hinzufügen"
 
 #. STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.POWER.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.POWER.TOOLTIP"
 msgid "Add Dev Generator and Electrical Wires"
-msgstr ""
+msgstr "Entwickler-Generator und elektrische Drähte hinzufügen"
 
 #. STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.SOLIDS.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.SOLIDS.TOOLTIP"
 msgid "Spawn solid resources for a relevant recipe or conversions"
-msgstr ""
+msgstr "Solide Ressourcen für ein relevantes Rezept oder eine Umstellung erzeugen"
 
 #. STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.TITLE"
@@ -86917,7 +86929,7 @@ msgstr "Nicht zugewiesen"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS"
 msgid "Allow Mutant Seeds"
-msgstr "mutiertes Saatgut zulassen"
+msgstr "Mutiertes Saatgut zulassen"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS"
