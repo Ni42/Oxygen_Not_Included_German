@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-19 14:43+0100\n"
+"PO-Revision-Date: 2022-02-27 11:26+0100\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -45345,7 +45345,6 @@ msgstr ""
 "Durch die Strahlenkrankheit mussten sich diese Duplikanten übergeben:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RADIATIONVOMITING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RADIATIONVOMITING.TOOLTIP"
 msgid ""
 "This Duplicant is sick due to <style=\"KKeyword\">Radiation</style> poisoning.\n"
@@ -45353,11 +45352,11 @@ msgid ""
 "Duplicant-related \"spills\" can be cleaned up using the <style=\"KKeyword\">Mop "
 "Tool</style> {Hotkey/Mop}"
 msgstr ""
-"Dieser Duplikant erleichtert seinen <style=\"KKeyword\">Stress</style> überall "
-"auf dem Boden\n"
+"Dieser Duplikant ist aufgrund einer <style=\"KKeyword\">Strahlenvergiftung</"
+"style> krank.\n"
 "------------------\n"
 "Duplikantbezogene \"Leckagen\" können mit dem <style=\"KKeyword\">Wisch-"
-"Werkzeug</style> <b><color=#F44A4A>[M]</b></color> gereinigt werden"
+"Werkzeug</style> {Hotkey/Mop} gereinigt werden"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NAME"
@@ -45901,7 +45900,6 @@ msgid "Made a mess"
 msgstr "Hat eine Sauerei gemacht"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP"
 msgid ""
@@ -45910,14 +45908,13 @@ msgid ""
 "------------------\n"
 "These Duplicants made messes that require cleaning up:\n"
 msgstr ""
-"Das <b>Wisch-Werkzeug</b> <b><color=#F44A4A>[M]</b></color> kann verwendet "
-"werden, um duplikantbezogene \"Leckagen\" zu beseitigen\n"
+"Das <b>Wisch-Werkzeug</b> {Hotkey/Mop} kann verwendet werden, um "
+"duplikantbezogene \"Leckagen\" zu beseitigen\n"
 "------------------\n"
 "Diese Duplikanten haben ein Schlamassel verursacht, das eine Reinigung "
 "erfordert:\n"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP"
 msgid ""
 "This poor Duplicant couldn't find an <link=\"OUTHOUSE\">Outhouse</link> in time "
@@ -45929,8 +45926,8 @@ msgstr ""
 "Dieser arme Duplikant konnte nicht rechtzeitig ein <link=\"OUTHOUSE\">Plumpsklo</"
 "link> finden und ist super verlegen.\n"
 "------------------\n"
-"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>Sanitär-Tab</b> "
-"<b><color=#F44A4A>[5]</b></color> gebaut werden"
+"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>Sanitär-Tab</b> {Hotkey/Plan5} "
+"gebaut werden"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME"
@@ -45943,7 +45940,6 @@ msgid "Stress vomiting"
 msgstr "Stress-Erbrechen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP"
 msgid ""
 "The <b>Mop Tool</b> {Hotkey/Mop} can used to clean up Duplicant-related \"spills"
@@ -45951,14 +45947,13 @@ msgid ""
 "------------------\n"
 "These Duplicants became so <style=\"KKeyword\">Stressed</style> they threw up:"
 msgstr ""
-"Das <b>Wisch-Werkzeug</b> <b><color=#F44A4A>[M]</b></color> kann verwendet "
-"werden, um duplikantbezogene \"Leckagen\" zu beseitigen\n"
+"Das <b>Wisch-Werkzeug</b> {Hotkey/Mop} kann verwendet werden, um "
+"duplikantbezogene \"Leckagen\" zu beseitigen\n"
 "------------------\n"
 "Diese Duplikanten wurden so <style=\"KKeyword\">gestresst</style>, dass sie sich "
 "übergeben haben:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
 msgid ""
 "This Duplicant is relieving their <style=\"KKeyword\">Stress</style> all over "
@@ -45971,7 +45966,7 @@ msgstr ""
 "auf dem Boden\n"
 "------------------\n"
 "Duplikantbezogene \"Leckagen\" können mit dem <style=\"KKeyword\">Wisch-"
-"Werkzeug</style> <b><color=#F44A4A>[M]</b></color> gereinigt werden"
+"Werkzeug</style> {Hotkey/Mop} gereinigt werden"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STUDYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STUDYING.NAME"
@@ -46102,7 +46097,6 @@ msgid "Throwing up"
 msgstr "Erbrechen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP"
 msgid ""
 "The <b>Mop Tool</b> {Hotkey/Mop} can be used to clean up Duplicant-related "
@@ -46110,14 +46104,13 @@ msgid ""
 "------------------\n"
 "A <style=\"KKeyword\">Disease</style> has caused these Duplicants to throw up:"
 msgstr ""
-"Das <b>Wisch-Werkzeug</b> <b><color=F44A4A>[M]</b></color> kann verwendet "
-"werden, um duplikantbezogene \"Leckagen\" zu beseitigen\n"
+"Das <b>Wisch-Werkzeug</b> {Hotkey/Mop} kann verwendet werden, um "
+"duplikantbezogene \"Leckagen\" zu beseitigen\n"
 "------------------\n"
 "Eine <style=\"KKeyword\">Krankheit</style> hat dazu geführt, dass diese "
 "Duplikanten sich übergaben:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP"
 msgid ""
 "This Duplicant has unceremoniously hurled as the result of a <link=\"DISEASE"
@@ -46129,8 +46122,8 @@ msgstr ""
 "Dieser Duplikant hat als Ergebnis einer <link=\"DISEASE\">Krankheit</link> "
 "kurzerhand gekotzt\n"
 "------------------\n"
-"Das <b>Wisch-Werkzeug</b> <b><color=#F44A4A>[M]</b></color> kann verwendet "
-"werden, um duplikantbezogene \"Leckagen\" zu beseitigen"
+"Das <b>Wisch-Werkzeug</b> {Hotkey/Mop} kann verwendet werden, um "
+"duplikantbezogene \"Leckagen\" zu beseitigen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME"
@@ -55537,7 +55530,6 @@ msgid "Flight Path Obstructed"
 msgstr "Die Flugroute ist versperrt"
 
 #. STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.TOOLTIP"
 msgid ""
 "A rocket's flight path has been interrupted by a new astronomical discovery.\n"
@@ -55546,11 +55538,10 @@ msgid ""
 msgstr ""
 "Die Flugbahn einer Rakete ist durch eine neue astronomische Entdeckung "
 "unterbrochen worden.\n"
-"Öffne die <style=\"KKeyword\">Sternenkarte</style> <b><color=#F44A4A>[Z]</b></"
-"color>, um die Raketenflugbahnen neu zuzuordnen"
+"Öffne die <style=\"KKeyword\">Sternenkarte</style> {Hotkey/ManageStarmap}, um "
+"die Raketenflugbahnen neu zuzuordnen"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
 msgid ""
 "• I can use {Hotkey/CinemaPanLeft} and {Hotkey/CinemaPanRight}to pan my view "
@@ -55568,19 +55559,22 @@ msgid ""
 "• I'll keep records of everything I discover in my personal DATABASE {Hotkey/"
 "ManageDatabase} to refer back to if I forget anything important."
 msgstr ""
-"• Die <color=#F44A4A><b>[WASD]</b></color> Tasten schwenken die Kamera und das "
-"<color=#F44A4A><b>[MAUSRAD]</b></color> zum Rein- und Rauszoomen. \n"
+"• Mit {Hotkey/CinemaPanLeft} und {Hotkey/CinemaPanRight} kann ich die Ansicht "
+"nach links und rechts schwenken, und mit {Hotkey/CinemaPanUp} und {Hotkey/"
+"CinemaPanDown} nach oben und unten schwenken.\n"
 "\n"
-"• <color=#F44A4A><b>[H]</b></color> bewegt die Kamera zurück zum Biodrucker.\n"
+"• Mit {Hotkey/KinoZoomIn} kann ich hineinzoomen und mit {Hotkey/KinoZoomOut} "
+"herauszoomen.\n"
+"\n"
+"• {Hotkey/CameraHome} bewegt die Kamera zurück zum Biodrucker.\n"
 "\n"
 "• Das Spiel kann mit den Geschwindigkeitsschaltflächen oben links oder mit "
-"<color=#F44A4A><b>[TAB]</b></color> beschleunigt oder verlangsamt werden. Die "
-"<color=#F44A4A><b>[LEERTASTE]</b></color> pausiert den Ablauf der Zeit "
-"vollständig.\n"
+"{Hotkey/SpeedUp} oder {Hotkey/SlowDown} beschleunigt oder verlangsamt werden. "
+"Die {Hotkey/TogglePause} pausiert den Ablauf der Zeit vollständig.\n"
 "\n"
-"• Ich werde alles, was ich entdecke, in meiner persönlichen DATENBANK "
-"<color=#F44A4A><b>[U]</b></color> protokollieren, um mich darauf zu besinnen, "
-"wenn ich etwas Wichtiges vergesse."
+"• Ich werde alles, was ich entdecke, in meiner persönlichen DATENBANK {Hotkey/"
+"ManageDatabase} protokollieren, um mich darauf zu besinnen, wenn ich etwas "
+"Wichtiges vergesse."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
@@ -55858,7 +55852,6 @@ msgstr ""
 "Diese Duplikanten starben an einem Mangel an <link=\"OXYGEN\">Sauerstoff</link>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DIGGING.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DIGGING.MESSAGEBODY"
 msgid ""
 "Everything a colony needs to get going is found in the ground. Instructing "
@@ -55874,9 +55867,9 @@ msgstr ""
 "Alles, was für die Entwicklung der Kolonie benötigt wird, kann im Boden gefunden "
 "werden. Indem ich Duplikanten anweise, in einem Gebiet zu graben, kann ich "
 "Ressourcen abbauen, um Infrastruktur aufzubauen, Nahrung finden und Platz für "
-"das Wachstum der Kolonie schaffen. Ich kann auf das Grabe-Werkzeug "
-"<b><color=#F44A4A>[G]</b></color> nutzen, das es mir gestattet, den Bereich "
-"auszuwählen, in dem meinen Duplikanten graben sollen.\n"
+"das Wachstum der Kolonie schaffen. Ich kann auf das Grabe-Werkzeug {Hotkey/Dig} "
+"nutzen, das es mir gestattet, den Bereich auszuwählen, in dem meinen Duplikanten "
+"graben sollen.\n"
 "\n"
 " \n"
 "Duplikanten müssen die Fertigkeit \"superschweres Graben\" zum Abbau von "
@@ -56027,17 +56020,15 @@ msgid "These fabricators have no recipes queued:"
 msgstr "Diese Fabrikatoren haben keine Rezepte in der Warteliste:"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid ""
 "By building a <link=\"LIQUIDPUMPINGSTATION\">Pitcher Pump</link> from the "
 "<b>Plumbing Tab</b> {Hotkey/Plan5} over a pool of liquid, my Duplicants will be "
 "able to bottle it up and manually deliver it wherever it needs to go."
 msgstr ""
-"Wenn ich über den <b>Sanitärtab</b> <b><color=#F44A4A>[5]</b></color> <link="
-"\"LIQUIDPUMPINGSTATION\">Handpumpen</link> über Flüssigkeitsvorkommen baue, "
-"können meine Duplikanten diese in Flaschen abfüllen und manuell dort hin liefern "
-"wo sie benötigt werden."
+"Wenn ich über den <b>Sanitär-Tab</b> {Hotkey/Plan5} <link=\"LIQUIDPUMPINGSTATION"
+"\">Handpumpen</link> über Flüssigkeitsvorkommen baue, können meine Duplikanten "
+"diese in Flaschen abfüllen und manuell dort hin liefern wo sie benötigt werden."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
@@ -56055,7 +56046,6 @@ msgid "Food shortage"
 msgstr "Nahrungsmangel"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
 msgid ""
 "The colony's <link=\"FOOD\">Food</link> reserves are low:\n"
@@ -56072,7 +56062,7 @@ msgstr ""
 "    • {1} werden pro Zyklus verbraucht\n"
 "\n"
 "<link=\"MICROBEMUSHER\">Mikrobenmatscher</link> können im <b>Nahrungstab</b> "
-"<b><color=#F44A4A>[4]</b></color> gebaut werden"
+"{Hotkey/Plan4} gebaut werden"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME"
@@ -56228,7 +56218,6 @@ msgid "No <link=\"WASHBASIN\">Wash Basin</link> built"
 msgstr "Kein <link=\"WASHBASIN\">Waschzuber</link> gebaut"
 
 #. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP"
 msgid ""
 "<link=\"DISEASE\">Germs</link> are spreading in the colony because my Duplicants "
@@ -56240,8 +56229,8 @@ msgstr ""
 "<link=\"DISEASE\">Keime</link> verbreiten sich in der Kolonie, weil sich meine "
 "Duplikanten nirgendwo reinigen können\n"
 "------------------\n"
-"<link=\"WASHBASIN\">Waschzuber</link> können im <b>Medizintab</b> "
-"<b><color=#F44A4A>[8]</b></color> gebaut werden"
+"<link=\"WASHBASIN\">Waschzuber</link> können im <b>Medizintab</b> {Hotkey/Plan8} "
+"gebaut werden"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
@@ -56298,7 +56287,6 @@ msgstr ""
 "• Konsumiert im letzten Zyklus: {ConsumptionRate}"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY"
 msgid ""
 "The temperature of an environment can have positive or negative effects on the "
@@ -56313,8 +56301,8 @@ msgid ""
 msgstr ""
 "Die Temperatur der Umgebung kann positive oder negative Effekte auf die "
 "Gesundheit meiner Duplikanten, sowie auf die Pflanzen und Tiere meiner Kolonie, "
-"haben. <b><color=#F44A4A>[F3]</b></color> öffnet das Temperatur-Overlay, wo ich "
-"nach heißen und kalten Stellen suchen kann.\n"
+"haben. {Hotkey/Overlay3} öffnet das Temperatur-Overlay, wo ich nach heißen und "
+"kalten Stellen suchen kann.\n"
 "\n"
 "Ich kann Hilfsgebäude wie Ice-E-Lüfter oder die Raumheizung nutzen, um einen "
 "Bereich wärmer oder kälter zu machen. Allerdings sollte ich darauf achten, den "
@@ -56402,7 +56390,6 @@ msgstr ""
 "mehr Daten über sie gesendet wurden, als sie unterstützen können"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY"
 msgid ""
 "<link=\"DISEASE\">Germs</link> such as <link=\"FOODSICKNESS\">Food Poisoning</"
@@ -56417,13 +56404,12 @@ msgstr ""
 "<link=\"DISEASE\">Keime</link> wie <link=\"FOODSICKNESS"
 "\">Lebensmittelvergiftung</link> und <link=\"SLIMESICKNESS\">Schleimlunge</link> "
 "können <link=\"DISEASE\">Krankheiten</link> bei meinen Duplikanten auslösen. Ich "
-"kann das <b>Keim-Overlay</b> <color=#F44A4A><b>[F9]</b></color> verwenden, um "
-"alle Keimkonzentrationen in meiner Kolonie zu verfolgen und sogar die Quellen "
+"kann das <b>Keim-Overlay</b> {Hotkey/Overlay9} verwenden, um alle "
+"Keimkonzentrationen in meiner Kolonie zu verfolgen und sogar die Quellen "
 "erkennen, die sie hervorbringen.\n"
 "\n"
-"Baue Waschzuber aus dem <b>Medizin-Tab</b> <color=#F44A4A><b>[8]</b></color> vor "
-"die Toiletten der Kolonie, um den Duplikanten mitzuteilen, dass sie sich waschen "
-"müssen."
+"Baue Waschzuber aus dem <b>Medizin-Tab</b> {Hotkey/Plan8} vor die Toiletten der "
+"Kolonie, um den Duplikanten mitzuteilen, dass sie sich waschen müssen."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME"
@@ -56446,7 +56432,6 @@ msgid "These resources are not available:"
 msgstr "Diese Ressourcen sind nicht verfügbar:"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
 msgid ""
 "<link=\"DIRTYWATER\">Polluted Water</link> slowly emits <link="
@@ -56463,8 +56448,8 @@ msgstr ""
 "\n"
 "Duplikanten werden außerdem durch das Gehen durch verschmutztes Wasser <link="
 "\"STRESS\">gestresst</link> sein, also sollte ich meine Duplikanten Leckagen "
-"beseitigen lassen, indem ich auf das <b>Wisch-Werkzeug</b> "
-"<b><color=#F44A4A>[M]</b></color> klicke und ziehe"
+"beseitigen lassen, indem ich auf das <b>Wisch-Werkzeug</b> {Hotkey/Mop} klicke "
+"und ziehe"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
@@ -56541,7 +56526,6 @@ msgid "Colony requires a food source"
 msgstr "Kolonie benötigt eine Nahrungsquelle"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
 msgid ""
 "The colony will exhaust their supplies without a new <link=\"FOOD\">Food</link> "
@@ -56554,7 +56538,7 @@ msgstr ""
 "aufbrauchen\n"
 "------------------\n"
 "<link=\"MICROBEMUSHER\">Mikrobenmatscher</link> können im <b>Nahrungstab</b> "
-"<b><color=#F44A4A>[4]</b></color> gebaut werden"
+"{Hotkey/Plan4} gebaut werden"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
@@ -56562,7 +56546,6 @@ msgid "No <link=\"COT\">Cots</link> built"
 msgstr "Keine<link=\"BED\">Feldbetten</link> gebaut"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP"
 msgid ""
 "My Duplicants would appreciate a place to sleep\n"
@@ -56572,8 +56555,8 @@ msgid ""
 msgstr ""
 "Meine Duplikanten würden sich über einen Schlafplatz freuen.\n"
 "------------------\n"
-"<link=\"COTS\">Feldbetten</link> können im <b>MÖBELTAB</b> "
-"<b><color=#F44A4A>[9]</b></color> gebaut werden"
+"<link=\"COTS\">Feldbetten</link> können im <b>Möbel-Tab</b> {Hotkey/Plan9} "
+"gebaut werden"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME"
@@ -56581,7 +56564,6 @@ msgid "No <link=\"OUTHOUSE\">Outhouse</link> built"
 msgstr "Kein <link=\"OUTHOUSE\">Plumpsklo</link> gebaut"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
 msgid ""
 "My Duplicants have nowhere to relieve themselves\n"
@@ -56591,8 +56573,8 @@ msgid ""
 msgstr ""
 "Meine Duplikanten haben keinen Platz, um sich zu erleichtern.\n"
 "------------------\n"
-"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>Sanitärtab</b> "
-"<b><color=#F44A4A>[5]</b></color> gebaut werden"
+"<link=\"OUTHOUSE\">Plumpsklos</link> können im <b>Sanitär-Tab</b> {Hotkey/Plan5} "
+"gebaut werden"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.NAME"
@@ -56642,7 +56624,6 @@ msgid "No <link=\"DOCTORSTATION\">Sick Bay</link> built"
 msgstr "Keine <link=\"DOCTORSTATION\">Krankenstation</link> gebaut"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
 msgid ""
 "There is nowhere for sick Duplicants receive medical care\n"
@@ -56653,7 +56634,7 @@ msgstr ""
 "Es gibt keinen Ort für die medizinische Versorgung von kranken Duplikanten\n"
 "------------------\n"
 "<link=\"DOCTORSTATION\">Krankenstationen</link> können im <b>Medizintab</b> "
-"<b><color=#F44A4A>[8]</b></color> gebaut werden"
+"{Hotkey/Plan8} gebaut werden"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME"
@@ -56661,7 +56642,6 @@ msgid "No <link=\"OXYGEN\">Oxygen Generator</link> built"
 msgstr "Kein <link=\"OXYGEN\">Sauerstoff-Generator</link> gebaut"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP"
 msgid ""
 "My colony is not producing any new <link=\"OXYGEN\">Oxygen</link>\n"
@@ -56672,7 +56652,7 @@ msgstr ""
 "Meine Kolonie produziert keine neuen <link=\"OXYGEN\">Sauerstoff</link>\n"
 "------------------\n"
 "<link=\"MINERALDEOXIDIZER\">Sauerstoffdiffusoren</link> können im "
-"<b>Sauerstofftab</b> <b><color=#F44A4A>[2]</b></color> gebaut werden"
+"<b>Sauerstofftab</b> {Hotkey/Plan2} gebaut werden"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
@@ -56709,7 +56689,6 @@ msgstr ""
 "gehindert:"
 
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY"
 msgid ""
 "When connecting pipes it is useful to have the Plumbing Overlay {Hotkey/"
@@ -56722,11 +56701,11 @@ msgid ""
 "through piping from the Output Pipe. The water can then be expelled through a "
 "Liquid Vent, or filtered through a Liquid Filter for reuse."
 msgstr ""
-"Beim Verbinden von Rohren kann das Flüssigkeits-Overlay <b><color=#F44A4A>[F6]</"
-"b></color> helfen. Jedes Gebäude, das einen Rohranschluss benötigt, muss den "
-"Gebäudeeingang mit dem Ausgang einer Quelle wie der Flüssigkeitspumpe verbunden "
-"haben. Flüssigkeitspumpen müssen in einer Flüssigkeit sein und mit einer "
-"Energiequelle verbunden werden, um zu funktionieren.\n"
+"Beim Verbinden von Rohren kann das Flüssigkeits-Overlay {Hotkey/Overlay6} "
+"helfen. Jedes Gebäude, das einen Rohranschluss benötigt, muss den Gebäudeeingang "
+"mit dem Ausgang einer Quelle wie der Flüssigkeitspumpe verbunden haben. "
+"Flüssigkeitspumpen müssen in einer Flüssigkeit sein und mit einer Energiequelle "
+"verbunden werden, um zu funktionieren.\n"
 "\n"
 "Gebäude geben oft kontaminiertes Wasser ab, das durch Rohrleitungen aus der "
 "Ausgangsleitung aus dem Gebäude abfließen muss. Das Wasser kann dann über einen "
@@ -56744,7 +56723,6 @@ msgid "Notes on connecting buildings with pipes"
 msgstr "Notizen zur Verbindung von Gebäuden mit Rohren"
 
 #. STRINGS.MISC.NOTIFICATIONS.POWER.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.MESSAGEBODY"
 msgid ""
 "Generators are considered \"Producers\" of Power, while the various buildings "
@@ -56766,14 +56744,14 @@ msgstr ""
 "angeschlossen ist, eine bestimmte Leistung, die jederzeit abgerufen werden kann, "
 "indem man auf das Gebäude klickt und auf die Registerkarte Energie geht.\n"
 "\n"
-"Ich kann das Strom-Overlay <b><color=#F44A4A>[F2]</b></color> verwenden, um den "
-"Status meiner Schaltkreise zu überprüfen. Wenn die Verbraucher mehr Leistung "
-"benötigen, als die Generatoren produzieren, werden die Batterien geleert und es "
-"kann zu Stromausfällen kommen.\n"
+"Ich kann das Strom-Overlay {Hotkey/Overlay2} verwenden, um den Status meiner "
+"Schaltkreise zu überprüfen. Wenn die Verbraucher mehr Leistung benötigen, als "
+"die Generatoren produzieren, werden die Batterien geleert und es kann zu "
+"Stromausfällen kommen.\n"
 "\n"
 "Wenn die Verbraucher mehr Leistung verbrauchen, als die Kabel vertragen können, "
 "werden die Kabel überlastet und brennen durch. Um diese beiden Situationen zu "
-"vermeiden, muss ich meine Verbraucher auf getrennte Kreisläufe aufteilen."
+"vermeiden, muss ich meine Verbraucher auf getrennte Stromkreise aufteilen."
 
 #. STRINGS.MISC.NOTIFICATIONS.POWER.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.NAME"
@@ -56786,7 +56764,6 @@ msgid "Notes on managing electricity"
 msgstr "Notizen zum Energiemanagement"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
 msgid ""
 "Duplicants will choose where to work based on the priority of the errands that I "
@@ -56797,12 +56774,11 @@ msgid ""
 "select them."
 msgstr ""
 "Duplikanten werden die zu erledigenden Aufgaben je nach meiner gesetzten "
-"Priorität abarbeiten. Ich kann die <b>Prioritätsanzeige</b> "
-"<b><color=#F44A4A>[L]</b></color> öffnen, um die <style=\"KKeyword\">Duplikanten-"
-"Prioritäten</style> zu setzen, und das <b>Prioritäts-Werkzeug</b> "
-"<b><color=#F44A4A>[P]</b></color> zur Feinabstimmung der <style=\"KKeyword"
-"\">Gebäude-Prioritäten</style> nutzen. Viele Gebäude lassen mich auch ihre "
-"Prioritätsstufe ändern, wenn ich sie auswähle."
+"Priorität abarbeiten. Ich kann die <b>Prioritätsanzeige</b> {Hotkey/"
+"ManagePriorities} öffnen, um die <style=\"KKeyword\">Duplikanten-Prioritäten</"
+"style> zu setzen, und das <b>Prioritäts-Werkzeug</b> {Hotkey/Prioritize} zur "
+"Feinabstimmung der <style=\"KKeyword\">Gebäude-Prioritäten</style> nutzen. Viele "
+"Gebäude lassen mich auch ihre Prioritätsstufe ändern, wenn ich sie auswähle."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
@@ -56815,7 +56791,6 @@ msgid "Notes on my Duplicants' priorities"
 msgstr "Notizen zum Prioritätensystem meiner Duplikanten"
 
 #. STRINGS.MISC.NOTIFICATIONS.RADIATION.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RADIATION.MESSAGEBODY"
 msgid ""
 "Objects such as <link=\"URANIUMORE\">Uranium Ore</link> and <link=\"BEE\">Beeta "
@@ -56831,11 +56806,10 @@ msgstr ""
 "link> strahlen eine <link=\"RADIOACTIVE\">radioaktive</link> Energie aus, die "
 "für meine Duplikanten schädlich sein kann.\n"
 "\n"
-"Ich kann das <b>Strahlungs-Overlay</b> <b><color=#F44A4A>[L-SHIFT + F4]</b></"
-"color> verwenden, um den Umfang des Strahlungsfeldes zu überprüfen. Wenn ich "
-"dicke Wände um die Strahlungsemitter baue, wird das Feld gedämpft und meine "
-"Duplikanten werden vor der <link=\"RADIATIONSICKNESS\">Strahlenkrankheit</link> "
-"geschützt."
+"Ich kann das <b>Strahlungs-Overlay</b> {Hotkey/Overlay15} verwenden, um den "
+"Umfang des Strahlungsfeldes zu überprüfen. Wenn ich dicke Wände um die "
+"Strahlungsemitter baue, wird das Feld gedämpft und meine Duplikanten werden vor "
+"der <link=\"RADIATIONSICKNESS\">Strahlenkrankheit</link> geschützt."
 
 #. STRINGS.MISC.NOTIFICATIONS.RADIATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RADIATION.NAME"
@@ -56924,7 +56898,6 @@ msgid "{0}: {1}!"
 msgstr "{0}: {1}!"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULE_CHANGED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULE_CHANGED.TOOLTIP"
 msgid ""
 "Duplicants assigned to <style=\"KKeyword\">{0}</style> have started their <b>{1}"
@@ -56940,11 +56913,10 @@ msgstr ""
 "\n"
 "{2}\n"
 "\n"
-"Öffne den <style=\"KKeyword\">Zeitplan-Bildschirm</style> "
-"<b><color=#F44A4A>[PUNKT-TASTE]</b></color>, um Blöcke oder Zuordnungen zu ändern"
+"Öffne den <style=\"KKeyword\">Zeitplan-Bildschirm</style> {Hotkey/"
+"ManageSchedule}, um Blöcke oder Zuordnungen zu ändern"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
 msgid ""
 "My Duplicants will only eat, sleep, work, or bathe during the times I allot for "
@@ -56957,9 +56929,9 @@ msgstr ""
 "Meine Duplikanten werden nur essen, schlafen, arbeiten oder duschen während der "
 "Zeit, die ich für diese Aktivitäten zuteile.\n"
 "\n"
-"Um die Zeit optimal nutzen zu können, kann ich den <b>Zeitplan-Tab</b> "
-"<b><color=#F44A4A>[PUNKT-TASTE]</b></color> öffnen, um festzulegen wie meine "
-"Duplikanten ihren Tag nutzen sollen."
+"Um die Zeit optimal nutzen zu können, kann ich den <b>Zeitplan-Tab</b> {Hotkey/"
+"ManageSchedule} öffnen, um festzulegen wie meine Duplikanten ihren Tag nutzen "
+"sollen."
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
@@ -57001,7 +56973,6 @@ msgstr ""
 "{Duplicant} hat hart gearbeitet und ist bereit, eine neue Fähigkeit zu erlernen"
 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY"
 msgid ""
 "Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket "
@@ -57012,15 +56983,14 @@ msgid ""
 "Planetoid in order to use the <style=\"KKeyword\">Starmap Screen</style> {Hotkey/"
 "ManageStarmap} to see and set course for new destinations."
 msgstr ""
-"Um eine Rakete zu bauen, musst du zunächst eine <link=\"LAUNCHPLATFORM"
+"Um eine Rakete zu bauen, musst du zunächst eine <link=\"LAUNCHPAD"
 "\">Raketenplattform</link> konstruieren und Module aus dem Menü hinzufügen. Alle "
 "Komponenten der Raketen-Checkliste müssen vollständig sein, bevor die Rakete "
 "gestartet werden kann.\n"
 "\n"
 "Ein <link=\"TELESCOPE\">Teleskop</link> muss auf der Oberfläche eines "
 "Planetoiden gebaut werden, um die <style=\"KKeyword\">Sternenkarte</style> "
-"<b><color=#F44A4A>[Z]</b></color> zu nutzen, um neue Ziele zu sehen und Kurs zu "
-"setzen."
+"{Hotkey/ManageStarmap} zu nutzen, um neue Ziele zu sehen und Kurs zu setzen."
 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME"
@@ -57133,7 +57103,6 @@ msgid "Notes on using atmo suits"
 msgstr "Hinweise zur Verwendung von Atemschutzanzügen"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
 msgid ""
 "Duplicants always perform errands in order of highest to lowest priority. They "
@@ -57148,9 +57117,9 @@ msgstr ""
 "aus. Beispielsweise werden Duplikanten immer erst <link=\"FOOD\">Nahrung</link> "
 "ernten, bevor sie etwas bauen, und sie bauen immer bevor sie graben.\n"
 "\n"
-"Ich kann die <b>Prioritätsanzeige</b> <color=#F44A4A><b>[L]</b></color> öffnen, "
-"um einzustellen, welche Auftragstypen Duplikanten ausführen dürfen oder nicht, "
-"oder um qualifizierte Duplikanten für bestimmte Befehlsarten zu spezialisieren."
+"Ich kann die <b>Prioritätsanzeige</b> {Hotkey/ManagePriorities} öffnen, um "
+"einzustellen, welche Auftragstypen Duplikanten ausführen dürfen oder nicht, oder "
+"um qualifizierte Duplikanten für bestimmte Auftragsarten zu spezialisieren."
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
@@ -57163,7 +57132,6 @@ msgid "Notes on managing Duplicants' errands"
 msgstr "Notizen zur Verwaltung von Duplikantenaufträgen"
 
 #. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.MESSAGEBODY"
 msgid ""
 "Environments that are extremely <link=\"HEAT\">Hot</link> or <link=\"HEAT"
@@ -57178,9 +57146,9 @@ msgstr ""
 "Umgebungstemperaturen beeinflussen meine Duplikanten und verursachen <link="
 "\"STRESS\">Stress</link>.\n"
 "\n"
-"Im <b>Temperatur-Overlay</b> <b><color=#F44A4A>[F3]</b></color> und durch "
-"Auswahl von <b>Thermische Toleranz</b> sehe ich die Bereiche, in denen "
-"Duplikanten ihre Temperatur nicht regulieren können und sich unwohl fühlen."
+"Im <b>Temperatur-Overlay</b> {Hotkey/Overlay3} und durch Auswahl von "
+"<b>Thermische Toleranz</b> sehe ich die Bereiche, in denen Duplikanten ihre "
+"Temperatur nicht regulieren können und sich unwohl fühlen."
 
 #. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME"
@@ -57292,7 +57260,6 @@ msgid "{dupe} is ready to warp from the Teleporter Transmitter"
 msgstr "{dupe} ist bereit für den Warp vom Teleporter-Sender"
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
 msgid ""
 "I can use the <b>Dig Tool</b> {Hotkey/Dig} and the <b>Build Menu</b> in the "
@@ -57301,9 +57268,9 @@ msgid ""
 "Once I've placed a few errands my Duplicants will automatically get to work, "
 "without me needing to direct them individually."
 msgstr ""
-"Ich kann das <b>Grabe-Werkzeug</b> <color=#F44A4A><b>[G]</b></color> und das "
-"<b>Baumenü</b> unten links auf dem Bildschirm verwenden, um mit der Planung von "
-"Aufgaben zu beginnen.\n"
+"Ich kann das <b>Grabe-Werkzeug</b> {Hotkey/Dig} und das <b>Baumenü</b> unten "
+"links auf dem Bildschirm verwenden, um mit der Planung von Aufgaben zu "
+"beginnen.\n"
 "\n"
 "Sobald ich ein paar Aufträge angeordnet habe, sollten meine Duplikanten "
 "automatisch zur Arbeit kommen, ohne dass ich sie einzeln steuern muss."
@@ -57654,12 +57621,11 @@ msgid "No Harvest Pending"
 msgstr "Keine Ernte ausstehend"
 
 #. STRINGS.MISC.STATUSITEMS.NOTMARKEDFORHARVEST.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.STATUSITEMS.NOTMARKEDFORHARVEST.TOOLTIP"
 msgid "Use the <b>Harvest Tool</b> {Hotkey/Harvest} to mark this plant for harvest"
 msgstr ""
-"Benutze das <b>Ernte-Tool</b> <b><color=#F44A4A>[Y]</b></color>, um diese "
-"Pflanze für die Ernte zu markieren"
+"Benutze das <b>Ernte-Tool</b> {Hotkey/Harvest}, um diese Pflanze für die Ernte "
+"zu markieren"
 
 #. STRINGS.MISC.STATUSITEMS.OPERATING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.NAME"
@@ -61540,7 +61506,6 @@ msgid "Missing Research Station"
 msgstr "Forschungsstation fehlt"
 
 #. STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION_TOOLTIP"
 msgid ""
 "The selected research focus requires a {0} to perform\n"
@@ -61549,8 +61514,7 @@ msgid ""
 msgstr ""
 "Für den gewählten Forschungsschwerpunkt ist ein {0} erforderlich.\n"
 "\n"
-"Öffne den <b>Stationen-Tab</b> <b><color=#F44A4A>[0]</b></color> des Baumenüs, "
-"um eine zu bauen"
+"Öffne den <b>Stationen-Tab</b> {Hotkey/Plan10} des Baumenüs, um eine zu bauen"
 
 #. STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL
 msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL"
@@ -61558,7 +61522,6 @@ msgid "No Researchers assigned"
 msgstr "Kein Forscher zugewiesen"
 
 #. STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP"
 msgid ""
 "The selected research focus requires {ResearchType} to complete\n"
@@ -61568,8 +61531,8 @@ msgid ""
 msgstr ""
 "Der ausgewählte Forschungsschwerpunkt erfordert {ResearchType} zum Abschluss\n"
 "\n"
-"Öffne das <b>Fertigkeiten-Panel</b> <b><color=#F44A4A>[J]</b></color> und weise "
-"einem Duplikanten die Fertigkeit {ResearchType} zu, um dieses Gebäude zu nutzen"
+"Öffne das <b>Fertigkeiten-Panel</b> {Hotkey/ManageSkills} und weise einem "
+"Duplikanten die Fertigkeit {ResearchType} zu, um dieses Gebäude zu nutzen"
 
 #. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
 msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
@@ -66002,7 +65965,6 @@ msgstr ""
 "werden"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE"
 msgid ""
 "This critter can be captured\n"
@@ -66014,10 +65976,10 @@ msgid ""
 msgstr ""
 "Dieses Tier kann gefangen werden.\n"
 "------------------\n"
-"Markiere Tier mit dem <b>Fangwerkzeug</b> <b><color=#F44A4A>[N]</b></color>\n"
+"Markiere Tiere mit dem <b>Fangwerkzeug</b> {Hotkey/Capture}\n"
 "\n"
 "Duplikanten benötigen die <style=\"KKeyword\">Viehzüchter</style>-Fertigkeit, um "
-"Tier zu fangen"
+"Tiere zu fangen"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT"
@@ -69750,7 +69712,6 @@ msgid "<b><size=13>Learned Skills:</size></b>"
 msgstr "<b><size=13>Erlernte Fertigkeiten:</size></b>"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.MASTERED_SKILLS_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.MASTERED_SKILLS_TOOLTIP"
 msgid ""
 "All <style=\"KKeyword\">Traits</style> and <style=\"KKeyword\">Morale Needs</"
@@ -69767,9 +69728,9 @@ msgstr ""
 "<style=\"KKeyword\">Fertigkeit</style> gelernt hat\n"
 "------------------\n"
 "<link=\"RESETSKILLSSTATION\">Fertigkeiten-Schrubber</link> können über den "
-"<b>Stationen-Tab</b> <b><color=#F44A4A>[0]</b></color> gebaut werden, um die "
-"erlernten <style=\"KKeyword\">Fertigkeiten</style> vollständig zurückzusetzen "
-"und alle <style=\"KKeyword\">Fertigkeitenpunkte</style> zurückerhalten"
+"<b>Stationen-Tab</b> {Hotkey/Plan10} gebaut werden, um die erlernten <style="
+"\"KKeyword\">Fertigkeiten</style> vollständig zurückzusetzen und alle <style="
+"\"KKeyword\">Fertigkeitenpunkte</style> zurückerhalten"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.NO_MASTERED_SKILLS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.NO_MASTERED_SKILLS.NAME"
@@ -74121,7 +74082,6 @@ msgid "JOIN THE DISCUSSION"
 msgstr "DISKUTIERE MIT"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid ""
 "This minor update includes:\n"
@@ -74136,11 +74096,10 @@ msgid ""
 msgstr ""
 "Dieses kleine Update enthält:\n"
 "\n"
-"•<indent=20px>Verbessertes Mod-Management und Mod-Upload für WeGame Nutzer.</"
-"indent>\n"
-"•<indent=20px>Für Linux-Nutzer wurden Probleme beim Generieren der Welt "
-"beseitigt, die zu völlig anderen Ergebnissen führten, als auf andere Plattformen."
-"</indent>\n"
+"•<indent=20px>Bessere Controller-Unterstützung für Steam-Nutzer.</indent>\n"
+"•<indent=20px>Steam-Deck-Kompatibilität.</indent>\n"
+"•<indent=20px>Kleine UI-Änderungen zur Anpassung an kleinere Displays und "
+"Auflösungen.</indent>\n"
 "•<indent=20px>Verschiedene Crash-Fixes und Fehlerkorrekturen.</indent>\n"
 "\n"
 "   Für weitere Details schau Dir die kompletten Patch-Notes an!"
@@ -75824,7 +75783,6 @@ msgstr ""
 "Betroffene Aufträge: {ChoreList}"
 
 #. STRINGS.UI.JOBSSCREEN.HEADER_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.JOBSSCREEN.HEADER_TOOLTIP"
 msgid ""
 "<size=16>{Job} Errand Type</size>\n"
@@ -75846,7 +75804,7 @@ msgstr ""
 "Prioritäten</style>,\n"
 "dann werden sie einzelne Aufgaben innerhalb dieses Typs unter Verwendung der "
 "<style=\"KKeyword\">Objektprioritäten</style>, die durch das <link=\"PRIORITIES"
-"\">PRIORITÄTWERKZEUG</link> <b><color=#F44A4A>[P]</b></color> festgelegt wurde"
+"\">PRIORITÄTWERKZEUG</link> {Hotkey/ManagePriorities} festgelegt wurde"
 
 #. STRINGS.UI.JOBSSCREEN.INCREASE_PRIORITY_TUTORIAL
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_PRIORITY_TUTORIAL"
@@ -77005,7 +76963,6 @@ msgid "FARMING OVERLAY"
 msgstr "LANDWIRTSCHAFTS-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.FULLY_GROWN
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.FULLY_GROWN"
 msgid ""
 "<b>Fully Grown</b>\n"
@@ -77016,8 +76973,7 @@ msgstr ""
 "<b>Ausgewachsen</b>\n"
 "Diese Pflanzen sind ausgewachsen\n"
 "------------------\n"
-"Verwende das <b>Erntewerkzeug</b> <b><color=#F44A4A>[Y]</b></color>, um sie zu "
-"ernten"
+"Verwende das <b>Erntewerkzeug</b> {Hotkey/Harvest}, um sie zu ernten"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING"
@@ -78729,7 +78685,6 @@ msgstr ""
 "9: Höchste Dringlichkeit"
 
 #. STRINGS.UI.PRIORITYSCREEN.DIAGRAM
-#, fuzzy
 msgctxt "STRINGS.UI.PRIORITYSCREEN.DIAGRAM"
 msgid ""
 "Duplicants will first choose what </style>Errand Type</style> to perform using "
@@ -78740,8 +78695,8 @@ msgid ""
 "type using the <style=\"KKeyword\">Building Priorities</style> set by this tool"
 msgstr ""
 "Duplikanten wählen zunächst anhand ihrer <style=\"KKeyword\">Duplikanten-"
-"Prioritäten</style> <b><color=#F44A4A>[L]</color></b> aus, welchen Auftragstyp "
-"sie ausführen möchten\n"
+"Prioritäten</style> {Hotkey/ManagePriorities} aus, welchen Auftragstyp sie "
+"ausführen möchten\n"
 "------------------\n"
 "Sie wählen dann den <style=\"KKeyword\">Auftrag</style> innerhalb dieses Typs "
 "unter Verwendung der <style=\"KKeyword\">Prioritäten</style> von diesem Werkzeug "
@@ -79750,7 +79705,6 @@ msgid "JOBS"
 msgstr "BERUFE"
 
 #. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
 msgid ""
 "Build a <style=\"KKeyword\">Printing Pod</style> to unlock this menu\n"
@@ -79761,7 +79715,7 @@ msgstr ""
 "Bau ein <style=\"KKeyword\">Printing Pod</style>, um dieses Menü freizuschalten\n"
 "------------------\n"
 "Den <style=\"KKeyword\">Printing Pod</style> findet man in der Registerkarte "
-"<b>Stationen</b> <b><color=#F44A4A>[0]</b></color> im Baumenü"
+"<b>Stationen</b> {Hotkey/Plan1} im Baumenü"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION"
@@ -85550,7 +85504,6 @@ msgid "View each cycle's Colony Report {Hotkey}"
 msgstr "Tägliche Kolonieberichte anzeigen {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
 msgid ""
 "Manage my Duplicant Priorities {Hotkey}\n"
@@ -85563,7 +85516,7 @@ msgstr ""
 "------------------\n"
 "<style=\"KKeyword\">Duplikanten-Prioritäten</style> werden <i>vor</i> dem <style="
 "\"KKeyword\">Gebäude-Prioritäten</style> berechnet, die mit dem "
-"<b>Prioritätswerkzeug</b> <b><color=#F44A4A>[P]</b></color> gesetzt wurden"
+"<b>Prioritätswerkzeug</b> {Hotkey/Prioritize} gesetzt wurden"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_PAUSEMENU
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_PAUSEMENU"
@@ -85571,7 +85524,6 @@ msgid "Open the game menu {Hotkey}"
 msgstr "Öffne das Spielmenü {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
 msgid ""
 "Build a Research Station to unlock this menu\n"
@@ -85582,10 +85534,9 @@ msgstr ""
 "Benötigt Forschungsstation zur Freischaltung\n"
 "------------------\n"
 "Die <link=\"RESEARCHCENTER\">Forschungsstationen</link> befinden sich im "
-"<b>Stationen-Tab</b> <b><color=#F44A4A>[9]</b></color> des Baumenüs"
+"<b>Stationen-Tab</b> {Hotkey/Plan10} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_SKILL_STATION
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_SKILL_STATION"
 msgid ""
 "Build a Printing Pod to unlock this menu\n"
@@ -85596,10 +85547,9 @@ msgstr ""
 "Baue einen Printing Pod um dieses Menü zu entsperren\n"
 "------------------\n"
 "Der<link=\"HEADQUARTERS\">Printing Pod</link> befindet sich im <b>Basis-Tab</b> "
-"<b><color=#F44A4A>[0]</b></color> des Baumenüs"
+"{Hotkey/Plan1} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE"
 msgid ""
 "Build a Telescope to unlock this menu\n"
@@ -85610,10 +85560,9 @@ msgstr ""
 "Baue ein Teleskop zur Freischaltung\n"
 "------------------\n"
 "Das <link=\"TELESCOPE\">Teleskop</link> befindet sich im <b>Stationen-Tab</b> "
-"<b><color=#F44A4A>[0]</b></color> des Baumenüs"
+"{Hotkey/Plan10} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE_CLUSTER
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE_CLUSTER"
 msgid ""
 "Build a Telescope to unlock this menu\n"
@@ -85623,8 +85572,8 @@ msgid ""
 msgstr ""
 "Baue ein Teleskop zur Freischaltung\n"
 "------------------\n"
-"Das <link=\"TELESCOPE\">Teleskop</link> befindet sich im <b>Stationen-Tab</b> "
-"<b><color=#F44A4A>[0]</b></color> des Baumenüs"
+"Das <link=\"TELESCOPE\">Teleskop</link> befindet sich im <b>Raketen-Tab</b> "
+"{Hotkey/Plan14} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
@@ -85763,7 +85712,6 @@ msgid "Displays work priority values {Hotkey}"
 msgstr "Zeigt die Werte der Arbeitsprioritäten an {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid ""
 "Set Building Priority {Hotkey}\n"
@@ -85774,9 +85722,9 @@ msgid ""
 msgstr ""
 "Gebäudepriorität setzen {Hotkey}\n"
 "------------------\n"
-"<style=\"KKeyword\">Duplikantenprioritäten</style> <b><color=#F44A4A>[L]</b></"
-"color> werden <i>vor</i> den <style=\"KKeyword\">Gebäudeprioritäten</style> "
-"dieses Werkzeugs berechnet"
+"<style=\"KKeyword\">Duplikantenprioritäten</style> {Hotkey/ManagePriorities} "
+"werden <i>vor</i> den <style=\"KKeyword\">Gebäudeprioritäten</style> dieses "
+"Werkzeugs berechnet"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
@@ -86966,11 +86914,10 @@ msgid "Unassigned"
 msgstr "Nicht zugewiesen"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS"
 msgid "Allow Mutant Seeds"
-msgstr "Manuelle Bedienung zulassen"
+msgstr "mutiertes Saatgut zulassen"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS"
@@ -87039,10 +86986,9 @@ msgid "INFORMATION"
 msgstr "INFORMATION"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INGREDIENTS
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INGREDIENTS"
 msgid "<b>Ingredients:</b>"
-msgstr "<b>Zutaten:</b>\n"
+msgstr "<b>Zutaten:</b>"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG"
@@ -87088,7 +87034,6 @@ msgid "Recipe Details"
 msgstr "Rezeptdetails"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_EFFECTS
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_EFFECTS"
 msgid "<b>Effects:</b>"
 msgstr "<b>Effekte:</b>"
@@ -87774,18 +87719,18 @@ msgid "In Range"
 msgstr "In Reichweite"
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.NO_SENDERS
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.NO_SENDERS"
 msgid "No Channels Available."
-msgstr "Kein Landeplatz verfügbar"
+msgstr "Keine Kanäle verfügbar."
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.NO_SENDERS_DESC
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.NO_SENDERS_DESC"
 msgid ""
 "Build a <link=\"LOGICINTERASTEROIDSENDER\">Automation Broadcaster</link> to "
 "transmit a signal."
-msgstr "<link=\"LOGICINTERASTEROIDSENDER\">Automatisierungssender</link>"
+msgstr ""
+"Baue einen <link=\"LOGICINTERASTEROIDSENDER\">Automatisierungssender</link>, um "
+"ein Signal zu übertragen."
 
 #. STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.OUT_OF_RANGE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGICBROADCASTCHANNELSIDESCREEN.OUT_OF_RANGE"
@@ -88613,15 +88558,13 @@ msgid "Minimum launch mass:"
 msgstr "Minimale Startmasse:"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.NO_SELECTED_LAUNCH_TARGET
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.NO_SELECTED_LAUNCH_TARGET"
 msgid ""
 "No destination selected\n"
 "Open the <b>Starmap</b> {Hotkey/ManageStarmap} to set a course"
 msgstr ""
 "Kein Ziel ausgewählt\n"
-"Öffne die <b>Sternenkarte</b> <b><color=#F44A4A>[Z]</b></color>, um einen Kurs "
-"festzulegen"
+"Öffne die <b>Sternenkarte</b> {Hotkey/ManageStarmap}, um einen Kurs festzulegen"
 
 #. STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.OPENSTARMAPBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.OPENSTARMAPBUTTON"
@@ -89328,15 +89271,13 @@ msgstr ""
 "Analyse läuft"
 
 #. STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET"
 msgid ""
 "No analysis focus selected\n"
 "Open the <b>Starmap</b> {Hotkey/ManageStarmap} to selected a focus"
 msgstr ""
 "Kein Analysefokus ausgewählt.\n"
-"Öffne die <b>Sternenkarte</b> <b><color=#F44A4A>[Z]</b></color>, um einen Fokus "
-"auszuwählen"
+"Öffne die <b>Sternenkarte</b> {Hotkey/ManageStarmap}, um einen Fokus auszuwählen"
 
 #. STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.OPENSTARMAPBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.OPENSTARMAPBUTTON"
@@ -91318,12 +91259,10 @@ msgid "Select Research"
 msgstr "Forschung wählen"
 
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.TOOLTIP"
 msgid "Choose a technology from the <b>Research Tree</b> {Hotkey/ManageResearch}"
 msgstr ""
-"Wähle eine Forschung aus dem <b>Forschungsbaum</b> aus <b><color=#F44A4A>[R]</"
-"b></color>"
+"Wähle eine Forschung aus dem <b>Forschungsbaum</b> {Hotkey/ManageResearch} aus"
 
 #. STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ALWAYS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ALWAYS.NAME"
