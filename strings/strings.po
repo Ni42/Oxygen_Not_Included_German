@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-03-06 17:28+0100\n"
-"Last-Translator: jls17\n"
+"PO-Revision-Date: 2022-03-10 18:04+0100\n"
+"Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -1198,12 +1198,12 @@ msgstr "Dieses Objekt hat keinen Nutzen mehr"
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.NAME"
 msgid "Fabricator accepts mutant seeds"
-msgstr ""
+msgstr "Fabrikator akzeptiert mutiertes Saatgut"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.TOOLTIP"
 msgid "This fabricator is allowed to use mutant seeds as recipe ingredients."
-msgstr ""
+msgstr "Dieser Fabrikator darf Mutantensamen als Rezeptzutaten verwenden."
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME"
@@ -86935,14 +86935,12 @@ msgid "Unassigned"
 msgstr "Nicht zugewiesen"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS"
 msgid "Building accepts mutant seeds"
-msgstr "Gebäude veraltet"
+msgstr "Gebäude akzeptiert mutiertes Saatgut"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS_TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN."
 "ALLOW_MUTANT_SEED_INGREDIENTS_TOOLTIP"
@@ -86950,8 +86948,8 @@ msgid ""
 "Toggle whether Duplicants will deliver mutant seed species to this building as "
 "recipe ingredients."
 msgstr ""
-"Wenn aktiviert, liefern Duplikanten abgefüllte Gase direkt von einem "
-"Kanisterfüller zu diesem Gebäude"
+"Umschalten, ob Duplikanten mutierte Samenarten als Rezeptzutaten an dieses "
+"Gebäude liefern."
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS"
@@ -90145,16 +90143,14 @@ msgid " units"
 msgstr " Einheiten"
 
 #. STRINGS.UI.USERMENUACTIONS.ACCEPT_MUTANT_SEEDS.ACCEPT
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ACCEPT_MUTANT_SEEDS.ACCEPT"
 msgid "Allow Mutants"
 msgstr "Mutiertes Saatgut zulassen"
 
 #. STRINGS.UI.USERMENUACTIONS.ACCEPT_MUTANT_SEEDS.REJECT
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.ACCEPT_MUTANT_SEEDS.REJECT"
 msgid "Forbid Mutants"
-msgstr "Vier wilde Pflanzen"
+msgstr "Mutiertes Saatgut verbieten"
 
 #. STRINGS.UI.USERMENUACTIONS.ACCEPT_MUTANT_SEEDS.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.ACCEPT_MUTANT_SEEDS.TOOLTIP"
@@ -90162,6 +90158,8 @@ msgid ""
 "Toggle whether or not this building will accept mutant seeds for recipes that "
 "could use them."
 msgstr ""
+"Umschalten, ob dieses Gebäude Mutantensamen für Rezepte, die sie verwenden "
+"können, akzeptiert oder nicht."
 
 #. STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATE
 msgctxt "STRINGS.UI.USERMENUACTIONS.ACTIVATEBUILDING.ACTIVATE"
