@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-04-12 16:58+0200\n"
+"PO-Revision-Date: 2022-04-21 21:50+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -43010,7 +43010,8 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC"
 msgid "Ol' {0} here can't stand lookin' at people's knees."
-msgstr "Der Alte {0} kann nicht den Anblick von die Knien anderer Leute ertragen."
+msgstr ""
+"Die alte {0} hier kann es nicht ertragen, den Leuten auf die Knie zu schauen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME"
