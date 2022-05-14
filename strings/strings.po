@@ -24516,9 +24516,23 @@ msgstr "<link=\"GENETICS\">Genetik</link>"
 #. STRINGS.CODEX.GINGER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.GINGER.BODY.CONTAINER1"
 msgid ""
-"A chewy, fibrous rhizome with a fiery aftertaste.\n"
-"\n"
-"It relieves gassiness."
+"Tonic Root is a close relative of the zingiberaceae family commonly known as "
+"ginger. Its heavily burled shoots are typically light brown in colour, and "
+"enveloped in a thin layer of protective, edible bark."
+msgstr ""
+
+#. STRINGS.CODEX.GINGER.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.GINGER.BODY.CONTAINER2"
+msgid ""
+"In addition to its use as an aromatic culinary ingredient, it has traditionally "
+"been employed as a tonic for a variety of minor digestive ailments."
+msgstr ""
+
+#. STRINGS.CODEX.GINGER.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.GINGER.BODY.CONTAINER3"
+msgid ""
+"Its stringy fibers can become irretrievably embedded between one's teeth during "
+"mastication."
 msgstr ""
 
 #. STRINGS.CODEX.GINGER.SUBTITLE
@@ -27454,7 +27468,7 @@ msgid ""
 "prolonged exposure will still increase their chances of becoming sick.\n"
 "\n"
 "Consuming <link=\"BASICRADPILL\">Rad Pills</link> or seafood such as <link="
-"\"COOKEDFISH\">Cooked Fish</link> or <link=\"SEALETTUCE\">Waterweed</link> "
+"\"COOKEDFISH\">Cooked Sea Meat</link> or <link=\"SEALETTUCE\">Waterweed</link> "
 "increases a Duplicant's radiation resistance, but will not cure a Duplicant's "
 "<link=\"RADIATIONSICKNESS\">Radiation Sickness</link> once they have become "
 "infected.\n"
@@ -30190,7 +30204,7 @@ msgstr "Ernährung"
 #. STRINGS.CREATURES.FERTILITY_MODIFIERS.LIVING_IN_ELEMENT.DESC
 #, fuzzy
 msgctxt "STRINGS.CREATURES.FERTILITY_MODIFIERS.LIVING_IN_ELEMENT.DESC"
-msgid "Lives in {0}"
+msgid "Dwells in {0}"
 msgstr "{0} fehlt"
 
 #. STRINGS.CREATURES.FERTILITY_MODIFIERS.LIVING_IN_ELEMENT.NAME
@@ -30350,7 +30364,7 @@ msgstr "Dieses Tier ist sehr glücklich seine Bedürfnisse sind erfüllt"
 
 #. STRINGS.CREATURES.MODIFIERS.EGGHUG.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.EGGHUG.NAME"
-msgid "Hugged"
+msgid "Cuddled"
 msgstr ""
 
 #. STRINGS.CREATURES.MODIFIERS.EGGHUG.TOOLTIP
@@ -30371,7 +30385,7 @@ msgstr ""
 #. STRINGS.CREATURES.MODIFIERS.ELEMENT_GROWTH_RATE.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.MODIFIERS.ELEMENT_GROWTH_RATE.NAME"
-msgid "Tonic Root Regrowth Rate"
+msgid "Quill Regrowth Rate"
 msgstr "Schuppenwachstumsrate"
 
 #. STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.NAME
@@ -30417,11 +30431,20 @@ msgid "Hugging Spree"
 msgstr "{0} Abbaugeschwindigkeit"
 
 #. STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.TOOLTIP"
 msgid ""
-"This critter was hugged by a Duplicant and has a stronger desire to hug eggs. "
-"While in this state it hugs eggs more frequently."
+"This critter was recently hugged by a Duplicant and is feeling extra "
+"affectionate\n"
+"------------------\n"
+"While in this state, it hugs <style=\"KKeyword\">Eggs</style> more frequently"
 msgstr ""
+"Dieses Ei wurde kürzlich von einer freundlichen Duplikanten angesungen.\n"
+"------------------\n"
+"Erhöhte die <style=\"KKeyword\">Inkubationsrate</style>\n"
+"\n"
+"Duplikanten müssen über Fertigkeit <style=\"KKeyword\">Viehzüchter</style> "
+"verfügen, um sich um Tiere zu kümmern"
 
 #. STRINGS.CREATURES.MODIFIERS.INCUBATING.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.INCUBATING.NAME"
@@ -31040,13 +31063,10 @@ msgstr "<link=\"CRAB\">Pokepanzer-Laich</link>"
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.DESC"
 msgid ""
 "Sanishells are nonhostile critters that thrive in  <link=\"WATER\">Water</link> "
-"and eliminate <link=\"DISEASE\">Germs</link> from that habitat.\n"
+"and eliminates <link=\"DISEASE\">Germs</link> from any liquid it inhabits.\n"
 "\n"
 "They eat <link=\"TOXICSAND\">Polluted Dirt</link> and <link=\"COMPOST\">Rot "
-"Piles</link>.\n"
-"\n"
-"The shells they leave behind after molting can be crushed into small amounts of "
-"<link=\"LIME\">Lime</link>."
+"Piles</link>."
 msgstr ""
 "Pokepanzer sind friedliche Lebewesen, die <link=\"TOXICSAND\">Verschmutze Erde</"
 "link> und <link=\"COMPOST\">Verrotteter Haufen</link> essen.\n"
@@ -34224,6 +34244,18 @@ msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACK_APPROACH.TOOLTIP"
 msgid "This critter is hostile and readying to pounce!"
 msgstr "Dieses Tier ist feindselig und bereit zum zuschlagen!"
 
+#. STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.NAME
+#, fuzzy
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.NAME"
+msgid "Attacking"
+msgstr "Angreifen"
+
+#. STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.TOOLTIP"
+msgid "This critter is violently defending their young"
+msgstr "Diese Kreatur macht ihr \"Geschäft\""
+
 #. STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME"
 msgid "Trussed"
@@ -34316,6 +34348,18 @@ msgstr ""
 "Diese Farm akzeptiert keinen <style=\"KKeyword\">Bewässerung</style>\n"
 "\n"
 "Verschiebe die Pflanze auf ein bewässerbares Feld für optimales Wachstum"
+
+#. STRINGS.CREATURES.STATUSITEMS.CLEANING.NAME
+#, fuzzy
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CLEANING.NAME"
+msgid "Cleaning"
+msgstr "Reinigt"
+
+#. STRINGS.CREATURES.STATUSITEMS.CLEANING.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CLEANING.TOOLTIP"
+msgid "This critter is de-germ-ifying its liquid surroundings"
+msgstr "Diese Kreatur verlässt seinen Bau"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
@@ -34587,12 +34631,15 @@ msgid "Picky Eater: All Done"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.TOOLTIP"
 msgid ""
-"This critter's <style=\"KKeyword\">Tonic Root</style> is fully grown\n"
+"This critter's <style=\"KKeyword\">Tonic Root</style> quills are fully grown\n"
 "\n"
 "Preferred food temperature range: {templo}-{temphi}"
 msgstr ""
+"Das <style=\"KKeyword\">Wachstum</style> dieses Tiers wird durch ein ungünstiges "
+"Umgebung gehemmt"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.NAME"
@@ -34651,13 +34698,16 @@ msgid "Too Hot"
 msgstr "Gas zu heiß"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOOLTIP"
 msgid ""
 "This critter's <style=\"KKeyword\">Quill Growth</style> rate has slowed because "
-"they ate food food outside their preferred temperature range\n"
+"they ate food outside their preferred temperature range\n"
 "\n"
 "Preferred food temperature range: {templo}-{temphi}"
 msgstr ""
+"Das <style=\"KKeyword\">Wachstum</style> dieses Tiers wird durch ein ungünstiges "
+"Umgebung gehemmt"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
@@ -35025,9 +35075,9 @@ msgstr "Geht matschen"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGMINIONWAITING.TOOLTIP"
 msgid ""
 "This critter is hoping for a Duplicant to notice it while passing by and give it "
-"a hug.\n"
+"a hug\n"
 "\n"
-"A hug from a Duplicant inspires a Cuddle Pip to hug more eggs."
+"A hug from a Duplicant inspires a Cuddle Pip to hug more eggs"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.HUNGRY.NAME
@@ -42013,13 +42063,13 @@ msgstr "Diesem Duplikant ist unangenehm warm"
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.CAUSE
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.CAUSE"
-msgid "Obtained by eating a spicy meal"
+msgid "Obtained by eating a very spicy meal"
 msgstr "Erhalten durch das Essen einer abscheulichen Mahlzeit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.DESCRIPTION
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.DESCRIPTION"
-msgid "Duplicants find this spicy meal irritates their nose"
+msgid "Duplicants find this spicy meal quite invigorating"
 msgstr "Duplikanten finden dieses Kunstwerk ziemlich hübsch"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.NAME
@@ -42031,10 +42081,11 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.TOOLTIP"
 msgid ""
-"This Duplicant had an extremely spicy meal and is feeling full of energy but a "
-"bit stressed"
+"This Duplicant had an extremely spicy meal and is both exhilarated and a little "
+"<style=\"KKeyword\">Stressed</style>"
 msgstr ""
-"Dieser Duplikant hatte einen wirklich guten Traum und ist voller Möglichkeiten!"
+"Dieser Duplikant hat einen Heulkrampf aufgrund seines <style=\"KKeyword"
+"\">Stresspegels</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTTUB.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTTUB.NAME"
@@ -42067,6 +42118,21 @@ msgstr ""
 "Dieser Duplikant entspannt sich in einem Whirlpool\n"
 "\n"
 "Er sieht wirklich entspannt aus"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HUGGED.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUGGED.NAME"
+msgid "Hugged"
+msgstr "Graben"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HUGGED.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUGGED.TOOLTIP"
+msgid ""
+"This Duplicant recently received a hug from a friendly critter\n"
+"\n"
+"It was so fluffy!"
+msgstr "Dieser Duplikant hatte kürzlich einen Heulkrampf, und das sieht man"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
@@ -52804,9 +52870,10 @@ msgid "<link=\"COOLVEST\">Cool Vest</link>"
 msgstr "<link=\"COOLVEST\">Kühlweste</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC"
 msgid ""
-"Protects the wearer from <style=\"heat\">Heat</style> by decreasing insulation."
+"Protects the wearer from <style=\"heat\">Heat</style> by decreasing insulation"
 msgstr ""
 "Schützt den Träger vor <style=\"heat\">Wärme</style> durch Senkung seiner "
 "Isolierung."
@@ -52940,7 +53007,7 @@ msgstr "<link=\"CLOTHING\">Textilproduktion</link>"
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.RECIPE_DESC
 #, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.RECIPE_DESC"
-msgid "Increases Decor in a small area effect around the wearer."
+msgid "Increases Decor in a small area effect around the wearer"
 msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger."
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.DESC
@@ -52974,12 +53041,13 @@ msgid "<link=\"EQUIPPABLEBALLOON\">Balloon Friend</link>"
 msgstr "<link=\"EQUIPPABLEBALLOON\">Ballon-Freund</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.RECIPE_DESC
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.RECIPE_DESC"
 msgid ""
 "Gives Duplicants a boost in brain function.\n"
 "\n"
 "Supplied by Duplicants with the Balloon Artist <link=\"MORALE\">Overjoyed</link> "
-"response."
+"response"
 msgstr ""
 "Gibt Duplikanten einen Schub in der Gehirnfunktion.\n"
 "\n"
@@ -52993,8 +53061,11 @@ msgstr "Verwandelt meine Duplikanten in ein Leuchtfeuer aus Stil und Eleganz."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT"
-msgid "Increases Decor in a small area effect around the wearer."
-msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger."
+msgid ""
+"Increases Decor in a small area effect around the wearer. Can be upgraded to "
+"<link=\"CUSTOMCLOTHING\">Primo Garb</link> at the <link="
+"\"CLOTHINGALTERATIONSTATION\">Clothing Refashionator</link>."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
@@ -53008,8 +53079,11 @@ msgstr "<link=\"FUNKYVEST\">Schicker Anzug</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
-msgid "Increases Decor in a small area effect around the wearer."
-msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger."
+msgid ""
+"Increases Decor in a small area effect around the wearer. Can be upgraded to "
+"<link=\"CUSTOMCLOTHING\">Primo Garb</link> at the <link="
+"\"CLOTHINGALTERATIONSTATION\">Clothing Refashionator</link>"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.JET_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.JET_SUIT.DESC"
@@ -53233,11 +53307,12 @@ msgid "<link=\"OXYGENTANK\">Oxygen Tank</link>"
 msgstr "<link=\"OXYGENTANK\">Sauerstofftank</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.RECIPE_DESC
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.RECIPE_DESC"
 msgid ""
 "Allows Duplicants to breathe in hazardous environments.\n"
 "\n"
-"Does not work when submerged in <style=\"liquid\">Liquid</style>."
+"Does not work when submerged in <style=\"liquid\">Liquid</style>"
 msgstr ""
 "Erlaubt Duplikanten in gefährlichen Umgebungen zu atmen.\n"
 "\n"
@@ -53272,12 +53347,13 @@ msgid "Oxygen Rebreather"
 msgstr "Atemgerät"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.RECIPE_DESC
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.RECIPE_DESC"
 msgid ""
 "Allows Duplicants to breathe while submerged in <style=\"liquid\">Liquid</"
 "style>.\n"
 "\n"
-"Does not work outside of liquid."
+"Does not work outside of liquid"
 msgstr ""
 "Erlaubt Duplikanten zu atmen, während sie in <style=\"liquid\">Flüssigkeit</"
 "style> untergetaucht sind.\n"
@@ -53356,9 +53432,10 @@ msgid "<link=\"WARMVEST\">Warm Sweater</link>"
 msgstr "<link=\"WARMVEST\">Warme Weste</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
 msgid ""
-"Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation."
+"Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation"
 msgstr ""
 "Schützt den Träger vor <style=\"heat\">Kälte</style> durch Erhöhung seiner "
 "Isolierung."
@@ -55424,7 +55501,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.COOKEDFISH.NAME
 #, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDFISH.NAME"
-msgid "<link=\"COOKEDFISH\">Seafood</link>"
+msgid "<link=\"COOKEDFISH\">Cooked Sea Meat</link>"
 msgstr "<link=\"COOKEDFISH\">Gekochter Fisch</link>"
 
 #. STRINGS.ITEMS.FOOD.COOKEDFISH.RECIPEDESC
@@ -55454,13 +55531,16 @@ msgid "The cooked meat of a defeated critter."
 msgstr "Das gekochte Fleisch eines besiegten Tiers."
 
 #. STRINGS.ITEMS.FOOD.CURRY.DESC
+#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.CURRY.DESC"
 msgid ""
 "<link=\"GINGER\">Tonic Root</link> combined with <link=\"BEANPLANTSEED\">Nosh "
 "Beans</link> and a dash of <link=\"SPICENUT\">Pincha Peppernut</link>.\n"
 "\n"
-"It packs a spicy punch that makes your nose itch."
+"A belly-warming, nose-tingling entree."
 msgstr ""
+"<link=\"TOFU\">Tofu</link> mariniert in geschmackvoller <link=\"SPICEVINE"
+"\">Pincha-Pfefferpflanzen-Sauce</link>."
 
 #. STRINGS.ITEMS.FOOD.CURRY.NAME
 #, fuzzy
@@ -56062,10 +56142,11 @@ msgid "<link=\"SPICENUT\">Pincha Peppernut</link>"
 msgstr "<link=\"SPICENUT\">Pinchapfeffer-Nuss</link>"
 
 #. STRINGS.ITEMS.FOOD.SPICYTOFU.DESC
+#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.SPICYTOFU.DESC"
 msgid ""
 "<link=\"TOFU\">Tofu</link> marinated in a flavorful <link=\"SPICENUT\">Pincha "
-"Pepperplant</link> sauce.\n"
+"Peppernut</link> sauce.\n"
 "\n"
 "It packs a delightful punch."
 msgstr ""
@@ -56093,7 +56174,7 @@ msgstr ""
 msgctxt "STRINGS.ITEMS.FOOD.SURFANDTURF.DESC"
 msgid ""
 "A bit of <link=\"MEAT\">Meat</link> from the land and <link=\"COOKEDFISH"
-"\">Seafood</link> from the sea.\n"
+"\">Cooked Sea Meat</link> from the sea.\n"
 "\n"
 "It's hearty and satisfying."
 msgstr ""
@@ -56113,7 +56194,7 @@ msgstr "<link=\"SURFANDTURF\">Surf'n'Turf</link>"
 msgctxt "STRINGS.ITEMS.FOOD.SURFANDTURF.RECIPEDESC"
 msgid ""
 "A bit of <link=\"MEAT\">Meat</link> from the land and <link=\"COOKEDFISH"
-"\">Seafood</link> from the sea."
+"\">Cooked Sea Meat</link> from the sea."
 msgstr ""
 "Etwas <link=\"MEAT\">Fleisch</link> vom Land und <link=\"FISHMEAT\">Fisch</link> "
 "aus dem Meer."
@@ -56308,20 +56389,6 @@ msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.NAME"
 msgid "Small Pokeshell Molt"
 msgstr "Kleine Pokepanzer-Hülle"
 
-#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_FRESH_WATER.DESC
-#, fuzzy
-msgctxt ""
-"STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_FRESH_WATER.DESC"
-msgid "Can be crushed to produce <link=\"LIME\">Lime</link>."
-msgstr "Kann gebrochen werden, um <link=\"LIME\">Kalk</link> zu erhalten."
-
-#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_FRESH_WATER.NAME
-#, fuzzy
-msgctxt ""
-"STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_FRESH_WATER.NAME"
-msgid "Small Sanishell Molt"
-msgstr "Kleine Pokepanzer-Hülle"
-
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_WOOD.DESC
 #, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_WOOD.DESC"
@@ -56356,18 +56423,6 @@ msgstr "Kann zerdrückt werden, um <link=\"LIME\">Kalk</link> zu erhalten."
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.NAME"
 msgid "Pokeshell Molt"
-msgstr "Pokepanzer-Hülle"
-
-#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_FRESH_WATER.DESC
-#, fuzzy
-msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_FRESH_WATER.DESC"
-msgid "Can be crushed to produce <link=\"LIME\">Lime</link>."
-msgstr "Kann gebrochen werden, um <link=\"LIME\">Kalk</link> zu erhalten."
-
-#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_FRESH_WATER.NAME
-#, fuzzy
-msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_FRESH_WATER.NAME"
-msgid "Sanishell Molt"
 msgstr "Pokepanzer-Hülle"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_WOOD.DESC
@@ -58056,7 +58111,7 @@ msgid ""
 "wider than one tile. I should keep this in mind while placing errands.\n"
 "\n"
 "To check if an errand I've placed is accessible, I can select a Duplicant and "
-"Click <b>Show Navigation</b> to view all areas within their reach."
+"click <b>Show Navigation</b> to view all areas within their reach."
 msgstr ""
 "Duplikanten haben begrenzte Sprung- und Kletterfähigkeiten. Sie können nur zwei "
 "Felder hochklettern, sich nur in Zwischenräumen aufhalten, die mindestens zwei "
@@ -70319,6 +70374,95 @@ msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ROW"
 msgid "Toggle <b>all consumable permissions</b> for <b>{0}</b>"
 msgstr "<b>Alle Nahrungsberechtigungen</b> für <b>{0}</b> umschalten"
 
+#. STRINGS.UI.CONTROLS.CLICK
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICK"
+msgid "Click"
+msgstr "Schlick"
+
+#. STRINGS.UI.CONTROLS.CLICKABLE
+msgctxt "STRINGS.UI.CONTROLS.CLICKABLE"
+msgid "Clickable"
+msgstr ""
+
+#. STRINGS.UI.CONTROLS.CLICKABLELOWER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKABLELOWER"
+msgid "clickable"
+msgstr "Kontaktfreudig"
+
+#. STRINGS.UI.CONTROLS.CLICKABLEUPPER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKABLEUPPER"
+msgid "CLICKABLE"
+msgstr "KLICK"
+
+#. STRINGS.UI.CONTROLS.CLICKED
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKED"
+msgid "Clicked"
+msgstr "Blockiert"
+
+#. STRINGS.UI.CONTROLS.CLICKEDLOWER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKEDLOWER"
+msgid "clicked"
+msgstr "Blockiert"
+
+#. STRINGS.UI.CONTROLS.CLICKEDUPPER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKEDUPPER"
+msgid "CLICKED"
+msgstr "KLICK"
+
+#. STRINGS.UI.CONTROLS.CLICKING
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKING"
+msgid "Clicking"
+msgstr "Kochen"
+
+#. STRINGS.UI.CONTROLS.CLICKINGLOWER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKINGLOWER"
+msgid "clicking"
+msgstr "Schlick"
+
+#. STRINGS.UI.CONTROLS.CLICKINGUPPER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKINGUPPER"
+msgid "CLICKING"
+msgstr "KLICK"
+
+#. STRINGS.UI.CONTROLS.CLICKLOWER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKLOWER"
+msgid "click"
+msgstr "Schlick"
+
+#. STRINGS.UI.CONTROLS.CLICKS
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKS"
+msgid "Clicks"
+msgstr "Schlick"
+
+#. STRINGS.UI.CONTROLS.CLICKSLOWER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKSLOWER"
+msgid "clicks"
+msgstr "Schlick"
+
+#. STRINGS.UI.CONTROLS.CLICKSUPPER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKSUPPER"
+msgid "CLICKS"
+msgstr "KLICK"
+
+#. STRINGS.UI.CONTROLS.CLICKUPPER
+#, fuzzy
+msgctxt "STRINGS.UI.CONTROLS.CLICKUPPER"
+msgid "CLICK"
+msgstr "KLICK"
+
 #. STRINGS.UI.CONTROLS.PRESS
 #, fuzzy
 msgctxt "STRINGS.UI.CONTROLS.PRESS"
@@ -74824,7 +74968,7 @@ msgstr "FOREN BESUCHEN"
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_INFO"
 msgid ""
 "We've changed how save files are organized!\n"
-"Please Click the button below to automatically update your save file storage."
+"Please click the button below to automatically update your save file storage."
 msgstr ""
 "Wir haben den Aufbau der Speicherstände geändert!\n"
 "Bitte klicke auf die Schaltfläche unten, um deine Speicherstände automatisch zu "
@@ -86338,7 +86482,7 @@ msgstr "<b>{0}</b>"
 #. STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON
 #, fuzzy
 msgctxt "STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON"
-msgid "Double-Click to go to <b>{0}</b>"
+msgid "Double-click to go to <b>{0}</b>"
 msgstr "Doppelklick, um zu <b>{0}</b> gelangen"
 
 # Kontext?
@@ -86838,8 +86982,9 @@ msgid "Must have a clear path to space"
 msgstr "Muss einen freien Weg in den Weltraum haben"
 
 #. STRINGS.UI.TOOLS.PLACE.TOOLACTION
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.PLACE.TOOLACTION"
-msgid "CLICK TO PLACE"
+msgid "CLICK  TO PLACE"
 msgstr "ZUM PLATZIEREN ANKLICKEN"
 
 #. STRINGS.UI.TOOLS.PLACE.TOOLNAME
@@ -95584,6 +95729,50 @@ msgstr ""
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
 msgstr "Wasser-Asteroid"
+
+#, fuzzy
+#~ msgctxt "STRINGS.CREATURES.MODIFIERS.ELEMENT_GROWTH_RATE.NAME"
+#~ msgid "Tonic Root Regrowth Rate"
+#~ msgstr "Schuppenwachstumsrate"
+
+#, fuzzy
+#~ msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.TOOLTIP"
+#~ msgid ""
+#~ "This Duplicant had an extremely spicy meal and is feeling full of energy but "
+#~ "a bit stressed"
+#~ msgstr ""
+#~ "Dieser Duplikant hatte einen wirklich guten Traum und ist voller "
+#~ "Möglichkeiten!"
+
+#~ msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT"
+#~ msgid "Increases Decor in a small area effect around the wearer."
+#~ msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger."
+
+#~ msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
+#~ msgid "Increases Decor in a small area effect around the wearer."
+#~ msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger."
+
+#, fuzzy
+#~ msgctxt ""
+#~ "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_FRESH_WATER.DESC"
+#~ msgid "Can be crushed to produce <link=\"LIME\">Lime</link>."
+#~ msgstr "Kann gebrochen werden, um <link=\"LIME\">Kalk</link> zu erhalten."
+
+#, fuzzy
+#~ msgctxt ""
+#~ "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_FRESH_WATER.NAME"
+#~ msgid "Small Sanishell Molt"
+#~ msgstr "Kleine Pokepanzer-Hülle"
+
+#, fuzzy
+#~ msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_FRESH_WATER.DESC"
+#~ msgid "Can be crushed to produce <link=\"LIME\">Lime</link>."
+#~ msgstr "Kann gebrochen werden, um <link=\"LIME\">Kalk</link> zu erhalten."
+
+#, fuzzy
+#~ msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_FRESH_WATER.NAME"
+#~ msgid "Sanishell Molt"
+#~ msgstr "Pokepanzer-Hülle"
 
 #~ msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.EMAILHEADER1"
 #~ msgid ""
