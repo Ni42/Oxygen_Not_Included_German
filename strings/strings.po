@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-04-21 21:50+0200\n"
+"PO-Revision-Date: 2022-05-14 14:51+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1201,12 +1201,13 @@ msgid "Fabricator accepts mutant seeds"
 msgstr "Fabrikator akzeptiert mutiertes Saatgut"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.TOOLTIP"
 msgid ""
 "This fabricator is allowed to use <style=\"KKeyword\">Mutant Seeds</style> as "
 "recipe ingredients"
-msgstr "Dieser Fabrikator darf Mutantensamen als Rezeptzutaten verwenden."
+msgstr ""
+"Dieser Fabrikator darf <style=\"KKeyword\">Mutantensamen</style> als "
+"Rezeptzutaten verwenden"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME"
@@ -5885,7 +5886,6 @@ msgid "Allows skilled Duplicants to add extra personal pizzazz to their wardrobe
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.EFFECT"
 msgid ""
 "Upgrades <link=\"FUNKYVEST\">Snazzy Suits</link> into <link=\"CUSTOMCLOTHING"
@@ -5893,16 +5893,15 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
-"Brennt <link=\"CLAY\">Ton</link>, um <link=\"CERAMIC\">Keramik</link> "
-"herzustellen.\n"
+"Verbessert <link=\"FUNKYVEST\">Schicke Anzüge</link> in <link=\"CUSTOMCLOTHING"
+"\">erstklassiger Kleidung</link>.\n"
 "\n"
 "Duplikanten werden nichts herstellen, wenn kein Rezept in der Warteliste ist."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME"
 msgid "<link=\"CLOTHINGALTERATIONSTATION\">Clothing Refashionator</link>"
-msgstr "<link=\"SHEARINGSTATION\">Scherstation</link>"
+msgstr "<link=\"CLOTHINGALTERATIONSTATION\">Kleidungsumschneiderei</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC"
@@ -6021,10 +6020,9 @@ msgstr ""
 "Das Gebäude muss dem Weltraum zugewandt sein."
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPE.NAME"
 msgid "<link=\"CLUSTERTELESCOPE\">Telescope</link>"
-msgstr "<link=\"TELESCOPE\">Teleskop</link>"
+msgstr "<link=\"CLUSTERTELESCOPE\">Teleskop</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPE.REQUIREMENT_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPE.REQUIREMENT_TOOLTIP"
@@ -6066,10 +6064,9 @@ msgstr ""
 "Das Gebäude muss dem Weltraum zugewandt sein."
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME"
 msgid "<link=\"CLUSTERTELESCOPEENCLOSED\">Enclosed Telescope</link>"
-msgstr "<link=\"TELESCOPE\">Verschlossenes Teleskop</link>"
+msgstr "<link=\"CLUSTERTELESCOPEENCLOSED\">Verschlossenes Teleskop</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.REQUIREMENT_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.REQUIREMENT_TOOLTIP"
@@ -10547,14 +10544,13 @@ msgid "Count Eggs"
 msgstr "Zählt Tier-Eier"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCRITTERCOUNTSENSOR.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCRITTERCOUNTSENSOR.DESC"
 msgid ""
 "Detecting critter populations can help adjust their automated feeding and care "
 "regimens."
 msgstr ""
 "Die Erkennung von Tier-Populationen kann helfen, ihre automatisierte Fütterung "
-"und Versorgung anzupassen."
+"und Pflege anzupassen."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCRITTERCOUNTSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCRITTERCOUNTSENSOR.EFFECT"
@@ -16366,7 +16362,6 @@ msgid "<link=\"SOLIDLOGICVALVE\">Conveyor Shutoff</link>"
 msgstr "<link=\"SOLIDLOGICVALVE\">Förderschie­nen-Sperre</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC"
 msgid ""
 "An auto-sweeper's range can be viewed at any time by  clicking on the building."
@@ -17064,7 +17059,6 @@ msgstr ""
 "Duplikanten erhalten {amount} {attrib}, wenn sie nur mit sich selbst plaudern."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT"
 msgid "{attrib}: {amount} (At least one Duplicant)"
 msgstr "{attrib}: {amount} (Mindestens ein Duplikant)"
@@ -17079,7 +17073,6 @@ msgstr ""
 "Duplikanten plaudern."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE"
 msgid "{attrib}: {amount} (At least one Duplicant across space)"
 msgstr "{attrib}: {amount} (Mindestens ein Duplikant durch das Weltall)"
@@ -23258,24 +23251,23 @@ msgid "Balm Lily"
 msgstr "Balsamlilien"
 
 #. STRINGS.CODEX.BASIC_FABRIC.BODY.CONTAINER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.BASIC_FABRIC.BODY.CONTAINER1"
 msgid ""
 "A ball of raw cellulose harvested from a Thimble Reed.\n"
 "\n"
 "It is used in the production of <link=\"EQUIPMENT\">Clothing</link> and textiles."
 msgstr ""
-"Ein Klumpen unbearbeiteter Zellulose für die Produktion von <link=\"EQUIPMENT"
-"\">Kleidung</link> und Textilien."
+"Eine Kugel aus Rohzellulose, die aus dem Fingerhut-Schilf gewonnen wird.\n"
+"\n"
+"Es wird für die Herstellung von <link=\"EQUIPMENT\">Bekleidung</link> und "
+"Textilien verwendet."
 
 #. STRINGS.CODEX.BASIC_FABRIC.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.BASIC_FABRIC.SUBTITLE"
 msgid "Textile Ingredient"
-msgstr "Rezeptzutaten"
+msgstr "Textilbestandteil"
 
 #. STRINGS.CODEX.BASIC_FABRIC.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.BASIC_FABRIC.TITLE"
 msgid "Reed Fiber"
 msgstr "Schilffaser"
@@ -23636,7 +23628,6 @@ msgstr ""
 "heißer neuer Industriedesigner gebracht hat.</indent></smallcaps>"
 
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.EMAILHEADER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.EMAILHEADER1"
 msgid ""
 "<smallcaps>To: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></"
@@ -23645,8 +23636,8 @@ msgid ""
 "------------------\n"
 msgstr ""
 "<smallcaps>An: <b>Direktor Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></"
-"size></color>\n"
-"Von: <b>[ENTFERNT]</b></smallcaps>\n"
+"size></color></smallcaps>\n"
+"Von: <b>[ENTFERNT]</b>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.SIGNATURE1
@@ -23858,16 +23849,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.CRITTERDELIVERY.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
 msgstr "VERSCHLÜSSELUNGSEBENE: ZWEI"
 
 #. STRINGS.CODEX.CRITTERDELIVERY.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.CRITTERDELIVERY.TITLE"
 msgid "Critter Delivery"
-msgstr "Fertigungsbezogene Lieferung"
+msgstr "Tiertransport"
 
 #. STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1"
@@ -24257,7 +24246,6 @@ msgid "Space Transport"
 msgstr "Weltraumtransport"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_1"
 msgid ""
 "Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket "
@@ -24271,13 +24259,12 @@ msgstr ""
 "Um eine Rakete zu bauen, musst du zunächst eine <link=\"LAUNCHPAD"
 "\">Raketenplattform</link> konstruieren und Module aus dem Menü hinzufügen. Alle "
 "Raketen benötigen ein Triebwerk, einen Nasenkonus und ein Kommandomodul, das von "
-"einem Duplikanten mit der Fähigkeit <link=\"ASTRONAUTTRAINEE\">Raketensteuerung</"
+"einem Duplikanten mit der Fähigkeit <link=\"ROCKETPILOTING1\">Raketensteuerung</"
 "link> oder höher gesteuert wird. Beachte, dass der <link=\"HABITATMODULESMALL"
 "\">Solo-Raumfahrer-Nasenkonus</link> sowohl als Kommandomodul als auch als "
 "Nasenkonus funktioniert.\n"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_2"
 msgid ""
 "To scan space and see nearby intersteller destinations a <link=\"CLUSTERTELESCOPE"
@@ -24294,7 +24281,7 @@ msgid ""
 "\n"
 msgstr ""
 "Um den Weltraum zu scannen und nahe gelegene interstellare Ziele zu sehen, muss "
-"zunächst ein <link=\"TELESCOPE\">Teleskop</link> auf der Oberfläche eines "
+"zunächst ein <link=\"CLUSTERTELESCOPE\">Teleskop</link> auf der Oberfläche eines "
 "Planetoiden gebaut werden. <link=\"ORBITALRESEARCHCENTER\">Orbitale Mikrolabore</"
 "link> im Orbit um einen Planetoiden und ein <link=\"SCANNERMODULE"
 "\">Kartographiemodul</link>, das an einer Rakete befestigt ist, können ebenfalls "
@@ -24536,16 +24523,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.GINGER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.GINGER.SUBTITLE"
 msgid "Edible Plant"
 msgstr "Essbare Pflanze"
 
 #. STRINGS.CODEX.GINGER.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.GINGER.TITLE"
 msgid "Tonic Root"
-msgstr "Raumkonflikt"
+msgstr "Tonic-Wurzel"
 
 #. STRINGS.CODEX.GLOSSY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.GLOSSY.BODY.CONTAINER1"
@@ -24553,7 +24538,6 @@ msgid "<smallcaps>Pictured: \"Glossy\" Drecko variant</smallcaps>"
 msgstr "<smallcaps>Abgebildet: \"Glanz\" Drecko-Art</smallcaps>"
 
 #. STRINGS.CODEX.GLOSSY.BODY.CONTAINER2
-#, fuzzy
 msgctxt "STRINGS.CODEX.GLOSSY.BODY.CONTAINER2"
 msgid ""
 "Caring for Dreckos is a fulfilling endeavor thanks to their companionable "
