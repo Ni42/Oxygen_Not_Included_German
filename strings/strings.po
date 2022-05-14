@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-05-14 14:51+0200\n"
+"PO-Revision-Date: 2022-05-14 20:34+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -25073,7 +25073,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER1"
 msgid ""
 "<smallcaps>To: <b>Dr. Olowe</b><size=10><alpha=#AA> <aolowe@gravitas.nova></"
@@ -25082,14 +25081,13 @@ msgid ""
 "color></smallcaps>\n"
 "------------------\n"
 msgstr ""
-"<smallcaps>An: <b>Dr. Sklodowska</b><size=10><alpha=#AA> <msklodowska@gravitas."
-"nova></size></color>\n"
-"Von: <b>Hr. Kraus</b><alpha=#AA><size=10> <okraus@gravitas.nova></size></color></"
-"smallcaps>\n"
+"<smallcaps>An: <b>Dr. Olowe</b><size=10><alpha=#AA> <aolowe@gravitas.nova></"
+"size></color>\n"
+"Von: <b>Quinn Kelly</b><alpha=#AA><size=10> <editor@stemscoop.news></size></"
+"color></smallcaps>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER2
-#, fuzzy
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.EMAILHEADER2"
 msgid ""
 "<smallcaps>To: <b>[BCC: all]</b><alpha=#AA><size=10> </size></color>\n"
@@ -25097,26 +25095,23 @@ msgid ""
 "color></smallcaps>\n"
 "------------------\n"
 msgstr ""
-"<smallcaps>An: <b>Hr. Kraus</b><alpha=#AA><size=12> <okraus@gravitas.nova></"
-"size></color>\n"
-"Von: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></"
-"smallcaps>\n"
+"<smallcaps>An: <b>[BCC: alle]</b><alpha=#AA><size=10> </size></color>\n"
+"Von: <b>Quinn Kelly</b><alpha=#AA><size=10> <editor@stemscoop.news></size></"
+"color></smallcaps>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE1
-#, fuzzy
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE1"
 msgid ""
 "\n"
 "-Q\n"
 "------------------\n"
 msgstr ""
-"{0}\n"
+"\n"
+"-Q\n"
 "------------------\n"
-"{1}"
 
 #. STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE2
-#, fuzzy
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE2"
 msgid ""
 "\n"
@@ -25124,11 +25119,12 @@ msgid ""
 "Quinn Kelly\n"
 "------------------\n"
 msgstr ""
-"Wachstum im Gange\n"
+"\n"
+"Viele Grüße,\n"
+"Quinn Kelly\n"
 "------------------\n"
 
 #. STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE"
 msgid "UNENCRYPTED"
 msgstr "UNVERSCHLÜSSELT"
@@ -25257,13 +25253,11 @@ msgid ""
 msgstr "Holz, das von einem <link=\"WOODTREE\">Arbor-Baum</link> geerntet wurde."
 
 #. STRINGS.CODEX.LUMBER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.LUMBER.SUBTITLE"
 msgid "Renewable Resource"
-msgstr "Seltene Ressource"
+msgstr "Erneuerbare Ressource"
 
 #. STRINGS.CODEX.LUMBER.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.LUMBER.TITLE"
 msgid "Lumber"
 msgstr "Holz"
@@ -25417,7 +25411,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER1"
 msgid ""
 "<smallcaps>To: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></"
@@ -25428,12 +25421,11 @@ msgid ""
 msgstr ""
 "<smallcaps>An: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></"
 "size></color>\n"
-"Von: <b>Dr. Summers</b><alpha=#AA><size=12> <jsummers@gravitas.nova></size></"
-"color></smallcaps>\n"
+"Von: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></size></color></"
+"smallcaps>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER2
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER2"
 msgid ""
 "<smallcaps>To: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></"
@@ -25442,14 +25434,13 @@ msgid ""
 "color></smallcaps>\n"
 "------------------\n"
 msgstr ""
-"<smallcaps>An: <b>Dr. Techna</b><alpha=#AA><size=12> <ntechna@gravitas.nova></"
+"<smallcaps>An: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></"
 "size></color>\n"
 "Von: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></size></color></"
 "smallcaps>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER3
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.EMAILHEADER3"
 msgid ""
 "<smallcaps>To: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></"
@@ -25458,14 +25449,13 @@ msgid ""
 "color></smallcaps>\n"
 "------------------\n"
 msgstr ""
-"<smallcaps>An: <b>Dr. Jones</b><alpha=#AA><size=12> <ejones@gravitas.nova></"
+"<smallcaps>An: <b>Dr. Olowe</b><alpha=#AA><size=12> <aolowe@gravitas.nova></"
 "size></color>\n"
-"Von: <b>Dr. Summers</b><alpha=#AA><size=12> <jsummers@gravitas.nova></size></"
+"Von: <b>Director Stern</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></"
 "color></smallcaps>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE1
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE1"
 msgid ""
 "\n"
@@ -25475,13 +25465,12 @@ msgid ""
 "------------------\n"
 msgstr ""
 "\n"
-"-Dr. Summers\n"
-"<size=11>Abteilung für Information und Statistik\n"
+"-Dr. Olowe\n"
+"<size=11>Arbeits- und Organisationspsychologe\n"
 "The Gravitas Facility</size>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2"
 msgid ""
 "\n"
@@ -25499,7 +25488,6 @@ msgstr ""
 "------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE3
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE3"
 msgid ""
 "\n"
@@ -25510,20 +25498,19 @@ msgid ""
 msgstr ""
 "\n"
 "-Direktor Stern\n"
-"<size=11>The Gravitas Facility</size>\n"
+"<size=11>\n"
+"The Gravitas Facility</size>\n"
 "------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "VERSCHLÜSSELUNGSEBENE: DREI"
 
 #. STRINGS.CODEX.MISSINGNOTES.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MISSINGNOTES.TITLE"
 msgid "Re: Missing notes"
-msgstr "Materialien fehlen"
+msgstr "Re: Fehlende Notizen"
 
 #. STRINGS.CODEX.MISSINGNOTES.TITLE2
 msgctxt "STRINGS.CODEX.MISSINGNOTES.TITLE2"
@@ -25916,7 +25903,6 @@ msgid "Cycle 15"
 msgstr "Zyklus 15"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.BODY
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG3DLC1.BODY"
 msgid ""
 "As my Duplicants venture out into the neighboring worlds, there is an ever "
@@ -26508,7 +26494,6 @@ msgid "Duplicant Teleportation"
 msgstr "Duplikanten Teleportation"
 
 #. STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.BODY
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALOPENER.BODY"
 msgid ""
 "In their interplanetary travels throughout this system, my Duplicants have "
@@ -26646,16 +26631,14 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.MYSTERYAWARD.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYSTERYAWARD.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
 msgstr "VERSCHLÜSSELUNGSEBENE: DREI"
 
 #. STRINGS.CODEX.MYSTERYAWARD.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.MYSTERYAWARD.TITLE"
 msgid "Nanotech Article"
-msgstr "Nucleoid-Artikel"
+msgstr "Nanotech-Artikel"
 
 #. STRINGS.CODEX.NEGA.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.NEGA.BODY.CONTAINER1"
@@ -26846,7 +26829,6 @@ msgstr ""
 "den engsten Winkel zu stöbern."
 
 #. STRINGS.CODEX.PIP.SPECIES_SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.PIP.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "Tierspezies"
@@ -27139,13 +27121,11 @@ msgstr ""
 "bis zu dem Tag an dem sie schließlich sterben."
 
 #. STRINGS.CODEX.POKESHELL.SPECIES_SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.POKESHELL.SPECIES_SUBTITLE"
 msgid "Critter Species"
 msgstr "Tierspezies"
 
 #. STRINGS.CODEX.POKESHELL.SPECIES_TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.POKESHELL.SPECIES_TITLE"
 msgid "Pokeshells"
 msgstr "Pokepanzer"
@@ -27422,7 +27402,6 @@ msgid "Nuclear Energy"
 msgstr "Kernenergie"
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_1
-#, fuzzy
 msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_1"
 msgid ""
 "When transporting radioactive materials such as <link=\"URANIUMORE\">Uranium</"
@@ -27433,15 +27412,16 @@ msgid ""
 "\"LEAD\">Lead</link>, is crucial to ensuring that Duplicants avoid <link="
 "\"RADIATIONSICKNESS\">Radiation Sickness</link>."
 msgstr ""
-"Beim Transport von radioaktivem Material wie Uran muss darauf geachtet werden, "
-"dass keine Kontamination der Umgebung erfolgt.\n"
+"Beim Transport von radioaktivem Material wie <link=\"URANIUMORE\">Uran</link> "
+"muss darauf geachtet werden, dass keine <link=\"RADIATIONSICKNESS"
+"\">Kontamination</link> der Umgebung erfolgt.\n"
 "\n"
 "Die Verwendung von geeigneten Transportbehältern, wie z. B. solchen, die mit "
-"Blei ausgekleidet sind, ist entscheidend, um sicherzustellen, dass Duplikanten "
-"keine Strahlenkrankheit erleiden."
+"<link=\"LEAD\">Blei</link> ausgekleidet sind, ist entscheidend, um "
+"sicherzustellen, dass Duplikanten keine <link=\"RADIATIONSICKNESS"
+"\">Strahlenkrankheit</link> erleiden."
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_2
-#, fuzzy
 msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_2"
 msgid ""
 "Duplicants who are exposed to <link=\"RADIATIONSICKNESS\">Radioactive "
@@ -27462,19 +27442,23 @@ msgid ""
 "\">Zombie Spores</link> on surfaces (including on Duplicants).\n"
 "\n"
 msgstr ""
-"Duplikanten, die radioaktiven Schadstoffen ausgesetzt sind, müssen einen Schutz "
-"tragen, sonst besteht die Gefahr, dass sie an der Strahlenkrankheit erkranken.\n"
+"Duplikanten, die <link=\"RADIATIONSICKNESS\">radioaktiven Schadstoffen</link> "
+"ausgesetzt sind, müssen einen Schutz tragen, sonst besteht die Gefahr, dass sie "
+"an der <link=\"RADIATIONSICKNESS\">Strahlenkrankheit</link> erkranken.\n"
 "\n"
 "Einige Duplikanten haben eine eher natürliche Resistenz gegen Strahlung, aber "
-"eine längere Exposition gegenüber radioaktiven Schadstoffen erhöht dennoch ihre "
-"Chancen, krank zu werden.\n"
+"eine längere Exposition erhöht dennoch ihre Chancen, krank zu werden.\n"
 "\n"
-"Der Verzehr von Jodpräparaten und Meeresfrüchten wird die Strahlenresistenz "
-"eines Duplikanten vorbeugend erhöhen, aber die Strahlenkrankheit eines "
-"Duplikanten nicht heilen, wenn er einmal erkrankt ist.\n"
+"Der Verzehr von <link=\"BASICRADPILL\">Strahlungstabletten</link> oder "
+"Meeresfrüchten wie <link=\"COOKEDFISH\">Gekochtes Seefleisch</link> oder <link="
+"\"SEALETTUCE\">Wasserkraut</link> erhöht die Strahlenresistenz eines "
+"Duplikanten, wird aber die <link=\"RADIATIONSICKNESS\">Strahlenkrankheit</link> "
+"eines Duplikanten nicht heilen, wenn er einmal erkrankt ist.\n"
 "\n"
-"Andererseits tötet die Strahlenbelastung Lebensmittelvergiftungen, Schleimlunge "
-"und Zombiesporen auf Oberflächen (einschließlich Duplikanten).\n"
+"Andererseits tötet die Strahlenbelastung <link=\"FOODPOISONING"
+"\">Lebensmittelvergiftung</link>, <link=\"SLIMELUNG\">Schleimlunge</link> und "
+"<link=\"ZOMBIESPORES\">Zombiesporen</link> auf Oberflächen (einschließlich "
+"Duplikanten).\n"
 "\n"
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_3
