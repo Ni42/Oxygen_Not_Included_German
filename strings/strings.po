@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-05-14 20:34+0200\n"
+"PO-Revision-Date: 2022-05-15 12:11+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -27462,7 +27462,6 @@ msgstr ""
 "\n"
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_3
-#, fuzzy
 msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_3"
 msgid ""
 "A <link=\"NUCLEARREACTOR\">Research Reactor</link> will require <link="
@@ -27476,13 +27475,16 @@ msgid ""
 "a  <link=\"STEAMTURBINE2\">Steam Turbine</link> to produce a considerable source "
 "of <link=\"POWER\">Power</link>."
 msgstr ""
-"Für den Betrieb eines Forschungsreaktors wird angereichertes Uran benötigt. Uran "
-"kann mit einer Uranzentrifuge angereichert werden.\n"
+"Für den Betrieb eines <link=\"NUCLEARREACTOR\">Forschungsreaktors</link> wird "
+"<link=\"ENRICHEDURANIUM\">angereichertes Uran</link> benötigt. Uran kann mit "
+"einer <link=\"URANIUMCENTRIFUGE\">Uranzentrifuge</link> angereichert werden.\n"
 "\n"
-"Einmal mit angereichertem Uran versorgt, erzeugt ein Forschungsreaktor eine "
-"enorme Wärmemenge. Diese kann zur Erzeugung von Dampf unter eine Wasserquelle "
-"platziert werden. Mit einer angeschlossenen Dampfturbine ergibt sich eine "
-"beachtliche Energiequelle."
+"Einmal mit <link=\"ENRICHEDURANIUM\">angereichertem Uran</link> versorgt, "
+"erzeugt ein <link=\"NUCLEARREACTOR\">Forschungsreaktor</link> eine enorme <link="
+"\"HEAT\">Wärmemenge</link>. Diese kann zur Erzeugung von <link=\"STEAM\">Dampf</"
+"link> unter eine <link=\"WATER\">Wasserquelle</link> platziert werden. Mit einer "
+"angeschlossenen <link=\"STEAMTURBINE2\">Dampfturbine</link> ergibt sich eine "
+"beachtliche <link=\"POWER\">Energiequelle</link>."
 
 #. STRINGS.CODEX.RADIATION.TITLE
 msgctxt "STRINGS.CODEX.RADIATION.TITLE"
@@ -27919,7 +27921,6 @@ msgid "Sleet Wheat"
 msgstr "Graupelweizen"
 
 #. STRINGS.CODEX.SLICKSTER.BODY.CONTAINER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.SLICKSTER.BODY.CONTAINER1"
 msgid ""
 "Slicksters are a unique creature most renowned for their ability to exude "
@@ -27988,22 +27989,9 @@ msgid "Spaced Out Trailer"
 msgstr "Spaced Out Trailer"
 
 #. STRINGS.CODEX.SO_LAUNCH_TRAILER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.SUBTITLE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-04-21 21:50+0200\n"
-"Last-Translator: CarstenG\n"
-"Language-Team: \n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0\n"
 
 #. STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE
 msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE"
@@ -28243,13 +28231,11 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.SWAMPLILYFLOWER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SWAMPLILYFLOWER.SUBTITLE"
 msgid "Medicinal Herb"
 msgstr "Heilkraut"
 
 #. STRINGS.CODEX.SWAMPLILYFLOWER.TITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.SWAMPLILYFLOWER.TITLE"
 msgid "Balm Lily Flower"
 msgstr "Balsamlilien-Blume"
@@ -28329,7 +28315,6 @@ msgstr ""
 "color></color></indent>>"
 
 #. STRINGS.CODEX.TIMEOFFAPPROVED.BODY.EMAILHEADER
-#, fuzzy
 msgctxt "STRINGS.CODEX.TIMEOFFAPPROVED.BODY.EMAILHEADER"
 msgid ""
 "<smallcaps>To: <b>Dr. Ross</b><size=12><alpha=#AA> <dross@gravitas.nova></size></"
@@ -28338,8 +28323,8 @@ msgid ""
 "smallcaps>\n"
 "------------------\n"
 msgstr ""
-"<smallcaps>An: <b>Dr. Mason</b><size=12><alpha=#AA> <dross@gravitas.nova></"
-"size></color>\n"
+"<smallcaps>An: <b>Dr. Ross</b><size=12><alpha=#AA> <dross@gravitas.nova></size></"
+"color>\n"
 "Von: <b>Admin</b><size=12><alpha=#AA> <admin@gravitas.nova></color></size></"
 "smallcaps>\n"
 "------------------\n"
@@ -28439,7 +28424,6 @@ msgid "<smallcaps>Pictured: \"Delecta\" Vole variant</smallcaps>"
 msgstr "<smallcaps>Abgebildet: \"Massive\" Puft-Art</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE"
 msgid "Critter Morph"
 msgstr "Tier-Gestalt"
@@ -28457,7 +28441,6 @@ msgid "<smallcaps>Pictured: \"Filter\" Pokeshell variant</smallcaps>"
 msgstr "<smallcaps>Abgebildet: \"Schmelz\" Slickster-Art</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE"
 msgid "Critter Morph"
 msgstr "Tier-Gestalt"
@@ -28481,7 +28464,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.VARIANT_HUG.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.VARIANT_HUG.SUBTITLE"
 msgid "Critter Morph"
 msgstr "Tier-Gestalt"
@@ -28498,7 +28480,6 @@ msgid "<smallcaps>Pictured: \"Oak\" Pokeshell variant</smallcaps>"
 msgstr "<smallcaps>Abgebildet: \"Blitzblank\" Puft-Art</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_WOOD.SUBTITLE
-#, fuzzy
 msgctxt "STRINGS.CODEX.VARIANT_WOOD.SUBTITLE"
 msgid "Critter Morph"
 msgstr "Tier-Gestalt"
@@ -30170,16 +30151,14 @@ msgid "Diet"
 msgstr "Ernährung"
 
 #. STRINGS.CREATURES.FERTILITY_MODIFIERS.LIVING_IN_ELEMENT.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.FERTILITY_MODIFIERS.LIVING_IN_ELEMENT.DESC"
 msgid "Dwells in {0}"
-msgstr "{0} fehlt"
+msgstr "Verweilt in {0}"
 
 #. STRINGS.CREATURES.FERTILITY_MODIFIERS.LIVING_IN_ELEMENT.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.FERTILITY_MODIFIERS.LIVING_IN_ELEMENT.NAME"
 msgid "Habitat"
-msgstr "Habitat-Modul"
+msgstr "Habitat"
 
 #. STRINGS.CREATURES.FERTILITY_MODIFIERS.NEARBY_CREATURE.DESC
 msgctxt "STRINGS.CREATURES.FERTILITY_MODIFIERS.NEARBY_CREATURE.DESC"
