@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-05-15 12:11+0200\n"
+"PO-Revision-Date: 2022-05-15 22:20+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -25660,10 +25660,12 @@ msgstr ""
 "den meisten Pflanzen- und Tierarten abzubauen und zu verzehren."
 
 #. STRINGS.CODEX.MORB.BODY.CONTAINER2
+#, fuzzy
 msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER2"
 msgid ""
 "It poses a severe disease risk to humans due to the thick slime it excretes to "
 "surround its inner cartilage structures.\n"
+"\n"
 "A single teaspoon of Morb slime can contain up to a quadrillion bacteria that "
 "work to deter would-be predators and liquefy its food."
 msgstr ""
@@ -29288,8 +29290,9 @@ msgstr ""
 "Schutzanzug abgeschlossen haben: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXPAND_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXPAND_TOOLTIP"
-msgid "<i>Click to view progress</i>"
+msgid "<i>CLICK to view progress</i>"
 msgstr "<i>Klicken, um den Fortschritt anzuzeigen</i>"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.FRACTIONAL_CYCLE
@@ -30319,15 +30322,12 @@ msgstr ""
 msgctxt "STRINGS.CREATURES.MODIFIERS.EGGHUG.TOOLTIP"
 msgid ""
 "This egg was recently hugged by an affectionate critter\n"
-"------------------\n"
+"\n"
 "Increased <style=\"KKeyword\">Incubation Rate</style>"
 msgstr ""
-"Dieses Ei wurde kürzlich von einer freundlichen Duplikanten angesungen.\n"
+"Dieses Ei wurde kürzlich von einem anhänglichen Tier umarmt\n"
 "------------------\n"
-"Erhöhte die <style=\"KKeyword\">Inkubationsrate</style>\n"
-"\n"
-"Duplikanten müssen über Fertigkeit <style=\"KKeyword\">Viehzüchter</style> "
-"verfügen, um sich um Tiere zu kümmern"
+"Erhöhte <style=\"KKeyword\">Inkubationsrate</style>"
 
 #. STRINGS.CREATURES.MODIFIERS.ELEMENT_GROWTH_RATE.NAME
 #, fuzzy
@@ -30361,10 +30361,11 @@ msgid "Happy"
 msgstr "Glücklich"
 
 #. STRINGS.CREATURES.MODIFIERS.HAPPY.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.CREATURES.MODIFIERS.HAPPY.TOOLTIP"
 msgid ""
 "This critter's in high spirits because all of its needs are being met\n"
-"------------------\n"
+"\n"
 "It will produce more materials as a result"
 msgstr ""
 "Alle Bedürfnisse dieses Tiers wurden erfüllt und es fühlt sich sehr zufrieden\n"
@@ -30383,7 +30384,7 @@ msgctxt "STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.TOOLTIP"
 msgid ""
 "This critter was recently hugged by a Duplicant and is feeling extra "
 "affectionate\n"
-"------------------\n"
+"\n"
 "While in this state, it hugs <style=\"KKeyword\">Eggs</style> more frequently"
 msgstr ""
 "Dieses Ei wurde kürzlich von einer freundlichen Duplikanten angesungen.\n"
@@ -30425,10 +30426,11 @@ msgid "Lullabied"
 msgstr "Schlaflied"
 
 #. STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP"
 msgid ""
 "This egg was recently sung to by a kind Duplicant\n"
-"------------------\n"
+"\n"
 "Increased <style=\"KKeyword\">Incubation Rate</style>\n"
 "\n"
 "Duplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill "
@@ -30450,6 +30452,13 @@ msgstr "Verhungert"
 msgctxt "STRINGS.CREATURES.MODIFIERS.OUT_OF_CALORIES.TOOLTIP"
 msgid "Get this critter something to eat!"
 msgstr "Gib diesem Tier etwas zu essen!"
+
+#. STRINGS.CREATURES.MODIFIERS.OVERCROWDED.FISHTOOLTIP
+msgctxt "STRINGS.CREATURES.MODIFIERS.OVERCROWDED.FISHTOOLTIP"
+msgid ""
+"This critter is uncomfortable with either the size of this pool, or the number "
+"of other critters sharing it"
+msgstr ""
 
 #. STRINGS.CREATURES.MODIFIERS.OVERCROWDED.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.OVERCROWDED.NAME"
@@ -30504,10 +30513,11 @@ msgid "Glum"
 msgstr "Mürrisch"
 
 #. STRINGS.CREATURES.MODIFIERS.UNHAPPY.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.CREATURES.MODIFIERS.UNHAPPY.TOOLTIP"
 msgid ""
 "This critter's feeling down because its needs aren't being met\n"
-"------------------\n"
+"\n"
 "It will produce less materials as a result"
 msgstr ""
 "Dieses Tier fühlt sich schlecht, weil seine Bedürfnisse nicht erfüllt sind\n"
@@ -37156,6 +37166,48 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
 msgid "Toggling"
 msgstr "Umschalten"
+
+#. STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.NAME"
+msgid "Artifact Analysis"
+msgstr "Artefaktanalyse"
+
+#. STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.STATUS"
+msgid "Going to analyze artifacts"
+msgstr "Geht etwas herstellen"
+
+#. STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.TOOLTIP"
+msgid ""
+"This Duplicant is working on analyzing <style=\"KKeyword\">Artifacts</style> to "
+"discover the past"
+msgstr ""
+"Dieser Duplikant verlegt ein <style=\"KKeyword\">Tier</style> an einen neuen Ort"
+
+#. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.NAME"
+msgid "Seed Analysis"
+msgstr "Analyse"
+
+#. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.STATUS"
+msgid "Going to analyze seeds"
+msgstr "Geht Einstellungen ändern"
+
+#. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP"
+msgid ""
+"This Duplicant is working on analyzing <style=\"KKeyword\">Seeds</style> to find "
+"mutations"
+msgstr ""
+"Dieser Duplikant verlegt ein <style=\"KKeyword\">Tier</style> an einen neuen Ort"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
@@ -45601,12 +45653,13 @@ msgid "Contact with {Sickness} Germs"
 msgstr "Kontakt mit {Sickness}-Keimen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.TOOLTIP"
 msgid ""
 "This Duplicant has encountered {Sickness} Germs and is at risk of dangerous "
 "exposure if contact continues\n"
 "\n"
-"<i>Click to jump to last contact location</i>"
+"<i>CLICK to jump to last contact location</i>"
 msgstr ""
 "Dieser Duplikant ist mit {Sickness}-Keimen in Berührung gekommen und ist bei "
 "anhaltendem Kontakt gefährdet.\n"
@@ -45893,6 +45946,7 @@ msgid "Exposure"
 msgstr "Exposition"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP"
 msgid ""
 "This Duplicant has been exposed to a concentration of {Sickness} Germs and is at "
@@ -45907,7 +45961,7 @@ msgid ""
 "    • Germ Resistance: {Dupe}\n"
 "    • {Severity} Exposure: {ExposureLevelBonus}\n"
 "\n"
-"<i>Click to jump to last exposure location</i>"
+"<i>CLICK to jump to last exposure location</i>"
 msgstr ""
 "Dieser Duplikant wurde einer Konzentration von {Sickness}-Keimen ausgesetzt und "
 "läuft Gefahr, in der nächsten Schicht krank aufzuwachen.\n"
@@ -55482,7 +55536,7 @@ msgstr "Das gekochte Fleisch eines besiegten Tiers."
 msgctxt "STRINGS.ITEMS.FOOD.CURRY.DESC"
 msgid ""
 "<link=\"GINGER\">Tonic Root</link> combined with <link=\"BEANPLANTSEED\">Nosh "
-"Beans</link> and a dash of <link=\"SPICENUT\">Pincha Peppernut</link>.\n"
+"Beans</link>.\n"
 "\n"
 "A belly-warming, nose-tingling entree."
 msgstr ""
@@ -55500,7 +55554,7 @@ msgstr "<link=\"CARGOBAY\">Frachtraum</link>"
 msgctxt "STRINGS.ITEMS.FOOD.CURRY.RECIPEDESC"
 msgid ""
 "<link=\"GINGER\">Tonic Root</link> combined with <link=\"BEANPLANTSEED\">Nosh "
-"Beans</link> and a dash of <link=\"SPICENUT\">Pincha Peppernut</link>."
+"Beans</link>."
 msgstr ""
 "<link=\"TOFU\">Tofu</link> mariniert in geschmackvoller <link=\"SPICEVINE"
 "\">Pincha-Pfefferpflanzen-Sauce</link>."
@@ -58058,7 +58112,7 @@ msgid ""
 "wider than one tile. I should keep this in mind while placing errands.\n"
 "\n"
 "To check if an errand I've placed is accessible, I can select a Duplicant and "
-"click <b>Show Navigation</b> to view all areas within their reach."
+"CLICK <b>Show Navigation</b> to view all areas within their reach."
 msgstr ""
 "Duplikanten haben begrenzte Sprung- und Kletterfähigkeiten. Sie können nur zwei "
 "Felder hochklettern, sich nur in Zwischenräumen aufhalten, die mindestens zwei "
@@ -59085,11 +59139,12 @@ msgid "Buried object discovered"
 msgstr "Vergrabenes Objekt entdeckt"
 
 #. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NOTIFICATION_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NOTIFICATION_TOOLTIP"
 msgid ""
 "My Duplicants have uncovered a {Uncoverable}!\n"
 "\n"
-"Click to jump to its location."
+"CLICK to jump to its location."
 msgstr ""
 "Meine Duplikanten haben ein {Uncoverable} entdeckt!\n"
 "\n"
@@ -68674,8 +68729,9 @@ msgid "Cosmic Radiation"
 msgstr "Kosmische Strahlung"
 
 #. STRINGS.UI.CLUSTERMAP.CHANGE_DESTINATION
+#, fuzzy
 msgctxt "STRINGS.UI.CLUSTERMAP.CHANGE_DESTINATION"
-msgid "Click to change destination"
+msgid "CLICK to change destination"
 msgstr "Klicke hier, um das Ziel zu ändern"
 
 #. STRINGS.UI.CLUSTERMAP.DESTINATION
@@ -69042,18 +69098,20 @@ msgid "Back ({0})"
 msgstr "Zurück ({0})"
 
 #. STRINGS.UI.CODEX.BACK_BUTTON_NO_HISTORY_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.CODEX.BACK_BUTTON_NO_HISTORY_TOOLTIP"
 msgid ""
-"Click to go back:\n"
+"CLICK to go back:\n"
 "N/A"
 msgstr ""
 "Klicke, um zurückzukehren zu:\n"
 "N/A"
 
 #. STRINGS.UI.CODEX.BACK_BUTTON_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.CODEX.BACK_BUTTON_TOOLTIP"
 msgid ""
-"Click to go back:\n"
+"CLICK to go back:\n"
 "{0}"
 msgstr ""
 "Klicke, um zurückzukehren zu:\n"
@@ -69262,18 +69320,20 @@ msgstr ""
 "Verderbzeit: {2}"
 
 #. STRINGS.UI.CODEX.FORWARD_BUTTON_NO_HISTORY_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.CODEX.FORWARD_BUTTON_NO_HISTORY_TOOLTIP"
 msgid ""
-"Click to go forward:\n"
+"CLICK to go forward:\n"
 "N/A"
 msgstr ""
 "Klicke, um weitermachen:\n"
 "N/A"
 
 #. STRINGS.UI.CODEX.FORWARD_BUTTON_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.CODEX.FORWARD_BUTTON_TOOLTIP"
 msgid ""
-"Click to go forward:\n"
+"CLICK to go forward:\n"
 "{0}"
 msgstr ""
 "Klicke, um weitermachen:\n"
@@ -72019,7 +72079,7 @@ msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_TOOLTIP"
 msgid ""
 "This game is currently running a Test version.\n"
 "\n"
-"Clickfor more info."
+"CLICK for more info."
 msgstr ""
 "Das Spiel läuft derzeit in einer Testversion.\n"
 "\n"
@@ -72061,36 +72121,40 @@ msgid "BUILD: {0}"
 msgstr "VERSION: {0}"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALERT_ONLY
+#, fuzzy
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALERT_ONLY"
 msgid ""
-"Click to subscribe to this diagnostic - Current State:  <b>Never Visible      </"
+"CLICK to subscribe to this diagnostic - Current State:  <b>Never Visible      </"
 "b>"
 msgstr ""
 "Klicke hier, um diese Auswertung zu erhalten - Aktueller Status: <b>Nie "
 "sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALWAYS
+#, fuzzy
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALWAYS"
 msgid ""
-"Click to pin this diagnostic to the sidebar - Current State: <b>Visible On Alert "
+"CLICK to pin this diagnostic to the sidebar - Current State: <b>Visible On Alert "
 "Only</b>"
 msgstr ""
 "Klicke hier, um diese Auswertung an die Seitenleiste zu heften - Aktueller "
 "Status: <b>Nur bei Warnung sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.NEVER
+#, fuzzy
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.NEVER"
 msgid ""
-"Click to mute this diagnostic on the sidebar -  Current State: <b>Always "
+"CLICK to mute this diagnostic on the sidebar -  Current State: <b>Always "
 "Visible</b>"
 msgstr ""
 "Klicke hier, um diese Auswertung in der Seitenleiste stumm zu schalten - "
 "Aktueller Status: <b>Immer sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.TUTORIAL_DISABLED
+#, fuzzy
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.TUTORIAL_DISABLED"
 msgid ""
-"Click to enable this diagnostic -  Current State: <b>Temporarily disabled</b>"
+"CLICK to enable this diagnostic -  Current State: <b>Temporarily disabled</b>"
 msgstr ""
 "Klicke hier, um diese Diagnose zu aktivieren - Aktueller Status: <b>Zeitweilig "
 "deaktiviert</b>"
@@ -74285,6 +74349,33 @@ msgctxt "STRINGS.UI.FRONTEND.DEMO_OVER_SCREEN.TITLE"
 msgid "Thanks for playing!"
 msgstr "Vielen Dank fürs Spielen!"
 
+#. STRINGS.UI.FRONTEND.DEVTOOLS.BUTTON
+msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.BUTTON"
+msgid "Show Dev Tools"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.DEVTOOLS.DONTSHOW
+msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.DONTSHOW"
+msgid "Do not show this message again"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.DEVTOOLS.TITLE
+msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.TITLE"
+msgid "About Dev Tools"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.DEVTOOLS.WARNING
+msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.WARNING"
+msgid ""
+"DANGER!!\n"
+"\n"
+"Dev Tools are intended for developer use only. Using them may result in your "
+"save becoming unplayable, unstable, or severely damaged.\n"
+"\n"
+"These tools are completely unsupported and may contain bugs. Are you sure you "
+"want to continue?"
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.DONE_BUTTON"
 msgid "DONE"
@@ -74915,7 +75006,7 @@ msgstr "FOREN BESUCHEN"
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_INFO"
 msgid ""
 "We've changed how save files are organized!\n"
-"Please click the button below to automatically update your save file storage."
+"Please CLICK the button below to automatically update your save file storage."
 msgstr ""
 "Wir haben den Aufbau der Speicherstände geändert!\n"
 "Bitte klicke auf die Schaltfläche unten, um deine Speicherstände automatisch zu "
@@ -76200,6 +76291,11 @@ msgstr "Welterzeugungsschlüssel"
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP"
 msgid "View the full patch notes online"
 msgstr "Die kompletten Patchnotizen online ansehen"
+
+#. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.HEADER
+msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.HEADER"
+msgid "IMPORTANT UPDATE NOTES"
+msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -80659,9 +80755,10 @@ msgid ""
 msgstr "\n"
 
 #. STRINGS.UI.PRIORITYSCREEN.OPEN_JOBS_SCREEN
+#, fuzzy
 msgctxt "STRINGS.UI.PRIORITYSCREEN.OPEN_JOBS_SCREEN"
 msgid ""
-"Click to open the Priorities Screen\n"
+"CLICK to open the Priorities Screen\n"
 "------------------\n"
 "Duplicants will first decide what to work on based on their <style=\"KKeyword"
 "\">Duplicant Priorities</style>, and then decide where to work based on <style="
@@ -80877,11 +80974,12 @@ msgstr ""
 "({1} von {2} für anhängige Aufträge)"
 
 #. STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP"
 msgid ""
 "Counts all unallocated resources within reach\n"
 "------------------\n"
-"Click to expand"
+"CLICK to expand"
 msgstr ""
 "Zählt alle nicht zugewiesenen Ressourcen in Reichweite\n"
 "------------------\n"
@@ -81730,6 +81828,12 @@ msgid ""
 msgstr ""
 "<link=\"DIAMANT\">Diamant-</link> und <link=\"OBSIDIAN\">Obsidian-</link>Bergbau"
 
+#. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_UNOBTANIUM.DESCRIPTION
+#, fuzzy
+msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_UNOBTANIUM.DESCRIPTION"
+msgid "<link=\"UNOBTANIUM\">Neutronium</link> Mining"
+msgstr "<link=\"UNOBTANIUM\">Neutronium</link>"
+
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_VERY_FIRM.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_VERY_FIRM.DESCRIPTION"
 msgid "<link=\"HARDNESS\">Very Firm Material</link> Mining"
@@ -81950,8 +82054,9 @@ msgid "Vacant Position"
 msgstr "Offene Stelle"
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP"
-msgid "Click to assign a Duplicant to this job opening"
+msgid "CLICK to assign a Duplicant to this job opening"
 msgstr "Klicke hier, um diesem Stellenangebot einen Duplikanten zuzuordnen"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.EIGHT
@@ -82626,6 +82731,7 @@ msgid "Shift Alarms"
 msgstr "Schichtalarme"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON_OFF_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON_OFF_TOOLTIP"
 msgid ""
 "Toggle Notifications\n"
@@ -82633,7 +82739,7 @@ msgid ""
 "No sounds or notifications will play for this schedule.\n"
 "\n"
 "DISABLED\n"
-"Click to enable"
+"CLICK to enable"
 msgstr ""
 "Sounds und Benachrichtigungen umschalten\n"
 "------------------\n"
@@ -82643,6 +82749,7 @@ msgstr ""
 "Anklicken zum aktivieren"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON_ON_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON_ON_TOOLTIP"
 msgid ""
 "Toggle Notifications\n"
@@ -82650,7 +82757,7 @@ msgid ""
 "Sounds and notifications will play when shifts change for this schedule.\n"
 "\n"
 "ENABLED\n"
-"Click to disable"
+"CLICK to disable"
 msgstr ""
 "Sounds und Benachrichtigungen umschalten\n"
 "------------------\n"
@@ -85011,10 +85118,11 @@ msgid "???"
 msgstr "???"
 
 #. STRINGS.UI.STARMAP.COMPOSITION_UNDISCOVERED_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.COMPOSITION_UNDISCOVERED_TOOLTIP"
 msgid ""
 "Further research required to identify resource\n"
-"------------------\n"
+"\n"
 "Send a Research Module to this destination for more information"
 msgstr ""
 "Weitere Forschung zur Identifizierung der Ressource erforderlich\n"
@@ -85355,10 +85463,11 @@ msgid "Clear launch path"
 msgstr "Freier Startpfad"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.FAILURE"
 msgid ""
 "This rocket does not have a clear line of sight to space, preventing launch\n"
-"------------------\n"
+"\n"
 "The rocket's launch path can be cleared by excavating undug tiles and "
 "deconstructing any buildings above the rocket"
 msgstr ""
@@ -85394,10 +85503,11 @@ msgid "Control Station"
 msgstr "Kontrollstation"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CONTROLSTATION.TOOLTIP.FAILURE"
 msgid ""
 "No Control Station\n"
-"------------------\n"
+"\n"
 "A new Rocket Control Station must be installed inside the rocket"
 msgstr ""
 "Keine Kontrollstation\n"
@@ -85430,10 +85540,11 @@ msgid "Engine"
 msgstr "Triebwerk"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_ENGINE.TOOLTIP.FAILURE"
 msgid ""
 "No engine installed\n"
-"------------------\n"
+"\n"
 "This rocket cannot launch without a completed engine"
 msgstr ""
 "Kein Triebwerk eingebaut\n"
@@ -85466,10 +85577,11 @@ msgid "Fuel Tank"
 msgstr "Treibstofftank"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_FUEL_TANK.TOOLTIP.FAILURE"
 msgid ""
 "No fuel tank installed\n"
-"------------------\n"
+"\n"
 "This rocket cannot launch without a completed fuel tank"
 msgstr ""
 "Kein Kraftstofftank eingebaut\n"
@@ -85502,10 +85614,11 @@ msgid "Nosecone"
 msgstr "Nasenkonus"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_NOSECONE.TOOLTIP.FAILURE"
 msgid ""
 "No nosecone installed\n"
-"------------------\n"
+"\n"
 "This rocket cannot launch without a completed nosecone"
 msgstr ""
 "Kein Nasenkonus eingebaut\n"
@@ -85662,10 +85775,11 @@ msgid "Height limit"
 msgstr "Höhengrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_HEIGHT.TOOLTIP.FAILURE"
 msgid ""
 "The height of the rocket exceeds the engine's limit\n"
-"------------------\n"
+"\n"
 "Excess modules must be removed"
 msgstr ""
 "Die Höhe der Rakete überschreitet die Höhengrenze des Triebwerks\n"
@@ -85698,10 +85812,11 @@ msgid "Module limit"
 msgstr "Modulgrenze"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MAX_MODULES.TOOLTIP.FAILURE"
 msgid ""
 "The number of installed modules exceeds the engine's module limit\n"
-"------------------\n"
+"\n"
 "Excess modules must be removed"
 msgstr ""
 "Die Anzahl der installierten Module überschreitet die Modulgrenze des "
@@ -85727,10 +85842,11 @@ msgid "Resources available {0}"
 msgstr "Ressourcen verfügbar {0}"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MISSING_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.MISSING_TOOLTIP"
 msgid ""
 "No {0} installed\n"
-"------------------\n"
+"\n"
 "This rocket cannot launch without a completed {0}"
 msgstr ""
 "Kein/e {0} eingebaut\n"
@@ -85813,11 +85929,12 @@ msgid "Pilot boarded"
 msgstr "Pilot ist an Bord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.FAILURE"
 msgid ""
 "At least one crew member aboard the rocket must possess the <link="
 "\"ROCKETPILOTING1\">Rocket Piloting</link> skill to launch\n"
-"------------------\n"
+"\n"
 "Qualified Duplicants must be assigned to the rocket crew, and have access to the "
 "module's hatch"
 msgstr ""
@@ -85862,10 +85979,11 @@ msgid "Fueled"
 msgstr "Betankt"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.TOOLTIP.FAILURE"
 msgid ""
 "This rocket does not have enough fuel to reach its destination\n"
-"------------------\n"
+"\n"
 "If the tanks are full, a different Fuel Tank Module may be required"
 msgstr ""
 "Diese Rakete hat nicht genug Treibstoff, um ihr Ziel zu erreichen\n"
@@ -85932,10 +86050,11 @@ msgid "Warning: Limited oxidizer"
 msgstr "Warnung: Begrenztes Oxidationsmittel"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.TOOLTIP.FAILURE
+#, fuzzy
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.SUFFICIENT_OXIDIZER.TOOLTIP.FAILURE"
 msgid ""
 "This rocket does not have enough oxidizer to reach its destination\n"
-"------------------\n"
+"\n"
 "If the oxidizer tanks are full, a different Oxidizer Tank Module may be required"
 msgstr ""
 "Diese Rakete hat nicht genug Oxidationsmittel, um ihr Ziel zu erreichen\n"
@@ -86429,7 +86548,7 @@ msgstr "<b>{0}</b>"
 #. STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON
 #, fuzzy
 msgctxt "STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON"
-msgid "Double-click to go to <b>{0}</b>"
+msgid "Double-CLICK to go to <b>{0}</b>"
 msgstr "Doppelklick, um zu <b>{0}</b> gelangen"
 
 # Kontext?
@@ -86449,8 +86568,9 @@ msgid "Nobody here..."
 msgstr "Niemand hier..."
 
 #. STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON
+#, fuzzy
 msgctxt "STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON"
-msgid "Click to select <b>{0}</b>"
+msgid "CLICK to select <b>{0}</b>"
 msgstr "Klicken, um <b>{0}</b> zu selektieren"
 
 #. STRINGS.UI.TOOLS.ATTACK.NAME
@@ -87456,13 +87576,14 @@ msgid "View each cycle's Colony Report {Hotkey}"
 msgstr "Tägliche Kolonieberichte anzeigen {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
 msgid ""
 "Manage my Duplicant Priorities {Hotkey}\n"
-"------------------\n"
-"<style=\"KKeyword\">Duplicant Priorities</style> are calculated <i>before</i> "
-"the <style=\"KKeyword\">Building Priorities</style> set by the <b>Priority Tool</"
-"b> {Hotkey/Prioritize}"
+"\n"
+"Duplicant Priorities</style> are calculated <i>before</i> the <style=\"KKeyword"
+"\">Building Priorities</style> set by the <b>Priority Tool</b> {Hotkey/"
+"Prioritize}"
 msgstr ""
 "Verwalte die Prioritäten meiner Duplikanten {Hotkey}.\n"
 "------------------\n"
@@ -87476,10 +87597,11 @@ msgid "Open the game menu {Hotkey}"
 msgstr "Öffne das Spielmenü {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
 msgid ""
 "Build a Research Station to unlock this menu\n"
-"------------------\n"
+"\n"
 "The <link=\"RESEARCHCENTER\">Research Station</link> can be found in the "
 "<b>Stations Tab</b> {Hotkey/Plan10} of the Build Menu"
 msgstr ""
@@ -87489,10 +87611,11 @@ msgstr ""
 "<b>Stationen-Tab</b> {Hotkey/Plan10} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_SKILL_STATION
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_SKILL_STATION"
 msgid ""
 "Build a Printing Pod to unlock this menu\n"
-"------------------\n"
+"\n"
 "The <link=\"HEADQUARTERS\">Printing Pod</link> can be found in the <b>Base Tab</"
 "b> {Hotkey/Plan1} of the Build Menu"
 msgstr ""
@@ -87502,10 +87625,11 @@ msgstr ""
 "{Hotkey/Plan1} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE"
 msgid ""
 "Build a Telescope to unlock this menu\n"
-"------------------\n"
+"\n"
 "The <link=\"TELESCOPE\">Telescope</link> can be found in the <b>Stations Tab</b> "
 "{Hotkey/Plan10} of the Build Menu"
 msgstr ""
@@ -87515,10 +87639,11 @@ msgstr ""
 "{Hotkey/Plan10} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE_CLUSTER
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE_CLUSTER"
 msgid ""
 "Build a Telescope to unlock this menu\n"
-"------------------\n"
+"\n"
 "The <link=\"TELESCOPE\">Telescope</link> can be found in the <b>Rocketry Tab</b> "
 "{Hotkey/Plan14} of the Build Menu"
 msgstr ""
@@ -87664,13 +87789,13 @@ msgid "Displays work priority values {Hotkey}"
 msgstr "Zeigt die Werte der Arbeitsprioritäten an {Hotkey}"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid ""
 "Set Building Priority {Hotkey}\n"
-"------------------\n"
-"<style=\"KKeyword\">Duplicant Priorities</style> {Hotkey/ManagePriorities} are "
-"calculated <i>before</i> the <style=\"KKeyword\">Building Priorities</style> set "
-"by this tool"
+"\n"
+"Duplicant Priorities</style> {Hotkey/ManagePriorities} are calculated <i>before</"
+"i> the <style=\"KKeyword\">Building Priorities</style> set by this tool"
 msgstr ""
 "Gebäudepriorität setzen {Hotkey}\n"
 "------------------\n"
@@ -87741,8 +87866,9 @@ msgid "There are insufficient materials to construct this building"
 msgstr "Nicht genug Materialien, um dieses Objekt zu bauen"
 
 #. STRINGS.UI.TOOLTIPS.SORTCOLUMN
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.SORTCOLUMN"
-msgid "Click to sort"
+msgid "CLICK to sort"
 msgstr "Klicken zum Sortieren"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
@@ -87933,88 +88059,96 @@ msgid "Default"
 msgstr "Standard"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_DISABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_DISABLED"
 msgid ""
 "Passing Down through this door is not permitted\n"
 "\n"
-"Click to grant permission"
+"CLICK to grant permission"
 msgstr ""
 "Nach unten durch diese Tür zu steigen ist nicht gestattet\n"
 "\n"
 "Klicke, um Zugang zu gewähren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_ENABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_ENABLED"
 msgid ""
 "Passing Down through this door is permitted\n"
 "\n"
-"Click to revoke permission"
+"CLICK to revoke permission"
 msgstr ""
 "Nach unten durch diese Tür zu steigen ist gestattet\n"
 "\n"
 "Klicke, um Zugang zu verwehren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED"
 msgid ""
 "Passing Left through this door is not permitted\n"
 "\n"
-"Click to grant permission"
+"CLICK to grant permission"
 msgstr ""
 "Nach links durch diese Tür zu gehen ist nicht gestattet\n"
 "\n"
 "Klicke, um Zugang zu gewähren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED"
 msgid ""
 "Passing Left through this door is permitted\n"
 "\n"
-"Click to revoke permission"
+"CLICK to revoke permission"
 msgstr ""
 "Nach links durch diese Tür zu gehen ist gestattet\n"
 "\n"
 "Klicke, um Zugang zu verwehren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED"
 msgid ""
 "Passing Right through this door is not permitted\n"
 "\n"
-"Click to grant permission"
+"CLICK to grant permission"
 msgstr ""
 "Nach rechts durch diese Tür zu gehen ist nicht gestattet\n"
 "\n"
 "Klicke, um Zugang zu gewähren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED"
 msgid ""
 "Passing Right through this door is permitted\n"
 "\n"
-"Click to revoke permission"
+"CLICK to revoke permission"
 msgstr ""
 "Nach rechts durch diese Tür zu gehen ist gestattet\n"
 "\n"
 "Klicke, um Zugang zu verwehren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_DISABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_DISABLED"
 msgid ""
 "Passing Up through this door is not permitted\n"
 "\n"
-"Click to grant permission"
+"CLICK to grant permission"
 msgstr ""
 "Nach oben durch diese Tür zu steigen ist nicht gestattet\n"
 "\n"
 "Klicke, um Zugang zu gewähren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_ENABLED
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_ENABLED"
 msgid ""
 "Passing Up through this door is permitted\n"
 "\n"
-"Click to revoke permission"
+"CLICK to revoke permission"
 msgstr ""
 "Nach oben durch diese Tür zu steigen ist gestattet\n"
 "\n"
@@ -88026,13 +88160,15 @@ msgid "Duplicant Access Permissions"
 msgstr "Duplikanten-Zugangsrechte"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM"
-msgid "Click to assign custom permissions"
+msgid "CLICK to assign custom permissions"
 msgstr "Klicken, um eigene Berechtigungen zu setzen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_DEFAULT
+#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_DEFAULT"
-msgid "Click to clear custom permissions"
+msgid "CLICK to clear custom permissions"
 msgstr "Klicken, um eigene Berechtigungen zu löschen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.TITLE
@@ -89406,12 +89542,13 @@ msgid "CANCEL LAUNCH"
 msgstr "START ABBRECHEN"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_REQUESTED_BUTTON_TOOLTIP
+#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_REQUESTED_BUTTON_TOOLTIP"
 msgid ""
 "This rocket will take off as soon as a Duplicant takes the controls\n"
 "------------------\n"
-"<b>Click to cancel launch</b>"
+"<b>CLICK to cancel launch</b>"
 msgstr ""
 "Diese Rakete hebt ab, sobald ein Duplikant die Steuerung übernimmt\n"
 "------------------\n"
@@ -89423,12 +89560,13 @@ msgid "ACKNOWLEDGE WARNINGS"
 msgstr "WARNUNGEN BESTÄTIGEN"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_WARNINGS_BUTTON_TOOLTIP
+#, fuzzy
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_WARNINGS_BUTTON_TOOLTIP"
 msgid ""
 "Some items in the Launch Checklist require attention\n"
 "------------------\n"
-"<b>Click to ignore warnings and proceed with launch</b>"
+"<b>CLICK to ignore warnings and proceed with launch</b>"
 msgstr ""
 "Einige Punkte in der Start-Checkliste erfordern Aufmerksamkeit!\n"
 "------------------\n"
