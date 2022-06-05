@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-05 17:27+0200\n"
+"PO-Revision-Date: 2022-06-05 22:38+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -31016,24 +31016,25 @@ msgid ""
 "They eat <link=\"TOXICSAND\">Polluted Dirt</link>, <link=\"SLIMEMOLD\">Slime</"
 "link> and <link=\"COMPOST\">Rot Piles</link>."
 msgstr ""
-"Pokepanzer sind friedliche Lebewesen, die <link=\"TOXICSAND\">Verschmutze Erde</"
-"link> und <link=\"COMPOST\">Verrotteter Haufen</link> essen.\n"
+"Sanipanzer sind friedliche Kreaturen, die in <link=\"WATER\">Wasser</link> "
+"gedeihen und <link=\"DISEASE\">Keime</link> aus jeder Flüssigkeit, in der sie "
+"leben, eliminieren.\n"
 "\n"
-"Die Schalen, die sie nach der Häutung zurücklassen, können zu <link=\"LIME"
-"\">Kalk</link> zerkleinert werden."
+"Sie ernähren sich von <link=\"TOXICSAND\">verschmutzter Erde</link>, <link="
+"\"SLIMEMOLD\">Schleim</link> und <link=\"COMPOST\">verrotteten Haufen</link>."
 
 # Hier ist vermutlich ein Fehler im englischen original, pinch hießen die Tierchen hier früher.
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.EGG_NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.EGG_NAME"
 msgid "<link=\"CRABFRESHWATER\">Sani Pinch Roe</link>"
-msgstr "<link=\"CRAB\">Pokepanzer-Rogen</link>"
+msgstr "<link=\"CRABFRESHWATER\">Sanipanzer-Rogen</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.NAME"
 msgid "<link=\"CRABFRESHWATER\">Sanishell</link>"
-msgstr "<link=\"CRAB\">Pokepanzer</link>"
+msgstr "<link=\"CRABFRESHWATER\">Sanipanzer</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.BABY.DESC
 #, fuzzy
@@ -31043,15 +31044,16 @@ msgid ""
 "\n"
 "In time it will mature into a fully grown <link=\"CRABWOOD\">Oakshell</link>."
 msgstr ""
-"Ein kleiner schnippiger Pokepanzer-Laich.\n"
+"Ein knorriger kleiner Eichenpanzer-Laich.\n"
 "\n"
-"Mit der Zeit wird es zu einem ausgewachsenen <link=\"CRAB\">Pokepanzer</link>."
+"Mit der Zeit wird er zu einem ausgewachsenen <link=\"CRABWOOD\">Eichenmuschel</"
+"link> heranreifen."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.BABY.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.BABY.NAME"
 msgid "<link=\"CRABWOOD\">Oakshell Spawn</link>"
-msgstr "<link=\"CRAB\">Pokepanzer-Laich</link>"
+msgstr "<link=\"CRABWOOD\">Eichenpanzer-Laich</link>"
 
 # "Verroteter Haufen" ist für Kompost unpassend.
 # ggf generell ändern
@@ -31067,24 +31069,27 @@ msgid ""
 "\n"
 "Oakshells thrive in <link=\"ETHANOL\">Ethanol</link>."
 msgstr ""
-"Pokepanzer sind friedliche Lebewesen, die <link=\"TOXICSAND\">Verschmutze Erde</"
-"link> und <link=\"COMPOST\">Verrotteter Haufen</link> essen.\n"
+"Eichenpanzer sind friedliche Tiere, die <link=\"TOXICSAND\">verschmutzte Erde</"
+"link>, <link=\"SLIMEMOLD\">Schleim</link> und <link=\"COMPOST\">verrottete "
+"Haufen</link> fressen.\n"
 "\n"
-"Die Schalen, die sie nach der Häutung zurücklassen, können zu <link=\"LIME"
-"\">Kalk</link> zerkleinert werden."
+"Die Schalen, die sie nach der Häutung zurücklassen, können zu <link=\"WOOD"
+"\">Holz</link> zerkleinert werden.\n"
+"\n"
+"Eichenpanzer gedeihen in <link=\"ETHANOL\">Ethanol</link>."
 
 # Hier ist vermutlich ein Fehler im englischen original, pinch hießen die Tierchen hier früher.
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.EGG_NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.EGG_NAME"
 msgid "<link=\"CRABWOOD\">Oak Pinch Roe</link>"
-msgstr "<link=\"CRAB\">Pokepanzer-Rogen</link>"
+msgstr "<link=\"CRABWOOD\">Eichenpanzer-Rogen</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.NAME"
 msgid "<link=\"CRABWOOD\">Oakshelll</link>"
-msgstr "<link=\"CRAB\">Pokepanzer</link>"
+msgstr "<link=\"CRABWOOD\">Eichenpanzer</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DESC"
@@ -31281,7 +31286,6 @@ msgid "<link=\"DRECKOPLASTIC\">Glossy Drecklet</link>"
 msgstr "<link=\"DRECKOPLASTIC\">Glanz-Drecklet</link>"
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.DESC"
 msgid ""
 "Glossy Dreckos are nonhostile critters that graze on live <link="
@@ -31291,10 +31295,11 @@ msgid ""
 "Their backsides are covered in bioplastic scales that only grow in <link="
 "\"HYDROGEN\">Hydrogen</link> climates."
 msgstr ""
-"Glanz-Dreckos sind nicht-feindliche Lebewesen, die nur auf lebenden <link="
-"\"BASICSINGLEHARVESTPLANT\">Mehlholz-Pflanzen</link> grasen.\n"
+"Glanz-Dreckos sind friedliche Lebewesen, die auf lebenden <link="
+"\"BASICSINGLEHARVESTPLANT\">Mehlholz-Pflanzen</link> und <link=\"PRICKLEFLOWER"
+"\">Dornenblüten</link> grasen.\n"
 "\n"
-"Ihre Rücken sind mit bioplastische Schuppen bedeckt, die nur in <link=\"HYDROGEN"
+"Ihre Rücken sind mit bioplastischen Schuppen bedeckt, die nur in <link=\"HYDROGEN"
 "\">Wasserstoffumgebungen</link> wachsen."
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.EGG_NAME
