@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-05 22:38+0200\n"
+"PO-Revision-Date: 2022-06-06 13:49+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -28440,7 +28440,7 @@ msgstr "Leckermaus"
 #, fuzzy
 msgctxt "STRINGS.CODEX.VARIANT_FRESH_WATER.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Sanishell\" variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Blitzblank\" Puft-Art</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Medipanzer\"-Art</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE
 msgctxt "STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE"
@@ -30993,7 +30993,7 @@ msgid ""
 "In time it will mature into a fully grown <link=\"CRABFRESHWATER\">Sanishell</"
 "link>."
 msgstr ""
-"Ein wählerischer kleiner Sanipanzer-Laich.\n"
+"Ein wählerischer kleiner Medipanzer-Laich.\n"
 "\n"
 "Mit der Zeit wird er zu einem ausgewachsenen <link=\"CRABFRESHWATER"
 "\">Sanipanzer</link> heranreifen."
@@ -31002,7 +31002,7 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.BABY.NAME"
 msgid "<link=\"CRABFRESHWATER\">Sanishell Spawn</link>"
-msgstr "<link=\"CRABFRESHWATER\">Sanipanzer-Laich</link>"
+msgstr "<link=\"CRABFRESHWATER\">Medipanzer-Laich</link>"
 
 # "Verroteter Haufen" ist für Kompost unpassend.
 # ggf generell ändern
@@ -31016,9 +31016,9 @@ msgid ""
 "They eat <link=\"TOXICSAND\">Polluted Dirt</link>, <link=\"SLIMEMOLD\">Slime</"
 "link> and <link=\"COMPOST\">Rot Piles</link>."
 msgstr ""
-"Sanipanzer sind friedliche Kreaturen, die in <link=\"WATER\">Wasser</link> "
-"gedeihen und <link=\"DISEASE\">Keime</link> aus jeder Flüssigkeit, in der sie "
-"leben, eliminieren.\n"
+"Medipanzer sind friedliche Tiere, die in <link=\"WATER\">Wasser</link> gedeihen "
+"und <link=\"DISEASE\">Keime</link> aus jeder Flüssigkeit, in der sie leben, "
+"eliminieren.\n"
 "\n"
 "Sie ernähren sich von <link=\"TOXICSAND\">verschmutzter Erde</link>, <link="
 "\"SLIMEMOLD\">Schleim</link> und <link=\"COMPOST\">verrotteten Haufen</link>."
@@ -31028,13 +31028,13 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.EGG_NAME"
 msgid "<link=\"CRABFRESHWATER\">Sani Pinch Roe</link>"
-msgstr "<link=\"CRABFRESHWATER\">Sanipanzer-Rogen</link>"
+msgstr "<link=\"CRABFRESHWATER\">Medipanzer-Rogen</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.NAME"
 msgid "<link=\"CRABFRESHWATER\">Sanishell</link>"
-msgstr "<link=\"CRABFRESHWATER\">Sanipanzer</link>"
+msgstr "<link=\"CRABFRESHWATER\">Medipanzer</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.BABY.DESC
 #, fuzzy
@@ -31046,7 +31046,7 @@ msgid ""
 msgstr ""
 "Ein knorriger kleiner Eichenpanzer-Laich.\n"
 "\n"
-"Mit der Zeit wird er zu einem ausgewachsenen <link=\"CRABWOOD\">Eichenmuschel</"
+"Mit der Zeit wird er zu einem ausgewachsenen <link=\"CRABWOOD\">Eichenpanzer</"
 "link> heranreifen."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.BABY.NAME
@@ -32376,16 +32376,16 @@ msgid ""
 "One day it will grow into an adult Shove Vole morph, the <link=\"MOLEDELICACY"
 "\">Delecta Vole</link>."
 msgstr ""
-"Ein stämmiges kleines Kompakt-Puftlet.\n"
+"Ein zarter kleiner Leckermaus-Welpe.\n"
 "\n"
-"Mit der Zeit reift es zu einem erwachsenen <link=\"PUFTOXYLITE\">Kompakt-Puft</"
-"link>."
+"Eines Tages wird er zu einer erwachsenen Wühlmaus-Art heranwachsen, der <link="
+"\"MOLEDELICACY\">Leckermaus</link>."
 
 #. STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.BABY.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.BABY.NAME"
 msgid "<link=\"MOLEDELICACY\">Delecta Vole Pup</link>"
-msgstr "<link=\"MOLE\">Wühlmauswelpe</link>"
+msgstr "<link=\"MOLEDELICACY\">Leckermauswelpe</link>"
 
 #. STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.DESC
 #, fuzzy
@@ -32397,8 +32397,9 @@ msgid ""
 "\n"
 "They cannot burrow through <link=\"REFINEDMETAL\">Refined Metals</link>."
 msgstr ""
-"Schubwühlmäuse sind grabende Lebewesen, die das auf terrestrischen Oberflächen "
-"angesammelte <link=\"REGOLITH\">Regolith</link> essen.\n"
+"Leckermäuse sind Wühltiere, deren Körper scherbare <link=\"GINGER"
+"\">Tonikumwurzeln</link> hervorbringen, wenn <link=\"REGOLITH\">Regolith</link> "
+"bei bevorzugten Temperaturen gefressen wird.\n"
 "\n"
 "Sie können nicht durch <link=\"REFINEDMETAL\">veredelte Metalle</link> graben."
 
@@ -32406,13 +32407,13 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.EGG_NAME"
 msgid "<link=\"MOLEDELICACY\">Delecta Vole Egg</link>"
-msgstr "<link=\"MOLE\">Schubwühlmausei</link>"
+msgstr "<link=\"MOLEDELICACY\">Leckermausei</link>"
 
 #. STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.NAME"
 msgid "<link=\"MOLEDELICACY\">Delecta Vole</link>"
-msgstr "<link=\"MOLE\">Schubwühlmaus</link>"
+msgstr "<link=\"MOLEDELICACY\">Leckermaus</link>"
 
 #. STRINGS.CREATURES.SPECIES.MOO.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.MOO.DESC"
@@ -32638,7 +32639,6 @@ msgid "<link=\"PACU\">Pacu Fry</link>"
 msgstr "<link=\"PACU\">Pacu-Jungfisch</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.DESC"
 msgid ""
 "Pacus are aquatic creatures that can live in any liquid, such as <link=\"WATER"
@@ -32646,8 +32646,8 @@ msgid ""
 "\n"
 "Every organism in the known universe finds the Pacu extremely delicious."
 msgstr ""
-"Pacus sind Wassertiere, die nicht außerhalb von <link=\"WATER\">Wasser</link> "
-"oder <link=\"DIRTYWATER\">verschmutztem Wasser</link> leben können.\n"
+"Pacus sind Wassertiere, die in jeder Flüssigkeit leben können, wie <link=\"WATER"
+"\">Wasser</link> oder <link=\"DIRTYWATER\">verschmutztes Wasser</link>.\n"
 "\n"
 "Jeder Organismus im bekannten Universum findet den Pacu extrem lecker."
 
@@ -33540,7 +33540,6 @@ msgid "<link=\"SQUIRREL\">Pipsqueak</link>"
 msgstr "<link=\"SQUIRREL\">Pipquietscher</link>"
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.DESC"
 msgid ""
 "Pips are pesky, nonhostile critters that subsist on <link=\"BASICFABRICPLANT"
@@ -33549,11 +33548,12 @@ msgid ""
 "They are known to bury <link=\"PLANTS\">Seeds</link> in the ground whenever they "
 "can find a suitable area with enough space."
 msgstr ""
-"Pips sind lästige, friedliche Tiere, die sich von den Zweigen von <link="
-"\"FORESTTREE\">Arbor-Bäumen</link> ernähren.\n"
+"Pips sind lästige, friedliche Tiere, die sich von <link=\"BASICFABRICPLANT"
+"\">Fingerhutschilf</link> und den Zweigen von <link=\"FORESTTREE\">Arbor-Bäumen</"
+"link> ernähren.\n"
 "\n"
-"Sie sind dafür bekannt, wann immer sie einen geeigneten Platz mit finden, <link="
-"\"PLANTS\">Samen</link> im Boden zu vergraben."
+"Sie sind dafür bekannt, wann immer sie einen geeigneten Platz mit genug Raum "
+"finden, <link=\"PLANTS\">Samen</link> im Boden zu vergraben."
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.EGG_NAME"
@@ -33573,15 +33573,16 @@ msgid ""
 "\n"
 "In time it will mature into a fully grown <link=\"SQUIRREL\">Cuddle Pip</link>."
 msgstr ""
-"Ein kleiner schnurrender Pipquietscher.\n"
+"Ein wuscheliger kleiner Knuddelquietscher.\n"
 "\n"
-"Mit der Zeit wird es zu einem ausgewachsenen <link=\"SQUIRREL\">Pip</link>."
+"Mit der Zeit wird er zu einem ausgewachsenen <link=\"SQUIRREL\">Knuddelpip</"
+"link> heranreifen."
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.BABY.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.BABY.NAME"
 msgid "<link=\"SQUIRREL\">Cuddle Pipsqueak</link>"
-msgstr "<link=\"SQUIRREL\">Pipquietscher</link>"
+msgstr "<link=\"SQUIRREL\">Knuddelquietscher</link>"
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.DESC"
@@ -33596,13 +33597,13 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.EGG_NAME"
 msgid "<link=\"SQUIRREL\">Cuddle Pip Egg</link>"
-msgstr "<link=\"PACUEGG\">Pip-Ei</link>"
+msgstr "<link=\"SQUIRREL\">Knuddelpip-Ei</link>"
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.NAME
 #, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.NAME"
 msgid "<link=\"SQUIRREL\">Cuddle Pip</link>"
-msgstr "<link=\"SQUIRREL\">Pip</link>"
+msgstr "<link=\"SQUIRREL\">Knuddelpip</link>"
 
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.BABY.DESC"
@@ -33717,21 +33718,21 @@ msgid "<link=\"SWAMPHARVESTPLANT\">Bog Bucket</link>"
 msgstr "<link=\"SWAMPHARVESTPLANT\">Mooreimer</link>"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
 msgid ""
 "Balm Lilies produce <link=\"SWAMPLILYFLOWER\">Balm Lily Flower</link>, a lovely "
 "bloom with medicinal properties."
 msgstr ""
-"Balsamlilien produzieren Balsamlilien Blüten hinreisend duftende Blume mit "
-"medizinischen Eigenschaften."
+"Balsamlilien produzieren <link=\"SWAMPLILYFLOWER\">Balsamlilien</link>-Blüten, "
+"eine reizende Blüte mit medizinischen Eigenschaften."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
 msgid ""
 "This plant produces medicinal <link=\"SWAMPLILYFLOWER\">Balm Lily Flower</link>."
-msgstr "Diese Pflanze produziert essbares <link=\"SWAMPFRUIT\">Moorgelee</link>."
+msgstr ""
+"Diese Pflanze produziert die medizinische <link=\"SWAMPLILYFLOWER"
+"\">Balsamlilienblüten</link>."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
@@ -33904,18 +33905,18 @@ msgstr ""
 "Dieses Tier ist <b>{0}</b> domestiziert"
 
 #. STRINGS.CREATURES.STATS.ELEMENTGROWTH.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATS.ELEMENTGROWTH.NAME"
 msgid "Quill Growth"
-msgstr "Ausgewachsen"
+msgstr "Stachelwachstum"
 
 #. STRINGS.CREATURES.STATS.ELEMENTGROWTH.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATS.ELEMENTGROWTH.TOOLTIP"
 msgid ""
 "The amount of time required for this critter to regrow its <style=\"KKeyword"
 "\">Tonic Root</style>"
-msgstr "Dauer bis die Schuppen dieses Tier wieder nachwachsen"
+msgstr ""
+"Die Zeit, die dieses Tier braucht, um seine <style=\"KKeyword\">Tonikumwurzel</"
+"style> nachwachsen zu lassen"
 
 #. STRINGS.CREATURES.STATS.FERTILITY.NAME
 msgctxt "STRINGS.CREATURES.STATS.FERTILITY.NAME"
@@ -34198,16 +34199,14 @@ msgid "This critter is hostile and readying to pounce!"
 msgstr "Dieses Tier ist feindselig und bereit zum zuschlagen!"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.NAME"
 msgid "Attacking"
-msgstr "Angreifen"
+msgstr "Attackierend"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATTACKINGENTITY.TOOLTIP"
 msgid "This critter is violently defending their young"
-msgstr "Diese Kreatur macht ihr \"Geschäft\""
+msgstr "Dieses Tier verteidigt seine Jungen gewaltsam"
 
 #. STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME"
@@ -34303,16 +34302,14 @@ msgstr ""
 "Verschiebe die Pflanze auf ein bewässerbares Feld für optimales Wachstum"
 
 #. STRINGS.CREATURES.STATUSITEMS.CLEANING.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning"
 msgstr "Reinigt"
 
 #. STRINGS.CREATURES.STATUSITEMS.CLEANING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This critter is de-germ-ifying its liquid surroundings"
-msgstr "Diese Kreatur verlässt seinen Bau"
+msgstr "Dieses Tier entkeimt seine flüssige Umgebung"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
@@ -34584,15 +34581,16 @@ msgid "Picky Eater: All Done"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.TOOLTIP"
 msgid ""
 "This critter's <style=\"KKeyword\">Tonic Root</style> quills are fully grown\n"
 "\n"
 "Preferred food temperature range: {templo}-{temphi}"
 msgstr ""
-"Das <style=\"KKeyword\">Wachstum</style> dieses Tiers wird durch ein ungünstiges "
-"Umgebung gehemmt"
+"Die <style=\"KKeyword\">Tonikumwurzel</style>-Stacheln dieses Tieres sind voll "
+"ausgewachsen\n"
+"\n"
+"Bevorzugter Temperaturbereich der Nahrung: {templo}-{temphi}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.NAME"
@@ -34600,21 +34598,20 @@ msgid "Picky Eater: Just Right"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.PREFERRED_TEMP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.PREFERRED_TEMP"
 msgid "Last eaten: {element} at {temperature}"
-msgstr "Minimale {element}-Temperatur: {temperature}"
+msgstr "Zuletzt gegessen: {element} bei {temperature}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.TOOLTIP"
 msgid ""
 "This critter's <style=\"KKeyword\">Quill Growth</style> rate is optimal\n"
 "\n"
 "Preferred food temperature range: {templo}-{temphi}"
 msgstr ""
-"Das <style=\"KKeyword\">Wachstum</style> dieses Tiers wird durch ein ungünstiges "
-"Umgebung gehemmt"
+"Die <style=\"KKeyword\">Stachelwachstumsrate</style> dieses Tieres ist optimal\n"
+"\n"
+"Bevorzugter Temperaturbereich der Nahrung: {templo}-{temphi}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.NAME"
@@ -34622,7 +34619,6 @@ msgid "Picky Eater: Hungry"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.TOOLTIP"
 msgid ""
 "This critter's <style=\"KKeyword\">Quill Growth</style> is halted because they "
@@ -34630,8 +34626,10 @@ msgid ""
 "\n"
 "Preferred food temperature range: {templo}-{temphi}"
 msgstr ""
-"Das <style=\"KKeyword\">Wachstum</style> dieses Tiers wird durch ein ungünstiges "
-"Umgebung gehemmt"
+"Das <style=\"KKeyword\">Stachelwachstum</style> dieses Tieres ist gestoppt, weil "
+"es hungrig ist\n"
+"\n"
+"Bevorzugter Temperaturbereich der Nahrung: {templo}-{temphi}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME"
@@ -34639,19 +34637,16 @@ msgid "Picky Eater: {reason}"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_COLD
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_COLD"
 msgid "Too Cold"
 msgstr "Zu kalt"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_HOT
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_HOT"
 msgid "Too Hot"
-msgstr "Gas zu heiß"
+msgstr "Zu heiß"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOOLTIP"
 msgid ""
 "This critter's <style=\"KKeyword\">Quill Growth</style> rate has slowed because "
@@ -34659,8 +34654,11 @@ msgid ""
 "\n"
 "Preferred food temperature range: {templo}-{temphi}"
 msgstr ""
-"Das <style=\"KKeyword\">Wachstum</style> dieses Tiers wird durch ein ungünstiges "
-"Umgebung gehemmt"
+"Das <style=\"KKeyword\">Stachelwachstum</style> dieses Tieres hat sich "
+"verlangsamt, weil es Nahrung außerhalb seines bevorzugten Temperaturbereichs "
+"gefressen hat\n"
+"\n"
+"Bevorzugter Temperaturbereich der Nahrung: {templo}-{temphi}"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
@@ -34769,7 +34767,6 @@ msgid "Expelling Waste"
 msgstr "Stößt Abfälle aus"
 
 #. STRINGS.CREATURES.STATUSITEMS.EXPELLING_LIQUID.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXPELLING_LIQUID.TOOLTIP"
 msgid "This critter is doing their \"business\""
 msgstr "Diese Kreatur macht ihr \"Geschäft\""
@@ -34995,34 +34992,29 @@ msgstr ""
 "style> zwischen <b>{low_temperature}</b> und <b>{high_temperature}</b> liegt"
 
 #. STRINGS.CREATURES.STATUSITEMS.HUGEGG.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGEGG.NAME"
 msgid "Hugging Eggs"
-msgstr "Zählt Tier-Eier"
+msgstr "Knuddelt Ei"
 
 #. STRINGS.CREATURES.STATUSITEMS.HUGEGG.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGEGG.TOOLTIP"
 msgid "This critter is snuggling up to an <style=\"KKeyword\">Egg</style> "
-msgstr "Dieses Tier sucht nach leckeren <style=\"KKeyword\">Samen</style>"
+msgstr "Dieses Tier knuddelt ein <style=\"KKeyword\">Ei</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.HUGMINION.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGMINION.NAME"
 msgid "Hugging"
-msgstr "Graben"
+msgstr "Umarmen"
 
 #. STRINGS.CREATURES.STATUSITEMS.HUGMINION.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGMINION.TOOLTIP"
 msgid "This critter is happily hugging a Duplicant"
-msgstr "Diese Kreatur atmet tief durch"
+msgstr "Dieses Tier umarmt fröhlich einen Duplikanten"
 
 #. STRINGS.CREATURES.STATUSITEMS.HUGMINIONWAITING.NAME
-#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGMINIONWAITING.NAME"
 msgid "Hoping for hugs"
-msgstr "Geht matschen"
+msgstr "Hofft auf Umarmungen"
 
 #. STRINGS.CREATURES.STATUSITEMS.HUGMINIONWAITING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGMINIONWAITING.TOOLTIP"
@@ -36601,7 +36593,6 @@ msgid "Radiation Resistance"
 msgstr "Strahlungsresistenz"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.RANCHING.CAPTURABLESPEED
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.RANCHING.CAPTURABLESPEED"
 msgid "{0} Wrangling Speed"
 msgstr "{0} Pflegegeschwindigkeit"
@@ -37163,42 +37154,37 @@ msgid "Toggling"
 msgstr "Umschalten"
 
 #. STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.NAME"
 msgid "Artifact Analysis"
 msgstr "Artefaktanalyse"
 
 #. STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.STATUS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.STATUS"
 msgid "Going to analyze artifacts"
-msgstr "Geht etwas herstellen"
+msgstr "Geht Artefakte analysieren"
 
 #. STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZEARTIFACT.TOOLTIP"
 msgid "This Duplicant is analyzing <style=\"KKeyword\">Artifacts</style>"
-msgstr "Dieser Duplikant verlernt eine <style=\"KKeyword\">Fertigkeit</style>"
+msgstr "Dieser Duplikant analysiert <style=\"KKeyword\">Artefakte</style>"
 
 #. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.NAME"
 msgid "Seed Analysis"
-msgstr "Analyse"
+msgstr "Samenanalyse"
 
 #. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.STATUS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.STATUS"
 msgid "Going to analyze seeds"
-msgstr "Geht Einstellungen ändern"
+msgstr "Geht Samen analysieren"
 
 #. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP"
 msgid ""
 "This Duplicant is analyzing <style=\"KKeyword\">Seeds</style> to find mutations"
 msgstr ""
-"Dieser Duplikant verlegt ein <style=\"KKeyword\">Tier</style> an einen neuen Ort"
+"Dieser Duplikant analysiert <style=\"KKeyword\">Samen</style>, um Mutationen zu "
+"finden"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
@@ -37251,20 +37237,18 @@ msgid "Banshee Wail"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.STATUS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.STATUS"
 msgid "Wailing"
-msgstr "Fängt ein"
+msgstr "Heulend"
 
 #. STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.TOOLTIP"
 msgid ""
 "This Duplicant is emitting ear-piercing shrieks to relieve pent-up <style="
 "\"KKeyword\">Stress</style>"
 msgstr ""
-"Dieser Duplikant zerstört Objekte, um <style=\"KKeyword\">Stress</style> "
-"abzubauen"
+"Dieser Duplikant stößt ohrenbetäubende Schreie aus, um aufgestauten <style="
+"\"KKeyword\">Stress</style> abzubauen."
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
@@ -38138,22 +38122,19 @@ msgid "This Duplicant is taking some time to recover from their wounds"
 msgstr "Dieser Duplikant braucht einige Zeit, um sich von seinen Wunden zu erholen"
 
 #. STRINGS.DUPLICANTS.CHORES.HUG.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.HUG.NAME"
 msgid "Hug"
-msgstr "Hungrig"
+msgstr "Umarmung"
 
 #. STRINGS.DUPLICANTS.CHORES.HUG.STATUS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.HUG.STATUS"
 msgid "Hugging"
-msgstr "Graben"
+msgstr "Umarmend"
 
 #. STRINGS.DUPLICANTS.CHORES.HUG.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.HUG.TOOLTIP"
 msgid "This Duplicant is enjoying a big warm hug"
-msgstr "Dieser Duplikant versucht, sich wieder aufzuwärmen"
+msgstr "Dieser Duplikant genießt eine große warme Umarmung"
 
 #. STRINGS.DUPLICANTS.CHORES.ICECOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ICECOOLEDFAN.NAME"
