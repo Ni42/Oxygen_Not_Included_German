@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-06 15:58+0200\n"
-"Last-Translator: Xandras\n"
+"PO-Revision-Date: 2022-06-06 18:05+0200\n"
+"Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -15669,10 +15669,10 @@ msgstr ""
 "link> und <link=\"MOLEDELICACY\">Leckermäuse</link> für nützliche Rohstoffe."
 
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.EFFECT"
 msgid "Allows the assigned Rancher to shear Dreckos and Delecta Voles."
-msgstr "Scherstationen werden zum Scheren von Dreckos und Leckermäusen verwendet."
+msgstr ""
+"Ermöglicht es dem zugewiesenen Viehzüchter, Dreckos und Leckermäuse zu scheren."
 
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.NAME"
@@ -28434,10 +28434,9 @@ msgid "Delecta Vole"
 msgstr "Leckermaus"
 
 #. STRINGS.CODEX.VARIANT_FRESH_WATER.BODY.CONTAINER1
-#, fuzzy
 msgctxt "STRINGS.CODEX.VARIANT_FRESH_WATER.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Sanishell\" variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Medipanzer\"-Art</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Medipanzer\"-Variante</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE
 msgctxt "STRINGS.CODEX.VARIANT_FRESH_WATER.SUBTITLE"
@@ -30979,7 +30978,6 @@ msgid "<link=\"CRAB\">Pokeshell</link>"
 msgstr "<link=\"CRAB\">Pokepanzer</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.BABY.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.BABY.DESC"
 msgid ""
 "A picky little Sanishell Spawn.\n"
@@ -30990,7 +30988,7 @@ msgstr ""
 "Ein wählerischer kleiner Medipanzer-Laich.\n"
 "\n"
 "Mit der Zeit wird er zu einem ausgewachsenen <link=\"CRABFRESHWATER"
-"\">Sanipanzer</link> heranreifen."
+"\">Medipanzer</link> heranreifen."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.BABY.NAME"
@@ -31027,7 +31025,6 @@ msgid "<link=\"CRABFRESHWATER\">Sanishell</link>"
 msgstr "<link=\"CRABFRESHWATER\">Sanishell</link>"
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.BABY.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.BABY.DESC"
 msgid ""
 "A knotty little Oakshell Spawn.\n"
@@ -31047,7 +31044,6 @@ msgstr "<link=\"CRABWOOD\">Eichenpanzer-Laich</link>"
 # "Verroteter Haufen" ist für Kompost unpassend.
 # ggf generell ändern
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.DESC"
 msgid ""
 "Oakshells are nonhostile critters that eat <link=\"TOXICSAND\">Polluted Dirt</"
@@ -32355,7 +32351,6 @@ msgid "<link=\"MOLE\">Shove Vole</link>"
 msgstr "<link=\"MOLE\">Schubwühlmaus</link>"
 
 #. STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.BABY.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.MOLE.VARIANT_DELICACY.BABY.DESC"
 msgid ""
 "A tender little Delecta Vole pup.\n"
@@ -33553,7 +33548,6 @@ msgid "<link=\"SQUIRREL\">Pip</link>"
 msgstr "<link=\"SQUIRREL\">Pip</link>"
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.BABY.DESC
-#, fuzzy
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.BABY.DESC"
 msgid ""
 "A fuzzy little Cuddle Pipsqueak.\n"
@@ -37232,7 +37226,7 @@ msgid ""
 "\"KKeyword\">Stress</style>"
 msgstr ""
 "Dieser Duplikant stößt ohrenbetäubende Schreie aus, um aufgestauten <style="
-"\"KKeyword\">Stress</style> abzubauen."
+"\"KKeyword\">Stress</style> abzubauen"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
@@ -40770,14 +40764,13 @@ msgstr ""
 "anfingen zu jammern:"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING.TOOLTIP"
 msgid ""
 "This Duplicant is wailing at the top of their lungs as a result of <style="
 "\"KKeyword\">Stress</style>"
 msgstr ""
-"Dieser Duplikant hat einen Heulkrampf aufgrund seines <style=\"KKeyword"
-"\">Stresspegels</style>"
+"Dieser Duplikant heult aus voller Kehle, weil er <style=\"KKeyword\">Stress</"
+"style> hat."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.NAME"
@@ -41965,16 +41958,15 @@ msgid "Serenaded"
 msgstr "Ständchen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HEARDJOYSINGER.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HEARDJOYSINGER.TOOLTIP"
 msgid ""
 "A Yodeler's singing thrilled this Duplicant\n"
 "\n"
 "This Duplicant works at a higher tempo now!"
 msgstr ""
-"Ein Glitzersprüher hat diesen Duplikant mit Glitzer berührt!\n"
+"Der Gesang eines Jodlers begeisterte diesen Duplikanten\n"
 "\n"
-"Dieser Duplikant ist jetzt voller Elan!"
+"Dieser Duplikant arbeitet jetzt mit einem höheren Tempo!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HISTAMINESUPPRESSION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HISTAMINESUPPRESSION.NAME"
@@ -42009,10 +42001,9 @@ msgid "This Duplicant is uncomfortably warm"
 msgstr "Diesem Duplikant ist unangenehm warm"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.CAUSE
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.CAUSE"
 msgid "Obtained by eating a very spicy meal"
-msgstr "Erhalten durch das Essen einer abscheulichen Mahlzeit"
+msgstr "Erlangt durch den Verzehr einer sehr scharfen Mahlzeit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.DESCRIPTION"
@@ -52105,7 +52096,7 @@ msgstr "<link=\"SOLIDNAPHTHA\">Naphtha</link>"
 msgctxt "STRINGS.ELEMENTS.SOLIDNUCLEARWASTE.DESC"
 msgid ""
 "Highly toxic solid full of <link=\"RADIATION\">Radioactive Contaminants</link>."
-msgstr "<link=\"RADIATION\">Radioaktive Schadstoffe</link>"
+msgstr "<link=\"RADIATION\">Radioaktive Kontaminaten</link>."
 
 #. STRINGS.ELEMENTS.SOLIDNUCLEARWASTE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDNUCLEARWASTE.NAME"
