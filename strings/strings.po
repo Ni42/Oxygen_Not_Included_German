@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-06 18:05+0200\n"
+"PO-Revision-Date: 2022-06-10 22:29+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -40770,7 +40770,7 @@ msgid ""
 "\"KKeyword\">Stress</style>"
 msgstr ""
 "Dieser Duplikant heult aus voller Kehle, weil er <style=\"KKeyword\">Stress</"
-"style> hat."
+"style> hat"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.NAME"
@@ -42016,14 +42016,13 @@ msgid "Hot Stuff"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.TOOLTIP"
 msgid ""
 "This Duplicant had an extremely spicy meal and is both exhilarated and a little "
 "<style=\"KKeyword\">Stressed</style>"
 msgstr ""
-"Dieser Duplikant hat einen Heulkrampf aufgrund seines <style=\"KKeyword"
-"\">Stresspegels</style>"
+"Dieser Duplikant hatte eine extrem scharfe Mahlzeit und ist sowohl erheitert als "
+"auch ein wenig <style=\"KKeyword\">gestresst</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTTUB.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTTUB.NAME"
@@ -42058,19 +42057,20 @@ msgstr ""
 "Er sieht wirklich entspannt aus"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUGGED.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUGGED.NAME"
 msgid "Hugged"
-msgstr "Graben"
+msgstr "Umarmt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUGGED.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUGGED.TOOLTIP"
 msgid ""
 "This Duplicant recently received a hug from a friendly critter\n"
 "\n"
 "It was so fluffy!"
-msgstr "Dieser Duplikant hatte kürzlich einen Heulkrampf, und das sieht man"
+msgstr ""
+"Dieser Duplikant wurde kürzlich von einem freundlichen Tier umarmt\n"
+"\n"
+"Es war so flauschig!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
@@ -42560,26 +42560,25 @@ msgid "Played Video Games"
 msgstr "Videospiele gespielt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.PLAYEDARCADE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PLAYEDARCADE.TOOLTIP"
 msgid "This Duplicant recently played video games and is feeling like a champ"
-msgstr ""
-"Dieser Duplikant war vor kurzem unter der Dusche und fühlt sich blitzsauber an!"
+msgstr "This Duplicant recently played video games and is feeling like a champ"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.NAME"
 msgid "Played Single-Player Video Games"
-msgstr "Videospiele gespielt"
+msgstr "Einzelspieler-Videospiele gespielt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.TOOLTIP"
 msgid ""
 "This Duplicant recently played fun single-player video games\n"
 "\n"
 "Score!"
-msgstr "Dieser Duplikant hat vor kurzem einige lustige Videospiele gespielt!"
+msgstr ""
+"Dieser Duplikant hat kürzlich lustige Einzelspieler-Videospiele gespielt\n"
+"\n"
+"Volltreffer!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.NAME"
@@ -42988,7 +42987,6 @@ msgstr ""
 "Der Rover lädt sich fröhlich im <link=\"SCOUTMODULE\">Rover-Modul</link> auf"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEAFOODRADIATIONRESISTANCE.CAUSE
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEAFOODRADIATIONRESISTANCE.CAUSE"
 msgid "Obtained by eating sea-grown foods like fish or lettuce"
 msgstr "Erhalten durch den Verzehr von Meeresfrüchten wie Fisch oder Salat"
@@ -42999,10 +42997,9 @@ msgid "Eating this improves <style=\"KKeyword\">Radiation</style> resistance"
 msgstr "Der Verzehr verbessert die <style=\"KKeyword\">Strahlenresistenz</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEAFOODRADIATIONRESISTANCE.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEAFOODRADIATIONRESISTANCE.NAME"
 msgid "Radiation Resistant: Aquatic Diet"
-msgstr "Strahlungsresistenz"
+msgstr "Strahlungsresistent: Aquatische Ernährung"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEAFOODRADIATIONRESISTANCE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEAFOODRADIATIONRESISTANCE.TOOLTIP"
@@ -43039,13 +43036,11 @@ msgstr ""
 "Dieser Duplikant war vor kurzem unter der Dusche und fühlt sich blitzsauber an!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.NAME"
 msgid "Gaming"
-msgstr "Gaming"
+msgstr "Spielt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.TOOLTIP"
 msgid ""
 "This Duplicant is playing a video game\n"
@@ -43448,14 +43443,13 @@ msgid "Clutchy"
 msgstr "Umklammert"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.THRIVER.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.THRIVER.TOOLTIP"
 msgid ""
 "This Duplicant is <style=\"KKeyword\">Stressed</style> and has kicked into "
 "hyperdrive"
 msgstr ""
-"Dieser Duplikant ist <style=\"KKeyword\">gestresst<style=\"KKeyword\"> und hat "
-"den Turbo eingelegt"
+"Dieser Duplikant ist <style=\"KKeyword\">gestresst</style> und hat den Turbo "
+"eingelegt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING"
@@ -44925,14 +44919,13 @@ msgid "<link=\"RANCHING2\">Critter Ranching II</link>"
 msgstr "<link=\"RANCHING2\">Viehzucht II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION"
 msgid ""
 "Enables Duplicants to study outer space using the <link=\"CLUSTERTELESCOPE"
 "\">Telescope</link>"
 msgstr ""
-"Erlaubt Duplikanten den Weltraum mit dem <link=\"TELESCOPE\">Teleskop</link> zu "
-"studieren"
+"Erlaubt Duplikanten den Weltraum mit dem <link=\"CLUSTERTELESCOPE\">Teleskop</"
+"link> zu studieren"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME"
@@ -45345,7 +45338,6 @@ msgid "Analyzing Artifact"
 msgstr "Artefakt analysieren"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGARTIFACT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGARTIFACT.TOOLTIP"
 msgid "This Duplicant is studying an artifact"
 msgstr "Dieses Duplikat untersucht ein Artefakt"
@@ -45583,7 +45575,6 @@ msgid "Contact with {Sickness} Germs"
 msgstr "Kontakt mit {Sickness}-Keimen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.TOOLTIP"
 msgid ""
 "This Duplicant has encountered {Sickness} Germs and is at risk of dangerous "
@@ -45876,7 +45867,6 @@ msgid "Exposure"
 msgstr "Exposition"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP"
 msgid ""
 "This Duplicant has been exposed to a concentration of {Sickness} Germs and is at "
@@ -45966,10 +45956,9 @@ msgid "These Duplicants are trying to escape:"
 msgstr "Diese Duplikanten versuchen zu entkommen:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP"
 msgid "This Duplicant is trying to escape something scary!"
-msgstr "Dieser Duplikant versucht, dem Kampf zu entkommen!"
+msgstr "Dieser Duplikant versucht, etwas Unheimlichem zu entkommen!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME"
@@ -46720,7 +46709,6 @@ msgid "Ranching"
 msgstr "Viehzucht"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RANCHING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RANCHING.TOOLTIP"
 msgid ""
 "This Duplicant is tending to a <style=\"KKeyword\">Critter</style>'s well-being"
@@ -47181,13 +47169,11 @@ msgstr ""
 "etwas zerstören, um Dampf abzulassen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BANSHEE.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BANSHEE.NAME"
 msgid "Suppressed Screams"
-msgstr "Geschwächtes Immunsystem"
+msgstr "Unterdrückte Schreie"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BANSHEE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BANSHEE.TOOLTIP"
 msgid ""
 "This Duplicant is fighting the urge to scream\n"
@@ -47195,10 +47181,10 @@ msgid ""
 "Improve this Duplicant's <style=\"KKeyword\">Morale</style> before they start "
 "wailing uncontrollably"
 msgstr ""
-"Dieser Duplikant versucht, seine Coolness zu bewahren\n"
+"Dieser Duplikant kämpft mit dem Drang zu schreien\n"
 "------------------\n"
-"Verbessere die <style=\"KKeyword\">Moral</style>dieses Duplikanten, bevor er "
-"etwas zerstören, um Dampf abzulassen"
+"Verbessere die <style=\"KKeyword\">Moral</style> dieses Duplikanten, bevor er "
+"unkontrolliert zu heulen beginnt."
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BINGE_EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BINGE_EAT.NAME"
@@ -47780,11 +47766,12 @@ msgid "Balloon Artist"
 msgstr "Ballonkünstler"
 
 #. STRINGS.DUPLICANTS.TRAITS.BANSHEE.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BANSHEE.DESC"
 msgid ""
 "This Duplicant wails uncontrollably when <style=\"KKeyword\">Stressed</style>"
-msgstr "Dieser Duplikant überfrisst sich bei <style=\"KKeyword\">Stress</style>"
+msgstr ""
+"Dieser Duplikant heult unkontrolliert, wenn er <style=\"KKeyword\">gestresst</"
+"style> ist"
 
 #. STRINGS.DUPLICANTS.TRAITS.BANSHEE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BANSHEE.NAME"
