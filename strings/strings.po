@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-10 22:29+0200\n"
+"PO-Revision-Date: 2022-06-11 11:36+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -47184,7 +47184,7 @@ msgstr ""
 "Dieser Duplikant kämpft mit dem Drang zu schreien\n"
 "------------------\n"
 "Verbessere die <style=\"KKeyword\">Moral</style> dieses Duplikanten, bevor er "
-"unkontrolliert zu heulen beginnt."
+"unkontrolliert zu heulen beginnt"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BINGE_EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BINGE_EAT.NAME"
@@ -48887,14 +48887,13 @@ msgstr ""
 "ohne den Nachteil der erhöhten <style=\"KKeyword\">Moralanforderungen</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.DESC"
 msgid ""
 "Enables Duplicants to study outer space using the <link=\"CLUSTERTELESCOPE"
 "\">Telescope</link>"
 msgstr ""
-"Erlaubt Duplikanten den Weltraum mit dem <link=\"TELESCOPE\">Teleskop</link> zu "
-"studieren"
+"Erlaubt Duplikanten den Weltraum mit dem <link=\"CLUSTERTELESCOPE\">Teleskop</"
+"link> zu studieren"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.NAME"
@@ -49044,14 +49043,13 @@ msgid "Green Thumb"
 msgstr "Grüner Daumen"
 
 #. STRINGS.DUPLICANTS.TRAITS.HAPPYSINGER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HAPPYSINGER.DESC"
 msgid ""
 "This Duplicant belts out catchy tunes when they are <style=\"KKeyword"
 "\">Overjoyed</style>"
 msgstr ""
-"Dieser Duplikant verteilt Ballons, wenn er <style=\"KKeyword\">begeistert</"
-"style> ist"
+"Dieser Duplikant singt Ohrwürmer, wenn er <style=\"KKeyword\">begeistert</style> "
+"ist"
 
 #. STRINGS.DUPLICANTS.TRAITS.HAPPYSINGER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HAPPYSINGER.NAME"
@@ -49143,7 +49141,6 @@ msgid "Attribute bonuses while alone"
 msgstr "Attributboni, wenn man allein ist"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP"
 msgid ""
 "Only Duplicant on a world: <b>+4</b> bonus to all <style=\"KKeyword"
@@ -50424,15 +50421,14 @@ msgid "<link=\"ETHANOLGAS\">Ethanol</link>"
 msgstr "<link=\"ETHANOLGAS\">Ethanol</link>"
 
 #. STRINGS.ELEMENTS.FALLOUT.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.FALLOUT.DESC"
 msgid ""
 "Nuclear Fallout is a highly toxic gas full of <link=\"RADIATION\">Radioactive "
 "Contaminants</link>. Condenses into <link=\"NUCLEARWASTE\">Nuclear Waste</link>."
 msgstr ""
 "Nuklearer Fallout ist ein hoch toxisches Gas voller <link=\"RADIATION"
-"\">Radioaktiver Schadstoffe</link>. Entsteht bei einer <link=\"NUCLEARREACTOR"
-"\">Nuklearen Kernschmelze</link>."
+"\">Radioaktiver Kontaminaten</link>. Es kondensiert zu <link=\"NUCLEARWASTE"
+"\">Atommüll</link>."
 
 #. STRINGS.ELEMENTS.FALLOUT.NAME
 msgctxt "STRINGS.ELEMENTS.FALLOUT.NAME"
@@ -51495,16 +51491,16 @@ msgid "<link=\"NIOBIUMGAS\">Niobium</link>"
 msgstr "<link=\"NIOBIUMGAS\">Niob</link>"
 
 #. STRINGS.ELEMENTS.NUCLEARWASTE.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.NUCLEARWASTE.DESC"
 msgid ""
 "Highly toxic liquid full of <link=\"RADIATION\">Radioactive Contaminants</link> "
 "which emit <link=\"RADIATION\">Radiation</link> that can be absorbed by <link="
 "\"HIGHENERGYPARTICLESPAWNER\">Radbolt Generators</link>."
 msgstr ""
-"Emittiert bei <link=\"POWER\">Energiezufuhr</link> <link=\"RADIATION"
-"\">Strahlung</link>, die von einem <link=\"HIGHENERGYPARTICLESPAWNER"
-"\">Teilchenblitz-Generator</link> aufgenommen werden kann."
+"Hochgiftige Flüssigkeit voller <link=\"RADIATION\">Radioaktiver Kontaminanten</"
+"link>, die <link=\"RADIATION\">Strahlung</link> aussenden, die von einem <link="
+"\"HIGHENERGYPARTICLESPAWNER\">Teilchenblitz-Generator</link> aufgenommen werden "
+"kann."
 
 #. STRINGS.ELEMENTS.NUCLEARWASTE.NAME
 msgctxt "STRINGS.ELEMENTS.NUCLEARWASTE.NAME"
@@ -52784,22 +52780,20 @@ msgid "<link=\"COOLVEST\">Cool Vest</link>"
 msgstr "<link=\"COOLVEST\">Kühlweste</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC"
 msgid ""
 "Protects the wearer from <style=\"heat\">Heat</style> by decreasing insulation"
 msgstr ""
 "Schützt den Träger vor <style=\"heat\">Wärme</style> durch Senkung seiner "
-"Isolierung."
+"Isolierung"
 
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.DESC"
 msgid "This transforms my Duplicant into a colony-inspiring fashion icon."
-msgstr "Verwandelt meine Duplikanten in ein Leuchtfeuer aus Stil und Eleganz."
+msgstr ""
+"Dadurch wird mein Duplikant zu einer Modeikone, die die Kolonie inspiriert."
 
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.EFFECT
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.EFFECT"
 msgid "Increases Decor in a small area effect around the wearer."
 msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger."
@@ -52900,10 +52894,9 @@ msgid "<link=\"CUSTOMCLOTHING\">Primo Garb</link>"
 msgstr "<link=\"CUSTOMCLOTHING\">Erstes Gewand</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.RECIPE_DESC"
 msgid "Increases Decor in a small area effect around the wearer"
-msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger."
+msgstr "Erhöht Dekoration in einem kleinen Bereich um den Träger"
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.DESC"
@@ -52936,7 +52929,6 @@ msgid "<link=\"EQUIPPABLEBALLOON\">Balloon Friend</link>"
 msgstr "<link=\"EQUIPPABLEBALLOON\">Ballon-Freund</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.RECIPE_DESC"
 msgid ""
 "Gives Duplicants a boost in brain function.\n"
@@ -52947,7 +52939,7 @@ msgstr ""
 "Gibt Duplikanten einen Schub in der Gehirnfunktion.\n"
 "\n"
 "Wird von Duplikanten mit der <link=\"MORALE\">Begeisterungsreaktion</link> des "
-"Ballonkünstlers ausgelöst."
+"Ballonkünstlers ausgelöst"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC"
@@ -53202,7 +53194,6 @@ msgid "<link=\"OXYGENTANK\">Oxygen Tank</link>"
 msgstr "<link=\"OXYGENTANK\">Sauerstofftank</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.RECIPE_DESC"
 msgid ""
 "Allows Duplicants to breathe in hazardous environments.\n"
@@ -53211,7 +53202,7 @@ msgid ""
 msgstr ""
 "Erlaubt Duplikanten in gefährlichen Umgebungen zu atmen.\n"
 "\n"
-"Funktioniert nicht in <style=\"liquid\">Flüssigkeit</style>."
+"Funktioniert nicht in <style=\"liquid\">Flüssigkeit</style>"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC"
@@ -53242,7 +53233,6 @@ msgid "Oxygen Rebreather"
 msgstr "Atemgerät"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.RECIPE_DESC"
 msgid ""
 "Allows Duplicants to breathe while submerged in <style=\"liquid\">Liquid</"
@@ -53253,7 +53243,7 @@ msgstr ""
 "Erlaubt Duplikanten zu atmen, während sie in <style=\"liquid\">Flüssigkeit</"
 "style> untergetaucht sind.\n"
 "\n"
-"Funktioniert nicht außerhalb von Flüssigkeiten."
+"Funktioniert nicht außerhalb von Flüssigkeiten"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC"
@@ -53327,13 +53317,12 @@ msgid "<link=\"WARMVEST\">Warm Sweater</link>"
 msgstr "<link=\"WARMVEST\">Warme Weste</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
 msgid ""
 "Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation"
 msgstr ""
 "Schützt den Träger vor <style=\"heat\">Kälte</style> durch Erhöhung seiner "
-"Isolierung."
+"Isolierung"
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.DESCRIPTION
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.DESCRIPTION"
@@ -55863,10 +55852,9 @@ msgid "<link=\"POPCORN\">Popcorn</link>"
 msgstr "<link=\"POPCORN\">Popcorn</link>"
 
 #. STRINGS.ITEMS.FOOD.POPCORN.RECIPEDESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.POPCORN.RECIPEDESC"
 msgid "Gamma-radiated <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>."
-msgstr "Gammaverstrahlte <link=\"COLDWHEATSEED\">Graupelweizensamen</link>."
+msgstr "Gammaverstrahlte <link=\"COLDWHEATSEED\">Graupelweizenkörner</link>."
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC"
