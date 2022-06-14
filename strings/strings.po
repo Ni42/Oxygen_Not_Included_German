@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-13 18:58+0200\n"
+"PO-Revision-Date: 2022-06-14 21:41+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -33718,6 +33718,11 @@ msgid ""
 "\n"
 "This is temporarily amplified when they are hugged by a passing Duplicant."
 msgstr ""
+"Knuddelpips sind flauschige, anhängliche Tiere, die einen starken "
+"Kuschelinstinkt gegenüber allen Arten von Eiern haben.\n"
+"\n"
+"Dieser wird vorübergehend verstärkt, wenn sie von einem vorbeigehenden "
+"Duplikanten umarmt werden."
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.EGG_NAME"
@@ -34702,7 +34707,7 @@ msgstr "Diese Kreatur hat etwas leckeres gefunden"
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.NAME"
 msgid "Picky Eater: All Done"
-msgstr ""
+msgstr "Wählerischer Esser: Alles erledigt"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_COMPLETE.TOOLTIP"
@@ -34719,7 +34724,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.NAME"
 msgid "Picky Eater: Just Right"
-msgstr ""
+msgstr "Wählerischer Esser: Genau richtig"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.PREFERRED_TEMP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.PREFERRED_TEMP"
@@ -34740,7 +34745,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.NAME"
 msgid "Picky Eater: Hungry"
-msgstr ""
+msgstr "Wählerischer Esser: Hungrig"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.TOOLTIP"
@@ -34758,7 +34763,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME"
 msgid "Picky Eater: {reason}"
-msgstr ""
+msgstr "Wählerischer Esser: {reason}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_COLD
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_COLD"
@@ -35147,6 +35152,9 @@ msgid ""
 "\n"
 "A hug from a Duplicant will prompt it to cuddle more eggs"
 msgstr ""
+"Dieses Tier hofft, dass ein Duplikant vorbeikommt und es in den Arm nimmt\n"
+"\n"
+"Eine Umarmung von einem Duplikant veranlasst es, noch mehr Eier zu knuddeln"
 
 #. STRINGS.CREATURES.STATUSITEMS.HUNGRY.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUNGRY.NAME"
@@ -37358,7 +37366,7 @@ msgstr "Aaaangriff!"
 #. STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.NAME"
 msgid "Banshee Wail"
-msgstr ""
+msgstr "Banshee-Schrei"
 
 #. STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BANSHEE_WAIL.STATUS"
@@ -40119,6 +40127,9 @@ msgid ""
 "Food and drinks tainted with Food Poisoning germs are unsafe to consume, as they "
 "cause vomiting and other...bodily unpleasantness."
 msgstr ""
+"Lebensmittel und Getränke, die mit Lebensmittelvergiftungskeimen belastet sind, "
+"dürfen nicht verzehrt werden, da sie Erbrechen und andere... körperliche "
+"Unannehmlichkeiten verursachen."
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT"
@@ -40418,6 +40429,8 @@ msgid ""
 "Floral Scent allergens trigger excessive sneezing fits in Duplicants who possess "
 "the Allergies trait."
 msgstr ""
+"Blumenduft-Allergene lösen bei Duplikanten, die das Merkmal Allergie besitzen, "
+"übermäßige Niesanfälle aus."
 
 #. STRINGS.DUPLICANTS.DISEASES.POLLENGERMS.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.POLLENGERMS.LEGEND_HOVERTEXT"
@@ -40464,6 +40477,10 @@ msgid ""
 "Sickness</link>. They are unaffected by pressure or temperature, but do degrade "
 "over time."
 msgstr ""
+"Gegenstände, die mit radioaktiven Kontaminanten belastet sind, geben geringe "
+"Mengen an <link=\"RADIATION\">Strahlung</link> ab, die <link=\"RADIATIONSICKNESS"
+"\">Strahlenkrankheit</link> verursachen können. Sie werden durch Druck oder "
+"Temperatur nicht beeinflusst, bauen sich aber mit der Zeit ab."
 
 #. STRINGS.DUPLICANTS.DISEASES.RADIATIONPOISONING.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.RADIATIONPOISONING.LEGEND_HOVERTEXT"
@@ -40483,6 +40500,10 @@ msgid ""
 "Sickness</link>. They are unaffected by pressure or temperature, but do degrade "
 "over time."
 msgstr ""
+"Gegenstände, die mit radioaktiven Kontaminanten belastet sind, geben geringe "
+"Mengen an <link=\"RADIATION\">Strahlung</link> ab, die <link=\"RADIATIONSICKNESS"
+"\">Strahlenkrankheit</link> verursachen können. Sie werden durch Druck oder "
+"Temperatur nicht beeinflusst, bauen sich aber mit der Zeit ab."
 
 #. STRINGS.DUPLICANTS.DISEASES.RADIATIONSICKNESS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.RADIATIONSICKNESS.DESCRIPTION"
@@ -40544,6 +40565,9 @@ msgid ""
 "\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>. Inhaling these germs can cause "
 "Duplicants to cough and struggle to breathe."
 msgstr ""
+"Schleimlungenkeime finden sich in <link=\"SLIMEMOLD\">Kalk</link> und <link="
+"\"CONTAMINATEDOXYGEN\">verschmutztem Sauerstoff</link>. Das Einatmen dieser "
+"Keime kann dazu führen, dass die Duplikanten husten und nach Luft ringen."
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.LEGEND_HOVERTEXT"
@@ -40765,6 +40789,10 @@ msgid ""
 "\">Sporechids</link>. Duplicants who touch or inhale the spores risk becoming "
 "infected and temporarily losing motor control."
 msgstr ""
+"Zombie-Sporen sind ein parasitärer Gehirnpilz, der von <link=\"EVILFLOWER"
+"\">Sporenblüten</link> freigesetzt wird. Duplikanten, die die Sporen berühren "
+"oder einatmen, riskieren, infiziert zu werden und vorübergehend die motorische "
+"Kontrolle zu verlieren."
 
 #. STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.LEGEND_HOVERTEXT"
@@ -40894,7 +40922,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING.NAME"
 msgid "Deafening Shriek"
-msgstr ""
+msgstr "Ohrenbetäubender Schrei"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING.NOTIFICATION_NAME"
@@ -40921,7 +40949,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.NAME"
 msgid "Guzzling Air"
-msgstr ""
+msgstr "Luftschlucken"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BANSHEE_WAILING_RECOVERY.TOOLTIP"
@@ -42159,7 +42187,7 @@ msgstr "Duplikanten finden diese scharfe Mahlzeit ziemlich belebend"
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.NAME"
 msgid "Hot Stuff"
-msgstr ""
+msgstr "Scharfes Zeug"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOTSTUFF.TOOLTIP"
@@ -43781,7 +43809,7 @@ msgstr "Besser draußen als drinnen, wie sie sagen"
 #. STRINGS.DUPLICANTS.MODIFIERS.WAILEDAT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WAILEDAT.NAME"
 msgid "Disturbed by Wailing"
-msgstr ""
+msgstr "Gestört durch Wehklagen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WAILEDAT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WAILEDAT.TOOLTIP"
@@ -44125,6 +44153,8 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.AMARI.DESC"
 msgid "{0}s likes to keep the peace. Ironically, they're a riot at parties."
 msgstr ""
+"{0}s bewahren gerne den Frieden. Ironischerweise sind sie auf Partys der "
+"Krawallmacher."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.AMARI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.AMARI.NAME"
@@ -44486,16 +44516,18 @@ msgid ""
 "Every {0} spends at least half the day pretending that they remember what they "
 "came into this room for."
 msgstr ""
+"Jeder {0} verbringt mindestens die Hälfte des Tages damit, so zu tun, als ob er "
+"sich daran erinnert, warum er in diesen Raum gekommen ist."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.PEI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PEI.NAME"
 msgid "Pei"
-msgstr "Pei"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.QUINN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.QUINN.DESC"
 msgid "This {0}'s favorite genre of music is \"festive power ballad\"."
-msgstr ""
+msgstr "Die Lieblingsmusikrichtung von {0} ist \"festliche Powerballade\"."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.QUINN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.QUINN.NAME"
@@ -44550,6 +44582,8 @@ msgid ""
 "This {0} is convinced that he has psychic powers. And he knows exactly what his "
 "friends think about that."
 msgstr ""
+"Dieser {0} ist überzeugt, dass er übersinnliche Kräfte hat. Und er weiß genau, "
+"was seine Freunde darüber denken."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.STEVE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STEVE.NAME"
@@ -47689,7 +47723,7 @@ msgstr "Toiletten-Pause"
 #. STRINGS.DUPLICANTS.THOUGHTS.CATCHYTUNE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.CATCHYTUNE.TOOLTIP"
 msgid "WHISTLING"
-msgstr ""
+msgstr "PFEIFT"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.CHATTY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.CHATTY.TOOLTIP"
@@ -47922,7 +47956,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.BANSHEE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BANSHEE.NAME"
 msgid "Banshee"
-msgstr ""
+msgstr "Banshee"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC"
@@ -49200,7 +49234,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.HAPPYSINGER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HAPPYSINGER.NAME"
 msgid "Yodeler"
-msgstr ""
+msgstr "Jodler"
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC"
@@ -53099,6 +53133,9 @@ msgid ""
 "<link=\"CUSTOMCLOTHING\">Primo Garb</link> at the <link="
 "\"CLOTHINGALTERATIONSTATION\">Clothing Refashionator</link>."
 msgstr ""
+"Erhöht die Dekoration in einem kleinen Bereich um den Träger herum. Kann an der "
+"<link=\"CLOTHINGALTERATIONSTATION\">Kleidungsumschneiderei</link> zu <link="
+"\"CUSTOMCLOTHING\">erstklassiger Kleidung</link> aufgewertet werden."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
@@ -53117,6 +53154,9 @@ msgid ""
 "<link=\"CUSTOMCLOTHING\">Primo Garb</link> at the <link="
 "\"CLOTHINGALTERATIONSTATION\">Clothing Refashionator</link>"
 msgstr ""
+"Erhöht die Dekoration in einem kleinen Bereich um den Träger herum. Kann an der "
+"<link=\"CLOTHINGALTERATIONSTATION\">Kleidungsumschneiderei</link> zu <link="
+"\"CUSTOMCLOTHING\">erstklassiger Kleidung</link> aufgewertet werden"
 
 #. STRINGS.EQUIPMENT.PREFABS.JET_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.JET_SUIT.DESC"
@@ -55534,7 +55574,7 @@ msgstr "<link=\"COOKEDFISH\">Gekochte Meeresfrüchte</link>"
 #. STRINGS.ITEMS.FOOD.COOKEDFISH.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDFISH.RECIPEDESC"
 msgid "A cooked piece of freshly caught aquatic critter."
-msgstr ""
+msgstr "Ein gekochtes Stück eines frisch gefangenen Wassertieres."
 
 #. STRINGS.ITEMS.FOOD.COOKEDMEAT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.DESC"
@@ -55565,6 +55605,10 @@ msgid ""
 "\n"
 "It's so spicy!"
 msgstr ""
+"Knackige <link=\"BEANPLANTSEED\">Happsbohnen</link>, gekocht mit Stücken von "
+"<link=\"GINGER\">Tonikumwurzeln</link>.\n"
+"\n"
+"Das ist so würzig!"
 
 #. STRINGS.ITEMS.FOOD.CURRY.NAME
 msgctxt "STRINGS.ITEMS.FOOD.CURRY.NAME"
@@ -55577,6 +55621,8 @@ msgid ""
 "Chewy <link=\"BEANPLANTSEED\">Nosh Beans</link> simmered with chunks of <link="
 "\"GINGER\">Tonic Root</link>."
 msgstr ""
+"Knackige <link=\"BEANPLANTSEED\">Happsbohnen</link>, gekocht mit Stücken von "
+"<link=\"GINGER\">Tonikumwurzeln</link>."
 
 #. STRINGS.ITEMS.FOOD.DRECKOEGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.DRECKOEGG.DESC"
@@ -56732,6 +56778,9 @@ msgid ""
 "\n"
 "It relieves gassiness."
 msgstr ""
+"Ein zähes, faseriges Wurzelgemüse mit einem feurigen Nachgeschmack.\n"
+"\n"
+"Es lindert Blähungen."
 
 #. STRINGS.ITEMS.INGREDIENTS.GINGER.NAME
 msgctxt "STRINGS.ITEMS.INGREDIENTS.GINGER.NAME"
@@ -70382,7 +70431,7 @@ msgstr "Klicken"
 #. STRINGS.UI.CONTROLS.CLICKABLE
 msgctxt "STRINGS.UI.CONTROLS.CLICKABLE"
 msgid "Clickable"
-msgstr ""
+msgstr "Klickbar"
 
 #. STRINGS.UI.CONTROLS.CLICKABLELOWER
 msgctxt "STRINGS.UI.CONTROLS.CLICKABLELOWER"
@@ -70482,7 +70531,7 @@ msgstr "gedrückt"
 #. STRINGS.UI.CONTROLS.PRESSEDUPPER
 msgctxt "STRINGS.UI.CONTROLS.PRESSEDUPPER"
 msgid "PRESSED"
-msgstr ""
+msgstr "GEDRÜCKT"
 
 #. STRINGS.UI.CONTROLS.PRESSES
 msgctxt "STRINGS.UI.CONTROLS.PRESSES"
@@ -70497,7 +70546,7 @@ msgstr "drückt"
 #. STRINGS.UI.CONTROLS.PRESSESUPPER
 msgctxt "STRINGS.UI.CONTROLS.PRESSESUPPER"
 msgid "PRESSES"
-msgstr ""
+msgstr "DRÜCKT"
 
 #. STRINGS.UI.CONTROLS.PRESSING
 msgctxt "STRINGS.UI.CONTROLS.PRESSING"
@@ -70512,7 +70561,7 @@ msgstr "drücken"
 #. STRINGS.UI.CONTROLS.PRESSINGUPPER
 msgctxt "STRINGS.UI.CONTROLS.PRESSINGUPPER"
 msgid "PRESSING"
-msgstr ""
+msgstr "DRÜCKT"
 
 #. STRINGS.UI.CONTROLS.PRESSLOWER
 msgctxt "STRINGS.UI.CONTROLS.PRESSLOWER"
@@ -70522,7 +70571,7 @@ msgstr "drücken"
 #. STRINGS.UI.CONTROLS.PRESSUPPER
 msgctxt "STRINGS.UI.CONTROLS.PRESSUPPER"
 msgid "PRESS"
-msgstr ""
+msgstr "DRÜCKE"
 
 #. STRINGS.UI.COPIED_SETTINGS
 msgctxt "STRINGS.UI.COPIED_SETTINGS"
@@ -72016,11 +72065,22 @@ msgid ""
 "\n"
 "Are you sure you want to opt in?"
 msgstr ""
+"Hoppla!\n"
+"\n"
+"Du bist dabei, dich für den <b>vorherigen Update-Zweig</b> zu entscheiden. Das "
+"bedeutet, dass du alle neuen Funktionen, Fehlerbehebungen und Inhalte des Live-"
+"Zweigs nicht nutzen kannst.\n"
+"\n"
+"Dieser Zweig ist temporär. Er wird ersetzt, wenn das nächste Update "
+"veröffentlicht wird. Er wird auch nicht unterstützt - bitte melde keine Fehler "
+"oder Probleme, die du hier findest.\n"
+"\n"
+"Bist du sicher, dass du dich anmelden möchtest?"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.CONTINUEBUTTON"
 msgid "Play Old Version"
-msgstr ""
+msgstr "Alte Version spielen"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.FORUMBUTTON"
@@ -74344,17 +74404,17 @@ msgstr "Vielen Dank fürs Spielen!"
 #. STRINGS.UI.FRONTEND.DEVTOOLS.BUTTON
 msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.BUTTON"
 msgid "Show Dev Tools"
-msgstr ""
+msgstr "Entwicklungswerkzeuge anzeigen"
 
 #. STRINGS.UI.FRONTEND.DEVTOOLS.DONTSHOW
 msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.DONTSHOW"
 msgid "Do not show this message again"
-msgstr ""
+msgstr "Diese Meldung nicht mehr anzeigen"
 
 #. STRINGS.UI.FRONTEND.DEVTOOLS.TITLE
 msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.TITLE"
 msgid "About Dev Tools"
-msgstr ""
+msgstr "Über Entwicklungswerkzeuge"
 
 #. STRINGS.UI.FRONTEND.DEVTOOLS.WARNING
 msgctxt "STRINGS.UI.FRONTEND.DEVTOOLS.WARNING"
@@ -74367,6 +74427,14 @@ msgid ""
 "These tools are completely unsupported and may contain bugs. Are you sure you "
 "want to continue?"
 msgstr ""
+"GEFAHR!!\n"
+"\n"
+"Die Entwicklungswerkzeuge sind nur für den Gebrauch durch Entwickler bestimmt. "
+"Die Verwendung dieser Werkzeuge kann dazu führen, dass dein Spielstand "
+"unspielbar, instabil oder schwer beschädigt wird.\n"
+"\n"
+"Diese Werkzeuge werden nicht unterstützt und können Fehler enthalten. Bist du "
+"sicher, dass du fortfahren möchtest?"
 
 #. STRINGS.UI.FRONTEND.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.DONE_BUTTON"
@@ -76084,7 +76152,7 @@ msgstr "STEAM WORKSHOP"
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "FAST FRIENDS"
-msgstr ""
+msgstr "SCHNELLE FREUNDE"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -76283,7 +76351,7 @@ msgstr "Die kompletten Patchnotizen online ansehen"
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.HEADER
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.HEADER"
 msgid "IMPORTANT UPDATE NOTES"
-msgstr ""
+msgstr "WICHTIGE AKTUALISIERUNGSHINWEISE"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -88275,7 +88343,7 @@ msgstr "Automatisierbare Lagerung"
 #. STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.FACADE.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.FACADE.TOOLTIP"
 msgid "Toggle the building facade"
-msgstr ""
+msgstr "Umschalten der Gebäudefassade"
 
 #. STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.MINION.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.AUTOPLUMBERSIDESCREEN.BUTTONS.MINION.TOOLTIP"
