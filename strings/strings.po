@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-14 21:41+0200\n"
+"PO-Revision-Date: 2022-06-15 22:59+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -24571,12 +24571,12 @@ msgstr "Essbare Pflanze"
 #. STRINGS.CODEX.GINGER.TITLE
 msgctxt "STRINGS.CODEX.GINGER.TITLE"
 msgid "Tonic Root"
-msgstr "Tonic-Wurzel"
+msgstr "Tonikumwurzel"
 
 #. STRINGS.CODEX.GLOSSY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.GLOSSY.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Glossy\" Drecko variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Glanz\" Drecko-Art</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Glanz\"-Drecko-Art</smallcaps>"
 
 #. STRINGS.CODEX.GLOSSY.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.GLOSSY.BODY.CONTAINER2"
@@ -28562,7 +28562,7 @@ msgstr "Tropischer Pacu"
 #. STRINGS.CODEX.VARIANT_DELICACY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.VARIANT_DELICACY.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Delecta\" Vole variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Lecker\"maus Variante</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Lecker\"maus-Variante</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE
 msgctxt "STRINGS.CODEX.VARIANT_DELICACY.SUBTITLE"
@@ -28592,7 +28592,7 @@ msgstr "Medipanzer"
 #. STRINGS.CODEX.VARIANT_HUG.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.VARIANT_HUG.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Cuddle\" Pip variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Knuddel\" Pip Variante</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Knuddel\"-Pip-Variante</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_HUG.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.VARIANT_HUG.BODY.CONTAINER2"
@@ -28617,7 +28617,7 @@ msgstr "Knuddelpips"
 #. STRINGS.CODEX.VARIANT_WOOD.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.VARIANT_WOOD.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Oakshell\" variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Eichenpanzer\" Variante</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Eichenpanzer\"-Variante</smallcaps>"
 
 #. STRINGS.CODEX.VARIANT_WOOD.SUBTITLE
 msgctxt "STRINGS.CODEX.VARIANT_WOOD.SUBTITLE"
@@ -28632,7 +28632,7 @@ msgstr "Eichenpanzer"
 #. STRINGS.CODEX.VITAL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.VITAL.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Coral\" Shine Bug variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Korallen\" Leuchtkäfer-Art</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Korallen\"-Leuchtkäfer-Art</smallcaps>"
 
 #. STRINGS.CODEX.VITAL.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.VITAL.BODY.CONTAINER2"
@@ -28651,7 +28651,7 @@ msgstr "Tier-Gestalt"
 #. STRINGS.CODEX.VITAL.TITLE
 msgctxt "STRINGS.CODEX.VITAL.TITLE"
 msgid "Coral Bug"
-msgstr "Korallen Käfer"
+msgstr "Korallenkäfer"
 
 #. STRINGS.CODEX.WATERWEED.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.WATERWEED.BODY.CONTAINER1"
@@ -52259,7 +52259,9 @@ msgstr "<link=\"SOLIDNAPHTHA\">Naphtha</link>"
 msgctxt "STRINGS.ELEMENTS.SOLIDNUCLEARWASTE.DESC"
 msgid ""
 "Highly toxic solid full of <link=\"RADIATION\">Radioactive Contaminants</link>."
-msgstr "<link=\"RADIATION\">Radioaktive Kontaminaten</link>."
+msgstr ""
+"Hochgiftiger Feststoff voller <link=\"RADIATION\">radioaktiver Kontaminanten</"
+"link>."
 
 #. STRINGS.ELEMENTS.SOLIDNUCLEARWASTE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDNUCLEARWASTE.NAME"
@@ -53011,7 +53013,7 @@ msgstr "<link=\"CUSTOMCLOTHING\">Schicker violetter Anzug</link>"
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.FACADES.GAUDYSWEATER
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.FACADES.GAUDYSWEATER"
 msgid "<link=\"CUSTOMCLOTHING\">Pompom Knit</link>"
-msgstr "<link=\"CUSTOMCLOTHING\">Strick Bommel</link>"
+msgstr "<link=\"CUSTOMCLOTHING\">Strick-Bommel</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.FACADES.LIMONE
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.FACADES.LIMONE"
@@ -53071,7 +53073,7 @@ msgstr "Kleidung"
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.NAME"
 msgid "<link=\"CUSTOMCLOTHING\">Primo Garb</link>"
-msgstr "<link=\"CUSTOMCLOTHING\">Erstes Gewand</link>"
+msgstr "<link=\"CUSTOMCLOTHING\">Erstklassige Kleidung</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.RECIPE_DESC"
@@ -56458,7 +56460,7 @@ msgstr "Kann zu <link=\"WOOD\">Holz</link> zerkleinert werden."
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_WOOD.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_WOOD.NAME"
 msgid "Small Oakshell Molt"
-msgstr "Kleine Eichenpanzer-mauser"
+msgstr "Kleine Eichenpanzer-Hülle"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
@@ -56492,7 +56494,7 @@ msgstr "Kann zu <link=\"WOOD\">Holz</link> zerkleinert werden."
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_WOOD.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_WOOD.NAME"
 msgid "Oakshell Molt"
-msgstr "Eichenpanzer-mauser"
+msgstr "Eichenpanzer-Hülle"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.EGG_SHELL.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.EGG_SHELL.DESC"
@@ -56785,7 +56787,7 @@ msgstr ""
 #. STRINGS.ITEMS.INGREDIENTS.GINGER.NAME
 msgctxt "STRINGS.ITEMS.INGREDIENTS.GINGER.NAME"
 msgid "<link=\"GINGER\">Tonic Root</link>"
-msgstr "<link=\"GINGER\">Tonic Wurzel</link>"
+msgstr "<link=\"GINGER\">Tonikumwurzel</link>"
 
 #. STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.DESC
 msgctxt "STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.DESC"
@@ -58167,8 +58169,8 @@ msgid ""
 "To check if an errand I've placed is accessible, I can select a Duplicant and "
 "\\click\\ <b>Show Navigation</b> to view all areas within their reach."
 msgstr ""
-"Duplikanten haben begrenzte Sprung- und Kletterfähigkeiten. SSie können nur zwei "
-"Kacheln hoch klettern und nicht in Räume passen, die kürzer als zwei Kacheln "
+"Duplikanten haben begrenzte Sprung- und Kletterfähigkeiten. Sie können nur zwei "
+"Kacheln hoch klettern und nicht in Räume passen, die niedriger als zwei Kacheln "
 "sind, oder Lücken überqueren, die breiter als eine Kachel sind. Darauf sollte "
 "ich achten, wenn ich Aufträge vergebe.\n"
 "\n"
@@ -58254,7 +58256,7 @@ msgid ""
 "and dragging the <b>Mop Tool</b> {Hotkey/Mop}"
 msgstr ""
 "<link=\"DIRTYWATER\">Verschmutztes Wasser</link> stößt langsam <link="
-"\"CONTAMINATEDOXYGEN\">verschmutzten Sauerstoff</link> ab, was die Ausbreitung "
+"\"CONTAMINATEDOXYGEN\">verschmutzten Sauerstoff</link> aus, was die Ausbreitung "
 "von <link=\"DISEASE\">Krankheiten</link> beschleunigt.\n"
 "\n"
 "Duplikanten werden auch <link=\"STRESS\">gestresst</link>, wenn sie durch "
@@ -69150,7 +69152,7 @@ msgid ""
 "\\Click\\ to go back:\n"
 "N/A"
 msgstr ""
-"\\Klicke\\um zurückzugehen:\n"
+"\\Klicke\\ um zurückzugehen:\n"
 "N/A"
 
 #. STRINGS.UI.CODEX.BACK_BUTTON_TOOLTIP
@@ -69159,7 +69161,7 @@ msgid ""
 "\\Click\\ to go back:\n"
 "{0}"
 msgstr ""
-"\\Klicke\\um zurückzugehen:\n"
+"\\Klicke\\ um zurückzugehen:\n"
 "{0}"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.BIOMES
@@ -77192,7 +77194,7 @@ msgstr "Dunkelheit"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT"
 msgid "<link=\"LIGHT\">Light Range</link>: {0} tiles"
-msgstr "<link=\"LIGHT\">Leuchtweite</link>: {0} Kachel"
+msgstr "<link=\"LIGHT\">Leuchtweite</link>: {0} Kacheln"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT_LUX
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT_LUX"
@@ -81863,8 +81865,7 @@ msgstr "<style=\"KKeyword\">Plumpe</style> Kunstwerke"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_CLOTHING_ALTERATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_CLOTHING_ALTERATION.DESCRIPTION"
 msgid "<link=\"CLOTHINGALTERATIONSTATION\">Clothing Refashionator</link> Usage"
-msgstr ""
-"<link=\"CLOTHINGALTERATIONSTATION\">Bekleidungs-Refashionator</link>-Nutzung"
+msgstr "<link=\"CLOTHINGALTERATIONSTATION\">Kleidungsumschneiderei</link>-Nutzung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_COMPOUND.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_COMPOUND.DESCRIPTION"
@@ -87269,7 +87270,7 @@ msgid ""
 "{2} tiles"
 msgstr ""
 "{0} x {1}\n"
-"{2} Kachel"
+"{2} Kacheln"
 
 #. STRINGS.UI.TOOLS.TOOL_LENGTH_FMT
 msgctxt "STRINGS.UI.TOOLS.TOOL_LENGTH_FMT"
@@ -87674,8 +87675,8 @@ msgid ""
 msgstr ""
 "Baue ein Teleskop, um dieses Menü freizuschalten\n"
 "\n"
-"Das <link=\"TELESCOPE\">Teleskop</link> befindet sich im <b>Raketen-Tab</b> "
-"{Hotkey/Plan14} des Baumenüs"
+"Das <link=\"TELESCOPE\">Teleskop</link> befindet sich im <b>Stationen-Tab</b> "
+"{Hotkey/Plan10} des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE_CLUSTER
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE_CLUSTER"
