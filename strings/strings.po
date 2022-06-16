@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-16 12:23+0200\n"
+"PO-Revision-Date: 2022-06-16 20:53+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -33708,7 +33708,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.BABY.NAME"
 msgid "<link=\"SQUIRREL\">Cuddle Pipsqueak</link>"
-msgstr "<link=\"SQUIRREL\">Knuddel Pipquietscher</link>"
+msgstr "<link=\"SQUIRREL\">Knuddelquietscher</link>"
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.DESC"
@@ -33727,12 +33727,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.EGG_NAME"
 msgid "<link=\"SQUIRREL\">Cuddle Pip Egg</link>"
-msgstr "<link=\"SQUIRREL\">Knuddel Pip-Ei</link>"
+msgstr "<link=\"SQUIRREL\">Knuddelpip-Ei</link>"
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.NAME"
 msgid "<link=\"SQUIRREL\">Cuddle Pip</link>"
-msgstr "<link=\"SQUIRREL\">Knuddel Pip</link>"
+msgstr "<link=\"SQUIRREL\">Knuddelpip</link>"
 
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.BABY.DESC"
