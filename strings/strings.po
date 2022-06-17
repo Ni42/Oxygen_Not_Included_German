@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-16 20:53+0200\n"
+"PO-Revision-Date: 2022-06-17 12:04+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -5891,8 +5891,8 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
-"Verbessert <link=\"FUNKYVEST\">Schicke Anzüge</link> in <link=\"CUSTOMCLOTHING"
-"\">erstklassiger Kleidung</link>.\n"
+"Verbessert <link=\"FUNKYVEST\">schicke Anzüge</link> in <link=\"CUSTOMCLOTHING"
+"\">erstklassige Kleidung</link>.\n"
 "\n"
 "Duplikanten werden nichts herstellen, wenn kein Rezept in der Warteliste ist."
 
@@ -24103,7 +24103,7 @@ msgstr "<link=\"DECOR\">Dekoration</link>"
 #. STRINGS.CODEX.DENSE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.DENSE.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Dense\" Puft variant</smallcaps>"
-msgstr "<smallcaps>Abgebildet: \"Massive\" Puft-Art</smallcaps>"
+msgstr "<smallcaps>Abgebildet: \"Kompakte\" Puft-Art</smallcaps>"
 
 #. STRINGS.CODEX.DENSE.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.DENSE.BODY.CONTAINER2"
@@ -24126,7 +24126,7 @@ msgstr "Tier-Gestalt"
 #. STRINGS.CODEX.DENSE.TITLE
 msgctxt "STRINGS.CODEX.DENSE.TITLE"
 msgid "Dense Puft"
-msgstr "Massiver Puft"
+msgstr "Kompakt-Puft"
 
 #. STRINGS.CODEX.DIVERGENT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.DIVERGENT.BODY.CONTAINER1"
@@ -33059,7 +33059,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.BABY.NAME"
 msgid "<link=\"PUFTOXYLITE\">Dense Puftlet</link>"
-msgstr "<link=\"PUFTOXYLITE\">Kompakt-Puft</link>"
+msgstr "<link=\"PUFTOXYLITE\">Kompakt-Puftlet</link>"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.DESC"
@@ -37935,7 +37935,7 @@ msgstr "Dieser Duplikant benutzt eine Ausrüstung"
 #. STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.NAME"
 msgid "Store Equipment"
-msgstr "Ausrüstung Lagern"
+msgstr "Ausrüstung lagern"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.REPORT_NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.REPORT_NAME"
@@ -38157,7 +38157,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.FOODFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FOODFETCH.NAME"
 msgid "Store Food"
-msgstr "Lebensmittellager"
+msgstr "Lebensmittel lagern"
 
 #. STRINGS.DUPLICANTS.CHORES.FOODFETCH.REPORT_NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FOODFETCH.REPORT_NAME"
@@ -39040,7 +39040,7 @@ msgstr "Dieser Duplikant verlegt ein Gebäude an einen neuen Ort"
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.NAME"
 msgid "Repair"
-msgstr "Repariert"
+msgstr "Reparieren"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS"
@@ -39430,7 +39430,7 @@ msgstr "Dieser Duplikant wird die Einstellungen an einem Gebäude ändern"
 #. STRINGS.DUPLICANTS.CHORES.TRAIN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAIN.NAME"
 msgid "Train"
-msgstr "Trainiert"
+msgstr "Trainieren"
 
 #. STRINGS.DUPLICANTS.CHORES.TRAIN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAIN.STATUS"
@@ -47346,7 +47346,7 @@ msgstr ""
 "Dieser Duplikant versucht, seine Coolness zu bewahren\n"
 "------------------\n"
 "Verbessere die <style=\"KKeyword\">Moral</style>dieses Duplikanten, bevor er "
-"etwas zerstören, um Dampf abzulassen"
+"etwas zerstört, um Dampf abzulassen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BANSHEE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_BANSHEE.NAME"
@@ -47826,7 +47826,7 @@ msgid ""
 "This Duplicant handles stress by taking their frustrations out on defenseless "
 "machines"
 msgstr ""
-"Dieser Duplikant handelt Stress, indem er seine Frustration an wehrlosen "
+"Dieser Duplikant bewältigt Stress, indem er seine Frustration an wehrlosen "
 "Maschinen auslässt"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME
@@ -54302,7 +54302,7 @@ msgstr "Die Sonne"
 #. STRINGS.GAMEPLAY_EVENTS.LOCATIONS.SURFACE
 msgctxt "STRINGS.GAMEPLAY_EVENTS.LOCATIONS.SURFACE"
 msgid "Planetary Surface"
-msgstr "Planetarischenoberfläche"
+msgstr "Planetenoberfläche"
 
 #. STRINGS.GAMEPLAY_EVENTS.TIMES.IN_CYCLES
 msgctxt "STRINGS.GAMEPLAY_EVENTS.TIMES.IN_CYCLES"
@@ -55529,7 +55529,7 @@ msgstr "Ein essbares Korn, das einen kühlen Geschmack auf der Zunge hinterläss
 #. STRINGS.ITEMS.FOOD.COLDWHEATSEED.NAME
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATSEED.NAME"
 msgid "<link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>"
-msgstr "<link=\"COLDWHEATSEED\">Graupelweizen-Samen</link>"
+msgstr "<link=\"COLDWHEATSEED\">Graupelweizenkorn</link>"
 
 #. STRINGS.ITEMS.FOOD.COMPOST
 msgctxt "STRINGS.ITEMS.FOOD.COMPOST"
@@ -56037,7 +56037,7 @@ msgid ""
 "\n"
 "Completely devoid of any fancy flavorings."
 msgstr ""
-"<link=\"COLDWHEATSEED\">Graupelweizen-Samen</link>, aufgepoppt in einem <link="
+"<link=\"COLDWHEATSEED\">Graupelweizenkörner</link>, aufgepoppt in einem <link="
 "\"GAMMARAYOVEN\">Gammastrahlenofen</link>."
 
 #. STRINGS.ITEMS.FOOD.POPCORN.NAME
@@ -56070,7 +56070,7 @@ msgid ""
 msgstr ""
 "Ein Ei gelegt von einem <link=\"PUFT\">Puft</link>.\n"
 "\n"
-"Wenn es ausgebrütet wird, schlüpft eine <link=\"PUFT\">Puftlet</link>."
+"Wenn es ausgebrütet wird, schlüpft ein <link=\"PUFT\">Puftlet</link>."
 
 #. STRINGS.ITEMS.FOOD.PUFTEGG.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PUFTEGG.NAME"
@@ -58598,7 +58598,7 @@ msgstr ""
 "Priorität abarbeiten. Ich kann die <b>Prioritätsanzeige</b> {Hotkey/"
 "ManagePriorities} öffnen, um die <style=\"KKeyword\">Duplikanten-Prioritäten</"
 "style> zu setzen, und das <b>Prioritäts-Werkzeug</b> {Hotkey/Prioritize} zur "
-"Feinabstimmung der <style=\"KKeyword\">Gebäude-Prioritäten</style> nutzen. Viele "
+"Feinabstimmung der <style=\"KKeyword\">Gebäudeprioritäten</style> nutzen. Viele "
 "Gebäude lassen mich auch ihre Prioritätsstufe ändern, wenn ich sie auswähle."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
@@ -77909,9 +77909,10 @@ msgstr ""
 "Duplikanten wählen zunächst aus, welchen <style=\"KKeyword\">Auftragstyp</style> "
 "sie durchführen möchten, basierend auf den <style=\"KKeyword\">Duplikanten-"
 "Prioritäten</style>,\n"
-"dann werden sie einzelne Aufgaben innerhalb dieses Typs unter Verwendung der "
-"<style=\"KKeyword\">Objektprioritäten</style>, die durch das <link=\"PRIORITIES"
-"\">PRIORITÄTWERKZEUG</link> {Hotkey/ManagePriorities} festgelegt wurde"
+"dann wählen sie einzelne Aufgaben innerhalb dieses Typs unter Verwendung der "
+"<style=\"KKeyword\">Gebäudeprioritäten</style> aus, die durch das <link="
+"\"PRIORITIES\">PRIORITÄTSWERKZEUG</link> {Hotkey/ManagePriorities} festgelegt "
+"wurde"
 
 #. STRINGS.UI.JOBSSCREEN.INCREASE_PRIORITY_TUTORIAL
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_PRIORITY_TUTORIAL"
@@ -80802,8 +80803,8 @@ msgid ""
 "type using the <style=\"KKeyword\">Building Priorities</style> set by this tool"
 msgstr ""
 "Duplikanten wählen zunächst anhand ihrer <style=\"KKeyword\">Duplikanten-"
-"Prioritäten</style> {Hotkey/ManagePriorities} aus, welchen Auftragstyp sie "
-"ausführen möchten\n"
+"Prioritäten</style> {Hotkey/ManagePriorities} aus, welchen <style=\"KKeyword"
+"\">Auftragstyp</style> sie ausführen möchten\n"
 "------------------\n"
 "Sie wählen dann den <style=\"KKeyword\">Auftrag</style> innerhalb dieses Typs "
 "unter Verwendung der <style=\"KKeyword\">Prioritäten</style> von diesem Werkzeug "
@@ -87632,7 +87633,7 @@ msgstr ""
 "Verwalte die Prioritäten meiner Duplikanten {Hotkey}.\n"
 "\n"
 "<style=\"KKeyword\">Duplikanten-Prioritäten</style> werden <i>vor</i> dem <style="
-"\"KKeyword\">Gebäude-Prioritäten</style> berechnet, die mit dem "
+"\"KKeyword\">Gebäudeprioritäten</style> berechnet, die mit dem "
 "<b>Prioritätswerkzeug</b> {Hotkey/Prioritize} gesetzt wurden"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_PAUSEMENU
