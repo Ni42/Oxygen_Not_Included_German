@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-17 12:04+0200\n"
+"PO-Revision-Date: 2022-06-19 13:55+0200\n"
 "Last-Translator: CarstenG\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -5899,7 +5899,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME"
 msgid "<link=\"CLOTHINGALTERATIONSTATION\">Clothing Refashionator</link>"
-msgstr "<link=\"CLOTHINGALTERATIONSTATION\">Kleidungsumschneiderei</link>"
+msgstr "<link=\"CLOTHINGALTERATIONSTATION\">Kleidungsum­schneiderei</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC"
@@ -6278,7 +6278,8 @@ msgstr "<link=\"COOKINGSTATION\">Elektrogrill</link>"
 #. STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.DESC"
 msgid "Corner moulding is used as purely decorative trim for ceiling corners."
-msgstr "Die Deckenleiste wird als reine Zierleiste für Decken verwendet."
+msgstr ""
+"Eckleisten werden als rein dekorative Verkleidung von Deckenecken verwendet."
 
 #. STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.EFFECT"
@@ -6296,7 +6297,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.NAME"
 msgid "<link=\"CORNERMOULDING\">Corner Moulding</link>"
-msgstr "<link=\"CROWNMOULDING\">Deckenleiste</link>"
+msgstr "<link=\"CROWNMOULDING\">Eckleiste</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.COSMICRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COSMICRESEARCHCENTER.DESC"
@@ -6355,7 +6356,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.NAME"
 msgid "<link=\"CRAFTINGTABLE\">Crafting Station</link>"
-msgstr "<link=\"CRAFTINGTABLE\">Handwerksstation</link>"
+msgstr "<link=\"CRAFTINGTABLE\">Handwerks­station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC"
@@ -6768,7 +6769,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.NAME"
 msgid "<link=\"DOCTORSTATION\">Sick Bay</link>"
-msgstr "<link=\"DOCTORSTATION\">Krankenstation</link>"
+msgstr "<link=\"DOCTORSTATION\">Kranken­station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE"
@@ -7287,8 +7288,8 @@ msgid ""
 "Cannot be triggered by <link=\"ELEMENTSGAS\">Gas</link> or <link=\"ELEMENTSLIQUID"
 "\">Liquids</link>."
 msgstr ""
-"Sendet <b><style=\"logic_on\">Grünes Signal</style></b> wenn ein Duplikant oder "
-"Objekt darauf platziert wird.\n"
+"Sendet ein <b><style=\"logic_on\">Grünes Signal</style></b> wenn ein Duplikant "
+"oder Objekt darauf platziert wird.\n"
 "\n"
 "Kann nicht von <link=\"ELEMENTSGAS\">Gas</link> oder <link=\"ELEMENTSLIQUID"
 "\">Flüssigkeiten</link> aktiviert werden."
@@ -7962,7 +7963,7 @@ msgstr "Zähler zurücksetzen"
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME"
 msgid "<link=\"GASLIMITVALVE\">Gas Meter Valve</link>"
-msgstr "<link=\"GASVALVE\">Gaszählerventil</link>"
+msgstr "<link=\"GASVALVE\">Gaszähler­ventil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE"
@@ -8898,7 +8899,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINE.NAME"
 msgid "<link=\"HYDROGENENGINE\">Hydrogen Engine</link>"
-msgstr "<link=\"HYDROGENENGINE\">Wasserstofftriebwerk</link>"
+msgstr "<link=\"HYDROGENENGINE\">Wasserstoff-Triebwerk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.DESC"
@@ -8984,7 +8985,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME"
 msgid "<link=\"HYDROPONICFARM\">Hydroponic Farm</link>"
-msgstr "<link=\"HYDROPONICFARM\">Hydroponische Farm</link>"
+msgstr "<link=\"HYDROPONICFARM\">Hydroponi­sche Farm</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.DESC"
@@ -10890,7 +10891,7 @@ msgid ""
 "Signal Distributors can be used to choose which circuit should receive a given "
 "automation signal."
 msgstr ""
-"Mit Signalverteilern kann auszuwählen werden, welche Schaltung ein bestimmtes "
+"Mit Signalverteilern kann ausgewählt werden, welche Schaltung ein bestimmtes "
 "Automatisierungssignal empfangen soll."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEDEMULTIPLEXER.EFFECT
@@ -11698,7 +11699,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBON.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRIBBON.NAME"
 msgid "<link=\"LOGICRIBBON\">Automation Ribbon</link>"
-msgstr "<link=\"LOGICRIBBON\">Automatisierungs-Band</link>"
+msgstr "<link=\"LOGICRIBBON\">Automatisier­ungsband</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBONBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRIBBONBRIDGE.DESC"
@@ -11717,7 +11718,7 @@ msgid ""
 "\n"
 "Can be run through wall and floor tile."
 msgstr ""
-"Leitet <link=\"LOGICRIBBON\">Automatisierungs-Band</link> über ein andere ohne "
+"Leitet <link=\"LOGICRIBBON\">Automatisierungsband</link> über ein andere ohne "
 "sie zu verbinden.\n"
 "\n"
 "Kann in Wand- und Bodenziegeln verlegt werden."
@@ -11757,8 +11758,8 @@ msgid ""
 "Ribbon</link> into an <link=\"LOGICWIRE\">Automation Wire</link>."
 msgstr ""
 "Leitet das Signal von einem einzelnen Bit in einem <link=\"LOGICRIBBON"
-"\">Automatisierungs-Band</link> in ein <link=\"LOGICWIRE"
-"\">Automatisierungsdraht</link>."
+"\">Automatisierungsband</link> in ein <link=\"LOGICWIRE\">Automatisierungsdraht</"
+"link>."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBONREADER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRIBBONREADER.EFFECT"
@@ -11860,7 +11861,7 @@ msgstr ""
 "\"logic_off\">Rotes Signal</style></b> an ein <link=\"LOGIC"
 "\">Automatisierungsband</link>.\n"
 "\n"
-"Ein<link=\"LOGICRIBBON\">Automatisierungsband</link> muss als Ausgangskabel "
+"Ein <link=\"LOGICRIBBON\">Automatisierungsband</link> muss als Ausgangskabel "
 "verwendet werden, um eine Überlastung zu vermeiden."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBONWRITER.INPUT_NAME
@@ -13553,7 +13554,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.OXYGENMASKLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENMASKLOCKER.NAME"
 msgid "<link=\"OXYGENMASKLOCKER\">Oxygen Mask Dock</link>"
-msgstr "<link=\"OXYGENMASKLOCKER\">Sauerstoffmasken-Dock</link>"
+msgstr "<link=\"OXYGENMASKLOCKER\">Sauerstoff­masken-Dock</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OXYGENMASKMARKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENMASKMARKER.DESC"
@@ -13585,7 +13586,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.OXYGENMASKMARKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENMASKMARKER.NAME"
 msgid "<link=\"OXYGENMASKMARKER\">Oxygen Mask Checkpoint</link>"
-msgstr "<link=\"OXYGENMASKMARKER\">Sauerstoffmasken-Kontrollstelle</link>"
+msgstr "<link=\"OXYGENMASKMARKER\">Sauerstoff­masken-Kontrollstelle</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OXYGENMASKSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENMASKSTATION.DESC"
@@ -15638,7 +15639,7 @@ msgstr "Geniale Skulptur"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
 msgid "<link=\"SCULPTURE\">Large Sculpting Block</link>"
-msgstr "<link=\"SCULPTURE\">großer Skulptur-Block</link>"
+msgstr "<link=\"SCULPTURE\">Großer Skulptur-Block</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME"
@@ -16089,7 +16090,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.NAME"
 msgid "<link=\"SOLIDCONDUITDISEASESENSOR\">Conveyor Rail Germ Sensor</link>"
-msgstr "<link=\"SOLIDCONDUITDISEASESENSOR\">Förderschienen-Keimsensor</link>"
+msgstr "<link=\"SOLIDCONDUITDISEASESENSOR\">Förder­schienen­keim­sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.DESC"
@@ -16131,7 +16132,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.NAME"
 msgid "<link=\"SOLIDCONDUITELEMENTSENSOR\">Conveyor Rail Element Sensor</link>"
-msgstr "<link=\"SOLIDCONDUITELEMENTSENSOR\">Förderschienenelement-Sensor</link>"
+msgstr "<link=\"SOLIDCONDUITELEMENTSENSOR\">Förder­schienen­element­sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC"
@@ -16226,7 +16227,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.NAME"
 msgid "<link=\"SOLIDCONDUITTEMPERATURESENSOR\">Conveyor Rail Thermo Sensor</link>"
-msgstr "<link=\"SOLIDCONDUITTEMPERATURESENSOR\">Förderschienen-Thermosensor</link>"
+msgstr "<link=\"SOLIDCONDUITTEMPERATURESENSOR\">Förder­schienen­thermo­sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.DESC"
@@ -16851,7 +16852,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SUNLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUNLAMP.NAME"
 msgid "<link=\"SUNLAMP\">Sun Lamp</link>"
-msgstr "<link=\"SUNLAMP\">Tageslichtlampe</link>"
+msgstr "<link=\"SUNLAMP\">Tageslicht­lampe</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.DESC"
@@ -17848,7 +17849,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.NAME"
 msgid ""
 "<link=\"WIREREFINEDBRIDGEHIGHWATTAGE\">Heavi-Watt Conductive Joint Plate</link>"
 msgstr ""
-"<link=\"WIREREFINEDBRIDGEHIGHWATTAGE\">Starke Leiter-Verbindungs­­platte</link>"
+"<link=\"WIREREFINEDBRIDGEHIGHWATTAGE\">Starke Leiter-Verbindungs­platte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.DESC"
@@ -67492,7 +67493,7 @@ msgstr "<link=\"HEAT\">Kühlungseffekt</link>: {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.MAX_BITS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MAX_BITS"
 msgid "<link=\"LOGIC\">Bit</link> Depth: {0}"
-msgstr "<link=\"LOGIC\">Bit</link> Depth: {0}"
+msgstr "<link=\"LOGIC\">Bit</link>-Tiefe: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE"
@@ -68238,9 +68239,9 @@ msgid ""
 "\"KKeyword\">Bit Depth</style> than the connected <style=\"KKeyword\">Logic "
 "Wire</style> can result in damage to the circuit"
 msgstr ""
-"Sendet ein <style=\"KKeyword\">Automatisierungssignal</style> mit einer höheren "
-"<style=\"KKeyword\">Bit Depth</style> als der angeschlossene <style=\"KKeyword"
-"\">Logikdraht</style>. Kann zur Beschädigung des Kreises führen"
+"Das Senden eines <style=\"KKeyword\">Automatisierungssignals</style> mit einer "
+"höheren <style=\"KKeyword\">Bit-Tiefe</style> als der angeschlossene <style="
+"\"KKeyword\">Logikdraht</style> kann zur Beschädigung des Kreises führen."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE"
@@ -88254,7 +88255,7 @@ msgstr "Weise {0} zu"
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNED"
 msgid "Assigned"
-msgstr "Zugew."
+msgstr "Zugewiesen"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED"
@@ -88401,7 +88402,7 @@ msgstr "Abbrechen"
 #. STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.DEPOSIT
 msgctxt "STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.DEPOSIT"
 msgid "Select"
-msgstr "Wähle"
+msgstr "Wählen"
 
 #. STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.ENTITYDEPOSITED"
@@ -88411,7 +88412,7 @@ msgstr "ANZEIGEN: {0}"
 #. STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.REMOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.REMOVE"
 msgid "Remove"
-msgstr "Entferne"
+msgstr "Entfernen"
 
 #. STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.SELECT_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.BASICRECEPTACLE.SELECT_DESC"
