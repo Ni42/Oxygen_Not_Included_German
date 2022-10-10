@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-10-10 11:22+0200\n"
+"PO-Revision-Date: 2022-10-10 22:59+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -25040,7 +25040,7 @@ msgstr "Mehr Forschung oder Erkundung ist erforderlich"
 #. STRINGS.CODEX.HEADERS.CRITTERDROPS
 msgctxt "STRINGS.CODEX.HEADERS.CRITTERDROPS"
 msgid "Drops"
-msgstr "Legt"
+msgstr "Hinterlässt"
 
 #. STRINGS.CODEX.HEADERS.DIET
 msgctxt "STRINGS.CODEX.HEADERS.DIET"
@@ -31372,7 +31372,7 @@ msgstr "<link=\"CRABSPECIES\">Pokepanzer</link>"
 #. STRINGS.CREATURES.FAMILY.DIVERGENTSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY.DIVERGENTSPECIES"
 msgid "<link=\"DIVERGENTSPECIES\">Divergent</link>"
-msgstr "<link=\"DIVERGENTSPECIES\">Abweichend</link>"
+msgstr "<link=\"DIVERGENTSPECIES\">Divergent</link>"
 
 #. STRINGS.CREATURES.FAMILY.DRECKO
 msgctxt "STRINGS.CREATURES.FAMILY.DRECKO"
@@ -31452,7 +31452,7 @@ msgstr "<link=\"CRABSPECIES\">Pokepanzer</link>"
 #. STRINGS.CREATURES.FAMILY_PLURAL.DIVERGENTSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.DIVERGENTSPECIES"
 msgid "<link=\"DIVERGENTSPECIES\">Divergents</link>"
-msgstr "<link=\"DIVERGENTSPECIES\">Abweichend</link>"
+msgstr "<link=\"DIVERGENTSPECIES\">Divergenten</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.DRECKOSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.DRECKOSPECIES"
