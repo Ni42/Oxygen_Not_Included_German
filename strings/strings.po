@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-10-11 20:43+0200\n"
+"PO-Revision-Date: 2022-10-12 00:44+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1017,12 +1017,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.NAME"
 msgid "Dispense Requested"
-msgstr "Rezeptur angefordert"
+msgstr "Ausgabe angefordert"
 
 #. STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.TOOLTIP"
 msgid "Waiting for a Duplicant to dispense the item"
-msgstr "Warte auf Duplikant für die Rezeptur"
+msgstr "Warte auf Duplikant für die Ausgabe"
 
 #. STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.NAME"
@@ -29211,7 +29211,7 @@ msgstr ""
 "Scheinbar enthält es Anzüg fürs Schlafen... könnte das der Schlüssel zu den "
 "Träumen meiner Duplikanten sein?\n"
 "\n"
-"Ich habe mich schon oft gefragt, zu was sie imstande sind, sobald ihr Fantasie "
+"Ich habe mich schon oft gefragt, zu was sie imstande sind, sobald ihre Fantasie "
 "erwacht."
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.NAME
@@ -91056,12 +91056,12 @@ msgstr "Auftrag abbrechen"
 #. STRINGS.UI.UISIDESCREENS.DISPENSERSIDESCREEN.BUTTON_DISPENSE
 msgctxt "STRINGS.UI.UISIDESCREENS.DISPENSERSIDESCREEN.BUTTON_DISPENSE"
 msgid "Dispense item"
-msgstr "Objekte verteilen"
+msgstr "Gegenstand ausgeben"
 
 #. STRINGS.UI.UISIDESCREENS.DISPENSERSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.DISPENSERSIDESCREEN.TITLE"
 msgid "Dispenser"
-msgstr "Verteiler"
+msgstr "Ausgeber"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT"
