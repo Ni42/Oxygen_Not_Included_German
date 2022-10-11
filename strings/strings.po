@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-10-10 22:59+0200\n"
+"PO-Revision-Date: 2022-10-11 20:43+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -7345,8 +7345,8 @@ msgid ""
 "A fish release must be built above liquid to prevent released fish from "
 "suffocating."
 msgstr ""
-"Eine Fisch-Aussetzer muss über einer Flüssigkeit gebaut werden, um zu "
-"verhindern, dass freigesetzte Fische ersticken."
+"Ein Fisch-Aussetzer muss über einer Flüssigkeit gebaut werden, um zu verhindern, "
+"dass freigesetzte Fische ersticken."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.EFFECT"
@@ -15116,7 +15116,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME"
 msgid "<link=\"RANCHSTATION\">Grooming Station</link>"
-msgstr "<link=\"RANCHSTATION\">Pflege-Station</link>"
+msgstr "<link=\"RANCHSTATION\">Pflege­station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -20158,7 +20158,7 @@ msgid ""
 msgstr ""
 "[LOG START]\n"
 "\n"
-"\\...Die Biolumineszenz ist immer ein Novum, aber es sollte von nun an nur noch "
+"...Die Biolumineszenz ist immer ein Novum, aber es sollte von nun an nur noch "
 "wenig Zeit damit verbracht werden, diese Insekten zu perfektionieren.\n"
 "\n"
 "Das Projekt hat dringendere Sorgen als Lichtquellen, insbesondere jetzt, da das "
@@ -55521,9 +55521,9 @@ msgid ""
 "aspect of colony life. I should continue to watch future developments in this "
 "department closely."
 msgstr ""
-"{dupe} hat einen Waschraum besucht und die Erfahrung hat diesen Duplikanten mit "
-"deutlich verbesserter <link=\"MORALE\">Moral</link> zurückgelassen. Die Analyse "
-"zeigt, dass diese Verbesserung für viele Zyklen anhalten sollte.\n"
+"{dupe} hat einen Waschraum besucht und diese Erfahrung hat dem Duplikanten eine "
+"deutlich verbesserte <link=\"MORALE\">Moral</link> gegeben. Die Analyse zeigt, "
+"dass diese Verbesserung für viele Zyklen anhalten sollte.\n"
 "\n"
 "Die Beziehung zwischen meinen Duplikanten und ihrer Umgebung ist ein "
 "interessanter Aspekt des Kolonielebens. Ich sollte zukünftige Entwicklungen in "
@@ -57819,8 +57819,8 @@ msgid ""
 "\n"
 "It's hearty and satisfying."
 msgstr ""
-"Ein wenig <link=\"MEAT\">Fleisch</link> vom Land und <link=\"FISHMEAT\">Gekochte "
-"Meeresfrüchte</link> vom Meer.\n"
+"Ein wenig <link=\"MEAT\">Fleisch</link> vom Land und <link=\"COOKEDFISH"
+"\">Gekochte Meeresfrüchte</link> vom Meer.\n"
 "\n"
 "Es ist herzhaft und lecker."
 
@@ -57836,7 +57836,7 @@ msgid ""
 "A bit of <link=\"MEAT\">Meat</link> from the land and <link=\"COOKEDFISH"
 "\">Cooked Seafood</link> from the sea."
 msgstr ""
-"Etwas <link=\"MEAT\">Fleisch</link> vom Land und <link=\"FISHMEAT\">gekochte "
+"Etwas <link=\"MEAT\">Fleisch</link> vom Land und <link=\"COOKEDFISH\">gekochte "
 "Meeresfrüchte</link> aus dem Meer."
 
 #. STRINGS.ITEMS.FOOD.SUSHI.DESC
@@ -58342,7 +58342,7 @@ msgid ""
 "Wood harvested from an <link=\"FORESTTREE\">Arbor Tree</link> or an <link="
 "\"CRABWOOD\">Oakshell</link>."
 msgstr ""
-"Holz, das von einem <link=\"WOODTREE\">Arbor-Baum</link> oder einem <link="
+"Holz, das von einem <link=\"FORESTTREE\">Arbor-Baum</link> oder einem <link="
 "\"CRABWOOD\">Eichenpanzer</link> geerntet wurde."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.WOOD.NAME
@@ -58637,7 +58637,7 @@ msgstr "Verbessert die Bedienungsfähigkeit bei Einnahme"
 #. STRINGS.ITEMS.SPICES.MACHINERY_SPICE.NAME
 msgctxt "STRINGS.ITEMS.SPICES.MACHINERY_SPICE.NAME"
 msgid "<link=\"MACHINERYSPICE\">Machinist Spice</link>"
-msgstr "<link=\"MACHINERYSPICE\">Bastel Gewürz</link>"
+msgstr "<link=\"MACHINERYSPICE\">Bastel­gewürz</link>"
 
 #. STRINGS.ITEMS.SPICES.PILOTING_SPICE.DESC
 msgctxt "STRINGS.ITEMS.SPICES.PILOTING_SPICE.DESC"
@@ -58647,7 +58647,7 @@ msgstr "Gibt den Fähigkeiten des Raketenpiloten einen Schub."
 #. STRINGS.ITEMS.SPICES.PILOTING_SPICE.NAME
 msgctxt "STRINGS.ITEMS.SPICES.PILOTING_SPICE.NAME"
 msgid "<link=\"PILOTINGSPICE\">Rocketeer Spice</link>"
-msgstr "<link=\"PILOTINGSPICE\">Piloten Gewürz</link>"
+msgstr "<link=\"PILOTINGSPICE\">Piloten­gewürz</link>"
 
 #. STRINGS.ITEMS.SPICES.PRESERVING_SPICE.DESC
 msgctxt "STRINGS.ITEMS.SPICES.PRESERVING_SPICE.DESC"
@@ -58657,7 +58657,7 @@ msgstr "Verlangsamt das Verderben der Nahrung."
 #. STRINGS.ITEMS.SPICES.PRESERVING_SPICE.NAME
 msgctxt "STRINGS.ITEMS.SPICES.PRESERVING_SPICE.NAME"
 msgid "<link=\"PRESERVINGSPICE\">Freshener Spice</link>"
-msgstr "<link=\"PRESERVINGSPICE\">Frische Gewürz</link>"
+msgstr "<link=\"PRESERVINGSPICE\">Frische­gewürz</link>"
 
 #. STRINGS.ITEMS.SPICES.STRENGTH_SPICE.DESC
 msgctxt "STRINGS.ITEMS.SPICES.STRENGTH_SPICE.DESC"
@@ -58667,7 +58667,7 @@ msgstr "Stärkt auch die schwächsten Muskeln."
 #. STRINGS.ITEMS.SPICES.STRENGTH_SPICE.NAME
 msgctxt "STRINGS.ITEMS.SPICES.STRENGTH_SPICE.NAME"
 msgid "<link=\"STRENGTHSPICE\">Brawny Spice</link>"
-msgstr "<link=\"STRENGTHSPICE\">Kraft Gewürz</link>"
+msgstr "<link=\"STRENGTHSPICE\">Kraft­gewürz</link>"
 
 #. STRINGS.LORE.BUILDINGS.Desk.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.Desk.ENTRY"
@@ -67164,12 +67164,12 @@ msgstr "Stromregelstation"
 #. STRINGS.ROOMS.CRITERIA.RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.RANCH_STATION.DESCRIPTION"
 msgid "Requires a single Grooming Station"
-msgstr "Benötigt eine Pflege-Station"
+msgstr "Benötigt eine Pflegestation"
 
 #. STRINGS.ROOMS.CRITERIA.RANCH_STATION.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.RANCH_STATION.NAME"
 msgid "Grooming Station"
-msgstr "Pflege-Station"
+msgstr "Pflege­station"
 
 #. STRINGS.ROOMS.CRITERIA.REC_BUILDING.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.REC_BUILDING.DESCRIPTION"
@@ -67199,9 +67199,7 @@ msgstr "Benötigt eine oder mehrere Forschungsstationen oder Super-Computer"
 #. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.NAME"
 msgid "Research station"
-msgstr ""
-"Forschungs-\n"
-"station"
+msgstr "Forschungs­station"
 
 #. STRINGS.ROOMS.CRITERIA.SPICE_STATION.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.SPICE_STATION.DESCRIPTION"
@@ -67404,7 +67402,7 @@ msgstr ""
 #. STRINGS.ROOMS.TYPES.CREATUREPEN.EFFECT
 msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.EFFECT"
 msgid "- Enables Grooming Station use"
-msgstr "- Erlaubt Nutzung der Pflege-Station"
+msgstr "- Erlaubt Nutzung der Pflege­station"
 
 #. STRINGS.ROOMS.TYPES.CREATUREPEN.NAME
 msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.NAME"
@@ -75585,7 +75583,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS."
 "DUPLICANTS_ONLY.TOOLTIP"
 msgid "Unchecked: The Printing Pod will only offer Duplicant blueprints"
-msgstr "Nicht angekreuzt: Die Biodrucker bietet nur Duplikanten-Blaupausen"
+msgstr "Deaktiviert: Die Biodrucker bietet nur Duplikanten-Blaupausen"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS.NORMAL.NAME
 msgctxt ""
@@ -75602,7 +75600,7 @@ msgid ""
 "Checked: The Printing Pod will offer both Duplicant blueprints and care packages "
 "(Default)"
 msgstr ""
-"Angekreuzt: Die Biodrucker bietet sowohl Duplikanten-Blaupausen als auch "
+"Aktiviert: Die Biodrucker bietet sowohl Duplikanten-Blaupausen als auch "
 "Hilfspakete (Standard)."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.NAME
@@ -75797,7 +75795,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Unchecked: Fast Workers Mode is turned off (Default)"
-msgstr "Deselektiert: Schnelle-Arbeiter-Modus ausgeschaltet (Standard)"
+msgstr "Deaktiviert: Schnelle-Arbeiter-Modus ausgeschaltet (Standard)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS.ENABLED.NAME
 msgctxt ""
@@ -75811,7 +75809,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS."
 "ENABLED.TOOLTIP"
 msgid "Checked: Fast Workers Mode is turned on"
-msgstr "Selektiert: Schnelle-Arbeiter-Modus eingeschaltet"
+msgstr "Aktiviert: Schnelle-Arbeiter-Modus eingeschaltet"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.NAME
 msgctxt ""
@@ -76118,8 +76116,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST."
 "TOOLTIP"
 msgid "Duplicants could bathe in radioactive waste and not even notice"
-msgstr ""
-"Duplikanten können in radioaktivem Müll baden und würden es nicht mal bemerken"
+msgstr "Duplikanten können in radioaktivem Müll baden und würden nichts merken"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -76190,7 +76187,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Unchecked: Sandbox Mode is turned off (Default)"
-msgstr "Deselektiert: Sandbox-Modus ausgeschaltet (Standard)"
+msgstr "Deaktiviert: Sandbox-Modus ausgeschaltet (Standard)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.ENABLED.NAME
 msgctxt ""
@@ -76204,7 +76201,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.ENABLED."
 "TOOLTIP"
 msgid "Checked: Sandbox Mode is turned on"
-msgstr "Selektiert: Sandbox-Modus eingeschaltet"
+msgstr "Aktiviert: Sandbox-Modus eingeschaltet"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME"
@@ -76462,7 +76459,7 @@ msgctxt ""
 "DEFAULT.TOOLTIP"
 msgid "Checked: Duplicants will wreak havoc when they reach 100% stress (Default)"
 msgstr ""
-"Ausgewählt: Duplikanten zeigen eine Stressreaktion, wenn sie 100% Stress "
+"Aktiviert: Duplikanten zeigen eine Stressreaktion, wenn sie 100% Stress "
 "erreichen (Standard)"
 
 # TODO: Hier steht bewusst nicht "Objekt", damit es platztechnisch passt.
@@ -76478,7 +76475,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Unchecked: Duplicants will not wreak havoc at maximum stress"
-msgstr "Nicht ausgewählt: Duplikanten zeigen bei 100% keine Stressreaktion"
+msgstr "Deaktiviert: Duplikanten zeigen bei 100% keine Stressreaktion"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME"
@@ -76886,7 +76883,7 @@ msgid ""
 "You have multiple unbound actions, this may result in difficulty playing the "
 "game. Are you sure you want to continue?"
 msgstr ""
-"Du hast mehreren Auktionen keine Taste zugewiesen. Das könnte es schwer machen, "
+"Du hast mehreren Aktionen keine Taste zugewiesen. Das könnte es schwer machen, "
 "das Spiel zu spielen. Möchtest du trotzdem weitermachen?"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.RESET
@@ -84157,7 +84154,7 @@ msgstr "<link=\"CLUSTERTELESCOPE\">Teleskop</link>-Verwendung"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
 msgid "Grooming Station Usage"
-msgstr "Pflege-Station-Nutzung"
+msgstr "Pflege­station-Nutzung"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_ROCKETS.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_ROCKETS.DESCRIPTION"
@@ -85069,7 +85066,7 @@ msgid ""
 "• All <style=\"KKeyword\">Attributes</style> <b>+3</b> at night"
 msgstr ""
 "Nachteule\n"
-"• Alle <style=\"KKeyword\">Attribute</style> <b>+2</b> am Morgen"
+"• Alle <style=\"KKeyword\">Attribute</style> <b>+2</b> in der Nacht"
 
 #. STRINGS.UI.SCHEDULESCREEN.PAINT_TOOLS
 msgctxt "STRINGS.UI.SCHEDULESCREEN.PAINT_TOOLS"
@@ -95433,7 +95430,7 @@ msgid ""
 "New Database Entry discovered."
 msgstr ""
 "Ich durchsuche die eingehenden Nachrichten und finde einen einzelnen Eintrag. "
-"Ich verschiebe Nachricht in meinen Datenbank.\n"
+"Ich verschiebe Nachricht in meine Datenbank.\n"
 "\n"
 "Neuer Datenbankeintrag freigeschaltet."
 
