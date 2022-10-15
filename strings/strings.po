@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-10-13 23:42+0200\n"
-"Last-Translator: jls17\n"
+"PO-Revision-Date: 2022-10-15 14:23+0200\n"
+"Last-Translator: Xandras\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -819,7 +819,7 @@ msgid ""
 "into its scanning area"
 msgstr ""
 "Das Gebäude wartet auf ein <style=\"KKeyword\">Tier</style>, um es in seinen "
-"Scan-Bereich zu saugen."
+"Scan-Bereich zu saugen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWORKING.NAME"
@@ -1346,7 +1346,7 @@ msgid ""
 "This fish feeder is allowed to use <style=\"KKeyword\">Mutant Seeds</style> as "
 "fish food"
 msgstr ""
-"Dieser Fischfütterer kann <style=\"KKeyword\">mutierten Samen</style> nutzen."
+"Dieser Fischfütterer kann <style=\"KKeyword\">mutierten Samen</style> nutzen"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.NAME"
@@ -2270,7 +2270,7 @@ msgstr "Sauerstoff fehlt"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MEGABRAINNOTENOUGHOXYGEN.TOOLTIP"
 msgid "This building needs <style=\"KKeyword\">Oxygen</style> in order to function"
 msgstr ""
-"Das Gebäude benötigt <style=\"KKeyword\">Sauerstoff</style> zum Funktionieren."
+"Das Gebäude benötigt <style=\"KKeyword\">Sauerstoff</style> zum Funktionieren"
 
 #. STRINGS.BUILDING.STATUSITEMS.MEGABRAINTANK.COMPLETE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MEGABRAINTANK.COMPLETE.NAME"
@@ -16776,7 +16776,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.SPICEGRINDER.DESC"
 msgid "Crushed seeds and other edibles make excellent meal-enhancing additives."
 msgstr ""
 "Zerkleinerte Samenkörner und andere Zutaten liefern exzellente "
-"Geschmacksverstärker"
+"Geschmacksverstärker."
 
 #. STRINGS.BUILDINGS.PREFABS.SPICEGRINDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPICEGRINDER.EFFECT"
@@ -28819,7 +28819,7 @@ msgid ""
 "come back! "
 msgstr ""
 "Dieses Tier fühlte sich in einem engem scannendem Bett wie daheim. Es kommt "
-"gerne wieder!"
+"gerne wieder! "
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOO
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOO"
@@ -36505,7 +36505,7 @@ msgstr "Knuddelt Ei"
 #. STRINGS.CREATURES.STATUSITEMS.HUGEGG.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGEGG.TOOLTIP"
 msgid "This critter is snuggling up to an <style=\"KKeyword\">Egg</style> "
-msgstr "Dieses Tier knuddelt ein <style=\"KKeyword\">Ei</style>"
+msgstr "Dieses Tier knuddelt ein <style=\"KKeyword\">Ei</style> "
 
 #. STRINGS.CREATURES.STATUSITEMS.HUGMINION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HUGMINION.NAME"
@@ -43943,7 +43943,7 @@ msgid ""
 "\">Somnium Synthesizer</style> "
 msgstr ""
 "Dieser Duplikant ist geschickter und stärkert als gewöhnlich Dank des <style="
-"\"KKeyword\">Somnium Synthesizer</style>"
+"\"KKeyword\">Somnium Synthesizer</style> "
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MESSTABLESALT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MESSTABLESALT.NAME"
@@ -54964,7 +54964,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.DESC"
 msgid "A soft, fleecy ticket to dreamland."
-msgstr "Ein weiches, flauschiges Ticket ins Traumreich"
+msgstr "Ein weiches, flauschiges Ticket ins Traumreich."
 
 #. STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.DESTROY_TOAST
 msgctxt "STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.DESTROY_TOAST"
@@ -58635,7 +58635,7 @@ msgstr "<link=\"RAILGUNPAYLOAD\">Interplanetare Nutzlast</link>"
 #. STRINGS.ITEMS.SPICES.MACHINERY_SPICE.DESC
 msgctxt "STRINGS.ITEMS.SPICES.MACHINERY_SPICE.DESC"
 msgid "Improves operating skills when ingested."
-msgstr "Verbessert die Bedienungsfähigkeit bei Einnahme"
+msgstr "Verbessert die Bedienungsfähigkeit bei Einnahme."
 
 #. STRINGS.ITEMS.SPICES.MACHINERY_SPICE.NAME
 msgctxt "STRINGS.ITEMS.SPICES.MACHINERY_SPICE.NAME"
@@ -61248,7 +61248,7 @@ msgid ""
 "Grinder</link>"
 msgstr ""
 "Diese Nahrung wurde mit einer Gewürzmischung der <link=\"SPICEGRINDER"
-"\">Gewürzmühle</link> verbessert."
+"\">Gewürzmühle</link> verbessert"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME"
@@ -67419,7 +67419,7 @@ msgid ""
 "domestication and increase their production"
 msgstr ""
 "Stalltiere können an einer Pflegestation gepflegt werden. Dies beschleunigt ihre "
-"Domestikation und steigert ihre Produktion."
+"Domestikation und steigert ihre Produktion"
 
 #. STRINGS.ROOMS.TYPES.FARM.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.FARM.DESCRIPTION"
@@ -67455,7 +67455,7 @@ msgid ""
 msgstr ""
 "In einem Gewächshaus angebaute Pflanzen können mit Dünger von der "
 "Landwirtschaftsstation gepflegt werden, um deren Wachstumsgeschwindigkeit zu "
-"erhöhen."
+"erhöhen"
 
 #. STRINGS.ROOMS.TYPES.GREATHALL.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.GREATHALL.DESCRIPTION"
@@ -67484,7 +67484,7 @@ msgctxt "STRINGS.ROOMS.TYPES.GREATHALL.TOOLTIP"
 msgid "Eating in a Great Hall will significantly improve Duplicants' Morale"
 msgstr ""
 "In der Großen Halle zu essen oder entspannen erhöht die Moral der Duplikanten "
-"stark."
+"stark"
 
 #. STRINGS.ROOMS.TYPES.HOSPITAL.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.HOSPITAL.DESCRIPTION"
@@ -67516,7 +67516,7 @@ msgid ""
 "likely to spread Disease"
 msgstr ""
 "Kranke Duplikanten, die einem Krankenbett innerhalb eines Krankenhauses "
-"zugewiesen sind, verbreiten seltener Krankheiten."
+"zugewiesen sind, verbreiten seltener Krankheiten"
 
 #. STRINGS.ROOMS.TYPES.KITCHEN.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.KITCHEN.DESCRIPTION"
@@ -67549,7 +67549,7 @@ msgid ""
 "Grill or Gas Range"
 msgstr ""
 "In der Küche kann die Nutzung einer Gewürzmühle etwaige Vorteile auf Essen "
-"geben, dass an einem elektrischen Grill oder Gasherd gekocht wurde."
+"geben, dass an einem elektrischen Grill oder Gasherd gekocht wurde"
 
 #. STRINGS.ROOMS.TYPES.LATRINE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.LATRINE.DESCRIPTION"
@@ -67578,7 +67578,7 @@ msgctxt "STRINGS.ROOMS.TYPES.LATRINE.TOOLTIP"
 msgid "Using a toilet in an enclosed room will improve Duplicants' Morale"
 msgstr ""
 "Eine Toilette in einem umschlossenen Raum zu verwenden, verbessert die Moral von "
-"Duplikanten."
+"Duplikanten"
 
 #. STRINGS.ROOMS.TYPES.MACHINE_SHOP.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.MACHINE_SHOP.DESCRIPTION"
@@ -67610,7 +67610,7 @@ msgid ""
 "production speed"
 msgstr ""
 "Duplikanten, die in einer Maschinenwerkstatt arbeiten, können Gebäude instand "
-"halten und deren Produktionsgeschwindigkeit erhöhen."
+"halten und deren Produktionsgeschwindigkeit erhöhen"
 
 #. STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.MASSAGE_CLINIC.DESCRIPTION"
@@ -67640,7 +67640,7 @@ msgid ""
 "Receiving massages at a Massage Clinic will significantly improve Stress "
 "reduction"
 msgstr ""
-"Eine Massage in einer Massageklinik wird den Stressabbau deutlich verbessern."
+"Eine Massage in einer Massageklinik wird den Stressabbau deutlich verbessern"
 
 #. STRINGS.ROOMS.TYPES.MESSHALL.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.MESSHALL.DESCRIPTION"
@@ -67669,7 +67669,7 @@ msgctxt "STRINGS.ROOMS.TYPES.MESSHALL.TOOLTIP"
 msgid "Eating at a Mess Table in a Mess Hall will improve Duplicants' Morale"
 msgstr ""
 "Das Essen an einem Kantinentisch im Speisesaal verbessert die Moral der "
-"Duplikanten."
+"Duplikanten"
 
 #. STRINGS.ROOMS.TYPES.NATURERESERVE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.NATURERESERVE.DESCRIPTION"
@@ -67698,7 +67698,7 @@ msgstr "Naturreservat"
 msgctxt "STRINGS.ROOMS.TYPES.NATURERESERVE.TOOLTIP"
 msgid "A Nature Reserve will grant higher Morale bonuses to Duplicants than a Park"
 msgstr ""
-"Ein Naturreservat verleiht Duplikanten einen höheren Moralbonus als ein Park."
+"Ein Naturreservat verleiht Duplikanten einen höheren Moralbonus als ein Park"
 
 #. STRINGS.ROOMS.TYPES.NEUTRAL.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.NEUTRAL.DESCRIPTION"
@@ -67852,8 +67852,10 @@ msgid ""
 "Barracks."
 msgstr ""
 "Ein konfortabler, Mitbewohner-freier Rückzugsort, wo sich müde Duplikanten "
-"ungestört erholen können. Duplikanten erhalten beim Schlafen im privaten "
-"Schlafzimmer noch mehr Ausdauer zurück als in der Baracke"
+"ungestört erholen können.\n"
+"\n"
+"Duplikanten erhalten beim Schlafen im privaten Schlafzimmer noch mehr Ausdauer "
+"zurück als in der Baracke."
 
 #. STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.EFFECT
 msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.EFFECT"
@@ -70274,7 +70276,7 @@ msgid ""
 msgstr ""
 "Das Senden eines <style=\"KKeyword\">Automatisierungssignals</style> mit einer "
 "höheren <style=\"KKeyword\">Bit-Tiefe</style> als der angeschlossene <style="
-"\"KKeyword\">Logikdraht</style> kann zur Beschädigung des Kreises führen."
+"\"KKeyword\">Logikdraht</style> kann zur Beschädigung des Kreises führen"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE"
@@ -70675,7 +70677,7 @@ msgstr "<link=\"WIRE\">Ausgangs-Kabel</link> (Begrenzt auf {0})"
 #. STRINGS.UI.BUILDTOOL_CANT_ROTATE
 msgctxt "STRINGS.UI.BUILDTOOL_CANT_ROTATE"
 msgid "This building cannot be rotated"
-msgstr "Das Gebäude kann nicht rotiert werden."
+msgstr "Das Gebäude kann nicht rotiert werden"
 
 #. STRINGS.UI.BUILDTOOL_ROTATE
 msgctxt "STRINGS.UI.BUILDTOOL_ROTATE"
@@ -76323,7 +76325,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STORY_TRAIT_COUNT.LEVELS."
 "NONE.TOOLTIP"
 msgid "Zero story traits. Zip. Nada. None"
-msgstr "Keine Story-Missionen. Null. Nada. Nix."
+msgstr "Keine Story-Missionen. Null. Nada. Nix"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STORY_TRAIT_COUNT.NAME
 msgctxt ""
@@ -94152,7 +94154,7 @@ msgid ""
 "style>"
 msgstr ""
 "Es wird nur gewürztes Essen eingelagert, welches mit der <style=\"KKeyword"
-"\">Gewürzmühle</style> verbessert wurde."
+"\">Gewürzmühle</style> verbessert wurde"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON
 msgctxt ""
