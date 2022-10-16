@@ -8563,7 +8563,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.NAME"
 msgid "<link=\"GRAVITASCREATUREMANIPULATOR\">Critter Flux-O-Matic</link>"
-msgstr "<link=\"GRAVITASCREATUREMANIPULATOR\">Tier Flux-O-Mat</link>"
+msgstr "<link=\"GRAVITASCREATUREMANIPULATOR\">Tier-Flux-O-Mat</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC"
@@ -12788,7 +12788,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.NAME"
 msgid "<link=\"MEGABRAINTANK\">Somnium Synthesizer</link>"
-msgstr "<link=\"MEGABRAINTANK\">Somnium Synthesizer</link>"
+msgstr "<link=\"MEGABRAINTANK\">Somnium-Synthesizer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
@@ -28635,7 +28635,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME"
 msgid "Story Trait: Critter Flux-O-Matic"
-msgstr "Story-Mission: Tier Flux-O-Mat"
+msgstr "Story-Mission: Tier-Flux-O-Mat"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION"
@@ -28648,7 +28648,7 @@ msgstr ""
 "Erforsche ein revolutionäres Gerät zur genetischen Manipulation von Tieren.\n"
 "\n"
 "Ob es jemals auf etwas anderes als Tiere angewendet wurde, bleibt unklar. Seine "
-"DNA Datenbank wurde komplett gelöscht."
+"DNA-Datenbank wurde komplett gelöscht."
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION_SHORT
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION_SHORT"
@@ -28688,12 +28688,12 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.END_POPUP.NAME"
 msgid "Story Trait Complete: Critter Flux-O-Matic"
-msgstr "Story-Mission komplett: Tier Flux-O-Mat"
+msgstr "Story-Mission komplett: Tier-Flux-O-Mat"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.NAME"
 msgid "Critter Flux-O-Matic"
-msgstr "Tier Flux-O-Mat"
+msgstr "Tier-Flux-O-Mat"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.PARKING.BODY.CONTAINER1"
@@ -29143,7 +29143,7 @@ msgid ""
 "The <link=\"GRAVITASCREATUREMANIPULATOR\">Critter Flux-O-Matic</link> has "
 "analyzed these critter species:\n"
 msgstr ""
-"Der <link=\"GRAVITASCREATUREMANIPULATOR\">Tier Flux-O-Mat</link> hat folgende "
+"Der <link=\"GRAVITASCREATUREMANIPULATOR\">Tier-Flux-O-Mat</link> hat folgende "
 "Tier-Gattung analysiert:\n"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.UNLOCK_SPECIES_POPUP.NAME
@@ -29220,7 +29220,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.BEGIN_POPUP.NAME"
 msgid "Story Trait: Somnium Synthesizer"
-msgstr "Story-Mission: Somnium Synthesizer"
+msgstr "Story-Mission: Somnium-Synthesizer"
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION"
@@ -29279,12 +29279,12 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.END_POPUP.NAME"
 msgid "Story Trait Complete: Somnium Synthesizer"
-msgstr "Story-Mission komplett: Somnium Synthesizer"
+msgstr "Story-Mission komplett: Somnium-Synthesizer"
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.NAME"
 msgid "Somnium Synthesizer"
-msgstr "Somnium Synthesizer"
+msgstr "Somnium-Synthesizer"
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.BODY.CONTAINER1
 msgctxt ""
@@ -43943,7 +43943,7 @@ msgid ""
 "\">Somnium Synthesizer</style> "
 msgstr ""
 "Dieser Duplikant ist geschickter und stärkert als gewöhnlich Dank des <style="
-"\"KKeyword\">Somnium Synthesizer</style> "
+"\"KKeyword\">Somnium-Synthesizer</style> "
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MESSTABLESALT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MESSTABLESALT.NAME"
@@ -56933,7 +56933,7 @@ msgstr ""
 "Eine gekritzelte Darstellung ein <link=\"SLEEPCLINICPAJAMAS\">Pyjama</link>-"
 "bedingten Traums.\n"
 "\n"
-"Kann im <link=\"MEGABRAINTANK\">Somnium Synthesizer</link> analysiert werden."
+"Kann im <link=\"MEGABRAINTANK\">Somnium-Synthesizer</link> analysiert werden."
 
 #. STRINGS.ITEMS.DREAMJOURNAL.NAME
 msgctxt "STRINGS.ITEMS.DREAMJOURNAL.NAME"
@@ -78322,8 +78322,8 @@ msgid ""
 msgstr ""
 "Dieses Update enthält:\n"
 "\n"
-"•<indent=20px>Neues Auftrags-System mit den ersten beiden Aufgaben: Somnium "
-"Synthesizer und Tier Flux-O-Mat.</indent>\n"
+"•<indent=20px>Neues Auftrags-System mit den ersten beiden Aufgaben: Somnium-"
+"Synthesizer und Tier-Flux-O-Mat.</indent>\n"
 "•<indent=20px>Neuer Küchen-Raum und das Gewürzmühlen-Gebäude.</indent>\n"
 "•<indent=20px>Zwei neue Mutationen der Steckschnecken und Anpassung der Basis-"
 "Mutation.</indent>\n"
