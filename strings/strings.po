@@ -60416,7 +60416,7 @@ msgid ""
 "\n"
 "It has a smoky aroma and tastes of coziness."
 msgstr ""
-"Langsam geröstete <link=\"WORMBASICFRUIT\">spindeldürre Wühlfrücht</link>.\n"
+"Langsam geröstete <link=\"WORMBASICFRUIT\">spindeldürre Wühlfrucht</link>.\n"
 "\n"
 "Sie hat ein rauchiges Aroma und schmeckt nach Gemütlichkeit."
 
@@ -60428,7 +60428,7 @@ msgstr "<link=\"WORMBASICFOOD\">Gebratene Wühlfruchtnuss</link>"
 #. STRINGS.ITEMS.FOOD.WORMBASICFOOD.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.WORMBASICFOOD.RECIPEDESC"
 msgid "Slow roasted <link=\"WORMBASICFRUIT\">Spindly Grubfruit</link>."
-msgstr "Langsam geröstete <link=\"WORMBASICFRUIT\">spindeldürre Wühlfrücht</link>."
+msgstr "Langsam geröstete <link=\"WORMBASICFRUIT\">spindeldürre Wühlfrucht</link>."
 
 #. STRINGS.ITEMS.FOOD.WORMBASICFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.WORMBASICFRUIT.DESC"
