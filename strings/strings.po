@@ -70167,7 +70167,7 @@ msgstr ""
 "\n"
 "In einem Labor errichtete Forschungsstationen funktionieren effizienter.\n"
 "\n"
-"Ein Labor ermöglicht die Nutzung des Geotuners und der Missionskontrolstation."
+"Ein Labor ermöglicht die Nutzung des Geotuners und der Missionskontrollstation."
 
 #. STRINGS.ROOMS.TYPES.LABORATORY.EFFECT
 msgctxt "STRINGS.ROOMS.TYPES.LABORATORY.EFFECT"
@@ -70188,7 +70188,7 @@ msgid ""
 msgstr ""
 "Forschungsgebäude, die in einem Labor gebaut wurden, funktionieren effizienter\n"
 "\n"
-"Ein Labor ermöglicht die Nutzung von Geotuner und Missionskontrolstation"
+"Ein Labor ermöglicht die Nutzung von Geotuner und Missionskontrollstation"
 
 #. STRINGS.ROOMS.TYPES.LATRINE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.TYPES.LATRINE.DESCRIPTION"
@@ -81067,7 +81067,7 @@ msgstr ""
 "•<indent=20px>Neue Story-Mission: \"Geheimisvoller Einsiedler\". </indent>\n"
 "•<indent=20px>Neue Gebäude:</indent>\n"
 "<indent=40px>•    Der Geysir manipulierende \"Geotuner\".</indent>\n"
-"<indent=40px>•    Mehr Raketenschub mit der \"Missionskontrolstation\".</"
+"<indent=40px>•    Mehr Raketenschub mit der \"Missionskontrollstation\".</"
 "indent>\n"
 "<indent=40px>•    Der flüssigkeitsgekühlte \"Wärmetauscher\".</indent>\n"
 "•<indent=20px>Zwei neue Raumarten: \"Labor\", und eine neue Art des \"Privaten "
@@ -83067,7 +83067,7 @@ msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.ARTABLE_ITEM_FACADE_FOR"
 msgid ""
 "This blueprint works with any {ConfigProperName} of {ArtableQuality} quality."
 msgstr ""
-"Diese Blaupause funktioniert mit jedem {ConfigProperName} der Qualität "
+"Diese Blaupause funktioniert mit jedem/jeder {ConfigProperName} der Qualität "
 "\"{ArtableQuality}\"."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ARTWORKS
@@ -84413,7 +84413,7 @@ msgstr "Änderungen an \"{OutfitName}\" verwerfen?"
 #. STRINGS.UI.OUTFIT_DESIGNER_SCREEN.COPY_POPUP.HEADER
 msgctxt "STRINGS.UI.OUTFIT_DESIGNER_SCREEN.COPY_POPUP.HEADER"
 msgid "RENAME COPY"
-msgstr "KOPIE UMBENENNEN"
+msgstr "KOPIE BENENNEN"
 
 #. STRINGS.UI.OUTFIT_DESIGNER_SCREEN.MINION_INSTANCE.APPLY_TEMPLATE_POPUP.BUTTON_SAVE_EXISTING
 msgctxt ""
