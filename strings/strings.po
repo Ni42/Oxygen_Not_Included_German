@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-12-16 00:42+0100\n"
+"PO-Revision-Date: 2022-12-16 17:11+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -69579,7 +69579,7 @@ msgstr "Muss mit Rückwandziegeln ausgestattet werden"
 #. STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.NAME"
 msgid "Has backwall tiles"
-msgstr "Hat Rückwandziegel"
+msgstr "Besitzt Rückwandziegel"
 
 #. STRINGS.ROOMS.CRITERIA.LIGHT.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.LIGHT.DESCRIPTION"
