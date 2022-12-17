@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-12-16 17:11+0100\n"
+"PO-Revision-Date: 2022-12-17 13:35+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -93883,7 +93883,7 @@ msgstr "Auszeit-Regeln"
 #. STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.BUTTON"
 msgid "Repaint"
-msgstr "Neu bemalen"
+msgstr "Neu dekorieren"
 
 #. STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.BUTTON_TOOLTIP"
@@ -93894,8 +93894,8 @@ msgid ""
 msgstr ""
 "Löscht das derzeitige Kunstwerk\n"
 "\n"
-"Erstellt einen Auftrag für einen erfahrenen Duplikanten, um das neu ausgewählten "
-"Kunstwerk zu malen"
+"Erstellt einen Auftrag für einen erfahrenen Duplikanten, um das neu ausgewählte "
+"Kunstwerk zu dekorieren"
 
 #. STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.CLEAR_BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.CLEAR_BUTTON_TOOLTIP"
