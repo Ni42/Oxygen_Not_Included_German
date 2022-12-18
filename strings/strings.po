@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-12-17 13:35+0100\n"
+"PO-Revision-Date: 2022-12-18 10:03+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -6909,7 +6909,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.NAME"
 msgid "Conduction Panel"
-msgstr "Wäremtauscher"
+msgstr "Wärmetauscher"
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
