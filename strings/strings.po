@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-12-19 20:49+0100\n"
+"PO-Revision-Date: 2022-12-21 01:51+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1563,8 +1563,8 @@ msgid ""
 "This building requires a Duplicant to produce amplification data through "
 "experimentation"
 msgstr ""
-"Dieses Gebäude benötigt einen Duplikaten für die Herstellung von Schwingungdaten "
-"mittels Experimentieren"
+"Dieses Gebäude benötigt einen Duplikaten für die Herstellung von "
+"Schwingungsdaten mittels Experimentieren"
 
 #. STRINGS.BUILDING.STATUSITEMS.GEOTUNER_CHARGED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GEOTUNER_CHARGED.NAME"
@@ -3101,7 +3101,7 @@ msgid ""
 "Rockets must be mid-flight and not targeted by another Mission Control Station, "
 "or already boosted"
 msgstr ""
-"Raketen müssen unterwegs sein, nicht von durch eine Missionskontroll­station "
+"Raketen müssen unterwegs sein, nicht durch eine Missionskontroll­station "
 "unterstützt oder schon beschläunigt"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.NAME
@@ -7781,7 +7781,7 @@ msgstr "Eine Würgereiz-auslösende Tapete."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME"
 msgid "<link=\"EXTERIORWALL\">Mush Bar Print</link>"
-msgstr "<link=\"EXTERIORWALL\">Match-Theken Druck</link>"
+msgstr "<link=\"EXTERIORWALL\">Matsch Druck</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC"
@@ -7856,7 +7856,7 @@ msgstr "<link=\"EXTERIORWALL\">Großkarierter Aquamarin Druck</link>"
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC"
 msgid "A precipitation-themed wallpaper."
-msgstr ""
+msgstr "Eine Tapete zum Thema Niederschlag."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.NAME"
@@ -9187,12 +9187,12 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
-"Andernfalls wird ein <b><style=\"logic_off\">Red Signal</style></b> gesendet"
+"Andernfalls wird ein <b><style=\"logic_off\">Rotes Signal</style></b> gesendet"
 
 #. STRINGS.BUILDINGS.PREFABS.GEOTUNER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.NAME"
 msgid "<link=\"GEOTUNER\">Geotuner</link>"
-msgstr ""
+msgstr "<link=\"GEOTUNER\">Geotuner</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC"
@@ -13351,7 +13351,7 @@ msgstr "<link=\"LUXURYBED\">Traumschiffbett</link>"
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.DESC"
 msgid "An inflatable party prop makes a surprisingly good bed."
-msgstr "Ein aufblasbares Party-Utensil und macht ein überraschend gutes Bett."
+msgstr "Ein aufblasbares Party-Utensil und auch ein überraschend gutes Bett."
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.NAME"
@@ -29196,7 +29196,7 @@ msgstr ""
 #. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NAME
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NAME"
 msgid "Deliver Food to the mailbox"
-msgstr "Liefert Essen zum Briefkasten"
+msgstr "Liefere Essen zum Briefkasten"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NONE"
@@ -30695,13 +30695,7 @@ msgstr ""
 "\n"
 "Wenn wir sie davon überzeugen können, dass wir nichts Böses wollen, könnten wir "
 "sehr sehr wahrscheinlich einen neuen Rekruten <i>und</i> ein nützliches neues "
-"Gebäude In meiner Kolonie wurde ein unbekanntes Gebäude entdeckt. Es gibt "
-"Bewegung im Inneren, aber wer auch immer die Bewohner sind, sie scheinen uns "
-"gegenüber misstrauisch zu sein.\n"
-"\n"
-"Wenn wir sie davon überzeugen könnten, dass wir nichts Böses wollen, könnten wir "
-"sehr wahrscheinlich einen neuen Rekruten <i>und</i> ein nützliches Gebäude "
-"gewinnen."
+"Gebäude bekommen."
 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.NAME"
@@ -84281,10 +84275,11 @@ msgid ""
 "\n"
 "This <b>cannot</b> be undone."
 msgstr ""
-"Möchten Sie \"{OutfitName}\" wirklich löschen? Alle Duplikanten, die dieses "
-"Outfit bei ihrer Erzeugung tragen sollen, werden stattdessen mit dem Standard-"
-"Outfit gedruckt. Vorhandene Duplikanten in gespeicherten Spielen sind davon "
-"nicht betroffen.\n"
+"Möchten Sie \"{OutfitName}\" wirklich löschen?\n"
+"\n"
+"Alle Duplikanten, die dieses Outfit bei ihrer Erzeugung tragen sollen, werden "
+"stattdessen mit dem Standard-Outfit gedruckt. Vorhandene Duplikanten in "
+"gespeicherten Spielen sind davon nicht betroffen.\n"
 "\n"
 "Dies <b>kann nicht</b> rückgängig gemacht werden."
 
