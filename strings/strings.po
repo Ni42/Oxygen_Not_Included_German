@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-22 22:49+0100\n"
+"PO-Revision-Date: 2023-02-22 22:54+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -56974,10 +56974,11 @@ msgid "A fresh pair of shorts for cheering from the sidelines."
 msgstr "Ein frisches Paar Shorts zum Anfeuern von der Seitenlinie."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_KELLYGREEN.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_KELLYGREEN.NAME"
 msgid "Go Team Shorts"
-msgstr "Los-Los-Los Shorts"
+msgstr "Los-Team-Los Shorts"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_PINK_FLAMINGO.DESC
 msgctxt ""
@@ -56987,11 +56988,12 @@ msgid "The peppiest pair of shorts this side of the asteroid."
 msgstr "Die fetzigsten Shorts diesseits des Asteroiden."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_PINK_FLAMINGO.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_PINK_FLAMINGO."
 "NAME"
 msgid "Pep Rally Shorts"
-msgstr "Fetz-Rally Shorts"
+msgstr "Mut-Mach Shorts"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_SATSUMA.DESC
 msgctxt ""
@@ -57185,10 +57187,11 @@ msgstr ""
 "standzuhalten."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_FLAMINGO.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_FLAMINGO.NAME"
 msgid "Pep Rally Sports Gloves"
-msgstr "Sportliche Fetz-Rally Handschuhe"
+msgstr "Mut-Mach Sporthandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_KELLYGREEN.DESC
 msgctxt ""
@@ -57197,24 +57200,25 @@ msgid "Green-striped gloves for the perenially good sport."
 msgstr "Grün-gestreifte Handschuhe für dauerhaft guten Sport."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_KELLYGREEN.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_KELLYGREEN.NAME"
 msgid "Go Team Sports Gloves"
-msgstr "Sportliche Los-Los-Los Handschuhe"
+msgstr "Los-Team-Los Sporthandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.DESC
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.DESC"
 msgid "Yellow-striped gloves for athletes who seek to raise the bar."
 msgstr ""
-"Gelb-gestreifte Handschuhe für Athleten, welche die Messlatte höher legen "
-"wollen."
+"Gelb-gestreifte Handschuhe für Athleten, welche die Messlatte höher legen wollen."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.NAME"
 msgid "Hype Sports Gloves"
-msgstr "Hyper-sportliche Handschuhe"
+msgstr "Übertriebene Sporthandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_SATSUMA.DESC
 msgctxt ""
@@ -57386,10 +57390,11 @@ msgid "Breathable socks with sporty pink stripes."
 msgstr "Atmungsaktive Socker mit sportlich-rosa Streifen."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_FLAMINGO.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_FLAMINGO.NAME"
 msgid "Pep Rally Gym Socks"
-msgstr "Fetzige Rally Fitnesssocken"
+msgstr "Mut-Mach Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_KELLYGREEN.DESC
 msgctxt ""
@@ -57398,10 +57403,11 @@ msgid "Breathable socks with sporty green stripes."
 msgstr "Atmungsaktive Socken mit sportlich-grünen Streifen."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_KELLYGREEN.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_KELLYGREEN.NAME"
 msgid "Go Team Gym Socks"
-msgstr "Los-Los-Los Fitnesssocken"
+msgstr "Los-Team-Los Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_LEMON.DESC
 msgctxt ""
@@ -57410,10 +57416,11 @@ msgid "Breathable socks with sporty yellow stripes."
 msgstr "Atmungsaktive Socken mit sportlich-gelben Streifen."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_LEMON.NAME
+#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_LEMON.NAME"
 msgid "Hype Gym Socks"
-msgstr "Hyper Fitnesssocken"
+msgstr "Übertriebene Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_SATSUMA.DESC
 msgctxt ""
@@ -57578,6 +57585,7 @@ msgid "A slightly sweat-stained tee to boost team spirits."
 msgstr "Ein leicht verschwitztes T-Shirt, um den Teamgeist zu stärken."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_FLAMINGO.NAME
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_FLAMINGO.NAME"
 msgid "Pep Rally T-shirt"
 msgstr "Mut-Mach T-Shirt"
@@ -57588,9 +57596,10 @@ msgid "A slightly sweat-stained tee for cheering from the sidelines."
 msgstr "Ein leicht verschwitztes T-Shirt zum Anfeuern von der Seitenlinie."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_KELLYGREEN.NAME
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_KELLYGREEN.NAME"
 msgid "Go Team T-shirt"
-msgstr "Los-Los-Los T-Shirt"
+msgstr "Los-Team-Los T-Shirt"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_LEMON.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_LEMON.DESC"
@@ -57599,9 +57608,10 @@ msgstr ""
 "Ein leicht verschwitztes T-Shirt, das man trägt, wenn ein großes Spiel ansteht."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_LEMON.NAME
+#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_LEMON.NAME"
 msgid "Hype T-shirt"
-msgstr "Hype T-Shirt"
+msgstr "Übertriebenes T-Shirt"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_SATSUMA.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_SATSUMA.DESC"
@@ -86252,9 +86262,10 @@ msgid "Basic Green Outfit"
 msgstr "Einfaches grünes Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_GREEN_KELLY.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.BASIC_GREEN_KELLY.NAME"
 msgid "Go Team! Outfit"
-msgstr "Los-Los-Los Team! Outfit"
+msgstr "Los-Team-Los! Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_GREY_CHARCOAL.NAME
 msgctxt "STRINGS.UI.OUTFITS.BASIC_GREY_CHARCOAL.NAME"
@@ -86262,9 +86273,10 @@ msgid "Underdog Outfit"
 msgstr "Underdog Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_LEMON.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.BASIC_LEMON.NAME"
 msgid "Team Hype Outfit"
-msgstr "Mannschaft Hype Outfit"
+msgstr "Team Übertreibung Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_ORANGE.NAME
 msgctxt "STRINGS.UI.OUTFITS.BASIC_ORANGE.NAME"
@@ -86272,6 +86284,7 @@ msgid "Basic Orange Outfit"
 msgstr "Einfaches orangefarbenes Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_PINK_FLAMINGO.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.BASIC_PINK_FLAMINGO.NAME"
 msgid "Pep Rally Outfit"
 msgstr "Mut-Mach Outfit"
