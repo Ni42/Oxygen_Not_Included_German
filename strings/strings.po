@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-22 17:14+0100\n"
+"PO-Revision-Date: 2023-02-22 22:49+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -6130,7 +6130,7 @@ msgstr "Ein Gemälde welches die wahre Natur von Hunger zeigt."
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.NAME"
 msgid "<link=\"ARTJ\">Nikola Devouring His Mush Bar</link>"
-msgstr "<link=\"ARTJ\">Nikola verschlingt sein Brei Büfett</link>"
+msgstr "<link=\"ARTJ\">Nikola verschlingt seinen Matchriegel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_K.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_K.DESC"
@@ -6140,7 +6140,7 @@ msgstr "Das perfekte Gemälde für dunkle, nasskalte Bereiche."
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_K.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_K.NAME"
 msgid "<link=\"ARTK\">Sketchy Fungi</link>"
-msgstr "<link=\"ARTK\">Skizzenartiger Schimmel</link>"
+msgstr "<link=\"ARTK\">Skizzenartiger Pilz</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
@@ -19394,7 +19394,7 @@ msgstr "Wandelt Uranerz in geschmolzenes Uran und angereichertes Uran um"
 #. STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.DESC"
 msgid "A pristine <link=\"FIELDRATION\">Nutrient Bar</link> dispenser."
-msgstr "Ein unversehrt Automat für <link=\"FIELDRATION\">Nährstoffriegel</link>."
+msgstr "Ein unversehrter Automat für <link=\"FIELDRATION\">Nährstoffriegel</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME"
@@ -57207,7 +57207,7 @@ msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.DESC"
 msgid "Yellow-striped gloves for athletes who seek to raise the bar."
 msgstr ""
-"Gelb-gestreifte Handschuhe für Athleten, welche die Messlatter höher legen "
+"Gelb-gestreifte Handschuhe für Athleten, welche die Messlatte höher legen "
 "wollen."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.NAME
@@ -57220,7 +57220,7 @@ msgstr "Hyper-sportliche Handschuhe"
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_SATSUMA.DESC"
 msgid "Orange-striped gloves for enthusiastic athletes."
-msgstr "Orange-gestreifte Handschuhe den begeisterten Sportler"
+msgstr "Orange-gestreifte Handschuhe für den begeisterten Sportler"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_SATSUMA.NAME
 msgctxt ""
@@ -74285,7 +74285,7 @@ msgstr "SUCHERGEBNISSE"
 #. STRINGS.UI.BUILDMENU.SEARCH_TEXT_PLACEHOLDER
 msgctxt "STRINGS.UI.BUILDMENU.SEARCH_TEXT_PLACEHOLDER"
 msgid "Search all buildings..."
-msgstr "Alle Gebäude durchsuchen..."
+msgstr "Alles durchsuchen..."
 
 #. STRINGS.UI.BUILDTOOL_CANT_ROTATE
 msgctxt "STRINGS.UI.BUILDTOOL_CANT_ROTATE"
@@ -77760,7 +77760,7 @@ msgstr "PATCHNOTIZEN"
 #. STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES"
 msgid "Full Patch Notes"
-msgstr "Vollständige Patchnotizen"
+msgstr "Alle Patch Details"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.BODY"
