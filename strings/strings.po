@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-22 00:54+0100\n"
+"PO-Revision-Date: 2023-02-22 01:14+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -13935,14 +13935,14 @@ msgid ""
 "A masterful celebration of the deep bond between a horticulturalist and her "
 "prize Bristle Blossom."
 msgstr ""
-"Ein meisterliches Fest für die tiefe Verbundenheit zwischen Gartenbau und der "
+"Ein meisterliches Fest für die tiefe Verbundenheit zwischen Gärtnern und der "
 "ausgezeichneten Dornenblüte."
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_5.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_5.NAME"
 msgid "<link=\"SCULPTUREMARBLEAMAZING5\">Green Goddess</link>"
-msgstr "<link=\"SCULPTUREMARBLEAMAZING5\">Grüne Götting</link>"
+msgstr "<link=\"SCULPTUREMARBLEAMAZING5\">Grüne Göttin</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_CRAP_1.DESC
 msgctxt ""
@@ -56997,7 +56997,7 @@ msgstr "Fetz-Rally Shorts"
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_SATSUMA.DESC"
 msgid "A fresh pair of shorts for long-time supporters of...shorts."
-msgstr ""
+msgstr "Ein paar frische Shorts für langjährige Unterstützer von...Shorts."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_SATSUMA.NAME
 msgctxt ""
@@ -57181,7 +57181,7 @@ msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_FLAMINGO.DESC"
 msgid "Pink-striped glove designed to withstand countless high-fives."
 msgstr ""
-"Rose-gestreifte Handschuhe wurden entworfen, um unzähligen Hive-Fives "
+"Rosa-gestreifte Handschuhe wurden entworfen, um unzähligen High-Fives "
 "standzuhalten."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_FLAMINGO.NAME
@@ -72598,7 +72598,7 @@ msgstr "<link=\"BUILDCATEGORYBASE\">Basis</link>"
 #. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
 msgid "Maintain the colony's infrastructure with these homebase basics. {Hotkey}"
-msgstr "Diese Konstruktionen bilden die Basis für meine Basis. {Hotkey}"
+msgstr "Diese Konstruktionen bilden die Grundlage für meine Basis. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME"
@@ -83975,7 +83975,7 @@ msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.ARTABLE_ITEM_FACADE_FOR"
 msgid ""
 "This blueprint works with any {ConfigProperName} of {ArtableQuality} quality."
 msgstr ""
-"Diese Blaupause funktioniert mit jedem/jeder {ConfigProperName} der Qualität "
+"Diese Blaupause ist verwendbar mit {ConfigProperName} der Qualität "
 "\"{ArtableQuality}\"."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BALLOON_ARTIST_FACADE_FOR
@@ -84091,7 +84091,7 @@ msgstr "Elemente"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.ITEM_FACADE_FOR
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.ITEM_FACADE_FOR"
 msgid "This blueprint works with any {ConfigProperName}."
-msgstr "Diese Blaupause funktioniert mit jeder {ConfigProperName}."
+msgstr "Diese Blaupause ist verwendbar mit {ConfigProperName}."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.ITEM_PLAYER_OWN_NONE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.ITEM_PLAYER_OWN_NONE"
