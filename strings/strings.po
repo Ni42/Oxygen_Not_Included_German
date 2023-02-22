@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-22 23:02+0100\n"
+"PO-Revision-Date: 2023-02-22 23:25+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -8470,7 +8470,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.DESC"
 msgid "The original container for plants on the move."
-msgstr "Das urspüngliche Transportbehältnis für Planzen."
+msgstr "Das Originalbehältnis für bewegliche Planzen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.NAME"
@@ -8480,17 +8480,17 @@ msgstr "<link=\"FLOWERVASE\">Blumentopf</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.DESC"
 msgid "A funky red flower pot for plants on the move."
-msgstr "Ein unkonventioneller roter Blumentopf als Transportbehältnis."
+msgstr "Ein flippig roter Blumentopf für bewegliche Planzen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.NAME"
 msgid "<link=\"FLOWERVASE\">Bold Retro Flower Pot</link>"
-msgstr "<link=\"FLOWERVASE\">Klobiger altmodischer Blumentopf</link>"
+msgstr "<link=\"FLOWERVASE\">Mutiger altmodischer Blumentopf</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.DESC"
 msgid "A funky green flower pot for plants on the move."
-msgstr "Ein unkonventioneller grüner Blumentopf als Transportbehältnis."
+msgstr "Ein flippig grüner Blumentopf für bewegliche Pflangen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.NAME"
@@ -8500,7 +8500,7 @@ msgstr "<link=\"FLOWERVASE\">Heller altmodischer Blumentopf</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.DESC"
 msgid "A funky blue flower pot for plants on the move."
-msgstr "Ein unkonventioneller blauer Blumentopf als Transportbehältnis."
+msgstr "Ein flippig blauer Blumentopf für bewegliche Pflanzen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.NAME"
@@ -8510,7 +8510,7 @@ msgstr "<link=\"FLOWERVASE\">Verträumter altmodischer Blumentopf</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.DESC"
 msgid "A funky white flower pot for plants on the move."
-msgstr "Ein unkonventioneller weißer Blumentopf als Transportbehältnis."
+msgstr "Ein flippig weißer Blumentopf für bewegliche Pflanzen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.NAME"
@@ -8520,7 +8520,7 @@ msgstr "<link=\"FLOWERVASE\">Eleganter altmodischer Blumentopf</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.DESC"
 msgid "A funky yellow flower pot for plants on the move."
-msgstr "Ein unkonventioneller gelber Blumentopf als Transportbehältnis."
+msgstr "Ein flippig gelber Blumentopf für bewegliche Pflanzen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.NAME"
