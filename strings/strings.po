@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-23 20:25+0100\n"
+"PO-Revision-Date: 2023-02-23 20:41+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -6130,7 +6130,7 @@ msgstr "Ein Gemälde welches die wahre Natur von Hunger zeigt."
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.NAME"
 msgid "<link=\"ARTJ\">Nikola Devouring His Mush Bar</link>"
-msgstr "<link=\"ARTJ\">Nikola verschlingt seinen Matchriegel</link>"
+msgstr "<link=\"ARTJ\">Nikola verschlingt seinen Matschriegel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_K.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_K.DESC"
@@ -6546,7 +6546,7 @@ msgstr "Die Höhe von Sanitär-inspirierten Innendesign."
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.FAUXPIPE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.FAUXPIPE.NAME"
 msgid "<link=\"CEILINGLIGHT\">Faux Pipe Ceiling Light</link>"
-msgstr "<link=\"CEILINGLIGHT\">Kunstrohr-Deckenlampe</link>"
+msgstr "<link=\"CEILINGLIGHT\">Malheur-Rohr Deckenlampe</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.LABFLASK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.LABFLASK.DESC"
@@ -7903,11 +7903,10 @@ msgid "It can be arranged into giant blue polka dots."
 msgstr "Kann zum gigantisch blauen Punktmuster angeordnet werden."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_BLUE_COBALT_WHITE.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_BLUE_COBALT_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">H2O Wedge</link>"
-msgstr "<link=\"EXTERIORWALL\">H2O Bouquet</link>"
+msgstr "<link=\"EXTERIORWALL\">H2O Keil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREEN_KELLY_WHITE.DESC
 msgctxt ""
@@ -7916,11 +7915,10 @@ msgid "It can be arranged into giant green polka dots."
 msgstr "Kann zum gigantisch grünem Punktmuster angeordnet werden."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREEN_KELLY_WHITE.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREEN_KELLY_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Algae Wedge</link>"
-msgstr "<link=\"EXTERIORWALL\">Algen Bouquet</link>"
+msgstr "<link=\"EXTERIORWALL\">Algenkeil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREY_CHARCOAL_WHITE.DESC
 msgctxt ""
@@ -7929,11 +7927,10 @@ msgid "It can be arranged into giant shadowy polka dots."
 msgstr "Kann zum gigantisch schattigem Punktmuster angeordnet werden."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREY_CHARCOAL_WHITE.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREY_CHARCOAL_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Charcoal Wedge</link>"
-msgstr "<link=\"EXTERIORWALL\">Holzhohle Bouquet</link>"
+msgstr "<link=\"EXTERIORWALL\">Holzhohle Keil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_ORANGE_SATSUMA_WHITE.DESC
 msgctxt ""
@@ -7942,11 +7939,10 @@ msgid "It can be arranged into giant orange polka dots."
 msgstr "Kann zum gigantisch orangenen Punktmuster angeordnet werden."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_ORANGE_SATSUMA_WHITE.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_ORANGE_SATSUMA_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Bright Wedge</link>"
-msgstr "<link=\"EXTERIORWALL\">Helles Bouquet</link>"
+msgstr "<link=\"EXTERIORWALL\">Heller Keil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_PINK_FLAMINGO_WHITE.DESC
 msgctxt ""
@@ -7955,11 +7951,10 @@ msgid "It can be arranged into giant pink polka dots."
 msgstr "Kann zum gigantisch rosa Punktmuster angeordnet werden."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_PINK_FLAMINGO_WHITE.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_PINK_FLAMINGO_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Petal Wedge</link>"
-msgstr "<link=\"EXTERIORWALL\">Blüten Bouquet</link>"
+msgstr "<link=\"EXTERIORWALL\">Blüten Keil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.DESC"
@@ -7967,10 +7962,9 @@ msgid "It can be arranged into giant red polka dots."
 msgstr "Kann zum gigantisch roten Punktmuster angeordnet werden."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Magma Wedge</link>"
-msgstr "<link=\"EXTERIORWALL\">Magma Bouquet</link>"
+msgstr "<link=\"EXTERIORWALL\">Magma Keil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_YELLOW_LEMON_WHITE.DESC
 msgctxt ""
@@ -7981,11 +7975,10 @@ msgstr ""
 "kann."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_YELLOW_LEMON_WHITE.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_YELLOW_LEMON_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Yellowcake Wedge</link>"
-msgstr "<link=\"EXTERIORWALL\">Gelber Kuchen Bouquet</link>"
+msgstr "<link=\"EXTERIORWALL\">Gelber Kuchen Keil</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CLOUDS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CLOUDS.DESC"
