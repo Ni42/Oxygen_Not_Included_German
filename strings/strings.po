@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-23 01:07+0100\n"
+"PO-Revision-Date: 2023-02-23 20:25+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -7885,6 +7885,16 @@ msgstr "Eine sanft geblümte Tapete."
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BALM_LILY.NAME"
 msgid "<link=\"EXTERIORWALL\">Balm Lily Print</link>"
 msgstr "<link=\"EXTERIORWALL\">Balsamlilien Druck</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.DESC"
+msgid "It's just so fresh and so clean."
+msgstr "Es ist einfach so frisch und so sauber."
+
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.NAME"
+msgid "<link=\"EXTERIORWALL\">Fresh White</link>"
+msgstr "<link=\"EXTERIORWALL\">Frisches Weiß</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_BLUE_COBALT_WHITE.DESC
 msgctxt ""
