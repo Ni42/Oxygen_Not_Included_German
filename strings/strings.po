@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-23 20:41+0100\n"
+"PO-Revision-Date: 2023-02-23 20:46+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -2409,7 +2409,7 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.MEGABRAINTANK.PROGRESS.DREAMANALYSIS.TOOLT
 msgid "Maximum Aptitude effect sustained while dream analysis continues"
 msgstr ""
 "Der Effekt der maximalen Eignung bleibt bestehen, während die Traum-Analyse "
-"fortgesetzt wird."
+"fortgesetzt wird"
 
 #. STRINGS.BUILDING.STATUSITEMS.MEGABRAINTANK.PROGRESS.PROGRESSIONRATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MEGABRAINTANK.PROGRESS.PROGRESSIONRATE.NAME"
@@ -57234,7 +57234,7 @@ msgstr "Übertriebene Sporthandschuhe"
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_SATSUMA.DESC"
 msgid "Orange-striped gloves for enthusiastic athletes."
-msgstr "Orange-gestreifte Handschuhe für den begeisterten Sportler"
+msgstr "Orange-gestreifte Handschuhe für den begeisterten Sportler."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_SATSUMA.NAME
 msgctxt ""
