@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-02-23 20:46+0100\n"
+"PO-Revision-Date: 2023-03-02 21:52+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -10,7 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"Application: Oxygen Not Included\n"
+"POT Version: 2.0\n"
 "X-Generator: Poedit 3.0\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -18315,7 +18316,7 @@ msgid ""
 "building."
 msgstr ""
 "Die Reichweite eines automatischen Räumers kann jederzeit durch (ClickType/"
-"Klicken) auf das Gebäude eingesehen werden."
+"Clicking) auf das Gebäude eingesehen werden."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT"
@@ -26117,7 +26118,7 @@ msgid ""
 msgstr ""
 "'Divergent' ist der Name für die beiden unterschiedlichen Geschlechter einer "
 "Art, dem Sweetle und dem Grubgrub, die sich beide ungeschlechtlich fortpflanzen "
-"und sich um Wühlfuchtpflanze kümmern können.\n"
+"und sich um Wühlfuchtpflanzen kümmern können.\n"
 "\n"
 "Bei der Pflege der Wühlfuchtpflanze zeigen beide Geschlechtsvarianten des "
 "Divergent genau die gleichen Verhaltensweisen, allerdings besitzt der Grubgrub "
@@ -27083,9 +27084,9 @@ msgstr ""
 #. STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER2"
 msgid ""
-"<indent=5%>I don't don't know how you pulled it off, but Stern's office just "
-"called the paper and granted me an exclusive...and a tour of the Gravitas "
-"Facility. I owe you a beer. No - a case of beer. Six cases of beer!\n"
+"<indent=5%>I don't know how you pulled it off, but Stern's office just called "
+"the paper and granted me an exclusive...and a tour of the Gravitas Facility. I "
+"owe you a beer. No - a case of beer. Six cases of beer!\n"
 "\n"
 "Seriously, thank you. I know you're in a difficult position but you've done the "
 "right thing. See you on Tuesday.</indent>"
@@ -28708,7 +28709,7 @@ msgid ""
 "Scholarship at the Elion University of Science and Technology.\n"
 "\n"
 "Head judge Dr. Elias Balko acknowledges that it was unorthodox, but defends the "
-"decision. \"We’re scientists—it’s our job to push boundaries.\"\n"
+"decision. \"We're scientists - it's our job to push boundaries.\"\n"
 "\n"
 "Pei was awarded the coveted Halas Medal, the top prize for innovation in the "
 "field.\n"
@@ -32954,7 +32955,7 @@ msgstr ""
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXPAND_TOOLTIP
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXPAND_TOOLTIP"
 msgid "<i>(ClickType/Click) to view progress</i>"
-msgstr "<i>(ClickType/Klicken), um den Fortschritt anzuzeigen</i>"
+msgstr "<i>(ClickType/Click), um den Fortschritt anzuzeigen</i>"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.FRACTIONAL_CYCLE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.FRACTIONAL_CYCLE"
@@ -49524,7 +49525,7 @@ msgstr ""
 "Dieser Duplikant ist mit {Sickness}-Keimen in Berührung gekommen und ist bei "
 "anhaltendem Kontakt gefährdet.\n"
 "\n"
-"<i>(ClickType/Klicke) hier, um zum letzten Kontaktort zu springen</i>"
+"<i>(ClickType/Click), um zum letzten Kontaktort zu springen</i>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME"
@@ -49855,7 +49856,7 @@ msgstr ""
 "    • Keimwiderstand: {Dupe}\n"
 "    • {Severity}: {ExposureLevelBonus}\n"
 "\n"
-"<i>(ClickType/Klicken), um zum Ort der letzten Exposition zu springen</i>"
+"<i>(ClickType/Click), um zum Ort der letzten Exposition zu springen</i>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME"
@@ -62712,7 +62713,7 @@ msgstr ""
 "\n"
 "Gefährlich kontaminierte Lebensmittel können kompostiert werden, indem Sie auf "
 "dem ausgewählten Objekt auf die Schaltfläche <b>Kompostieren</b> (ClickType/"
-"klicken)."
+"clicking)."
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME"
@@ -63142,8 +63143,8 @@ msgstr ""
 "ich achten, wenn ich Aufträge vergebe.\n"
 "\n"
 "Um zu überprüfen, ob eine Aufgabe erreichbar ist, kann ich einen Duplikanten "
-"auswählen und auf <b>Navigation anzeigen</b> (ClickType/klicken), um alle "
-"Bereiche in seiner Reichweite anzuzeigen."
+"auswählen und auf <b>Wegfindung anzeigen</b> (ClickType/click), um alle Bereiche "
+"in seiner Reichweite anzuzeigen."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
@@ -63227,9 +63228,9 @@ msgstr ""
 "von <link=\"DISEASE\">Krankheiten</link> beschleunigt.\n"
 "\n"
 "Duplikanten werden auch <link=\"STRESS\">gestresst</link>, wenn sie durch "
-"verschmutztes Wasser gehen, also sollte ich meine Duplikanten dazu bringen, "
-"Verschüttetes zu beseitigen, indem ich auf das <b>Wisch-Werkzeug</b> {Hotkey/"
-"Mop} (ClickType/klicke)"
+"verschmutztes Wasser gehen. Mit Hilfe des <b>Wisch-Werkzeuges</b> {Hotkey/Mop} "
+"kann ich durch (ClickType/Clicking) und Ziehen das Verschüttete von meinen "
+"Duplikanten aufwischen lassen."
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
@@ -63531,8 +63532,7 @@ msgstr ""
 "verschiedenen Gebäude und Maschinen in der Kolonie als \"Verbraucher\" "
 "betrachtet werden. Jeder Verbraucher zieht eine bestimmte Leistung aus dem "
 "Stromkreis, an den er angeschlossen ist, was jederzeit überprüft werden kann, "
-"indem man das Gebäude (ClickType/anklickt) und die Registerkarte \"Energie\" "
-"aufruft.\n"
+"indem man das Gebäude anklickt und die Registerkarte \"Energie\" aufruft.\n"
 "\n"
 "Ich kann das Strom-Overlay {Hotkey/Overlay2} verwenden, um den Status meiner "
 "Schaltkreise zu überprüfen. Wenn die Verbraucher mehr Leistung benötigen, als "
@@ -64184,7 +64184,7 @@ msgid ""
 msgstr ""
 "Meine Duplikanten haben ein {Uncoverable} entdeckt!\n"
 "\n"
-"(ClickType/Klicke) hier, um zu seiner Position zu springen."
+"(ClickType/Click), um zu seiner Position zu springen."
 
 #. STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP"
@@ -74497,7 +74497,7 @@ msgstr "Kosmische Strahlung"
 #. STRINGS.UI.CLUSTERMAP.CHANGE_DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.CHANGE_DESTINATION"
 msgid "(ClickType/Click) to change destination"
-msgstr "(ClickType/Klicke) hier, um das Ziel zu ändern"
+msgstr "(ClickType/Click), um das Ziel zu ändern"
 
 #. STRINGS.UI.CLUSTERMAP.DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.DESTINATION"
@@ -74866,7 +74866,7 @@ msgid ""
 "(ClickType/Click) to go back:\n"
 "N/A"
 msgstr ""
-"(ClickType/Klicke) um zurückzugehen:\n"
+"(ClickType/Click) um zurückzugehen:\n"
 "N/A"
 
 #. STRINGS.UI.CODEX.BACK_BUTTON_TOOLTIP
@@ -74875,7 +74875,7 @@ msgid ""
 "(ClickType/Click) to go back:\n"
 "{0}"
 msgstr ""
-"(ClickType/Klicke) um zurückzugehen:\n"
+"(ClickType/Click) um zurückzugehen:\n"
 "{0}"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.BIOMES
@@ -75100,7 +75100,7 @@ msgid ""
 "(ClickType/Click) to go forward:\n"
 "N/A"
 msgstr ""
-"(ClickType/Klicke) um fortzufahren:\n"
+"(ClickType/Click) um fortzufahren:\n"
 "N/A"
 
 #. STRINGS.UI.CODEX.FORWARD_BUTTON_TOOLTIP
@@ -75109,7 +75109,7 @@ msgid ""
 "(ClickType/Click) to go forward:\n"
 "{0}"
 msgstr ""
-"(ClickType/Klicke) um fortzufahren:\n"
+"(ClickType/Click) um fortzufahren:\n"
 "{0}"
 
 #. STRINGS.UI.CODEX.GAME_SYSTEMS
@@ -76227,7 +76227,7 @@ msgstr "KLICKS"
 #. STRINGS.UI.CONTROLS.CLICKUPPER
 msgctxt "STRINGS.UI.CONTROLS.CLICKUPPER"
 msgid "CLICK"
-msgstr "KLICK"
+msgstr "KLICKEN"
 
 #. STRINGS.UI.CONTROLS.PRESS
 msgctxt "STRINGS.UI.CONTROLS.PRESS"
@@ -77870,7 +77870,7 @@ msgid ""
 msgstr ""
 "Das Spiel läuft derzeit in einer Testversion.\n"
 "\n"
-"(ClickType/Klicken) für weitere Informationen."
+"(ClickType/Click) für weitere Informationen."
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK"
@@ -77913,8 +77913,8 @@ msgid ""
 "(ClickType/Click) to subscribe to this diagnostic - Current State: <b>Never "
 "Visible</b>"
 msgstr ""
-"(ClickType/Klicke) hier, um diese Auswertung zu erhalten - Aktueller Status: "
-"<b>Nie sichtbar</b>"
+"(ClickType/Click), um diese Auswertung zu erhalten - Aktueller Status: <b>Nie "
+"sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALWAYS
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALWAYS"
@@ -77922,8 +77922,8 @@ msgid ""
 "(ClickType/Click) to pin this diagnostic to the sidebar - Current State: "
 "<b>Visible On Alert Only</b>"
 msgstr ""
-"(ClickType/Klicke) hier, um diese Auswertung an die Seitenleiste zu heften - "
-"Aktueller Status: <b>Nur bei Warnung sichtbar</b>"
+"(ClickType/Click), um diese Auswertung an die Seitenleiste zu heften - Aktueller "
+"Status: <b>Nur bei Warnung sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.NEVER
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.NEVER"
@@ -77931,8 +77931,8 @@ msgid ""
 "(ClickType/Click) to mute this diagnostic on the sidebar - Current State: "
 "<b>Always Visible</b>"
 msgstr ""
-"(ClickType/Klicke) hier, um diese Auswertung in der Seitenleiste stumm zu "
-"schalten - Aktueller Status: <b>Immer sichtbar</b>"
+"(ClickType/Click), um diese Auswertung in der Seitenleiste stumm zu schalten - "
+"Aktueller Status: <b>Immer sichtbar</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.TUTORIAL_DISABLED
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.TUTORIAL_DISABLED"
@@ -77940,7 +77940,7 @@ msgid ""
 "(ClickType/Click) to enable this diagnostic -  Current State: <b>Temporarily "
 "disabled</b>"
 msgstr ""
-"(ClickType/Klicke) hier, um diese Diagnose zu aktivieren - Aktueller Status: "
+"(ClickType/Click), um diese Diagnose zu aktivieren - Aktueller Status: "
 "<b>Zeitweilig deaktiviert</b>"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CRITERIA_ENABLED_COUNT
@@ -80843,7 +80843,7 @@ msgid ""
 "storage."
 msgstr ""
 "Wir haben den Aufbau der Speicherstände geändert!\n"
-"Bitte (ClickType/klicke) auf die Schaltfläche unten, um deine Speicherstände "
+"Bitte auf die Schaltfläche unten (ClickType/click), um deine Speicherstände "
 "automatisch zu aktualisieren."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT
@@ -88195,7 +88195,7 @@ msgid ""
 "\">Duplicant Priorities</style>, and then decide where to work based on <style="
 "\"KKeyword\">Building Priorities</style>"
 msgstr ""
-"(ClickType/Klicken), um die Prioritäten anzuzeigen\n"
+"(ClickType/Click), um die Prioritäten anzuzeigen\n"
 "\n"
 "Duplikanten wählen Aufträge zuerst nach ihren <style=\"KKeyword\">Duplikanten-"
 "Prioritäten</style> und dann nach der <style=\"KKeyword\">Objektpriorität</"
@@ -88413,7 +88413,7 @@ msgid ""
 msgstr ""
 "Zählt alle nicht zugewiesenen Ressourcen in Reichweite\n"
 "\n"
-"(ClickType/Klicken), um zu erweitern"
+"(ClickType/Click), um zu erweitern"
 
 #. STRINGS.UI.RESOURCESCREEN.CLEAR_ALL
 msgctxt "STRINGS.UI.RESOURCESCREEN.CLEAR_ALL"
@@ -89498,8 +89498,7 @@ msgstr "Offene Stelle"
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP"
 msgid "(ClickType/Click) to assign a Duplicant to this job opening"
-msgstr ""
-"(ClickType/Klicke) hier, um diesem Stellenangebot einen Duplikanten zuzuordnen"
+msgstr "(ClickType/Click), um diesem Stellenangebot einen Duplikanten zuzuordnen"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.EIGHT
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.EIGHT"
@@ -90192,7 +90191,7 @@ msgstr ""
 "Keine Sounds oder Benachrichtigungen werden für diesen Zeitplan abgespielt.\n"
 "\n"
 "DEAKTIVIERT\n"
-"(ClickType/Anklicken) zum aktivieren"
+"(ClickType/Click) zum Aktivieren"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON_ON_TOOLTIP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALARM_BUTTON_ON_TOOLTIP"
@@ -90209,7 +90208,7 @@ msgstr ""
 "Sounds oder Benachrichtigungen werden für diesen Zeitplan abgespielt.\n"
 "\n"
 "AKTIVIERT\n"
-"(ClickType/Anklicken) zum deaktivieren"
+"(ClickType/Click) zum Deaktivieren"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALARM_TITLE_DISABLED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALARM_TITLE_DISABLED"
@@ -93989,7 +93988,7 @@ msgstr "<b>{0}</b>"
 #. STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON"
 msgid "Double-(ClickType/click) to go to <b>{0}</b>"
-msgstr "(ClickType/Doppelklicken), um zu <b>{0}</b> gelangen"
+msgstr "Doppel(ClickType/click), um zu <b>{0}</b> gelangen"
 
 # Kontext?
 #. STRINGS.UI.TABLESCREENS.INFORMATION_NOT_AVAILABLE_TOOLTIP
@@ -94010,7 +94009,7 @@ msgstr "Niemand hier..."
 #. STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON"
 msgid "(ClickType/Click) to select <b>{0}</b>"
-msgstr "(ClickType/Klicken), um <b>{0}</b> zu selektieren"
+msgstr "(ClickType/Click), um <b>{0}</b> zu selektieren"
 
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
@@ -94035,7 +94034,7 @@ msgstr "{0} bauen"
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION"
 msgid "(ClickType/CLICK) TO BUILD"
-msgstr "(ClickType/KLICKEN) ZUM BAUEN"
+msgstr "(ClickType/CLICK) ZUM BAUEN"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG"
@@ -94470,7 +94469,7 @@ msgstr "Bewegen"
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION"
 msgid "(ClickType/CLICK)"
-msgstr "(ClickType/KLICK)"
+msgstr "(ClickType/CLICK)"
 
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME"
@@ -94510,7 +94509,7 @@ msgstr "Muss einen freien Weg in den Weltraum haben"
 #. STRINGS.UI.TOOLS.PLACE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.PLACE.TOOLACTION"
 msgid "(ClickType/CLICK) TO PLACE"
-msgstr "(ClickType/KLICKEN) ZUM PLATZIEREN"
+msgstr "(ClickType/CLICK) ZUM PLATZIEREN"
 
 #. STRINGS.UI.TOOLS.PLACE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.PLACE.TOOLNAME"
@@ -95335,7 +95334,7 @@ msgstr "Nicht genug Materialien, um dieses Objekt zu bauen"
 #. STRINGS.UI.TOOLTIPS.SORTCOLUMN
 msgctxt "STRINGS.UI.TOOLTIPS.SORTCOLUMN"
 msgid "(ClickType/Click) to sort"
-msgstr "(ClickType/Klicken) zum Sortieren"
+msgstr "(ClickType/Click) zum Sortieren"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
@@ -95534,7 +95533,7 @@ msgid ""
 msgstr ""
 "Nach unten durch diese Tür zu steigen ist nicht gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Berechtigung zu erteilen"
+"(ClickType/Click), um die Berechtigung zu erteilen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_DOWN_ENABLED"
@@ -95545,7 +95544,7 @@ msgid ""
 msgstr ""
 "Nach unten durch diese Tür zu steigen ist gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Erlaubnis zu widerrufen"
+"(ClickType/Click), um die Erlaubnis zu widerrufen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED"
@@ -95556,7 +95555,7 @@ msgid ""
 msgstr ""
 "Nach links durch diese Tür zu gehen ist nicht gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Berechtigung zu erteilen"
+"(ClickType/Click), um die Berechtigung zu erteilen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED"
@@ -95567,7 +95566,7 @@ msgid ""
 msgstr ""
 "Nach links durch diese Tür zu gehen ist gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Erlaubnis zu widerrufen"
+"(ClickType/Click), um die Erlaubnis zu widerrufen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED"
@@ -95578,7 +95577,7 @@ msgid ""
 msgstr ""
 "Nach rechts durch diese Tür zu gehen ist nicht gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Berechtigung zu erteilen"
+"(ClickType/Click), um die Berechtigung zu erteilen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED"
@@ -95589,7 +95588,7 @@ msgid ""
 msgstr ""
 "Nach rechts durch diese Tür zu gehen ist gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Erlaubnis zu widerrufen"
+"(ClickType/Click), um die Erlaubnis zu widerrufen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_DISABLED"
@@ -95600,7 +95599,7 @@ msgid ""
 msgstr ""
 "Nach oben durch diese Tür zu steigen ist nicht gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Berechtigung zu erteilen"
+"(ClickType/Click), um die Berechtigung zu erteilen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_ENABLED"
@@ -95611,7 +95610,7 @@ msgid ""
 msgstr ""
 "Nach oben durch diese Tür zu steigen ist gestattet\n"
 "\n"
-"(ClickType/Klicken), um die Erlaubnis zu widerrufen"
+"(ClickType/Click), um die Erlaubnis zu widerrufen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS"
@@ -95621,12 +95620,12 @@ msgstr "Duplikanten-Zugangsrechte"
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM"
 msgid "(ClickType/Click) to assign custom permissions"
-msgstr "(ClickType/Klicken), um benutzerdefinierte Berechtigungen zuzuweisen"
+msgstr "(ClickType/Click), um benutzerdefinierte Berechtigungen zuzuweisen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_DEFAULT
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_DEFAULT"
 msgid "(ClickType/Click) to clear custom permissions"
-msgstr "(ClickType/Klicken), um benutzerdefinierte Berechtigungen zu löschen"
+msgstr "(ClickType/Click), um benutzerdefinierte Berechtigungen zu löschen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.TITLE"
@@ -97167,7 +97166,7 @@ msgid ""
 msgstr ""
 "Diese Rakete hebt ab, sobald ein Duplikant die Steuerung übernimmt\n"
 "\n"
-"<b>(ClickType/Klicken), um den Start abzubrechen</b>"
+"<b>(ClickType/Click), um den Start abzubrechen</b>"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_WARNINGS_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.LAUNCH_WARNINGS_BUTTON"
@@ -97184,8 +97183,8 @@ msgid ""
 msgstr ""
 "Einige Punkte in der Start-Checkliste erfordern Aufmerksamkeit!\n"
 "\n"
-"<b>(ClickType/Klicke), um Warnungen zu ignorieren und mit dem Start "
-"fortzufahren</b>"
+"<b>(ClickType/Click), um Warnungen zu ignorieren und mit dem Start fortzufahren</"
+"b>"
 
 #. STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.NEW_ROCKET_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.LAUNCHPADSIDESCREEN.NEW_ROCKET_BUTTON"
@@ -97827,7 +97826,7 @@ msgstr "Einsetzbare Geräte"
 #. STRINGS.UI.UISIDESCREENS.MONUMENTSIDESCREEN.FLIP_FACING_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.MONUMENTSIDESCREEN.FLIP_FACING_BUTTON"
 msgid "(ClickType/CLICK) TO ROTATE"
-msgstr "(ClickType/KLICKEN) ZUM DREHEN"
+msgstr "(ClickType/CLICK) ZUM DREHEN"
 
 #. STRINGS.UI.UISIDESCREENS.MONUMENTSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MONUMENTSIDESCREEN.TITLE"
