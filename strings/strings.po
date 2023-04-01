@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-01 00:12+0200\n"
+"PO-Revision-Date: 2023-04-01 09:34+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -8363,7 +8363,7 @@ msgstr "<link=\"EXTERIORWALL\">Regenbogenstreifen</link>"
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.DESC"
 msgid "Adds some much-needed zest to the room."
-msgstr "Fügt dem Raum die dringend benötigte Würze hinzu."
+msgstr "Fügt dem Raum die dringend benötigte Orangenschale hinzu."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.NAME"
@@ -8833,7 +8833,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.DESC"
 msgid "Facilitates vertical plant displays."
-msgstr "Erleichter vertikale Pflanzendarstellung."
+msgstr "Erleichtert vertikale Pflanzendarstellung."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.NAME
 msgctxt ""
@@ -8976,7 +8976,7 @@ msgstr "Es gibt sicher viele alte Knochen in dieser Gegend."
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.EFFECT"
 msgid "Contains a deep cache of harvestable <link=\"FOSSIL\">Fossils</link>."
-msgstr "Enthält einen tiefen Vorrat an abbaubaren Fossilien."
+msgstr "Enthält einen unergründlichen Vorrat an abbaubaren Fossilien."
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME"
@@ -14777,7 +14777,7 @@ msgid ""
 "Meteors that have been blown to smithereens leave behind no harvestable "
 "resources."
 msgstr ""
-"Meteore, die in Stücke gesprengt wurden, hinterlassen keine einsamelbaren "
+"Meteoriten, die in Stücke gesprengt wurden, hinterlassen keine einsamelbaren "
 "Ressourcen."
 
 #. STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.EFFECT
@@ -30044,7 +30044,8 @@ msgstr ""
 "Jedes Fossilien-Vorkommen auf diesem Asteroiden wurde ausgegraben, und sein "
 "Inhalt sicher geborgen.\n"
 "\n"
-"Tiefere Fossilienvorkommen des antiken Exemplars können jetzt abgebaut werden."
+"Die unergründlichen Fossilienvorkommen des antiken Exemplars können jetzt "
+"abgebaut werden."
 
 #. STRINGS.CODEX.QUESTS.FOSSILHUNTQUEST.NAME
 msgctxt "STRINGS.CODEX.QUESTS.FOSSILHUNTQUEST.NAME"
@@ -31445,7 +31446,7 @@ msgstr ""
 "auf diesem Asteroiden schon begegnet sind.\n"
 "\n"
 "Woher kommt es? Wie kam ist es hierher? Und auf welche anderen Fragen könnten "
-"diese Knochen die Antwort enthalten?\n"
+"diese Knochen noch die Antwort enthalten?\n"
 "Es gibt nur einen Weg, das herauszufinden."
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.NAME
@@ -31692,7 +31693,7 @@ msgstr ""
 "Es scheint zu demselben antiken Exemplar zu gehören, das bereits an einer "
 "anderen Stelle gefunden wurde.\n"
 "\n"
-"Dieses Fragment wurde in <link=\"ICE\">Eis</link> aufbewahrt."
+"Dieses Fragment wurde in <link=\"ICE\">Eis</link> konserviert."
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ICE.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ICE.NAME"
@@ -31734,7 +31735,7 @@ msgstr ""
 "Es scheint zu demselben antiken Exemplar zu gehören, das bereits an einer "
 "anderen Stelle gefunden wurde.\n"
 "\n"
-"Dieses Fragment wurde in versteinerter <link=\"DIRT\">Erde</link> aufbewahrt."
+"Dieses Fragment wurde in versteinerter <link=\"DIRT\">Erde</link> konserviert."
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ROCK.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_ROCK.NAME"
@@ -31971,7 +31972,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Klicken um diesen Standort anzuzeigen"
+"Klicken um den Fundort anzuzeigen"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_NOTIFICATION.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.QUEST_AVAILABLE_NOTIFICATION.NAME"
@@ -32061,7 +32062,7 @@ msgstr "Arbeitsauftrag"
 msgctxt ""
 "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILMINEPENDINGWORK.TOOLTIP"
 msgid "Fossil mine will be operated once a Duplicant is available"
-msgstr "Die Fossilien-Mine wird betrieben, sobald ein Duplikant verfügbar ist"
+msgstr "Die Fossiliengrube wird betrieben, sobald ein Duplikant verfügbar ist"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UISIDESCREENS.DIG_SITE_CANCEL_EXCAVATION_BUTTON
 msgctxt ""
@@ -93287,7 +93288,7 @@ msgstr ""
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.BLEACHSTONE.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.BLEACHSTONE.NAME"
 msgid "Bleach Stone Meteor Shower"
-msgstr "Bleistein Meteoritenschauer"
+msgstr "Bleistein-Meteoritenschauer"
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.COPPER.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.COPPER.DESCRIPTION"
@@ -93382,7 +93383,7 @@ msgstr ""
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.MOO.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.MOO.NAME"
 msgid "Gassy Mooteor Shower"
-msgstr "Gassy Moo-teritenschauer"
+msgstr "Gassy Moo-teoritenschauer"
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.OXYLITE.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.OXYLITE.DESCRIPTION"
@@ -93436,7 +93437,7 @@ msgstr ""
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.SNOW.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.SNOW.NAME"
 msgid "Blizzard Meteor Shower"
-msgstr "Blizzard-Meteoritenschauer"
+msgstr "Eissturm-Meteoritenschauer"
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.UNIDENTIFIED.DESCRIPTION
 msgctxt ""
@@ -93479,17 +93480,17 @@ msgstr "Algen Meteorit"
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.BLEACHSTONECOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.BLEACHSTONECOMET.NAME"
 msgid "Bleach Stone Meteor"
-msgstr "Bleichsteinmeteor5"
+msgstr "Bleichsteinmeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.COPPERCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.COPPERCOMET.NAME"
 msgid "Copper Meteor"
-msgstr "Kupfermeteor"
+msgstr "Kupfermeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.DUSTCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.DUSTCOMET.NAME"
 msgid "Dust Meteor"
-msgstr "Staubmeteor"
+msgstr "Staubmeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.FOODCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.FOODCOMET.NAME"
@@ -93499,22 +93500,22 @@ msgstr "Snackbombe"
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.FULLERENECOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.FULLERENECOMET.NAME"
 msgid "Fullerene Meteor"
-msgstr "Fulleren Meteor"
+msgstr "Fulleren Meteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.GASSYMOOCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.GASSYMOOCOMET.NAME"
 msgid "Gassy Mooteor"
-msgstr "Gassy Mooteor"
+msgstr "Gassy Moo-teorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.GOLDCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.GOLDCOMET.NAME"
 msgid "Gold Meteor"
-msgstr "Goldmeteor"
+msgstr "Goldmeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.HARDICECOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.HARDICECOMET.NAME"
 msgid "Ice Meteor"
-msgstr "Eis-Meteorit"
+msgstr "Eismeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.IRONCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.IRONCOMET.NAME"
@@ -93524,7 +93525,7 @@ msgstr "Eisenmeteorit"
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.LIGHTDUSTCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.LIGHTDUSTCOMET.NAME"
 msgid "Dust Fluff Meteor"
-msgstr "Dunstflocken Meteorit"
+msgstr "Staubteilchenmeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.NUCLEAR_WASTE.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.NUCLEAR_WASTE.NAME"
@@ -93534,7 +93535,7 @@ msgstr "Radioaktiver Meteor"
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.OXYLITECOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.OXYLITECOMET.NAME"
 msgid "Oxylite Meteor"
-msgstr "Oxylitmeteor"
+msgstr "Oxylitmeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.PHOSPHORICCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.PHOSPHORICCOMET.NAME"
@@ -93544,7 +93545,7 @@ msgstr "Phosphor Meteorit"
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.ROCKCOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.ROCKCOMET.NAME"
 msgid "Rock Meteor"
-msgstr "Gesteinsmeteor"
+msgstr "Gesteinsmeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.SATELLITE.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.SATELLITE.NAME"
@@ -93564,7 +93565,7 @@ msgstr "Schnee Meteorit"
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.URANIUMORECOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.URANIUMORECOMET.NAME"
 msgid "Uranium Meteor"
-msgstr "Uranmeteor"
+msgstr "Uranmeteorit"
 
 #. STRINGS.UI.SPACEDESTINATIONS.DEBRIS.SATELLITE.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.DEBRIS.SATELLITE.DESCRIPTION"
@@ -97984,7 +97985,7 @@ msgid ""
 "\">Starmap</style> location"
 msgstr ""
 "Priorisiert unidentifizierte Meteoriten, die in Reichweite eines zuvor "
-"aufgedeckten Felder kommen\n"
+"aufgedeckten Feldes kommen\n"
 "\n"
 "Unterbricht einen Duplikanten beim Aufdecken eines Feldes auf der <style="
 "\"KKeyword\">Sternenkarte</style>"
