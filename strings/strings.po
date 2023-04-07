@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-07 19:29+0200\n"
+"PO-Revision-Date: 2023-04-07 20:14+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -14764,7 +14764,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.NAME"
 msgid "<link=\"MISSILEFABRICATOR\">Blastshot Maker</link>"
-msgstr "<link=\"MISSILEFABRICATOR\">Munitionsfertiger</link>"
+msgstr "<link=\"MISSILEFABRICATOR\">Munitions­fertiger</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.RECIPE_DESCRIPTION"
@@ -14815,7 +14815,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.NAME"
 msgid "Meteor Blaster"
-msgstr "Meteoritensprenger"
+msgstr "Meteoriten­sprenger"
 
 #. STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.DESC"
