@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-29 09:53+0200\n"
+"PO-Revision-Date: 2023-04-29 10:18+0200\n"
 "Last-Translator: Xandras\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -11700,7 +11700,7 @@ msgstr "Sternenkarten Ortungssensor"
 #. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_ACTIVE"
 msgid ""
-"Sends a <b><style=\"logic_on\">Green Signal</style></b> when a spacecraft is at the "
+"Sends a <b><style=\"logic_on\">Green Signal</style></b>when a spacecraft is at the "
 "chosen Starmap locations"
 msgstr ""
 "Sendet ein <b><style=\"logic_on\">grünes Signal</style></b> wenn sich ein Raumschiff an "
@@ -14943,10 +14943,11 @@ msgstr "<link=\"ORBITALCARGOMODULE\">Orbitales Frachtmodul</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.DESC"
 msgid ""
 "Orbital Data Collection Labs record data while orbiting a Planetoid and write it to a "
-"<link=\"ORBITALRESEARCHDATABANK\">Data Bank</link>."
+"<link=\"ORBITALRESEARCHDATABANK\">Data Bank</link>. "
 msgstr ""
 "Orbitale Datenerfassungslabore zeichnen Daten auf, während sie einen Planetoiden "
-"umkreisen, und schreiben sie in eine <link=\"ORBITALRESEARCHDATABANK\">Datenbank</link>."
+"umkreisen, und schreiben sie in eine <link=\"ORBITALRESEARCHDATABANK\">Datenbank</"
+"link>. "
 
 #. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT"
@@ -28171,7 +28172,7 @@ msgid ""
 "change everything about...well, everything.\"\n"
 "\n"
 "This is the second time that Pei has made headlines. Last year, the striking young "
-"nanoscientist won the Miss Planetary Belle pageant’s talent show with a live "
+"nanoscientist won the Miss Planetary Belle pageant's talent show with a live "
 "demonstration of nanorobots weaving a ballgown out of fibers harvested from common "
 "houseplants.\n"
 "\n"
@@ -46278,22 +46279,6 @@ msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PLAYEDARCADE.TOOLTIP"
 msgid "This Duplicant recently played video games and is feeling like a champ"
 msgstr "This Duplicant recently played video games and is feeling like a champ"
 
-#. STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.NAME
-msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.NAME"
-msgid "Played Single-Player Video Games"
-msgstr "Einzelspieler-Videospiele gespielt"
-
-#. STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PLAYEDSINGLEPLAYERARCADE.TOOLTIP"
-msgid ""
-"This Duplicant recently played fun single-player video games\n"
-"\n"
-"Score!"
-msgstr ""
-"Dieser Duplikant hat kürzlich lustige Einzelspieler-Videospiele gespielt\n"
-"\n"
-"Volltreffer!"
-
 #. STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.NAME"
 msgid "Popped Eardrums"
@@ -46752,22 +46737,6 @@ msgstr "Geduscht"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SHOWERED.TOOLTIP"
 msgid "This Duplicant recently had a shower and feels squeaky clean!"
 msgstr "Dieser Duplikant war vor kurzem unter der Dusche und fühlt sich blitzsauber an!"
-
-#. STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.NAME
-msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.NAME"
-msgid "Gaming"
-msgstr "Spielt"
-
-#. STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SINGLEPLAYERARCADEPLAYING.TOOLTIP"
-msgid ""
-"This Duplicant is playing a video game\n"
-"\n"
-"It looks like fun!"
-msgstr ""
-"Dieser Duplikant spielt ein Videospiel\n"
-"\n"
-"Es sieht nach Spaß aus!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
@@ -56656,10 +56625,9 @@ msgid "A fresh pair of shorts for cheering from the sidelines."
 msgstr "Ein frisches Paar Shorts zum Anfeuern von der Seitenlinie."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_KELLYGREEN.NAME
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_KELLYGREEN.NAME"
 msgid "Go Team Shorts"
-msgstr "Los-Team-Los Shorts"
+msgstr "Los Team Shorts"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_PINK_FLAMINGO.DESC
 msgctxt ""
@@ -56936,11 +56904,10 @@ msgid "Green-striped gloves for the perenially good sport."
 msgstr "Grün-gestreifte Handschuhe für dauerhaft guten Sport."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_KELLYGREEN.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_KELLYGREEN.NAME"
 msgid "Go Team Sports Gloves"
-msgstr "Los-Team-Los Sporthandschuhe"
+msgstr "Los Team Sporthandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_LEMON.DESC"
@@ -57125,10 +57092,9 @@ msgid "Breathable socks with sporty green stripes."
 msgstr "Atmungsaktive Socken mit sportlich-grünen Streifen."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_KELLYGREEN.NAME
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_KELLYGREEN.NAME"
 msgid "Go Team Gym Socks"
-msgstr "Los-Team-Los Fitnesssocken"
+msgstr "Los TeamFitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_LEMON.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_LEMON.DESC"
@@ -57383,10 +57349,9 @@ msgid "A slightly sweat-stained tee for cheering from the sidelines."
 msgstr "Ein leicht verschwitztes T-Shirt zum Anfeuern von der Seitenlinie."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_KELLYGREEN.NAME
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_KELLYGREEN.NAME"
 msgid "Go Team T-shirt"
-msgstr "Los-Team-Los T-Shirt"
+msgstr "Los Team T-Shirt"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_LEMON.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_LEMON.DESC"
@@ -80408,15 +80373,6 @@ msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.OPEN_SAVE_FOLDER"
 msgid "LOCAL SAVES"
 msgstr "LOKALE SPEICHERSTÄNDE"
 
-#. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT
-msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT"
-msgid ""
-"<b><color=#ff0000>This save is from <i>Spaced Out!</i> Activate the DLC to play it! "
-"(v{2}/v{4})</color></b>"
-msgstr ""
-"<b><color=#ff0000>Dieser Speicherstand ist von der <i>Spaced Out!</i> Erweiterung. "
-"Aktivier das DLC um es zu spielen! (v{2}/v{4})</color></b>"
-
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT_TOOLTIP"
 msgid ""
@@ -83070,11 +83026,6 @@ msgctxt "STRINGS.UI.ITEM_DROP_SCREEN.DISMISS_BUTTON"
 msgid "DISMISS"
 msgstr "SCHLIESSEN"
 
-#. STRINGS.UI.ITEM_DROP_SCREEN.ACTIONS.ACCEPT_ITEM
-msgctxt "STRINGS.UI.ITEM_DROP_SCREEN.ACTIONS.ACCEPT_ITEM"
-msgid "Print Gift"
-msgstr "Geschenk drucken"
-
 #. STRINGS.UI.ITEM_DROP_SCREEN.IN_GAME_BUTTON.TOOLTIP_ERROR_NO_ITEMS
 msgctxt "STRINGS.UI.ITEM_DROP_SCREEN.IN_GAME_BUTTON.TOOLTIP_ERROR_NO_ITEMS"
 msgid "No new blueprints to unlock"
@@ -85583,10 +85534,9 @@ msgid "Basic Green Outfit"
 msgstr "Einfaches grünes Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_GREEN_KELLY.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.BASIC_GREEN_KELLY.NAME"
 msgid "Go Team! Outfit"
-msgstr "Los-Team-Los! Outfit"
+msgstr "Los Team Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_GREY_CHARCOAL.NAME
 msgctxt "STRINGS.UI.OUTFITS.BASIC_GREY_CHARCOAL.NAME"
@@ -86656,236 +86606,6 @@ msgstr ""
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.ZERO"
 msgid "Red"
 msgstr "Rot"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.BUTTON
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.BUTTON"
-msgid "Acoustics Overlay"
-msgstr "Akustik-Overlay"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.DESCRIPTION
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.DESCRIPTION"
-msgid ""
-"Two <link=\"SOUND\">Sounds</link> of equal dB will sum for a <b>+3 dB</b> increase.\n"
-"A <link=\"SOUND\">Sound</link> that is 10 dB quieter will add approximately <b>+0.5 dB</"
-"b> to the total signal.\n"
-"Anything more than 10 dB quieter will be inaudible."
-msgstr ""
-"Zwei <link=\"SOUND\">Geräusche</link> gleicher dB addieren sich zu einer Erhöhung um "
-"<b>+3 dB</b>.\n"
-"Ein um 10 dB leiseres <link=\"SOUND\">Geräusch</link> addiert <b>+0,5 dB</b> zum "
-"Gesamtlautstärke.\n"
-"Alles, was leiser als 10 dB ist, ist unhörbar."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE"
-msgid "Acoustics"
-msgstr "Akustik"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.LOUDNESS_STRING
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.LOUDNESS_STRING"
-msgid " <color=#{0}>({1})</color>"
-msgstr " <color=#{0}>({1})</color>"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAME
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAME"
-msgid "ACOUSTICS OVERLAY"
-msgstr "AKUSTIK-OVERLAY"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.ACTIVE
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.ACTIVE"
-msgid "Cacophonous"
-msgstr "Kakophonisch"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.EXTREME
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.EXTREME"
-msgid "Painful"
-msgstr "Schmerzhaft"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PASSIVE
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PASSIVE"
-msgid "Loud"
-msgstr "Laut"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PEACEFUL
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PEACEFUL"
-msgid "Peaceful"
-msgstr "Ruhevoll"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.QUIET
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.QUIET"
-msgid "Quiet"
-msgstr "Ruhig"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.TOSSANDTURN
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.TOSSANDTURN"
-msgid "Moderate"
-msgstr "Moderat"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.WAKEUP
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.WAKEUP"
-msgid "Noisy"
-msgstr "Lautstark"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NOTAFFECTING
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NOTAFFECTING"
-msgid "Drowned out:"
-msgstr "Tönt aus:"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.RANGE
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.RANGE"
-msgid "{0} dB"
-msgstr "{0} dB"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.ACTIVE
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.ACTIVE"
-msgid ""
-"[>{0} dB]\n"
-"------------------\n"
-"Cacophonous noise causes significant Stress and prevents Duplicants from sleeping or "
-"researching.\n"
-"\n"
-"Duplicant foot traffic, generators, and powered buildings can create high noise levels."
-msgstr ""
-"[>{0} dB]\n"
-"------------------\n"
-"Kakophoner Lärm verursacht erheblichen Stress und verhindert, dass Duplikanten schlafen "
-"oder forschen.\n"
-"Fußgängerverkehr, Generatoren und Gebäude mit Stromzufuhr können hohe Lärmpegel "
-"verursachen."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.EXTREME
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.EXTREME"
-msgid ""
-"[>{0} dB]\n"
-"------------------\n"
-"Painful noise levels are extremely Stressful to Duplicants and will cause them physical "
-"pain.\n"
-"\n"
-"Duplicant foot traffic, generators, and powered buildings can create high noise levels."
-msgstr ""
-"[>{0} dB]\n"
-"------------------\n"
-"Schmerzhafte Lärmpegel sind für Duplikanten extrem belastend und verursachen "
-"körperliche Schmerzen.\n"
-"\n"
-"Fußgängerverkehr, Generatoren und Gebäude mit Stromzufuhr können hohe Lärmpegel "
-"verursachen."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.HIGH_NOISE_POLLUTION
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.HIGH_NOISE_POLLUTION"
-msgid ""
-"Exposure to loud noises causes Duplicant Stress over time and makes it difficult to "
-"sleep or concentrate\n"
-"------------------\n"
-"High Duplicant traffic and powered buildings can create noisy areas"
-msgstr ""
-"Laute Geräusche, denen Duplikanten ausgesetzt sind, erzeugen mit der Zeit Stress und "
-"erschweren das Schlafen oder Konzentrieren.\n"
-"------------------\n"
-"Hoher Fußgängerverkehr und Gebäude mit Stromzufuhr können zu laute Zonen führen"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.LOW_NOISE_POLLUTION
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.LOW_NOISE_POLLUTION"
-msgid ""
-"Quiet areas decrease Stress, ensure Duplicants have quality sleep, and help them to "
-"concentrate\n"
-"------------------\n"
-"Soundproofed rooms and areas free of buildings and critters will generally be quieter."
-msgstr ""
-"Ruhige Bereiche verringern Stress, stellen sicher, dass Duplikanten guten Schlaf haben "
-"und helfen ihnen, sich zu konzentrieren\n"
-"------------------\n"
-"Schallgedämmte Räume und Zonen ohne Objekte oder Tiere sind im Allgemeinen ruhiger."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PASSIVE
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PASSIVE"
-msgid ""
-"[>{0} dB]\n"
-"------------------\n"
-"Loud areas will impair Duplicants' Learning abilities and cause minor Stress.\n"
-"\n"
-"Duplicant foot traffic, generators, and powered buildings can create high noise levels."
-msgstr ""
-"[>{0} dB]\n"
-"------------------\n"
-"Laute Bereiche beeinträchtigen die Lernfähigkeit der Duplikanten und verursachen "
-"leichten Stress.\n"
-"\n"
-"Fußgängerverkehr, Generatoren und strombetriebene Gebäude können hohe Lärmpegel "
-"verursachen."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PEACEFUL
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PEACEFUL"
-msgid ""
-"[{0} dB]\n"
-"------------------\n"
-"Peaceful areas improve Duplicants' quality of sleep and Learning ability.\n"
-"\n"
-"Soundproofed rooms and areas free of buildings and critters will generally be quieter."
-msgstr ""
-"[{0} dB]\n"
-"------------------\n"
-"Ruhige Zonen verbessern die Schlafqualität und Lernfähigkeit von Duplikanten.\n"
-"\n"
-"Schallgedämmte Räume und Zonen ohne Objekte oder Tiere sind im Allgemeinen ruhiger."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.QUIET
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.QUIET"
-msgid ""
-"[>{0} dB]\n"
-"------------------\n"
-"Quiet areas are necessary for Duplicants to fall asleep.\n"
-"\n"
-"Soundproofed rooms and areas free of buildings and critters will generally be quieter."
-msgstr ""
-"[>{0} dB]\n"
-"------------------\n"
-"Ruhige Bereiche sind notwendig, damit Duplikanten einschlafen können.\n"
-"\n"
-"Schallgedämmte Räume und Zonen ohne Objekte oder Tiere sind im Allgemeinen ruhiger."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.TOSSANDTURN
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.TOSSANDTURN"
-msgid ""
-"[>{0} dB]\n"
-"------------------\n"
-"Duplicants will feel unrested if forced to sleep in Moderate noise.\n"
-"\n"
-"Soundproofed rooms and areas free of buildings and critters will generally be quieter."
-msgstr ""
-"[>{0} dB]\n"
-"------------------\n"
-"Duplikanten fühlen sich unruhig, wenn sie in gemäßigtem Lärm schlafen müssen.\n"
-"\n"
-"Schallgedämmte Räume und Zonen ohne Objekte oder Tiere sind im Allgemeinen ruhiger."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.WAKEUP
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.WAKEUP"
-msgid ""
-"[>{0} dB]\n"
-"------------------\n"
-"Noisy areas will wake Duplicants up during the night, but are tolerable to them during "
-"the day.\n"
-"\n"
-"Duplicant foot traffic, generators, and powered buildings can create high noise levels."
-msgstr ""
-"[>{0} dB]\n"
-"------------------\n"
-"Lärmintensive Bereiche wecken Duplikanten in der Nacht auf, sind aber tagsüber für sie "
-"verträglich.\n"
-"\n"
-"Fußgängerverkehr, Generatoren und Gebäude mit Stromzufuhr können hohe Lärmpegel "
-"verursachen."
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOTAL
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOTAL"
-msgid "Total"
-msgstr "Total"
-
-#. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.VALUE
-msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.VALUE"
-msgid "<color=#{0}>{1} dB</color>"
-msgstr "<color=#{0}>{1} dB</color>"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
@@ -90916,9 +90636,10 @@ msgstr "Bleistein-Meteoritenschauer"
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.COPPER.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.COPPER.DESCRIPTION"
-msgid "A shower of metallic meteors on a collision course with the asteroid's surface."
+msgid ""
+"A shower of metallic meteors on a collision course with the surface of an asteroid."
 msgstr ""
-"Ein Schauer metallischer Meteoriten auf Kollisionskurs mit der Oberfläche des "
+"Ein Schauer metallischer Meteoriten auf Kollisionskurs mit der Oberfläche eines "
 "Asteroiden."
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.COPPER.NAME
