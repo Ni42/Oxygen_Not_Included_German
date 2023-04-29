@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-07 20:14+0200\n"
-"Last-Translator: jls17\n"
+"PO-Revision-Date: 2023-04-23 22:01+0200\n"
+"Last-Translator: Eisberge\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -27758,13 +27758,13 @@ msgid ""
 "Although the Mirth Leaf can inspire laughter and joy, it is not cut out for a "
 "career in stand-up comedy."
 msgstr ""
-"Das Mirth Leaf ist eine breitblättrige Zimmerpflanze, die zur Dekoration von "
+"Das Fröhlichblatt ist eine breitblättrige Zimmerpflanze, die zur Dekoration von "
 "Wohnräumen verwendet wird.\n"
 "\n"
 "Das fröhliche Wippen der breiten, grünen Blätter sorgt für stundenlange "
 "Unterhaltung bei denjenigen, die verzweifelt nach Unterhaltung suchen.\n"
 "\n"
-"Obwohl das Mirth Leaf zu Lachen und Freude anregen kann, ist es nicht für eine "
+"Obwohl das Fröhlichblatt zu Lachen und Freude anregen kann, ist es nicht für eine "
 "Karriere in der Stand-up-Comedy geeignet."
 
 #. STRINGS.CODEX.MIRTHLEAF.SUBTITLE
@@ -27775,7 +27775,7 @@ msgstr "Dekorative Pflanze"
 #. STRINGS.CODEX.MIRTHLEAF.TITLE
 msgctxt "STRINGS.CODEX.MIRTHLEAF.TITLE"
 msgid "Mirth Leaf"
-msgstr "Mirth Leaf"
+msgstr "Fröhlichblatt"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER1"
@@ -36887,7 +36887,7 @@ msgid ""
 "Mirth Leaves sport a calm green hue known for alleviating <link=\"STRESS"
 "\">Stress</link> and improving <link=\"MORALE\">Morale</link>."
 msgstr ""
-"Mirth Leaves stellen einen ruhigen Grünton zur Schau, der bekannt ist für die "
+"Fröhlichblätter stellen einen ruhigen Grünton zur Schau, der bekannt ist für die "
 "Linderung von <link=\"STRESS\">Stress</link> und die Verbesserung von <link="
 "\"MORALE\">Moral</link>."
 
@@ -36904,7 +36904,7 @@ msgstr "Wachstumsbonus"
 #. STRINGS.CREATURES.SPECIES.LEAFYPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LEAFYPLANT.NAME"
 msgid "<link=\"POTTEDLEAFY\">Mirth Leaf</link>"
-msgstr "<link=\"POTTEDLEAFY\">Mirth Leaf</link>"
+msgstr "<link=\"POTTEDLEAFY\">Fröhlichblatt</link>"
 
 #. STRINGS.CREATURES.SPECIES.LEAFYPLANT.WILT_PENALTY
 msgctxt "STRINGS.CREATURES.SPECIES.LEAFYPLANT.WILT_PENALTY"
@@ -38124,13 +38124,13 @@ msgid ""
 msgstr ""
 "Der <link=\"PLANTS\">Samen</link> eines <link=\"LEAFYPLANT\">Mirth Leaf</link>.\n"
 "\n"
-"Beim Ausgraben von vergrabenen Gegenständen können Mirth-Leaf-Samen gefunden "
+"Beim Ausgraben von vergrabenen Gegenständen können Fröhlichblatt-Samen gefunden "
 "werden."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.LEAFYPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.LEAFYPLANT.NAME"
 msgid "<link=\"LEAFYPLANT\">Mirth Leaf Seed</link>"
-msgstr "<link=\"LEAFYPLANT\">Mirth-Leaf-Samen</link>"
+msgstr "<link=\"LEAFYPLANT\">Fröhlichblatt-Samen</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC"
@@ -73272,7 +73272,7 @@ msgstr ""
 "\">Arbor-Eicheln</link> aufspüren können.\n"
 "\n"
 "Dieses Biom ist wirklich sehr schön. Ich habe festgestellt, dass <link="
-"\"LIGHTBUGSPECIES\">Leuchtkäfer</link> und <link=\"LEAFYPLANT\">Mirth Leaf</"
+"\"LIGHTBUGSPECIES\">Leuchtkäfer</link> und <link=\"LEAFYPLANT\">Fröhlichblätter</"
 "link> bei meinen Duplikanten Gefühle der Gelassenheit hervorrufen."
 
 #. STRINGS.SUBWORLDS.FROZEN.DESC
