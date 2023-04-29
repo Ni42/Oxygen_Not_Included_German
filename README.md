@@ -18,7 +18,7 @@ Zum Mithelfen oder Melden von Fehler erstelle einfach ein neues Issue oder einen
 
 Zum Bearbeiten der PO-Datei kann z.B. [Poedit](https://poedit.net) oder ein einfacher Texteditor wie notepad++ benutzt werden. 
 
-**Biite nutzt immer die Aktuellste Version von Po Edit**
+**Bitte nutzt immer die Aktuellste Version von Poedit**
 
 Bei Nutzung von Poedit bitte folgende Einstellungen verwenden:
 
