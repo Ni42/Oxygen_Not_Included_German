@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-06-14 20:08+0200\n"
+"PO-Revision-Date: 2023-06-14 21:59+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -4109,8 +4109,8 @@ msgid ""
 msgstr ""
 "Dieses Gebäude hat eine teilweise eingeschränkte Sicht auf den Weltraum\n"
 "\n"
-"Um ordnungsgemäß zu funktionieren, benötigt dieses Gebäude eine freie Sicht auf "
-"den Weltraum\n"
+"Um auf maximaler Geschwindigkeit zu arbeiten, benötigt dieses Gebäude eine freie "
+"Sicht auf den Weltraum\n"
 "    • Effizienz: <b>{VISIBILITY}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME
@@ -6344,7 +6344,7 @@ msgstr "Ein Plakat für einen Blockbuster-Film, der nie gedreht wurde."
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_J.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_J.NAME"
 msgid "<link=\"ARTTALLJ\">Duplicants of the Galaxy</link>"
-msgstr "<link=\"ARTTALLJ\">Dups of the Galaxy</link>"
+msgstr "<link=\"ARTTALLJ\">Duplikanten of the Galaxy</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_K.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_K.DESC"
@@ -7433,8 +7433,7 @@ msgstr "Gibt keine Teilchenblitze ab"
 #. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Emit Radbolts"
-msgstr ""
-"<b><style=\"logic_on\">Grünes Signal</style></b>: Strahlt Teilchenblitze aus"
+msgstr "<b><style=\"logic_on\">Grünes Signal</style></b>: Emittiert Teilchenblitze"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_INACTIVE"
@@ -58946,7 +58945,7 @@ msgstr "Gelber-Kuchen Shorts"
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.NAME"
 msgid "Default Bottom"
-msgstr "Standard Unterteile"
+msgstr "Standard Unterteil"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.DESC"
@@ -83398,9 +83397,8 @@ msgid ""
 "<color=#F44A47FF>This save was created in the <i>Spaced Out!</i> DLC. Activate "
 "the DLC to play it</color>"
 msgstr ""
-"<color=#F44A47FF>Dieser Spielstand wurde im <i>Spaced Out!</i> DLC erzeugt und "
-"kann im Basisspiel nicht geladen werden. Aktiviere den DLC um es zu spielen.</"
-"color>"
+"<color=#F44A47FF>Dieser Spielstand wurde im <i>Spaced Out!</i> DLC erzeugt. "
+"Aktiviere den DLC um es zu spielen.</color>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_VANILLA_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_VANILLA_TOOLTIP"
@@ -83408,9 +83406,8 @@ msgid ""
 "<color=#F44A47FF>This save was created in the base game. Deactivate the "
 "<i>Spaced Out!</i> DLC to play it.</color>"
 msgstr ""
-"<color=#F44A47FF>Dieser Spielstand wurde im Basisspiel erzeugt und kann nicht im "
-"<i>Spaced Out!</i> DLC geladen werden. Deaktiviere den DLC um es zu spielen.</"
-"color>"
+"<color=#F44A47FF>Dieser Spielstand wurde im Basisspiel erzeugt. Deaktiviere den "
+"<i>Spaced Out!</i> DLC, um es zu spielen.</color>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO"
@@ -83497,8 +83494,8 @@ msgid ""
 "<b><color=#F44A47FF>This save file is from a previous version of the game and is "
 "no longer supported.</color></b>"
 msgstr ""
-"<B> <color=#F44A47FF> Diese Sicherungsdatei stammt aus einer früheren Version "
-"des Spiels und wird nicht mehr unterstützt.</color></b>"
+"<B> <color=#F44A47FF> Dieser Spielstand stammt aus einer früheren Version des "
+"Spiels und wird nicht mehr unterstützt.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP"
@@ -83506,9 +83503,9 @@ msgid ""
 "<b><color=#F44A47FF>This save file is from the base version of the game and "
 "currently cannot be loaded while <i>Spaced Out!</i> is installed.</color></b>"
 msgstr ""
-"<b><color=#F44A47FF>Diese Speicherdatei stammt aus der Basisversion des Spiels "
-"und kann derzeit nicht geladen werden, während <i>Spaced Out!</i> installiert "
-"ist.</Color></b>"
+"<b><color=#F44A47FF>Dieser Spielstand stammt aus der Basisversion des Spiels und "
+"kann derzeit nicht geladen werden, während <i>Spaced Out!</i> installiert ist.</"
+"color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT"
@@ -84442,6 +84439,7 @@ msgstr ""
 "•<indent=20px>Neues Verlagern-Tool zum Transportieren von Objekten.</indent>\n"
 "•<indent=20px>Ein seltsamer neuer Asteroid und der Puft-Schutzanzug fürs Klei "
 "Fest.</indent>\n"
+"•<indent=20px>Fehlerbehebungen und \"Quality of Life\" Verbesserungen.</indent>\n"
 "\n"
 "   Für weitere Details schau Dir die kompletten Patchnotizen an!"
 
