@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-06-14 21:59+0200\n"
+"PO-Revision-Date: 2023-06-15 20:52+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -6464,7 +6464,7 @@ msgstr "<link=\"ARTWIDEF\">Der Astronom daheim</link>"
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_G.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_G.DESC"
 msgid "For the art collector who doesn't mind a bit of repetition."
-msgstr "Für den Kunstsammler dem ein bischen Wiederholung nichts ausmacht."
+msgstr "Für den Kunstsammler dem ein bisschen Wiederholung nichts ausmacht."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_G.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_G.NAME"
@@ -8026,7 +8026,7 @@ msgstr "Es heilt nicht den Blues, sondern betont ihn etwas."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_BLUE_COBALT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_BLUE_COBALT.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Cobalt</link>"
-msgstr "<link=\"EXTERIORWALL\">Festes Kobald</link>"
+msgstr "<link=\"EXTERIORWALL\">Füllendes Kobalt</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREEN_KELLY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREEN_KELLY.DESC"
@@ -8046,7 +8046,7 @@ msgstr "Die gehobene Art von \"Grau\"."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREY_CHARCOAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREY_CHARCOAL.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Charcoal</link>"
-msgstr "<link=\"EXTERIORWALL\">Feste Holzkohle</link>"
+msgstr "<link=\"EXTERIORWALL\">Füllende Holzkohle</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.DESC"
@@ -8056,7 +8056,7 @@ msgstr "Weniger frucht-artig, aber genauso frisch."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Satsuma</link>"
-msgstr "<link=\"EXTERIORWALL\">Fester Satsuma</link>"
+msgstr "<link=\"EXTERIORWALL\">Füllendes Satsuma</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.DESC"
@@ -8066,7 +8066,7 @@ msgstr "Ein mutiges Statement, für mutige Duplikanten."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Pink</link>"
-msgstr "<link=\"EXTERIORWALL\">Festes Rosa</link>"
+msgstr "<link=\"EXTERIORWALL\">Füllendes Rosa</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_RED_DEEP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_RED_DEEP.DESC"
@@ -14396,8 +14396,8 @@ msgid ""
 "A masterful celebration of one of the universe's most mysterious - and flatulent "
 "- organisms."
 msgstr ""
-"Ein meisterliches Fest von einem im ganzen Universum höchst mysteriösen - und "
-"furzenden - Organismus."
+"Eine meisterliche Ausstellung von einem im ganzen Universum höchst mysteriösen - "
+"und furzenden - Organismus."
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_4.NAME
 msgctxt ""
@@ -14412,8 +14412,8 @@ msgid ""
 "A masterful celebration of the deep bond between a horticulturalist and her "
 "prize Bristle Blossom."
 msgstr ""
-"Ein meisterliches Fest für die tiefe Verbundenheit zwischen Gärtnern und der "
-"ausgezeichneten Dornenblüte."
+"Eine meisterliche Ausstellung für die tiefe Verbundenheit zwischen Gärtnern und "
+"der ausgezeichneten Dornenblüte."
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_5.NAME
 msgctxt ""
@@ -14761,7 +14761,7 @@ msgctxt ""
 msgid ""
 "A masterful likeness of the mischievous critter that Duplicants love to love."
 msgstr ""
-"Ein meisterhafter Ebenbild von einem schelmischen Lebewesen, dass Duplikanten "
+"Ein meisterhaftes Ebenbild von einem schelmischen Lebewesen, dass Duplikanten "
 "gerne mögen."
 
 #. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_4.NAME
@@ -18265,7 +18265,7 @@ msgid ""
 "A masterful celebration of the Sweepy's unbeatable work ethic and cheerful, can-"
 "clean attitude."
 msgstr ""
-"Eine meisterhafte Feier von Sweepy's unschlagbarer Arbeitsmoral und seiner "
+"Eine meisterhafte Austellung von Sweepy's unschlagbarer Arbeitsmoral und seiner "
 "fröhlichen, sauberen Einstellung."
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_4.NAME
@@ -32569,7 +32569,7 @@ msgstr ""
 "B083: Ernsthaft, ich habe seit dreizehn Stunden nichts gegessen. Das ist nicht "
 "lustig.\n"
 "\n"
-"B997: Ein bischen schon.\n"
+"B997: Ein bisschen schon.\n"
 "\n"
 "B577: Kommen wir bitte wieder aufs Thema?\n"
 "\n"
@@ -58364,7 +58364,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.LIMONE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.LIMONE.NAME"
 msgid "Citrus Atmo Belt"
-msgstr "Zitrus Atmo-Gürtel"
+msgstr "Zitrus Schutzgürtel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.PUFT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.PUFT.DESC"
@@ -58378,7 +58378,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.PUFT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.PUFT.NAME"
 msgid "Puft Atmo Belt"
-msgstr "Puft Atmo-Gürtel"
+msgstr "Puft Schutzgürtel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_BLUE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_BLUE.DESC"
@@ -58388,7 +58388,7 @@ msgstr "Es ist blau! Es glänzt! Es hält Schutzanzughosen fest!"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_BLUE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_BLUE.NAME"
 msgid "Blue Glitter Atmo Belt"
-msgstr "Blau glitzernder Atmo-Gürtel"
+msgstr "Blau glitzernder Schutzgürtel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_GREEN.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_GREEN.DESC"
@@ -58398,7 +58398,7 @@ msgstr "Es ist grün! Es glänzt! Es hält Schutzanzughosen fest!"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_GREEN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_GREEN.NAME"
 msgid "Green Glitter Atmo Belt"
-msgstr "Grün glitzernder Atmo-Gürtel"
+msgstr "Grün glitzernder Schutzgürtel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_LAVENDER.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_LAVENDER.DESC"
@@ -58408,7 +58408,7 @@ msgstr "Es ist violett! Es glänzt! Es hält Schutzanzughosen fest!"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_LAVENDER.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_LAVENDER.NAME"
 msgid "Violet Glitter Atmo Belt"
-msgstr "Violett glitzernder Atmo-Gürtel"
+msgstr "Violett glitzernder Schutzgürtel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_RED.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_RED.DESC"
@@ -58418,12 +58418,12 @@ msgstr "Es ist rot! Es glänzt! Es hält Schutzanzughosen fest!"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_RED.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_RED.NAME"
 msgid "Red Glitter Atmo Belt"
-msgstr "Rot glitzernder Atmo-Gürtel"
+msgstr "Rot glitzernder Schutzgürtel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.NAME"
 msgid "Default Atmo Belt"
-msgstr "Standard Atmo-Gürtel"
+msgstr "Standard Schutzgürtel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.DESC"
@@ -58512,7 +58512,7 @@ msgstr "Von Limetten inspirierte Handschuhe erhellen lebensfeindliche Umgebungen
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.LIMONE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.LIMONE.NAME"
 msgid "Citrus Atmo Gloves"
-msgstr "Zitrus Atmo-Handschuhe"
+msgstr "Zitrus Schutzhandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PUFT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PUFT.DESC"
@@ -58526,7 +58526,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PUFT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PUFT.NAME"
 msgid "Puft Atmo Gloves"
-msgstr "Puft Atmo-Handschuhe"
+msgstr "Puft Schutzhandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_BLUE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_BLUE.DESC"
@@ -58536,7 +58536,7 @@ msgstr "Funkelnde blaue Handschuhe für raue Umgebungen."
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_BLUE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_BLUE.NAME"
 msgid "Blue Glitter Atmo Gloves"
-msgstr "Blaue Glitzer-Atmo-Handschuhe"
+msgstr "Blau glitzernde Schutzhandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_GREEN.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_GREEN.DESC"
@@ -58546,7 +58546,7 @@ msgstr "Funkelnde grüne Handschuhe für raue Umgebungen."
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_GREEN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_GREEN.NAME"
 msgid "Green Glitter Atmo Gloves"
-msgstr "Grüne Glitzer-Atmo-Handschuhe"
+msgstr "Grün glitzernde Schutzhandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_LAVENDER.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_LAVENDER.DESC"
@@ -58556,7 +58556,7 @@ msgstr "Funkelnde violette Handschuhe für raue Umgebungen."
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_LAVENDER.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_LAVENDER.NAME"
 msgid "Violet Glitter Atmo Gloves"
-msgstr "Violette Glitzer-Atmo-Handschuhe"
+msgstr "Violett glitzernde Schutzhandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_RED.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_RED.DESC"
@@ -58566,12 +58566,12 @@ msgstr "Funkelnde rote Handschuhe für raue Umgebungen."
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_RED.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_RED.NAME"
 msgid "Red Glitter Atmo Gloves"
-msgstr "Rote Glitzer-Atmo-Handschuhe"
+msgstr "Rot glitzernde Schutzhandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.NAME"
 msgid "Default Atmo Gloves"
-msgstr "Standard Atmo-Handschuhe"
+msgstr "Standard Schutzhandschuhe"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.DESC"
@@ -58675,7 +58675,7 @@ msgstr "Fröhliche Stiefel zum Herumstampfen in feindlicher Umgebung."
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.LIMONE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.LIMONE.NAME"
 msgid "Citrus Atmo Boots"
-msgstr "Zitrus Atmo-Stiefel"
+msgstr "Zitrus Schutzstiefel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.PUFT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.PUFT.DESC"
@@ -58699,7 +58699,7 @@ msgstr "Eine zeitlose Farbe mit etwas Pep."
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.SPARKLE_BLACK.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.SPARKLE_BLACK.NAME"
 msgid "Black Glitter Atmo Boots"
-msgstr "Schwarze Glitzer-Schutzstiefel"
+msgstr "Schwarz glitzernde Schutzstiefel"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.NAME"
@@ -58789,7 +58789,7 @@ msgstr "Eine saubere Hose in Kaugummi-rosa, die zu allem passt."
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.BASIC_PINK_ORCHID.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.BASIC_PINK_ORCHID.NAME"
 msgid "Basic Bubblegum Pants"
-msgstr "Einfach kaugummifarbene Hose"
+msgstr "Einfache kaugummifarbene Hose"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.BASIC_PURPLE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.BASIC_PURPLE.DESC"
@@ -58933,7 +58933,7 @@ msgid ""
 "A fresh pair of uranium-powder-colored shorts that are definitely not "
 "radioactive. Probably."
 msgstr ""
-"Ein frisches Paar uranpulverfarbene Short, welche definitv nicht radioaktiv "
+"Ein frisches Paar uranpulverfarbene Shorts, welche definitv nicht radioaktiv "
 "sind. Vermutlich."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_YELLOWCAKE.NAME
@@ -59389,7 +59389,7 @@ msgstr "Atmungsaktive Socken, die so gar nichts gegen Fußgeruch tun."
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_CHARCOAL.NAME"
 msgid "Underdog Gym Socks"
-msgstr "Underdog Fitness-Socken"
+msgstr "Underdog Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_COBALT.DESC
 msgctxt ""
@@ -59401,7 +59401,7 @@ msgstr "Atmungsaktive Socken mit sportlich-blauen Streifen."
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_COBALT.NAME"
 msgid "True Blue Gym Socks"
-msgstr "Echt blaue Fitness-Socken"
+msgstr "Echt blaue Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_DEEPRED.DESC
 msgctxt ""
@@ -59413,7 +59413,7 @@ msgstr "Atmungsaktive Socken mit sportlich-roten Streifen."
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_DEEPRED.NAME"
 msgid "Team Captain Gym Socks"
-msgstr "Mannschaftskapitän-Fitness-Socken"
+msgstr "Mannschaftskapitän Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_FLAMINGO.DESC
 msgctxt ""
@@ -59438,7 +59438,7 @@ msgstr "Atmungsaktive Socken mit sportlich-grünen Streifen."
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_KELLYGREEN.NAME"
 msgid "Go Team Gym Socks"
-msgstr "Los TeamFitnesssocken"
+msgstr "Los Team Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_LEMON.DESC
 msgctxt ""
@@ -59463,7 +59463,7 @@ msgstr "Atmungsaktive Socken mit sportlich-orangen Streifen."
 msgctxt ""
 "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_SATSUMA.NAME"
 msgid "Superfan Gym Socks"
-msgstr "Superfan Fitnesssocken"
+msgstr "Super-Fan Fitnesssocken"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.NAME"
@@ -59745,7 +59745,7 @@ msgstr "Ein leicht verschwitztes T-Shirt für den langjährigen Unterstützer."
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_SATSUMA.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_SATSUMA.NAME"
 msgid "Superfan T-shirt"
-msgstr "Superfan T-Shirt"
+msgstr "Super-Fan T-Shirt"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.TSHIRT_MAGENTA.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.TSHIRT_MAGENTA.DESC"
@@ -86625,7 +86625,7 @@ msgstr "Schutzanzughelme"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_SHOES
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_SHOES"
 msgid "Atmo Boots"
-msgstr "Schutzanzugschuhe"
+msgstr "Schutzanzugstiefel"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMOSUITS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMOSUITS"
@@ -88645,32 +88645,32 @@ msgstr "Rennoutfit"
 #. STRINGS.UI.OUTFITS.ATMOSUIT_LIMONE.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_LIMONE.NAME"
 msgid "Citrus Atmo Outfit"
-msgstr "Zitrus Atmo-Outfit"
+msgstr "Zitrus Schutzanzug-Outfit"
 
 #. STRINGS.UI.OUTFITS.ATMOSUIT_PUFT.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_PUFT.NAME"
 msgid "Puft Atmo Outfit"
-msgstr "Puft Atmo-Outfit"
+msgstr "Puft Schutzanzug-Outfit"
 
 #. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_BLUE.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_BLUE.NAME"
 msgid "Blue Glitter Atmo Outfit"
-msgstr "Blaues Glitzer-Atmo-Outfit"
+msgstr "Blau glitzerndes Schutzanzug-Outfit"
 
 #. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_GREEN.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_GREEN.NAME"
 msgid "Green Glitter Atmo Outfit"
-msgstr "Grünes Glitzer-Atmo-Outfit"
+msgstr "Grün glitzerndes Schutzanzug-Outfit"
 
 #. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_LAVENDER.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_LAVENDER.NAME"
 msgid "Violet Glitter Atmo Outfit"
-msgstr "Violettes Glitzer-Atmo-Outfit"
+msgstr "Violett glitzerndes Schutzanzug-Outfit"
 
 #. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_RED.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_RED.NAME"
 msgid "Red Glitter Atmo Outfit"
-msgstr "Rotes Glitzer-Atmo-Outfit"
+msgstr "Rot glitzerndes Schutzanzug-Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_AQUA.NAME
 msgctxt "STRINGS.UI.OUTFITS.BASIC_AQUA.NAME"
@@ -88742,7 +88742,7 @@ msgstr "Einfaches rotes Outfit"
 #. STRINGS.UI.OUTFITS.BASIC_SATSUMA.NAME
 msgctxt "STRINGS.UI.OUTFITS.BASIC_SATSUMA.NAME"
 msgid "Superfan Outfit"
-msgstr "Superfan Outfit"
+msgstr "Super-Fan Outfit"
 
 #. STRINGS.UI.OUTFITS.BASIC_WHITE.NAME
 msgctxt "STRINGS.UI.OUTFITS.BASIC_WHITE.NAME"
@@ -104005,10 +104005,11 @@ msgid ""
 "I'll need to recalibrate my approach to colony-building in order to make the "
 "most of this unusual distribution of resources."
 msgstr ""
-"Dieser Asteroid ist seltsam geneigt, als ob eine starke äußere Kraft ihn einst "
-"aus seiner Achse gestoßen hätte.\n"
-"Ich muss mein Herangehen an den Aufbau von Kolonien neu kalibrieren, um das "
-"Beste aus dieser ungewöhnlichen Ressourcenverteilung herauszuholen."
+"Dieser Asteroid ist seltsam gekippt, als ob ihn eine starke äußere Kraft einst "
+"aus seiner Achse gehauen hätte.\n"
+"\n"
+"Ich muss mein Herangehen an den Kollonieaufbau neu ausrichten, um das Beste aus "
+"dieser ungewöhnlichen Ressourcenverteilung herauszuholen."
 
 #. STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT"
