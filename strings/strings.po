@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-07-31 20:50+0200\n"
+"PO-Revision-Date: 2023-07-31 20:57+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Application: Oxygen Not Included\n"
 "POT Version: 2.0\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -18561,7 +18561,7 @@ msgstr "<link=\"SCULPTUREAMAZING3\">Vor der Schlacht</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.DESC"
 msgid "A masterful portrayal of a gentle, plant-tending critter."
-msgstr "Ein meisterhaftes Porträt eines sanftmütigen, planzen-hütenden Tiers."
+msgstr "Ein meisterhaftes Porträt eines sanftmütigen, pflanzen-hütenden Tiers."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.NAME"
