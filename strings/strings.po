@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-11-13 19:28+0100\n"
+"PO-Revision-Date: 2026-11-18 09:11+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -31555,13 +31555,16 @@ msgstr "Eine tiefe Verbeugung"
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SHELL_SIMPLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SHELL_SIMPLE.DESC"
-msgid "sandsculpture_shell_simple desc."
+msgid ""
+"A series of artfully arranged aquatic shapes dreamed up by a happy Duplicant."
 msgstr ""
+"Eine Reihe kunstvoll angeordneter, wasserartiger Formen, die sich ein "
+"glücklicher Duplikant ausgedacht hat."
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SHELL_SIMPLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SHELL_SIMPLE.NAME"
-msgid "sandsculpture_shell_simple name"
-msgstr ""
+msgid "Shell-ebrate"
+msgstr "Muschelfeier"
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SNOWMAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SNOWMAN.DESC"
@@ -31577,33 +31580,45 @@ msgstr "Der Sandmann"
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SOFTSERVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SOFTSERVE.DESC"
-msgid "sandsculpture_softserve desc"
+msgid ""
+"Something about the way this sand has been sculpted makes Duplicants' mouths "
+"water."
 msgstr ""
+"Irgendetwas an der Art, wie dieser Sand geformt wurde, lässt Duplikanten das "
+"Wasser im Mund zusammenlaufen."
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SOFTSERVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_SOFTSERVE.NAME"
-msgid "sandsculpture_softserve name"
-msgstr ""
+msgid "Sweet Stuff"
+msgstr "Süssigkeiten"
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_STARFISH_SIMPLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_STARFISH_SIMPLE.DESC"
-msgid "sandsculpture_starfish_simple desc"
+msgid ""
+"The sculptor declined to include the critter's sixth limb, citing artistic "
+"liberty."
 msgstr ""
+"Der Bildhauer lehnte es ab, das sechste Gliedmaß des Geschöpfes einzubeziehen, "
+"und berief sich dabei auf die künstlerische Freiheit."
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_STARFISH_SIMPLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_STARFISH_SIMPLE.NAME"
-msgid "sandsculpture_starfish_simple name"
-msgstr ""
+msgid "Five-Pointed Starnacle"
+msgstr "Fünfarmiger Seestern"
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_TOMBSTONE_SIMPLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_TOMBSTONE_SIMPLE.DESC"
-msgid "sandsculpture_tombstone_simple desc"
+msgid ""
+"Celebrates a possible future reunion between the sculptor and their long-"
+"departed friend."
 msgstr ""
+"Feiert ein mögliches zukünftiges Wiedersehen zwischen dem Bildhauer und seinem "
+"längst fortgegangenen Freund."
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_TOMBSTONE_SIMPLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.FACADES.SANDSCULPTURE_TOMBSTONE_SIMPLE.NAME"
-msgid "sandsculpture_tombstone_simple name"
-msgstr ""
+msgid "Welcome Back"
+msgstr "Willkommen zurück"
 
 #. STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SANDBOXBUILDING.NAME"
@@ -35097,14 +35112,14 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WOODGASGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WOODGASGENERATOR.EFFECT"
 msgid ""
-"Burns <link=\"WOOD\">Wood</link> to produce electrical <link=\"POWER\">Power</"
-"link>.\n"
+"Burns <link=\"BUILDINGWOOD\">Lumber</link> to produce electrical "
+"<link=\"POWER\">Power</link>.\n"
 "\n"
 "Produces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and <link=\"HEAT\">Heat</"
 "link>."
 msgstr ""
-"Verbrennt <link=\"WOOD\">Holz</link>, um elektrische <link=\"POWER\">Energie</"
-"link> zu erzeugen.\n"
+"Verbrennt <link=\"BUILDINGWOOD\">Holz</link>, um elektrische "
+"<link=\"POWER\">Energie</link> zu erzeugen.\n"
 "\n"
 "Produziert <link=\"CARBONDIOXIDE\">Kohlendioxid</link> und <link=\"HEAT\">Wärme</"
 "link>."
