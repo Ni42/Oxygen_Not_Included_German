@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-11-27 00:03+0100\n"
+"PO-Revision-Date: 2026-11-27 00:07+0100\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -130858,6 +130858,12 @@ msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION"
 msgid "Part of {Collection} collection."
 msgstr "Teil der {Collection}-Sammlung."
 
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_CLICK_HERE
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_CLICK_HERE"
+msgid "Click <link=\"PURCHASELINK\">here</link> to view this DLC in the store."
+msgstr ""
+"<link=\"PURCHASELINK\">Hier</link> klicken, um diesen DLC im Shop anzusehen."
+
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_COMING_SOON
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_COMING_SOON"
 msgid "Part of {Collection} collection. Coming soon!"
@@ -130867,6 +130873,11 @@ msgstr "Teil der {Collection}-Sammlung. Demnächst verfügbar!"
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_COMING_SOON_THE"
 msgid "Part of the {Collection} collection. Coming soon!"
 msgstr "Teil der {Collection}-Sammlung. Demnächst verfügbar!"
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_FREE
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_FREE"
+msgid "Free gift from the {Collection} collection."
+msgstr "Kostenloses Geschenk aus der {Collection}-Kollektion."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_THE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_THE"
@@ -149202,6 +149213,11 @@ msgstr "Riss geschlossen"
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.BUTTON_LABEL"
 msgid "Enter Temporal Tear"
 msgstr "Betritt temporalen Zeitriss"
+
+#. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.BUTTON_NO_DUPLICANTS
+msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.BUTTON_NO_DUPLICANTS"
+msgid "No duplicants. Requires at least one Dupe on board"
+msgstr "Keine Duplikanten. Erfordert mindestens einen Duplikanten an Bord"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.BUTTON_OPEN
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPORALTEARSIDESCREEN.BUTTON_OPEN"
